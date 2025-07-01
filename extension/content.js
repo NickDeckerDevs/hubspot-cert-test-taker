@@ -333,16 +333,26 @@
     
     // Answer highlighting
     function highlightCorrectAnswer(questionElement, answer) {
+        console.group(`🎯 [Q&A] Highlighting Answer: "${answer}"`);
+        
         const answerCandidates = findAnswerCandidates(questionElement, answer);
+        console.log(`Found ${answerCandidates.length} answer candidates to check`);
         
         for (const candidate of answerCandidates) {
-            if (isAnswerMatch(candidate.element, answer)) {
-                highlightElement(candidate.element, 'correct-answer');
-                log(`Highlighted correct answer: ${candidate.element.textContent.substring(0, 50)}...`);
+            const isMatch = isAnswerMatch(candidate.element, answer);
+            console.log(`Checking candidate: "${candidate.text}" - Match: ${isMatch ? '✅' : '❌'}`);
+            
+            if (isMatch) {
+                const highlightedElement = highlightAnswerElement(candidate.element);
+                console.log(`✅ Successfully highlighted answer: "${candidate.text}"`);
+                console.log(`Highlighted element:`, highlightedElement);
+                console.groupEnd();
                 return true;
             }
         }
         
+        console.log(`❌ No matching answer found for: "${answer}"`);
+        console.groupEnd();
         return false;
     }
     
@@ -422,24 +432,38 @@
         return similarity >= CONFIG.partialMatchThreshold;
     }
     
-    function highlightElement(element, className) {
-        // Remove any existing highlights
-        element.classList.remove('qa-highlight-correct', 'qa-highlight-question');
+    function highlightAnswerElement(textElement) {
+        // Find the appropriate parent container using closest()
+        const answerContainer = textElement.closest([
+            '.SelectableBox__StyledInnerBox-p3ixlm-1', // HubSpot specific
+            '[class*="SelectableBox"]',
+            '[class*="option"]',
+            '[class*="choice"]',
+            '[class*="answer"]',
+            'li',
+            'label',
+            'div'
+        ].join(','));
         
-        // Add new highlight
-        element.classList.add(`qa-highlight-${className}`);
+        const targetElement = answerContainer || textElement;
         
-        // Apply inline styles as backup
-        const originalStyle = element.style.cssText;
-        element.style.border = `${CONFIG.highlightWidth} solid ${CONFIG.highlightColor}`;
-        element.style.borderRadius = '4px';
-        element.style.backgroundColor = 'rgba(0, 255, 0, 0.1)';
+        console.log(`🎨 [Q&A] Highlighting answer element:`, targetElement);
         
+        // Store original styles
+        const originalStyle = targetElement.style.cssText;
+        
+        // Apply green background highlighting (50% opacity)
+        targetElement.style.backgroundColor = 'rgba(0, 255, 0, 0.5)';
+        targetElement.style.transition = 'background-color 0.3s ease';
+        
+        // Store for cleanup
         highlightedElements.push({
-            element,
+            element: targetElement,
             originalStyle,
-            className
+            className: 'answer-highlight'
         });
+        
+        return targetElement;
     }
     
     // Main processing function
@@ -492,13 +516,7 @@
             logSchemaSearch(questionText, match);
             
             if (match) {
-                // Highlight the question
-                highlightElement(questionElement, 'question');
-                
-                // Find and highlight the correct answer
-                const candidates = findAnswerCandidates(questionElement, match.qa.answer);
-                logAnswerSearch(questionElement, match.qa.answer, candidates);
-                
+                // Only highlight the correct answer (no question highlighting)
                 const answerHighlighted = highlightCorrectAnswer(questionElement, match.qa.answer);
                 
                 if (answerHighlighted) {
@@ -582,12 +600,20 @@
     
     // Clean up function
     function clearHighlights() {
+        console.log(`🧹 [Q&A] Clearing ${highlightedElements.length} highlighted elements`);
+        
         for (const highlighted of highlightedElements) {
+            // Restore original styles
             highlighted.element.style.cssText = highlighted.originalStyle;
-            highlighted.element.classList.remove(`qa-highlight-${highlighted.className}`);
+            
+            // Remove any highlight classes that might have been added
+            highlighted.element.classList.remove('qa-highlight-correct', 'qa-highlight-question', 'qa-highlight-answer');
         }
+        
         highlightedElements = [];
         processedQuestions.clear();
+        
+        console.log(`✅ [Q&A] All highlights cleared`);
     }
     
     // Monitor for "Next" button clicks and page changes in HubSpot Academy
