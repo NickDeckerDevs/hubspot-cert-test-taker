@@ -157,26 +157,40 @@ class WebScraper:
                     logger.error(f"Error with selector {selector}: {e}")
                     continue
         
-        # Process found questions
+        # Process found questions - each <li> contains an <a> tag with the question and its URL
         for i, element in enumerate(question_elements):
             try:
-                # Extract question text
+                # Extract question text and URL
                 if isinstance(element, dict) and element.get('is_text_question'):
                     question_text = element['text']
+                    question_url = listing_url  # Fallback for text-only questions
                 else:
-                    question_text = element.get_text(strip=True) if hasattr(element, 'get_text') else str(element)
+                    # This is a BeautifulSoup element (likely an <li>)
+                    # Look for <a> tag within the <li>
+                    link_element = element.find('a')
+                    if link_element:
+                        question_text = link_element.get_text(strip=True)
+                        question_url = link_element.get('href', '')
+                        
+                        # Make URL absolute if it's relative
+                        if question_url and not question_url.startswith('http'):
+                            from urllib.parse import urljoin
+                            question_url = urljoin(listing_url, question_url)
+                    else:
+                        # Fallback to element text
+                        question_text = element.get_text(strip=True) if hasattr(element, 'get_text') else str(element)
+                        question_url = listing_url
                 
                 if not question_text or len(question_text) < 10:
                     continue
                 
-                # For this specific site, the questions and answers are on the same page
-                # We'll use the current URL as the link and extract answers from the same page
+                # Store the individual question URL where the answer can be found
                 questions.append({
                     'question': question_text,
-                    'link': listing_url,  # Same page contains the answers
+                    'link': question_url,  # Individual page URL for this specific question
                     'scraped_from': listing_url,
-                    'element_index': i,  # Track which element this was for answer extraction
-                    'element_tag': element.get('name', 'text') if hasattr(element, 'get') else 'text'
+                    'element_index': i,
+                    'element_tag': element.get('name', 'li') if hasattr(element, 'get') else 'text'
                 })
                     
             except Exception as e:
@@ -314,13 +328,7 @@ class WebScraper:
         # Scrape questions from listing page
         questions = self.scrape_questions_listing(listing_url)
         
-        # Since all questions are on the same page, fetch it once and extract answers
-        soup = self.get_page_content(listing_url)
-        if not soup:
-            logger.error("Failed to fetch main page for answer extraction")
-            return {'error': 'Failed to fetch page'}
-        
-        # Scrape answers for each question
+        # Scrape answers for each question from their individual pages
         course_data = {
             'course_name': course_name,
             'listing_url': listing_url,
@@ -329,12 +337,26 @@ class WebScraper:
             'questions': []
         }
         
-        # Extract answers from the same page using the cached content
+        # Extract answers from individual question pages
         for i, question_data in enumerate(questions, 1):
             logger.info(f"Processing question {i}/{len(questions)}: {question_data['question'][:50]}...")
             
-            # Extract answer from the same page content
-            answer_data = self._extract_answer_from_page(soup, question_data, listing_url)
+            # Get the individual question page
+            question_url = question_data['link']
+            question_soup = self.get_page_content(question_url)
+            
+            if question_soup:
+                # Extract answer from the individual question page
+                answer_data = self._extract_answer_from_page(question_soup, question_data, question_url)
+            else:
+                logger.warning(f"Failed to fetch individual question page: {question_url}")
+                answer_data = {
+                    'url': question_url,
+                    'text_content': "Failed to fetch page",
+                    'structured_content': "Failed to fetch page",
+                    'options': [],
+                    'extraction_method': 'fetch_error'
+                }
             
             # Combine question and answer data
             complete_qa = {
@@ -346,6 +368,9 @@ class WebScraper:
             }
             
             course_data['questions'].append(complete_qa)
+            
+            # Add delay between requests to be respectful
+            time.sleep(self.delay)
         
         logger.info(f"Completed scraping {len(questions)} questions for {course_name}")
         return course_data
