@@ -120,8 +120,19 @@
     // Question detection
     function findQuestionElements() {
         const questionSelectors = [
+            // HubSpot Academy specific selectors
+            '[data-test-id*="question"]',
+            '[data-testid*="question"]',
             '[class*="question"]',
             '[id*="question"]',
+            // Generic exam platform selectors
+            '[class*="quiz"]',
+            '[class*="assessment"]',
+            '[class*="exam"]',
+            '[role="group"]',
+            '[role="radiogroup"]',
+            '[role="checkbox"]',
+            // Content-based selectors for question text
             'div:contains("?")',
             'p:contains("?")',
             'h1:contains("?")',
@@ -129,9 +140,8 @@
             'h3:contains("?")',
             'h4:contains("?")',
             'li:contains("?")',
-            '[class*="quiz"]',
-            '[class*="assessment"]',
-            '[class*="exam"]'
+            'label:contains("?")',
+            'span:contains("?")'
         ];
         
         const questionElements = [];
@@ -193,17 +203,31 @@
         // Get question position
         const questionRect = questionElement.getBoundingClientRect();
         
-        // Find potential answer elements
+        // Find potential answer elements - enhanced for HubSpot Academy
         const answerSelectors = [
+            // Form elements
             'input[type="radio"]',
             'input[type="checkbox"]',
             'label',
             'button',
+            // HubSpot Academy specific
+            '[data-test-id*="option"]',
+            '[data-testid*="option"]',
+            '[data-test-id*="choice"]',
+            '[data-testid*="choice"]',
+            '[data-test-id*="answer"]',
+            '[data-testid*="answer"]',
+            // Generic class-based selectors
             '[class*="option"]',
             '[class*="choice"]',
             '[class*="answer"]',
+            '[class*="radio"]',
+            '[class*="checkbox"]',
+            // Content containers
             'li',
-            'div'
+            'div',
+            'span',
+            'p'
         ];
         
         const allElements = document.querySelectorAll(answerSelectors.join(','));

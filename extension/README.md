@@ -18,8 +18,9 @@ This Chrome extension highlights correct answers on certification course pages b
 3. The extension will store the schema locally
 
 ### Step 2: Navigate to Course Page
-1. Go to a certification course page (e.g., https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/)
-2. The extension will automatically try to detect questions
+1. Go to the HubSpot Academy exam page: https://app.hubspot.com/academy/171726/tracks/9108789/exam
+2. Make sure you're logged into HubSpot Academy
+3. The extension will automatically try to detect questions on the exam page
 
 ### Step 3: Process the Page
 1. Click the extension icon
@@ -62,10 +63,11 @@ The extension expects JSON schema files with this structure:
 
 ## Testing
 
-1. Use the provided `test_schema.json` for testing
-2. Navigate to the HubSpot Growth Driven Design answers page
-3. Upload the test schema and process the page
-4. You should see questions highlighted in blue and any matching answers in green
+1. Use the provided `hubspot_academy_gdd_exam.json` schema file for testing
+2. Navigate to: https://app.hubspot.com/academy/171726/tracks/9108789/exam (requires HubSpot Academy login)
+3. Upload the schema through the extension popup
+4. Click "Process Page" and watch for questions highlighted in blue and correct answers in green
+5. The extension will show the number of questions found and answers highlighted in the popup
 
 ## Troubleshooting
 

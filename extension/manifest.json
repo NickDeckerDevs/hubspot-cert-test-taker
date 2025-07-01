@@ -12,6 +12,7 @@
   
   "host_permissions": [
     "https://academy.hubspot.com/*",
+    "https://app.hubspot.com/*",
     "https://skillshop.withgoogle.com/*",
     "https://www.facebookblueprint.com/*",
     "https://www.gcertificationcourse.com/*",
@@ -26,6 +27,7 @@
     {
       "matches": [
         "https://academy.hubspot.com/*",
+        "https://app.hubspot.com/academy/*",
         "https://skillshop.withgoogle.com/*",
         "https://www.facebookblueprint.com/*",
         "https://www.gcertificationcourse.com/*"

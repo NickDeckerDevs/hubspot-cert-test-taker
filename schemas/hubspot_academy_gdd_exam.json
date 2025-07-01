@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-01T15:00:00.000000",
+  "course_info": {
+    "name": "HubSpot Growth Driven Design Certification",
+    "source_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+    "exam_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+    "total_questions": 60,
+    "scraped_date": "2025-07-01 15:00:00",
+    "platform": "HubSpot Academy"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What primary challenge(s) exist with the traditional web design process?",
+      "answer": "It takes too long, costs too much, and is too risky",
+      "source_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+      "matching_keywords": [
+        "traditional",
+        "web",
+        "design",
+        "process",
+        "challenge",
+        "primary",
+        "exist"
+      ],
+      "answer_options": [
+        "It takes too long, costs too much, and is too risky",
+        "It is not collaborative enough",
+        "It requires too many people",
+        "All of the above"
+      ],
+      "metadata": {
+        "exam_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+        "has_multiple_choice": true,
+        "question_type": "multiple_choice"
+      }
+    },
+    {
+      "id": 2,
+      "question": "What are the three stages of Growth-Driven Design?",
+      "answer": "Strategy, Launch Pad, Continuous Improvement",
+      "source_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+      "matching_keywords": [
+        "three",
+        "stages",
+        "growth",
+        "driven",
+        "design"
+      ],
+      "answer_options": [
+        "Strategy, Launch Pad, Continuous Improvement",
+        "Planning, Development, Testing",
+        "Research, Design, Launch",
+        "Strategy, Development, Optimization"
+      ],
+      "metadata": {
+        "exam_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+        "has_multiple_choice": true,
+        "question_type": "multiple_choice"
+      }
+    },
+    {
+      "id": 3,
+      "question": "True or false? You can skip the strategy stage and move right to building the launch pad if you have a senior team member who has been working at the company for a while because they will already know what should be built on the website.",
+      "answer": "False",
+      "source_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+      "matching_keywords": [
+        "true",
+        "false",
+        "skip",
+        "strategy",
+        "stage",
+        "launch",
+        "pad",
+        "senior",
+        "team"
+      ],
+      "answer_options": [
+        "True",
+        "False"
+      ],
+      "metadata": {
+        "exam_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+        "has_multiple_choice": true,
+        "question_type": "true_false"
+      }
+    },
+    {
+      "id": 4,
+      "question": "Which statement best describes the purpose of the strategy stage?",
+      "answer": "To get to know your users, understand their behavior, and drive smart business decisions",
+      "source_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+      "matching_keywords": [
+        "statement",
+        "best",
+        "describes",
+        "purpose",
+        "strategy",
+        "stage"
+      ],
+      "answer_options": [
+        "To get to know your users, understand their behavior, and drive smart business decisions",
+        "To create a beautiful website design",
+        "To build the website as quickly as possible",
+        "To implement the latest web technologies"
+      ],
+      "metadata": {
+        "exam_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+        "has_multiple_choice": true,
+        "question_type": "multiple_choice"
+      }
+    },
+    {
+      "id": 5,
+      "question": "Fill in the blank: The primary goal of the continuous improvement stage is to _______.",
+      "answer": "improve website performance based on data",
+      "source_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+      "matching_keywords": [
+        "fill",
+        "blank",
+        "primary",
+        "goal",
+        "continuous",
+        "improvement",
+        "stage"
+      ],
+      "answer_options": [
+        "improve website performance based on data",
+        "add more features to the website",
+        "redesign the website completely",
+        "increase website traffic"
+      ],
+      "metadata": {
+        "exam_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+        "has_multiple_choice": true,
+        "question_type": "fill_in_blank"
+      }
+    }
+  ]
+}
