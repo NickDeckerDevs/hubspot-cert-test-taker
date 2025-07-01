@@ -5,7 +5,7 @@
     "name": "HubSpot Growth Driven Design Certification",
     "exam_id": "9108789",
     "source_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
-    "total_questions": 60,
+    "total_questions": 69,
     "platform": "HubSpot Academy"
   },
   "questions": [
@@ -162,6 +162,230 @@
         "costs less, looks better, loads faster",
         "uses new technology, follows trends, impresses users",
         "saves time, reduces effort, increases profits"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT a way to create remarkable content?",
+      "answer": "Focusing on your business and what you want to promote",
+      "matching_keywords": [
+        "not",
+        "way",
+        "create",
+        "remarkable",
+        "content"
+      ],
+      "answer_options": [
+        "Focusing on your business and what you want to promote",
+        "Creating content that educates your audience",
+        "Creating content that entertains your audience",
+        "Creating content that inspires your audience"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is the difference between Growth-Driven Design and traditional web design?",
+      "answer": "Growth-Driven Design is a continuous process, while traditional web design is a one-time project",
+      "matching_keywords": [
+        "difference",
+        "growth",
+        "driven",
+        "design",
+        "traditional",
+        "web",
+        "design"
+      ],
+      "answer_options": [
+        "Growth-Driven Design is a continuous process, while traditional web design is a one-time project",
+        "Growth-Driven Design costs more than traditional web design",
+        "Growth-Driven Design requires more people than traditional web design",
+        "Growth-Driven Design is only for large companies"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What is a launch pad website?",
+      "answer": "A website that is built quickly with the most important elements and is designed to be improved over time",
+      "matching_keywords": [
+        "launch",
+        "pad",
+        "website"
+      ],
+      "answer_options": [
+        "A website that is built quickly with the most important elements and is designed to be improved over time",
+        "A website that launches your business into space",
+        "A website that only contains landing pages",
+        "A website that is designed to be replaced every year"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "True or false? You should build your launch pad website to be perfect.",
+      "answer": "False",
+      "matching_keywords": [
+        "true",
+        "false",
+        "build",
+        "launch",
+        "pad",
+        "website",
+        "perfect"
+      ],
+      "answer_options": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "What is the primary benefit of using Growth-Driven Design over traditional web design?",
+      "answer": "Faster time to value and reduced risk",
+      "matching_keywords": [
+        "primary",
+        "benefit",
+        "growth",
+        "driven",
+        "design",
+        "traditional",
+        "web",
+        "design"
+      ],
+      "answer_options": [
+        "Faster time to value and reduced risk",
+        "Lower cost",
+        "Better looking websites",
+        "More features"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "In the continuous improvement stage, what should you focus on first?",
+      "answer": "Pages that have the highest impact on your business goals",
+      "matching_keywords": [
+        "continuous",
+        "improvement",
+        "stage",
+        "focus",
+        "first"
+      ],
+      "answer_options": [
+        "Pages that have the highest impact on your business goals",
+        "Pages that look the worst",
+        "Pages that are easiest to fix",
+        "Pages that have the most traffic"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "What is a user research method that involves watching users interact with your website?",
+      "answer": "User testing",
+      "matching_keywords": [
+        "user",
+        "research",
+        "method",
+        "watching",
+        "users",
+        "interact",
+        "website"
+      ],
+      "answer_options": [
+        "User testing",
+        "Surveys",
+        "Analytics",
+        "Heat mapping"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "True or false? Growth-Driven Design is only for websites.",
+      "answer": "False",
+      "matching_keywords": [
+        "true",
+        "false",
+        "growth",
+        "driven",
+        "design",
+        "only",
+        "websites"
+      ],
+      "answer_options": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "What should you do if your launch pad website isn't performing as expected?",
+      "answer": "Use data to identify problems and make improvements",
+      "matching_keywords": [
+        "launch",
+        "pad",
+        "website",
+        "performing",
+        "expected"
+      ],
+      "answer_options": [
+        "Use data to identify problems and make improvements",
+        "Start over with a completely new design",
+        "Add more features",
+        "Hire a new designer"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Which of the following best describes the relationship between Growth-Driven Design and inbound marketing?",
+      "answer": "Growth-Driven Design supports inbound marketing by creating a website that converts visitors into leads",
+      "matching_keywords": [
+        "relationship",
+        "growth",
+        "driven",
+        "design",
+        "inbound",
+        "marketing"
+      ],
+      "answer_options": [
+        "Growth-Driven Design supports inbound marketing by creating a website that converts visitors into leads",
+        "Growth-Driven Design replaces inbound marketing",
+        "Growth-Driven Design and inbound marketing are completely separate",
+        "Growth-Driven Design is a type of inbound marketing"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "What is the main goal of the strategy stage in Growth-Driven Design?",
+      "answer": "To understand your users and set clear goals for your website",
+      "matching_keywords": [
+        "main",
+        "goal",
+        "strategy",
+        "stage",
+        "growth",
+        "driven",
+        "design"
+      ],
+      "answer_options": [
+        "To understand your users and set clear goals for your website",
+        "To design the perfect website",
+        "To build the website as quickly as possible",
+        "To choose the best technology"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "True or false? You should always redesign your entire website every few years.",
+      "answer": "False",
+      "matching_keywords": [
+        "true",
+        "false",
+        "redesign",
+        "entire",
+        "website",
+        "few",
+        "years"
+      ],
+      "answer_options": [
+        "True",
+        "False"
       ]
     }
   ]
