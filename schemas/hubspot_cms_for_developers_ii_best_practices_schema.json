@@ -1,0 +1,546 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-01T14:35:59.892036",
+  "course_info": {
+    "name": "HubSpot CMS for Developers II: Best Practices",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-cms-for-developers-ii-answers/",
+    "total_questions": 89,
+    "scraped_date": "2025-07-01 14:32:35"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Creating a form that can be completed and submitted using the keyboard only adheres to which WCAG principle?",
+      "answer": "Operability",
+      "source_url": "https://www.gcertificationcourse.com/creating-a-form-that-can-be-completed-and/"
+    },
+    {
+      "id": 2,
+      "question": "Creating a user interface that is consistent across pages adheres to which WCAG principle?",
+      "answer": "Understandability",
+      "source_url": "https://www.gcertificationcourse.com/creating-a-user-interface-that-is-consistent/"
+    },
+    {
+      "id": 3,
+      "question": "To make it easier for individuals using assistive technology to navigate your page, use _________ to organize the page's content.",
+      "answer": "landmarks",
+      "source_url": "https://www.gcertificationcourse.com/to-make-it-easier-for-individuals-using/"
+    },
+    {
+      "id": 4,
+      "question": "Fill in the blank: Use a _________ class to hide elements visually while keeping them accessible to screen readers.",
+      "answer": "sr-only",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-use-a-class-to-hide-elements/"
+    },
+    {
+      "id": 5,
+      "question": "The WCAG are broadly divided into four principles. Which of the following is NOT one of those principles?",
+      "answer": "Comprehensible",
+      "source_url": "https://www.gcertificationcourse.com/the-wcag-are-broadly-divided-into-four/"
+    },
+    {
+      "id": 6,
+      "question": "True or false? Every <img> element should have alternative text.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-every-element-should-have/"
+    },
+    {
+      "id": 7,
+      "question": "True or false? If your website doesn't have automatically detectable accessibility issues, it might still have accessibility barriers.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-your-website-doesnt-have/"
+    },
+    {
+      "id": 8,
+      "question": "Select all that apply. What are some web accessibility best practices you should account for near the beginning of a project?",
+      "answer": "Creating large enough clickable areas in prototypes",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-some-web/"
+    },
+    {
+      "id": 9,
+      "question": "Select all that apply. When performing manual keyboard testing on your page, what should you check for?",
+      "answer": "That the appropriate elements receive focus",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-when-performing-manual/"
+    },
+    {
+      "id": 10,
+      "question": "Select all that apply. Which of the following are HTML semantic elements?",
+      "answer": "main",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-16/"
+    },
+    {
+      "id": 11,
+      "question": "Select all that apply. Which of the following is an example of a web accessibility optimization that also benefits most of your users?",
+      "answer": "Using sufficient color contrast between foreground text and the background",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-17/"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is NOT a common accessibility error found on web pages?",
+      "answer": "Missing h4 elements",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-common/"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is NOT a web accessibility best practice?",
+      "answer": "Removing the outline from focused elements using CSS",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-web-accessibility/"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is NOT an element of manual accessibility testing?",
+      "answer": "Using a browser extension to audit your page",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-element-2/"
+    },
+    {
+      "id": 15,
+      "question": "Select all that apply. Which of the following make page navigation more efficient for those using assistive technology?",
+      "answer": "A skip to content link",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-15/"
+    },
+    {
+      "id": 16,
+      "question": "Writing valid HTML adheres to which WCAG principle?",
+      "answer": "Robustness",
+      "source_url": "https://www.gcertificationcourse.com/writing-valid-html-adheres-to-which-wcag/"
+    },
+    {
+      "id": 17,
+      "question": "Consider this scenario: You are loading a script (script 1) on your page which two other scripts rely on to function (scripts 2 and 3). All of these scripts can be safely executed after construction of the DOM. Which of the following approaches would work when loading these scripts? Select all that apply.",
+      "answer": "Load script 1 normally (without an async or defer) attribute and load scripts 2 and 3 with the defer attribute.",
+      "source_url": "https://www.gcertificationcourse.com/consider-this-scenario-you-are-loading/"
+    },
+    {
+      "id": 18,
+      "question": "Fill in the blank: _____________ refers to how long it takes the browser to take your site's files and paint the pixels to the page.",
+      "answer": "Rendering performance",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-refers-to-how-long-it-takes/"
+    },
+    {
+      "id": 19,
+      "question": "Fill in the blank: Adding width and height attributes to images helps reduce _________________.",
+      "answer": "Cumulative Layout Shift",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-adding-width-and-height/"
+    },
+    {
+      "id": 20,
+      "question": "The ____________ is the browser's representation of the page's styles.",
+      "answer": "CSSOM",
+      "source_url": "https://www.gcertificationcourse.com/the-is-the-browsers-representation-of-the/"
+    },
+    {
+      "id": 21,
+      "question": "Fill in the blank: The ___________ is a combination of both the DOM and CSSOM.",
+      "answer": "render tree",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-is-a-combination-of-both/"
+    },
+    {
+      "id": 22,
+      "question": "Fill in the blank. Defer loading of non-critical CSS by adding ______ as an argument in your require_css function call.",
+      "answer": "{ async: true }",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-defer-loading-of-non-critical/"
+    },
+    {
+      "id": 23,
+      "question": "Fill in the blank. Many browsers support native image lazy-loading using the _________ attribute.",
+      "answer": "loading",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-many-browsers-support/"
+    },
+    {
+      "id": 24,
+      "question": "Fill in the blank. To provide a good user experience, a Largest Contentful Paint of ___________ or less is recommended.",
+      "answer": "2.5 seconds",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-to-provide-a-good-user/"
+    },
+    {
+      "id": 25,
+      "question": "If your site has consistently poor Total Blocking Time scores, which approach should you take to improve this metric?",
+      "answer": "Reduce the total amount of JavaScript loaded on your site while also efficiently loading the site's JavaScript",
+      "source_url": "https://www.gcertificationcourse.com/if-your-site-has-consistently-poor-total/"
+    },
+    {
+      "id": 26,
+      "question": "Select all that apply. What can you do to optimize images within a custom module?",
+      "answer": "Set the image's loading attribute to \"lazy,\" by default",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-can-you-do-to/"
+    },
+    {
+      "id": 27,
+      "question": "What is Largest Contentful Paint?",
+      "answer": "A measure of how long it takes the browser to load and render the largest element visible in the viewport",
+      "source_url": "https://www.gcertificationcourse.com/what-is-largest-contentful-paint/"
+    },
+    {
+      "id": 28,
+      "question": "Select all that apply. Which of the following are Core Web Vitals?",
+      "answer": "First Input Delay",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-14/"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is most likely to block page interactivity?",
+      "answer": "Heavy JavaScript execution",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-most-likely-to/"
+    },
+    {
+      "id": 30,
+      "question": "Fill in the blank: Use the ________ statement to use the same base template across multiple page templates.",
+      "answer": "extends",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-use-the-statement-to/"
+    },
+    {
+      "id": 31,
+      "question": "Select all that apply. How can you help content creators more easily work with modules?",
+      "answer": "Use a description of the elements in the module to name it",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-how-can-you-help/"
+    },
+    {
+      "id": 32,
+      "question": "In the CMS Boilerplate, what is the filename of the common template used as the foundation for all page templates?",
+      "answer": "base.html",
+      "source_url": "https://www.gcertificationcourse.com/in-the-cms-boilerplate-what-is-the-filename/"
+    },
+    {
+      "id": 33,
+      "question": "True or false? You can add a brand setting token to a theme's fields.json file to allow content editors to edit its value.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-add-a-brand-setting/"
+    },
+    {
+      "id": 34,
+      "question": "What would you use to access the tertiary brand color in a theme's fields.json file?",
+      "answer": "brandSettings.colors[2]",
+      "source_url": "https://www.gcertificationcourse.com/what-would-you-use-to-access-the-tertiary/"
+    },
+    {
+      "id": 35,
+      "question": "Select all that apply. Where can you access a brand color that you've set in the account's brand settings?",
+      "answer": "Within an HTML + HubL file",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-where-can-you-access-2/"
+    },
+    {
+      "id": 36,
+      "question": "Select all that apply. Where can you access a brand logo that you've set in your account's brand settings?",
+      "answer": "Within HTML + HubL files",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-where-can-you-access/"
+    },
+    {
+      "id": 37,
+      "question": "Which file does the CMS Boilerplate use to apply the styles set in the theme's settings?",
+      "answer": "theme-overrides.css",
+      "source_url": "https://www.gcertificationcourse.com/which-file-does-the-cms-boilerplate-use-to/"
+    },
+    {
+      "id": 38,
+      "question": "Select all that apply. Which of the following fields should you include in your theme's fields.json file?",
+      "answer": "Color and font controls for forms",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-12/"
+    },
+    {
+      "id": 39,
+      "question": "Select all that apply. Which of the following best describes modules?",
+      "answer": "Good for reorganizing into custom layouts",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-13/"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following is NOT a system template?",
+      "answer": "Blog preferences page",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-system-template/"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following is NOT a valid brand logo attribute?",
+      "answer": "brandSettings.primaryLogo.url",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-valid-brand/"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following section template annotations will help a content editor easily visualize a section in the page editor?",
+      "answer": "screenshotPath",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-section-template/"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following would be NOT be an appropriate class name to use in a theme called \"Blue Horizons\"?",
+      "answer": "button",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-would-be-not-be-an/"
+    },
+    {
+      "id": 44,
+      "question": "Select all that apply. Which style fields have a generated .css property?",
+      "answer": "Border",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-style-fields/"
+    },
+    {
+      "id": 45,
+      "question": "Within a module, where should you place instance-specific styles?",
+      "answer": "Within the module.html portion of the module",
+      "source_url": "https://www.gcertificationcourse.com/within-a-module-where-should-you-place/"
+    },
+    {
+      "id": 46,
+      "question": "Fill in the blank: Google recommends a font size of at least _______ on at least 60% of the text on your page.",
+      "answer": "12px",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-google-recommends-a-font/"
+    },
+    {
+      "id": 47,
+      "question": "Fill in the blank: Google recommends that tap targets should be at least ___________ apart from each other.",
+      "answer": "8px",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-google-recommends-that/"
+    },
+    {
+      "id": 48,
+      "question": "Fill in the blank: Google's main crawler is known as __________.",
+      "answer": "Googlebot",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-googles-main-crawler/"
+    },
+    {
+      "id": 49,
+      "question": "Fill in the blank: If you want a page's new URL to appear in search results, use _____________.",
+      "answer": "a permanent redirect",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-if-you-want-a-pages-new/"
+    },
+    {
+      "id": 50,
+      "question": "Fill in the blank: Google displays structured data in SERPs as _________.",
+      "answer": "rich results",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-google-displays-structured/"
+    },
+    {
+      "id": 51,
+      "question": "Fill in the blank: The primary function of a robots.txt file is_______________.",
+      "answer": "to prevent your site from being overloaded with requests by crawlers",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-primary-function-of/"
+    },
+    {
+      "id": 52,
+      "question": "Fill in the blank: Your page must undergo_________, in order for Google to view any JavaScript-generated content.",
+      "answer": "rendering",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-your-page-must-in-order/"
+    },
+    {
+      "id": 53,
+      "question": "Fill in the blank. If you want a page that's temporarily down to still appear in search results for some time, use _____________.",
+      "answer": "a temporary redirect",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-if-you-want-a-page-thats/"
+    },
+    {
+      "id": 54,
+      "question": "Select all that apply: In order to account for mobile-first indexing, you should:",
+      "answer": "Create a mobile-friendly website.",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-in-order-to-account/"
+    },
+    {
+      "id": 55,
+      "question": "Select all that apply. What can you use sitemaps for?",
+      "answer": "To tell search engines about what pages and files you think are important on your site",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-can-you-use/"
+    },
+    {
+      "id": 56,
+      "question": "What effect will this line in robots.txt have on Google's crawling behavior? # Disallow: /",
+      "answer": "It will not have any effect on crawling",
+      "source_url": "https://www.gcertificationcourse.com/what-effect-will-this-line-in-robots-txt/"
+    },
+    {
+      "id": 57,
+      "question": "Select all that apply. What is a canonical URL?",
+      "answer": "Something that's useful if you have a single page accessible by multiple URLs",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-a-canonical-url/"
+    },
+    {
+      "id": 58,
+      "question": "What is the recommended format for adding structured data to pages?",
+      "answer": "JSON-LD",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-recommended-format-for-adding/"
+    },
+    {
+      "id": 59,
+      "question": "Select all that apply. When might you use a redirect?",
+      "answer": "When moving your site to a new domain",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-when-might-you-use/"
+    },
+    {
+      "id": 60,
+      "question": "Select all that apply. Which of the following will prevent a page from appearing in Google's search results?",
+      "answer": "Adding a noindex meta tag to the page",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-11/"
+    },
+    {
+      "id": 61,
+      "question": "A skip to content link should skip to which landmark element on the page?",
+      "answer": "main",
+      "source_url": "https://www.gcertificationcourse.com/a-skip-to-content-link-should-skip-to-which/"
+    },
+    {
+      "id": 62,
+      "question": "Providing text alternatives for non-text content adheres to which WCAG principle?",
+      "answer": "Perceivability",
+      "source_url": "https://www.gcertificationcourse.com/providing-text-alternatives-for-non-text/"
+    },
+    {
+      "id": 63,
+      "question": "True or false? Automated testing is sufficient to test for appropriate use of alternative text.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-automated-testing-is-sufficient/"
+    },
+    {
+      "id": 64,
+      "question": "True or false? Part of making a form input accessible is including include a label for the input.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-part-of-making-a-form-input/"
+    },
+    {
+      "id": 65,
+      "question": "Select all that apply. Which elements should receive focus as you tab through a web page?",
+      "answer": "button elements",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-elements-should/"
+    },
+    {
+      "id": 66,
+      "question": "Consider the line of code below. If you were to load a script in this way, what would be the result? {{ require_js(get_asset_url(\"./path/to/file.js\"), { async: true }) }}",
+      "answer": "The script would be added before the closing body tag with an async attribute.",
+      "source_url": "https://www.gcertificationcourse.com/consider-the-line-of-code-below-if-you/"
+    },
+    {
+      "id": 67,
+      "question": "Fill in the blank: _______ is the process through which all unnecessary characters are removed from a file.",
+      "answer": "Minification",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-is-the-process-through/"
+    },
+    {
+      "id": 68,
+      "question": "Fill in the blank: Add the ________ attribute to your script to tell the browser to execute it after construction of the DOM.",
+      "answer": "defer",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-add-the-attribute-to-your/"
+    },
+    {
+      "id": 69,
+      "question": "Select all that apply. Which of the following are examples of render-blocking resources?",
+      "answer": "CSS files",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-10/"
+    },
+    {
+      "id": 70,
+      "question": "Select all that apply. What is Cumulative Layout Shift?",
+      "answer": "A Core Web Vital",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-cumulative/"
+    },
+    {
+      "id": 71,
+      "question": "Select all that apply. What is First Input Delay?",
+      "answer": "A measure of interactivity",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-first-input/"
+    },
+    {
+      "id": 72,
+      "question": "What is the first step of the Critical Rendering Path?",
+      "answer": "Parsing of the HTML and construction of the DOM",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-first-step-of-the-critical/"
+    },
+    {
+      "id": 73,
+      "question": "Which HubL function can you use to control the size of the images that appear on your website?",
+      "answer": "resize_image_url",
+      "source_url": "https://www.gcertificationcourse.com/which-hubl-function-can-you-use-to-control/"
+    },
+    {
+      "id": 74,
+      "question": "Fill in the blank: Use the __________ tag to include multiple CSS partial files within a single CSS file.",
+      "answer": "include",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-use-the-tag-to-include/"
+    },
+    {
+      "id": 75,
+      "question": "Fill in the blank: When a boolean field controls a major layout change, use a _________.",
+      "answer": "toggle switch",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-when-a-boolean-field/"
+    },
+    {
+      "id": 76,
+      "question": "True or false? All themes must contain at least 10 section templates.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-all-themes-must-contain-at/"
+    },
+    {
+      "id": 77,
+      "question": "Select all that apply. When should you create a section template instead of a module?",
+      "answer": "When you want to create a fixed layout page area for content editors to use",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-when-should-you-create/"
+    },
+    {
+      "id": 78,
+      "question": "Select all that apply. Which of the following module elements would be a good candidate for a style field?",
+      "answer": "Text color",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-9/"
+    },
+    {
+      "id": 79,
+      "question": "Select all that apply. When it comes to SEO, developers are usually responsible for:",
+      "answer": "Some elements of technical SEO.",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-when-it-comes-to-seo/"
+    },
+    {
+      "id": 80,
+      "question": "True or false: Using structured data guarantees that Google will make a rich snippet for your page.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-using-structured-data-guarantees/"
+    },
+    {
+      "id": 81,
+      "question": "Select all that apply. Which of the following are good examples of descriptive link text?",
+      "answer": "View our course catalog",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-8/"
+    },
+    {
+      "id": 82,
+      "question": "Scenario: Your colleague has told you that they'd like a landing page to not appear in search results. You notice that this landing page URL is already disallowed in robots.txt. What should you do to guarantee the page doesn't appear in Google's search results?",
+      "answer": "Remove the page's URL from the robots.txt file and add a noindex meta tag to the page",
+      "source_url": "https://www.gcertificationcourse.com/scenario-your-colleague-has-told-you-that/"
+    },
+    {
+      "id": 83,
+      "question": "True or false? Comprehensive knowledge of the WCAG is necessary before beginning to implement web accessibility best practices.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-comprehensive-knowledge-of/"
+    },
+    {
+      "id": 84,
+      "question": "What is the final step of the Critical Rendering Path?",
+      "answer": "Paint",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-final-step-of-the-critical-rendering/"
+    },
+    {
+      "id": 85,
+      "question": "Which of the following is NOT a step in the Critical Rendering Path?",
+      "answer": "First Input Delay",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-step-in/"
+    },
+    {
+      "id": 86,
+      "question": "True or false? Sections provide a built-in way to set a background image.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-sections-provide-a-built-in/"
+    },
+    {
+      "id": 87,
+      "question": "A ____________ status code indicates a temporary redirect.",
+      "answer": "302",
+      "source_url": "https://www.gcertificationcourse.com/a-status-code-indicates-a-temporary-redirect/"
+    },
+    {
+      "id": 88,
+      "question": "Fill in the blank: Sitemaps are _______ files that provide search engines information about the structure of your site.",
+      "answer": "XML",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-sitemaps-are-files-that/"
+    },
+    {
+      "id": 89,
+      "question": "Which of the following is NOT a component of how a web page ends up in search results?",
+      "answer": "Navigating",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-component/"
+    }
+  ]
+}

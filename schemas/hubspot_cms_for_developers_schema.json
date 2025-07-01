@@ -1,0 +1,318 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-01T13:06:42.026854",
+  "course_info": {
+    "name": "HubSpot CMS for Developers",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-cms-for-developers-certification/",
+    "total_questions": 51,
+    "scraped_date": "2025-07-01 13:04:41"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is NOT available in the file manager?",
+      "answer": "HTML image snippets",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-available-in-the-file-manager/"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT an important reason to familiarize yourself with available settings?",
+      "answer": "Some templates are coded exclusively in settings.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-important-reason/"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following statements about menus in HubSpot is FALSE?",
+      "answer": "The only way to build a menu is with the menu tool.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-menus-in-hubspot/"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following CMS tools is used in CAN-SPAM compliance?",
+      "answer": "Email settings",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-cms-tools-is-used-in-can-spam/"
+    },
+    {
+      "id": 5,
+      "question": "Which CMS tool would you use to find the file size of a PNG?",
+      "answer": "File manager",
+      "source_url": "https://www.gcertificationcourse.com/which-cms-tool-would-you-use-to-find-the-file-size/"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following statements about navigation items is FALSE?",
+      "answer": "Navigation items are automatically created when editors create a new page and cannot be created elsewhere.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-navigation-items/"
+    },
+    {
+      "id": 7,
+      "question": "Which statement about CSS in modules is TRUE?",
+      "answer": "CSS added to the HTML+ HubL section of the module editor will be repeated on the page in every instance of a module.",
+      "source_url": "https://www.gcertificationcourse.com/which-statement-about-css-in-modules-is-true/"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following statements about HubL in modules is TRUE?",
+      "answer": "Module fields are added to module markup with HubL.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-hubl-in-modules/"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following statements about HubL and JavaScript is TRUE?",
+      "answer": "JS written in the HTML + HubL section of the module editor will be repeated on a page for every instance of a module unless it is wrapped in a require_js statement.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-hubl-and-javascript/"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following statements about module fields is TRUE?",
+      "answer": "Modules can contain logic fields.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-module-fields/"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following statements about modules is FALSE?",
+      "answer": "None of the above.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-modules-is-false/"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following statements does NOT accurately describe HubL?",
+      "answer": "HubL provides state management for single page apps.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-does-not-accurately-describe/"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is not included in HubL?",
+      "answer": "Classes",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-included-in-hubl/"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following statements about HubL module syntax is NOT TRUE?",
+      "answer": "HubL modules use three curly braces to open and close tags.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-hubl-module/"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following characters are used to open a HubL statement?",
+      "answer": "{%",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-characters-are-used-to-open/"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is NOT possible with HubL?",
+      "answer": "Passing data from client side code to HubL",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-possible-with-hubl/"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following statements about HubL filters is TRUE?",
+      "answer": "HubL filters are used for a wide variety of tasks.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-hubl-filters/"
+    },
+    {
+      "id": 18,
+      "question": "Which data structure does HubL use for storing data in key and value pairs?",
+      "answer": "Dictionaries",
+      "source_url": "https://www.gcertificationcourse.com/which-data-structure-does-hubl-use-for-storing-data/"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following HubL and HubDB behaviors should be avoided if possible?",
+      "answer": "Use multiple requests to the same table to build complex templates.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-hubl-and-hubdb-behaviors/"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is not an aspect of dynamic pages?",
+      "answer": "Dynamic pages require multiple templates.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-aspect-of-dynamic-pages/"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is possible with the command line tools?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-possible-with-the/"
+    },
+    {
+      "id": 22,
+      "question": "Which of the following statements about templates is NOT TRUE?",
+      "answer": "Templates can only be used to create one live page in the HubSpot CMS.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about/"
+    },
+    {
+      "id": 23,
+      "question": "Which of the following statements about templates is TRUE?",
+      "answer": "Templates use HubL to create editable areas of pages.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-2/"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following statements about drag and drop areas is TRUE?",
+      "answer": "The dnd_area tag is all that is needed for basic drag and drop functionality in the page editor.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-drag/"
+    },
+    {
+      "id": 25,
+      "question": "True or False? People hate dragging and dropping things so the HubSpot CMS does not contain this capability",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-people-hate-dragging-and/"
+    },
+    {
+      "id": 26,
+      "question": "Which of the following statements about a healthy codebase is TRUE?",
+      "answer": "Reducing instances of repeated code helps to keep your codebase tidy and bug free.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-3/"
+    },
+    {
+      "id": 27,
+      "question": "Which statement about repeating module fields is FALSE?",
+      "answer": "Repeating fields and flexible columns are the same thing.",
+      "source_url": "https://www.gcertificationcourse.com/which-statement-about-repeating-module/"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following statements about HubSpot CMS themes is TRUE?",
+      "answer": "Themes are a package of assets that help keep a website consistent.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-4/"
+    },
+    {
+      "id": 29,
+      "question": "Which file in a theme controls the global fields that content editors can edit?",
+      "answer": "fields.json",
+      "source_url": "https://www.gcertificationcourse.com/which-file-in-a-theme-controls-the-global/"
+    },
+    {
+      "id": 30,
+      "question": "Choose all that apply. Which of the following options is configured in the theme.json file?",
+      "answer": "Name of the theme",
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-the-following-2/"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following statements about global partials is NOT TRUE?",
+      "answer": "Global partials can only be used on one template in a theme.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-5/"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following statements about theme modules is TRUE?",
+      "answer": "Theme modules are a great way to keep sites stylistically consistent.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-7/"
+    },
+    {
+      "id": 33,
+      "question": "If you wanted to create an unordered list from each value in a dictionary, which aspect of HubL would be most essential?",
+      "answer": "A Loop",
+      "source_url": "https://www.gcertificationcourse.com/if-you-wanted-to-create-an-unordered-list/"
+    },
+    {
+      "id": 34,
+      "question": "How many different email templates should be created?",
+      "answer": "It depends on the organization and should be discussed with the broader team to align with marketing goals.",
+      "source_url": "https://www.gcertificationcourse.com/how-many-different-email-templates-should/"
+    },
+    {
+      "id": 35,
+      "question": "True or false? The best way to style emails is through an external CSS stylesheet.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-best-way-to-style-emails/"
+    },
+    {
+      "id": 36,
+      "question": "True or false? You can add modules to your blog listing page in the page editor even if your blog listing template does not contain a drag-and-drop area.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-add-modules-to-your/"
+    },
+    {
+      "id": 37,
+      "question": "Fill in the blank: You should omit the ______ from the simple listing page using the {% if not_simple_list_page %} statement.",
+      "answer": "featured image",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-you-should-omit-the-from/"
+    },
+    {
+      "id": 38,
+      "question": "Select all that apply. Which of the following is something that can NOT be added to a dnd_section tag inside a section template.",
+      "answer": "Template annotations",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-18/"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is NOT true about section templates?",
+      "answer": "Section templates have CSS and JavaScript attached to them, just like modules.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-true-about-4/"
+    },
+    {
+      "id": 40,
+      "question": "In the body of a section template, which tag needs to be the parent tag?",
+      "answer": "dnd_section",
+      "source_url": "https://www.gcertificationcourse.com/in-the-body-of-a-section-template-which/"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following is NOT a feature of the HubSpot CMS of special interest to web developers?",
+      "answer": "The ability to add PHP anywhere in a template",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-feature/"
+    },
+    {
+      "id": 42,
+      "question": "What does the hubspot.config.yml file do?",
+      "answer": "Configures the relationship between local files and HubSpot CMS accounts including authentication",
+      "source_url": "https://www.gcertificationcourse.com/what-does-the-hubspot-config-yml-file-do/"
+    },
+    {
+      "id": 43,
+      "question": "True or false? System templates can only be built using the Design Manager.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-system-templates-can-only-be/"
+    },
+    {
+      "id": 44,
+      "question": "What pages are you required to set up when creating membership pages?",
+      "answer": "registration page, login page, password reset request page, password reset page",
+      "source_url": "https://www.gcertificationcourse.com/what-pages-are-you-required-to-set-up-when/"
+    },
+    {
+      "id": 45,
+      "question": "In the blog listing template, which variable provides access to blog post data?",
+      "answer": "contents",
+      "source_url": "https://www.gcertificationcourse.com/in-the-blog-listing-template-which-variable/"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is NOT an additional page view generated by the blog listing template?",
+      "answer": "Category page",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-additional/"
+    },
+    {
+      "id": 47,
+      "question": "Fill in the blank: If you wanted to copy the HubL markup of a section in the page editor, you would need to _____.",
+      "answer": "Place the the query string ?developerMode=true at the end of the url to enter developer mode.",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-if-you-wanted-to-copy/"
+    },
+    {
+      "id": 48,
+      "question": "Select all that apply. In order to create a section template, you need which of the following in the file?",
+      "answer": "A template annotation with the “templateType” set to the value of “section”.",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-in-order-to-create/"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is NOT an important aspect of using HubL?",
+      "answer": "Memorizing all tags and parameters",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-important-aspect/"
+    },
+    {
+      "id": 50,
+      "question": "Choose all that apply. Which of the following are always good strategies for building templates?",
+      "answer": "Keeping content editors front of mind at all times and optimizing their editing experience.",
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-the-following/"
+    },
+    {
+      "id": 51,
+      "question": "Which of the following statements about theme fields is NOT TRUE?",
+      "answer": "Developers don’t need to worry about how theme fields might be used by editors because theme fields can’t be used to make a website inconsistent or difficult to navigate.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-6/"
+    }
+  ]
+}
