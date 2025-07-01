@@ -12,21 +12,21 @@ This Chrome extension highlights correct answers on certification course pages b
 
 ## How to Use
 
-### Step 1: Upload Schema Files
-1. Click the extension icon in Chrome toolbar
-2. Click "Upload Schema File" and select a JSON schema file
-3. The extension will store the schema locally
-
-### Step 2: Navigate to Course Page
+### Step 1: Navigate to HubSpot Academy Exam
 1. Go to the HubSpot Academy exam page: https://app.hubspot.com/academy/171726/tracks/9108789/exam
 2. Make sure you're logged into HubSpot Academy
-3. The extension will automatically try to detect questions on the exam page
+3. The extension will automatically detect the exam ID (9108789) and load the appropriate schema
 
-### Step 3: Process the Page
-1. Click the extension icon
-2. Click "Process Page" to analyze the current page
-3. Correct answers will be highlighted with green borders
-4. Questions will be highlighted with blue borders
+### Step 2: Automatic Processing
+1. The extension automatically detects questions and highlights answers
+2. No manual processing needed - it works automatically!
+3. When you click "Next" to go to the next question, the extension will automatically process the new question
+4. Questions appear with blue borders, correct answers with green borders
+
+### Step 3: Manual Control (Optional)
+1. Click the extension icon to see status and statistics
+2. Use "Process Page" button to manually trigger processing if needed
+3. Use "Clear Highlights" to remove all highlighting
 
 ## Features
 

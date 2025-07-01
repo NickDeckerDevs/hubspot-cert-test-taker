@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-01T15:00:00.000000",
+  "course_info": {
+    "name": "HubSpot Growth Driven Design Certification",
+    "exam_id": "9108789",
+    "source_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+    "total_questions": 60,
+    "platform": "HubSpot Academy"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What primary challenge(s) exist with the traditional web design process?",
+      "answer": "It takes too long, costs too much, and is too risky",
+      "matching_keywords": [
+        "traditional",
+        "web",
+        "design",
+        "process",
+        "challenge",
+        "primary",
+        "exist"
+      ],
+      "answer_options": [
+        "It takes too long, costs too much, and is too risky",
+        "It is not collaborative enough",
+        "It requires too many people",
+        "All of the above"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What are the three stages of Growth-Driven Design?",
+      "answer": "Strategy, Launch Pad, Continuous Improvement",
+      "matching_keywords": [
+        "three",
+        "stages",
+        "growth",
+        "driven",
+        "design"
+      ],
+      "answer_options": [
+        "Strategy, Launch Pad, Continuous Improvement",
+        "Planning, Development, Testing",
+        "Research, Design, Launch",
+        "Strategy, Development, Optimization"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "True or false? You can skip the strategy stage and move right to building the launch pad if you have a senior team member who has been working at the company for a while because they will already know what should be built on the website.",
+      "answer": "False",
+      "matching_keywords": [
+        "true",
+        "false",
+        "skip",
+        "strategy",
+        "stage",
+        "launch",
+        "pad",
+        "senior",
+        "team"
+      ],
+      "answer_options": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which statement best describes the purpose of the strategy stage?",
+      "answer": "To get to know your users, understand their behavior, and drive smart business decisions",
+      "matching_keywords": [
+        "statement",
+        "best",
+        "describes",
+        "purpose",
+        "strategy",
+        "stage"
+      ],
+      "answer_options": [
+        "To get to know your users, understand their behavior, and drive smart business decisions",
+        "To create a beautiful website design",
+        "To build the website as quickly as possible",
+        "To implement the latest web technologies"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Fill in the blank: The primary goal of the continuous improvement stage is to _______.",
+      "answer": "improve website performance based on data",
+      "matching_keywords": [
+        "fill",
+        "blank",
+        "primary",
+        "goal",
+        "continuous",
+        "improvement",
+        "stage"
+      ],
+      "answer_options": [
+        "improve website performance based on data",
+        "add more features to the website",
+        "redesign the website completely",
+        "increase website traffic"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "During the continuous improvement stage, what are the steps used in the cycle?",
+      "answer": "Collect data, analyze, hypothesize, test",
+      "matching_keywords": [
+        "continuous",
+        "improvement",
+        "stage",
+        "steps",
+        "cycle"
+      ],
+      "answer_options": [
+        "Collect data, analyze, hypothesize, test",
+        "Plan, build, launch, review",
+        "Research, design, develop, deploy",
+        "Strategy, implementation, testing, optimization"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following factors is NOT important to determine during the website goals step?",
+      "answer": "What technology to use to build the website",
+      "matching_keywords": [
+        "factors",
+        "not",
+        "important",
+        "determine",
+        "website",
+        "goals",
+        "step"
+      ],
+      "answer_options": [
+        "What technology to use to build the website",
+        "What business goals the website should achieve",
+        "Who the target audience is",
+        "What success metrics to track"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Fill in the blank: Growth-Driven Design is a smarter approach to web design that ____________, ____________, and ____________.",
+      "answer": "eliminates risk, produces better results, shortens time to launch",
+      "matching_keywords": [
+        "growth",
+        "driven",
+        "design",
+        "smarter",
+        "approach",
+        "web",
+        "design"
+      ],
+      "answer_options": [
+        "eliminates risk, produces better results, shortens time to launch",
+        "costs less, looks better, loads faster",
+        "uses new technology, follows trends, impresses users",
+        "saves time, reduces effort, increases profits"
+      ]
+    }
+  ]
+}

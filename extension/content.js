@@ -71,10 +71,36 @@
     
     // Schema management
     function loadSchemas() {
-        return new Promise((resolve) => {
+        return new Promise(async (resolve) => {
+            // First, try to load schema based on current URL
+            const currentUrl = window.location.href;
+            let examId = null;
+            
+            // Extract exam ID from HubSpot Academy URL
+            const examIdMatch = currentUrl.match(/tracks\/(\d+)\/exam/);
+            if (examIdMatch) {
+                examId = examIdMatch[1];
+                log(`Detected exam ID: ${examId}`);
+                
+                // Try to load the specific schema for this exam
+                try {
+                    const response = await fetch(chrome.runtime.getURL(`schemas/hubspot_gdd_${examId}.json`));
+                    if (response.ok) {
+                        const schema = await response.json();
+                        loadedSchemas = [schema];
+                        log(`Loaded exam-specific schema for ID ${examId}: ${schema.course_info.name}`);
+                        resolve(loadedSchemas);
+                        return;
+                    }
+                } catch (error) {
+                    log(`Could not load exam-specific schema for ID ${examId}:`, error);
+                }
+            }
+            
+            // Fallback to stored schemas from user uploads
             chrome.storage.local.get(['qaSchemas'], (result) => {
                 loadedSchemas = result.qaSchemas || [];
-                log(`Loaded ${loadedSchemas.length} schemas`);
+                log(`Loaded ${loadedSchemas.length} stored schemas from user uploads`);
                 resolve(loadedSchemas);
             });
         });
@@ -425,23 +451,87 @@
         processedQuestions.clear();
     }
     
-    // Event listeners
-    document.addEventListener('DOMContentLoaded', processPage);
-    
-    // Re-process when page content changes
-    let contentChangeTimer;
-    const observer = new MutationObserver(() => {
-        clearTimeout(contentChangeTimer);
-        contentChangeTimer = setTimeout(() => {
-            log('Page content changed, re-processing...');
-            processPage();
-        }, 1000);
+    // Monitor for "Next" button clicks and page changes in HubSpot Academy
+    function setupExamMonitoring() {
+        log('Setting up exam monitoring for HubSpot Academy');
+        
+        // Monitor for "Next" button clicks
+        document.addEventListener('click', (event) => {
+            const target = event.target;
+            
+            // Check if clicked element or its parents contain the next button data attributes
+            let element = target;
+            for (let i = 0; i < 5 && element; i++) {
+                if (element.dataset && 
+                    (element.dataset.testId === 'exam-next-question-button' ||
+                     element.textContent?.includes('Next') && element.tagName === 'BUTTON')) {
+                    
+                    log('Next button clicked, will process new question after delay');
+                    
+                    // Wait for new content to load, then process the page
+                    setTimeout(() => {
+                        processPage();
+                    }, 2000); // 2 second delay for content to load
+                    
+                    break;
+                }
+                element = element.parentElement;
+            }
+        });
+        
+        // Also monitor for DOM changes (when new questions load)
+        const observer = new MutationObserver((mutations) => {
+            let shouldProcess = false;
+            
+            mutations.forEach((mutation) => {
+                if (mutation.type === 'childList' && mutation.addedNodes.length > 0) {
+                    // Check if new content that might contain questions was added
+                    for (const node of mutation.addedNodes) {
+                        if (node.nodeType === Node.ELEMENT_NODE) {
+                            const text = node.textContent || '';
+                            if (text.includes('?') && text.length > 20) {
+                                shouldProcess = true;
+                                break;
+                            }
+                        }
+                    }
+                }
+            });
+            
+            if (shouldProcess) {
+                log('New question content detected, processing page');
+                // Small delay to ensure content is fully loaded
+                setTimeout(() => {
+                    processPage();
+                }, 1000);
+            }
+        });
+        
+        // Start observing the document body for changes
+        observer.observe(document.body, {
+            childList: true,
+            subtree: true
+        });
+        
+        log('Exam monitoring setup complete');
+    }
+
+    // Event listeners and initialization
+    document.addEventListener('DOMContentLoaded', () => {
+        log('DOM loaded, initializing extension');
+        setupExamMonitoring();
+        processPage();
     });
     
-    observer.observe(document.body, {
-        childList: true,
-        subtree: true
-    });
+    // Also try to initialize if DOM is already loaded
+    if (document.readyState === 'loading') {
+        // DOM is still loading
+    } else {
+        // DOM is already loaded
+        log('DOM already loaded, initializing extension immediately');
+        setupExamMonitoring();
+        processPage();
+    }
     
     // Message listener for commands from popup
     chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {

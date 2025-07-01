@@ -3,49 +3,41 @@
   "name": "Q&A Schema Highlighter",
   "version": "1.0",
   "description": "Highlights correct answers on certification course pages based on scraped Q&A schemas",
-  
+
   "permissions": [
     "storage",
     "activeTab",
     "scripting"
   ],
-  
+
   "host_permissions": [
-    "https://academy.hubspot.com/*",
-    "https://app.hubspot.com/*",
-    "https://skillshop.withgoogle.com/*",
-    "https://www.facebookblueprint.com/*",
-    "https://www.gcertificationcourse.com/*",
+    "https://app.hubspot.com/academy/*",
     "*://*/*"
   ],
-  
+
   "background": {
     "service_worker": "background.js"
   },
-  
+
   "content_scripts": [
     {
       "matches": [
-        "https://academy.hubspot.com/*",
-        "https://app.hubspot.com/academy/*",
-        "https://skillshop.withgoogle.com/*",
-        "https://www.facebookblueprint.com/*",
-        "https://www.gcertificationcourse.com/*"
+        "https://app.hubspot.com/academy/*"
       ],
       "js": ["content.js"],
       "css": ["styles.css"],
       "run_at": "document_end"
     }
   ],
-  
+
   "action": {
     "default_popup": "popup.html",
     "default_title": "Q&A Schema Highlighter"
   },
-  
+
   "web_accessible_resources": [
     {
-      "resources": ["styles.css"],
+      "resources": ["styles.css", "schemas/*.json"],
       "matches": ["<all_urls>"]
     }
   ]
