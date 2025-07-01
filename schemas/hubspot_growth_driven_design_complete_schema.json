@@ -1,0 +1,1140 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-01T15:13:03.547488",
+  "course_info": {
+    "name": "HubSpot Growth Driven Design Complete",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+    "total_questions": 53,
+    "scraped_date": "2025-07-01 15:13:03"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What primary challenge(s) exist with the traditional web design process?",
+      "answer": "Fill in the blank: Growth-Driven Design is a smarter approach to web design that ____________, ____________, and ____________.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "exist",
+        "process",
+        "primary",
+        "web",
+        "design",
+        "traditional",
+        "challenge"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 2,
+      "question": "What are the three stages of Growth-Driven Design?",
+      "answer": "Which statement best describes the purpose of the strategy stage?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "driven",
+        "stages",
+        "growth",
+        "three",
+        "design"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 3,
+      "question": "Which statement best describes the purpose of the strategy stage?",
+      "answer": "Fill in the blank: The primary goal of the continuous improvement stage is to _______.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "purpose",
+        "describes",
+        "statement",
+        "strategy",
+        "stage",
+        "best"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 4,
+      "question": "Imagine your CEO says, “Why do we need to use Growth-Driven Design on our website? Don’t we just need it to look better than our competitors?” Which of the following is the best response to your CEO?",
+      "answer": "Which of the following statements best describes how to think of the website in relation to other departments?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "driven",
+        "just",
+        "our",
+        "than",
+        "says",
+        "your",
+        "growth",
+        "competitors",
+        "better",
+        "ceo"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 5,
+      "question": "Which of the following statements best describes how to think of the website in relation to other departments?",
+      "answer": "Fill in the blank: When using Growth-Driven Design, you can experience ______, _______, and ______ compared to traditional web design.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "think",
+        "relation",
+        "describes",
+        "following",
+        "other",
+        "website",
+        "statements",
+        "best",
+        "departments"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 6,
+      "question": "True or false? You can skip the strategy stage and move right to building the launch pad if you have a senior team member who has been working at the company for a while because they will already know what should be built on the website.",
+      "answer": "Which of the following factors is NOT important to determine during the website goals step?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "built",
+        "know",
+        "pad",
+        "stage",
+        "they",
+        "team",
+        "strategy",
+        "skip",
+        "right",
+        "launch"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 7,
+      "question": "Which of the following factors is NOT important to determine during the website goals step?",
+      "answer": "Which statement best describes what a buyer persona is?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "goals",
+        "during",
+        "following",
+        "website",
+        "determine",
+        "important",
+        "not",
+        "step",
+        "factors"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 8,
+      "question": "Imagine your team is reviewing the required work to complete the strategy stage. Upon reviewing, your boss asks, “What is the Jobs to Be Done step?” Which of the following responses would be the best?",
+      "answer": "Which statement best describes what a buyer persona is?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "boss",
+        "done",
+        "jobs",
+        "imagine",
+        "following",
+        "upon",
+        "reviewing",
+        "asks",
+        "strategy",
+        "responses"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 9,
+      "question": "Which statement best describes what a buyer persona is?",
+      "answer": "Fill in the blank: ________ are the core elements of the business and website. They act like the beams of a house, the underlying support upon which all other activities should be built.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "describes",
+        "statement",
+        "persona",
+        "best",
+        "buyer"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 10,
+      "question": "Which of the following statements best describes the goal of a journey map?",
+      "answer": "True or false? Your strategist’s (or team leader’s) role is to master the process of uncovering answers from your users and turning those answers into items to build to drive value and business results.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "goal",
+        "describes",
+        "following",
+        "journey",
+        "map",
+        "statements",
+        "best"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 11,
+      "question": "True or false? Your strategist’s (or team leader’s) role is to master the process of uncovering answers from your users and turning those answers into items to build to drive value and business results.",
+      "answer": "What are the three high-level steps of the user research process?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "strategist",
+        "into",
+        "build",
+        "uncovering",
+        "team",
+        "process",
+        "items",
+        "users",
+        "your",
+        "drive"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 12,
+      "question": "What are the three high-level steps of the user research process?",
+      "answer": "True or false? It’s common to answer a user question by conducting one type of research.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "user",
+        "steps",
+        "high",
+        "research",
+        "three",
+        "level",
+        "process"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 13,
+      "question": "Fill in the blank: You’re training a new team member on the research and brainstorming process. Your teammate asks, “Why are the user questions the first step in the research process?” You respond with, “Starting with creating user questions helps us _______.”",
+      "answer": "True or false? It’s common to answer a user question by conducting one type of research.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "_______",
+        "research",
+        "new",
+        "creating",
+        "team",
+        "process",
+        "teammate",
+        "helps",
+        "your",
+        "first"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 14,
+      "question": "True or false? It’s common to answer a user question by conducting one type of research.",
+      "answer": "Which of the following statements is NOT an example of a time you need to use qualitative research?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "type",
+        "true",
+        "false",
+        "question",
+        "user",
+        "one",
+        "research",
+        "common",
+        "answer",
+        "conducting"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 15,
+      "question": "Which of the following statements is NOT an example of a time you need to use qualitative research?",
+      "answer": "Which statement best defines a launch pad website?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "need",
+        "following",
+        "example",
+        "you",
+        "research",
+        "statements",
+        "qualitative",
+        "not",
+        "time",
+        "use"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 16,
+      "question": "Imagine you’re reviewing your website’s analytics and notice a large percentage of users exiting the site on the third step of your conversion funnel. The third step of the conversion funnel is the “product comparison page.” You want to review the behaviors and interactions each user has on that page just before they exit. Which research category would be best to use in the scenario above?",
+      "answer": "Which statement best defines a launch pad website?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "want",
+        "before",
+        "behaviors",
+        "research",
+        "they",
+        "site",
+        "exit",
+        "exiting",
+        "just",
+        "page"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 17,
+      "question": "Which statement best defines a launch pad website?",
+      "answer": "What is the difference between a launch pad website and a traditional website?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "statement",
+        "defines",
+        "pad",
+        "website",
+        "launch",
+        "best"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 18,
+      "question": "What is the difference between a launch pad website and a traditional website?",
+      "answer": "When customizing your launch pad acceleration approach, which of the following possible acceleration methods should you NOT use?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "between",
+        "pad",
+        "website",
+        "launch",
+        "traditional",
+        "difference"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 19,
+      "question": "When customizing your launch pad acceleration approach, which of the following possible acceleration methods should you NOT use?",
+      "answer": "True or false? The only way to speed up the creation of a launch pad website is to cut out the majority of the content.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "possible",
+        "following",
+        "pad",
+        "customizing",
+        "you",
+        "acceleration",
+        "launch",
+        "your",
+        "methods",
+        "not"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 20,
+      "question": "Imagine your team launched a new website three months ago, before you were hired. The website is performing well, but there’s still opportunity to improve using Growth-Driven Design. Based on this scenario, which is the BEST approach to recommend to your boss?",
+      "answer": "True or false? The only way to speed up the creation of a launch pad website is to cut out the majority of the content.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "before",
+        "based",
+        "driven",
+        "using",
+        "new",
+        "team",
+        "approach",
+        "opportunity",
+        "launched",
+        "your"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 21,
+      "question": "True or false? The only way to speed up the creation of a launch pad website is to cut out the majority of the content.",
+      "answer": "Fill in the blanks: A sprint workshop is a _________ where _______ step(s) out of the day-to-day to collaborate and develop a set of _________ that will be ________.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "true",
+        "false",
+        "speed",
+        "cut",
+        "pad",
+        "website",
+        "way",
+        "creation",
+        "launch",
+        "content"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is NOT a way to create remarkable content?",
+      "answer": "True or false? It’s important to code a marketer-friendly website.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "following",
+        "way",
+        "content",
+        "not",
+        "remarkable",
+        "create"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 23,
+      "question": "True or false? It’s important to code a marketer-friendly website.",
+      "answer": "Fill in the blank: The continuous improvement stage is a repeatable, _____ process for the team to continuously collect ______, build _______, and generate more momentum as they go.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "marketer",
+        "true",
+        "false",
+        "website",
+        "important",
+        "code",
+        "friendly"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 24,
+      "question": "Imagine while planning your yearly budget, your CEO asks you, “We have many people asking for funding. Why should we invest in continuous improvement? Can’t we just stop at the launch pad website?” What is the best response?",
+      "answer": "Who should choose the team’s theme to focus on, and when will it be announced to the team?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "stop",
+        "pad",
+        "improvement",
+        "just",
+        "funding",
+        "launch",
+        "your",
+        "people",
+        "planning",
+        "invest"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 25,
+      "question": "Who should choose the team’s theme to focus on, and when will it be announced to the team?",
+      "answer": "What is the goal of the “plan” step in the sprint cycle?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "announced",
+        "focus",
+        "theme",
+        "team",
+        "choose"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 26,
+      "question": "What is the goal of the “plan” step in the sprint cycle?",
+      "answer": "While going through the sprint cycles, where should your team focus all their time and energy?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "goal",
+        "sprint",
+        "plan",
+        "step",
+        "cycle"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 27,
+      "question": "How do you prioritize which wish list items to work on?",
+      "answer": "True or false? It’s important to leave a certain percentage of flex time in each sprint cycle for implementing updates, maintenance, or CEO-mandated items.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "items",
+        "wish",
+        "you",
+        "list",
+        "work",
+        "prioritize"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 28,
+      "question": "True or false? It’s important to leave a certain percentage of flex time in each sprint cycle for implementing updates, maintenance, or CEO-mandated items.",
+      "answer": "Which statement best describes why it’s important to run experiments to test the action items your team is building?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "items",
+        "true",
+        "false",
+        "mandated",
+        "flex",
+        "certain",
+        "ceo",
+        "implementing",
+        "maintenance",
+        "important"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 29,
+      "question": "Which statement best describes why it’s important to run experiments to test the action items your team is building?",
+      "answer": "True or false? A/B or split testing is the only way to validate your hypothesis.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "items",
+        "describes",
+        "statement",
+        "experiments",
+        "run",
+        "action",
+        "important",
+        "best",
+        "your",
+        "test"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 30,
+      "question": "True or false? A/B or split testing is the only way to validate your hypothesis.",
+      "answer": "What is the goal of the \"transfer\" step in the sprint cycle?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "true",
+        "false",
+        "split",
+        "validate",
+        "way",
+        "hypothesis",
+        "testing",
+        "your",
+        "only"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 31,
+      "question": "What is the goal of the \"transfer\" step in the sprint cycle?",
+      "answer": "How many sprint cycles should you run on each focus area?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "transfer",
+        "goal",
+        "sprint",
+        "step",
+        "cycle"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 32,
+      "question": "How many sprint cycles should you run on each focus area?",
+      "answer": "What is the website performance roadmap?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "focus",
+        "cycles",
+        "many",
+        "you",
+        "run",
+        "area",
+        "sprint",
+        "each"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 33,
+      "question": "What is the website performance roadmap?",
+      "answer": "The website performance roadmap is a framework structured into a decision tree with three levels. In what order are the three tree levels?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "performance",
+        "roadmap",
+        "website"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 34,
+      "question": "Imagine your launch pad website is now live, and you’re moving into the continuous improvement stage. Which of the following frameworks provides focus to the team, sets clear expectations, and helps track and measure progress?",
+      "answer": "The website performance roadmap is a framework structured into a decision tree with three levels. In what order are the three tree levels?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "into",
+        "live",
+        "pad",
+        "stage",
+        "frameworks",
+        "progress",
+        "improvement",
+        "team",
+        "helps",
+        "moving"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 35,
+      "question": "Imagine you’re trying to educate your team on the website performance roadmap. How would you best describe what a “theme” is?",
+      "answer": "What is the recommended minimum number of months to stay on a particular theme?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "theme",
+        "trying",
+        "imagine",
+        "roadmap",
+        "you",
+        "website",
+        "describe",
+        "your",
+        "best",
+        "performance"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 36,
+      "question": "What is the recommended minimum number of months to stay on a particular theme?",
+      "answer": "Each focus area has a specific focus metric associated with it. Which of the following best describes what a focus metric is?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "minimum",
+        "stay",
+        "number",
+        "months",
+        "recommended",
+        "particular",
+        "theme"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 37,
+      "question": "Why is the “value” focus area important to complete early on after launching a new launch pad or website initiative?",
+      "answer": "Why is the “expand” theme important to consider when thinking of the website as a tool for company-wide growth?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "launching",
+        "focus",
+        "initiative",
+        "early",
+        "pad",
+        "website",
+        "area",
+        "important",
+        "after",
+        "new"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 38,
+      "question": "Why is the “expand” theme important to consider when thinking of the website as a tool for company-wide growth?",
+      "answer": "When searching for website design tools, look for tools that ___________.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "company",
+        "wide",
+        "website",
+        "consider",
+        "important",
+        "growth",
+        "theme",
+        "expand",
+        "thinking",
+        "tool"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 39,
+      "question": "True or false? A launch pad website doesn’t contain any content. It’s a functional prototype of what the website will look like when it’s done.",
+      "answer": "Why is it important to wait until the end of the strategy stage to complete the website-specific strategy items?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "true",
+        "false",
+        "doesn",
+        "done",
+        "any",
+        "look",
+        "pad",
+        "website",
+        "functional",
+        "contain"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 40,
+      "question": "Why is it important to wait until the end of the strategy stage to complete the website-specific strategy items?",
+      "answer": "Which of the following items could be included on your website wish list?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "items",
+        "until",
+        "end",
+        "specific",
+        "wait",
+        "strategy",
+        "website",
+        "stage",
+        "important",
+        "complete"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 41,
+      "question": "Which of the following items could be included on your website wish list?",
+      "answer": "Which statement best describes when user research is used during Growth-Driven Design?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "items",
+        "wish",
+        "following",
+        "website",
+        "list",
+        "your",
+        "included"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 42,
+      "question": "Which statement best describes when user research is used during Growth-Driven Design?",
+      "answer": "When is quantitative research a good option for your team to use?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "during",
+        "describes",
+        "statement",
+        "user",
+        "driven",
+        "research",
+        "used",
+        "best",
+        "growth",
+        "design"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 43,
+      "question": "When is quantitative research a good option for your team to use?",
+      "answer": "Imagine your boss asks you, “Why is it important that we launch the launch pad website quickly?” Which of the following statements is the best response?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "quantitative",
+        "good",
+        "research",
+        "option",
+        "your",
+        "team",
+        "use"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 44,
+      "question": "Imagine your boss asks you, “Why is it important that we launch the launch pad website quickly?” Which of the following statements is the best response?",
+      "answer": "True or false? It’s impossible to build a launch pad website for a large, enterprise website.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "response",
+        "boss",
+        "imagine",
+        "following",
+        "asks",
+        "pad",
+        "you",
+        "website",
+        "quickly",
+        "important"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 45,
+      "question": "True or false? It’s impossible to build a launch pad website for a large, enterprise website.",
+      "answer": "Which of the following technique(s) can be used to increase speed and quality of the new launch pad website?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "impossible",
+        "true",
+        "false",
+        "build",
+        "pad",
+        "website",
+        "enterprise",
+        "large",
+        "launch"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 46,
+      "question": "Which of the following technique(s) can be used to increase speed and quality of the new launch pad website?",
+      "answer": "Which of the following is NOT a good way to speed up the process of building a launch pad website?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "speed",
+        "following",
+        "technique",
+        "pad",
+        "can",
+        "website",
+        "increase",
+        "new",
+        "used",
+        "quality"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is NOT a good way to speed up the process of building a launch pad website?",
+      "answer": "How many action items should you aim to complete in each sprint cycle?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "good",
+        "speed",
+        "following",
+        "pad",
+        "website",
+        "way",
+        "launch",
+        "not",
+        "building",
+        "process"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 48,
+      "question": "How many action items should you aim to complete in each sprint cycle?",
+      "answer": "What is the goal of the \"learn\" step in the sprint cycle?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "items",
+        "aim",
+        "many",
+        "each",
+        "you",
+        "action",
+        "sprint",
+        "cycle",
+        "complete"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 49,
+      "question": "What is the goal of the \"learn\" step in the sprint cycle?",
+      "answer": "True or false? The two primary focus areas of the “optimize” theme are conversion rate optimization and personalization.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "goal",
+        "learn",
+        "sprint",
+        "step",
+        "cycle"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 50,
+      "question": "True or false? The two primary focus areas of the “optimize” theme are conversion rate optimization and personalization.",
+      "answer": "What is the difference between Growth-Driven Design and conversion rate optimization (CRO)?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "theme",
+        "true",
+        "false",
+        "focus",
+        "rate",
+        "areas",
+        "primary",
+        "two",
+        "conversion",
+        "optimize"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 51,
+      "question": "What is the difference between Growth-Driven Design and conversion rate optimization (CRO)?",
+      "answer": "Why is it important to focus on effective content development?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "optimization",
+        "between",
+        "rate",
+        "driven",
+        "growth",
+        "conversion",
+        "difference",
+        "cro",
+        "design"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 52,
+      "question": "Why is it important to focus on effective content development?",
+      "answer": "Which focus area is often worked on directly after your new launch pad website goes live?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "development",
+        "focus",
+        "content",
+        "important",
+        "effective"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 53,
+      "question": "Which focus area is often worked on directly after your new launch pad website goes live?",
+      "answer": "Answer extraction needed - check source page",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "worked",
+        "focus",
+        "live",
+        "pad",
+        "directly",
+        "website",
+        "area",
+        "new",
+        "after",
+        "launch"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    }
+  ]
+}

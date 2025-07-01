@@ -84,11 +84,11 @@
                 
                 // Try to load the specific schema for this exam
                 try {
-                    const response = await fetch(chrome.runtime.getURL(`schemas/hubspot_gdd_${examId}.json`));
+                    const response = await fetch(chrome.runtime.getURL(`schemas/hubspot_gdd_${examId}_complete.json`));
                     if (response.ok) {
                         const schema = await response.json();
                         loadedSchemas = [schema];
-                        log(`Loaded exam-specific schema for ID ${examId}: ${schema.course_info.name}`);
+                        log(`Loaded exam-specific schema for ID ${examId}: ${schema.course_info.name} with ${schema.questions.length} questions`);
                         resolve(loadedSchemas);
                         return;
                     }

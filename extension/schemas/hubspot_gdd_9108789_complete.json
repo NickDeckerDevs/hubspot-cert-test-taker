@@ -1,0 +1,331 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-01T15:15:00.000000",
+  "course_info": {
+    "name": "HubSpot Growth Driven Design Certification - Complete",
+    "exam_id": "9108789",
+    "source_url": "https://app.hubspot.com/academy/171726/tracks/9108789/exam",
+    "total_questions": 53,
+    "platform": "HubSpot Academy"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What primary challenge(s) exist with the traditional web design process?",
+      "answer": "It takes too long, costs too much, and is too risky",
+      "matching_keywords": ["traditional", "web", "design", "process", "challenge", "primary"]
+    },
+    {
+      "id": 2,
+      "question": "What are the three stages of Growth-Driven Design?",
+      "answer": "Strategy, Launch Pad, Continuous Improvement",
+      "matching_keywords": ["three", "stages", "growth", "driven", "design"]
+    },
+    {
+      "id": 3,
+      "question": "Which statement best describes the purpose of the strategy stage?",
+      "answer": "To get to know your users, understand their behavior, and drive smart business decisions",
+      "matching_keywords": ["statement", "best", "describes", "purpose", "strategy", "stage"]
+    },
+    {
+      "id": 4,
+      "question": "Imagine your CEO says, \"Why do we need to use Growth-Driven Design on our website? Don't we just need it to look better than our competitors?\" Which of the following is the best response to your CEO?",
+      "answer": "Growth-Driven Design is not about looks, it's about using data to make smart decisions",
+      "matching_keywords": ["CEO", "growth", "driven", "design", "website", "competitors", "best", "response"]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following statements best describes how to think of the website in relation to other departments?",
+      "answer": "The website is a tool that can help all departments be more effective",
+      "matching_keywords": ["statements", "best", "describes", "website", "relation", "departments"]
+    },
+    {
+      "id": 6,
+      "question": "True or false? You can skip the strategy stage and move right to building the launch pad if you have a senior team member who has been working at the company for a while because they will already know what should be built on the website.",
+      "answer": "False",
+      "matching_keywords": ["true", "false", "skip", "strategy", "stage", "launch", "pad", "senior", "team"]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following factors is NOT important to determine during the website goals step?",
+      "answer": "What technology to use to build the website",
+      "matching_keywords": ["factors", "not", "important", "determine", "website", "goals", "step"]
+    },
+    {
+      "id": 8,
+      "question": "Imagine your team is reviewing the required work to complete during the strategy stage. Your boss asks you why you need to spend time on user research. How should you respond?",
+      "answer": "User research helps us understand our audience so we can create a website that meets their needs",
+      "matching_keywords": ["team", "reviewing", "required", "work", "strategy", "stage", "boss", "user", "research"]
+    },
+    {
+      "id": 9,
+      "question": "Which statement best describes what a buyer persona is?",
+      "answer": "A semi-fictional representation of your ideal customer based on real data",
+      "matching_keywords": ["statement", "best", "describes", "buyer", "persona"]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following statements best describes the difference between a buyer persona and a user persona?",
+      "answer": "A buyer persona is who buys your product, a user persona is who uses your product",
+      "matching_keywords": ["statements", "best", "describes", "difference", "buyer", "persona", "user", "persona"]
+    },
+    {
+      "id": 11,
+      "question": "True or false? Your strategist's (or team leader's) bias should play a role in the user research you conduct.",
+      "answer": "False",
+      "matching_keywords": ["true", "false", "strategist", "team", "leader", "bias", "role", "user", "research"]
+    },
+    {
+      "id": 12,
+      "question": "What are the three high-level steps of the user research process?",
+      "answer": "Plan, Collect, Analyze",
+      "matching_keywords": ["three", "high-level", "steps", "user", "research", "process"]
+    },
+    {
+      "id": 13,
+      "question": "Fill in the blank: You're training a new team member on the research process. You tell them that the first step is to ______.",
+      "answer": "plan the research",
+      "matching_keywords": ["fill", "blank", "training", "new", "team", "member", "research", "process", "first", "step"]
+    },
+    {
+      "id": 14,
+      "question": "True or false? It's common to answer a user question by conducting one research method.",
+      "answer": "False",
+      "matching_keywords": ["true", "false", "common", "answer", "user", "question", "conducting", "one", "research", "method"]
+    },
+    {
+      "id": 15,
+      "question": "Which of the following statements is NOT an example of how a member of the sales team can contribute to website planning?",
+      "answer": "They can help design the website layout",
+      "matching_keywords": ["statements", "not", "example", "sales", "team", "contribute", "website", "planning"]
+    },
+    {
+      "id": 16,
+      "question": "Imagine you're reviewing your website's analytics and you notice that 85% of your traffic comes from mobile devices. You also notice that your conversion rate on mobile is significantly lower than on desktop. How should you approach this insight?",
+      "answer": "Focus on improving the mobile experience first",
+      "matching_keywords": ["reviewing", "website", "analytics", "traffic", "mobile", "devices", "conversion", "rate", "desktop", "insight"]
+    },
+    {
+      "id": 17,
+      "question": "Which statement best defines a launch pad website?",
+      "answer": "A website that includes the core elements needed to start collecting data and leads",
+      "matching_keywords": ["statement", "best", "defines", "launch", "pad", "website"]
+    },
+    {
+      "id": 18,
+      "question": "What is the difference between a launch pad website and a traditional website redesign?",
+      "answer": "A launch pad is built quickly and improved over time, while a redesign is a one-time project",
+      "matching_keywords": ["difference", "launch", "pad", "website", "traditional", "website", "redesign"]
+    },
+    {
+      "id": 19,
+      "question": "When customizing your launch pad acceleration approach, which of the following speed acceleration tactics could you use?",
+      "answer": "All of the above",
+      "matching_keywords": ["customizing", "launch", "pad", "acceleration", "approach", "speed", "acceleration", "tactics"]
+    },
+    {
+      "id": 20,
+      "question": "Imagine your team launched a new website three months ago, before you joined the company. The website is performing well, but there's still room for improvement. The previous team built the website without implementing Growth-Driven Design. How would you recommend moving forward?",
+      "answer": "Start implementing Growth-Driven Design principles on the existing website",
+      "matching_keywords": ["team", "launched", "new", "website", "three", "months", "performing", "well", "improvement", "growth", "driven", "design"]
+    },
+    {
+      "id": 21,
+      "question": "True or false? The only way to speed up the creation process of your launch pad website is to cut out the content.",
+      "answer": "False",
+      "matching_keywords": ["true", "false", "only", "way", "speed", "creation", "process", "launch", "pad", "website", "cut", "content"]
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is NOT a way to create remarkable content?",
+      "answer": "Focusing on your business and what you want to promote",
+      "matching_keywords": ["following", "not", "way", "create", "remarkable", "content"]
+    },
+    {
+      "id": 23,
+      "question": "True or false? It's important to code a marketer-friendly website.",
+      "answer": "True",
+      "matching_keywords": ["true", "false", "important", "code", "marketer-friendly", "website"]
+    },
+    {
+      "id": 24,
+      "question": "Imagine while planning your yearly budget, your CEO asks you why you're allocating funds for website improvements. How do you respond?",
+      "answer": "The website is a key asset that drives business growth and needs continuous investment",
+      "matching_keywords": ["planning", "yearly", "budget", "CEO", "allocating", "funds", "website", "improvements"]
+    },
+    {
+      "id": 25,
+      "question": "Who should choose the team's theme to focus on, and why?",
+      "answer": "The person who has the most knowledge about user behavior and business goals",
+      "matching_keywords": ["choose", "team", "theme", "focus"]
+    },
+    {
+      "id": 26,
+      "question": "What is the goal of the \"plan\" step in the sprint cycle?",
+      "answer": "To determine what work needs to be done and how long it will take",
+      "matching_keywords": ["goal", "plan", "step", "sprint", "cycle"]
+    },
+    {
+      "id": 27,
+      "question": "How do you prioritize which wish list items to work on?",
+      "answer": "By their potential impact on business goals and ease of implementation",
+      "matching_keywords": ["prioritize", "wish", "list", "items", "work"]
+    },
+    {
+      "id": 28,
+      "question": "True or false? It's important to leave a certain percentage of time unscheduled in each sprint cycle to allow for reactive requests.",
+      "answer": "True",
+      "matching_keywords": ["true", "false", "important", "leave", "percentage", "time", "unscheduled", "sprint", "cycle", "reactive", "requests"]
+    },
+    {
+      "id": 29,
+      "question": "Which statement best describes why it's important to think of your website as a growth strategy?",
+      "answer": "Because your website is your most valuable marketing asset",
+      "matching_keywords": ["statement", "best", "describes", "important", "think", "website", "growth", "strategy"]
+    },
+    {
+      "id": 30,
+      "question": "True or false? A/B or split testing is the only way to validate your hypothesis.",
+      "answer": "False",
+      "matching_keywords": ["true", "false", "ab", "split", "testing", "only", "way", "validate", "hypothesis"]
+    },
+    {
+      "id": 31,
+      "question": "What is the goal of the \"transfer\" step in the sprint cycle?",
+      "answer": "To hand off completed work and get feedback",
+      "matching_keywords": ["goal", "transfer", "step", "sprint", "cycle"]
+    },
+    {
+      "id": 32,
+      "question": "How many sprint cycles should you run on each focus area?",
+      "answer": "3-4 sprint cycles",
+      "matching_keywords": ["many", "sprint", "cycles", "run", "focus", "area"]
+    },
+    {
+      "id": 33,
+      "question": "What is the website performance roadmap?",
+      "answer": "A visual guide that shows how your website will improve over time",
+      "matching_keywords": ["website", "performance", "roadmap"]
+    },
+    {
+      "id": 34,
+      "question": "Imagine your launch pad website is now live, and you're moving into the continuous improvement stage. Which of the following frameworks provides the best approach to optimizing your website?",
+      "answer": "The Growth-Driven Design sprint cycle",
+      "matching_keywords": ["launch", "pad", "website", "live", "continuous", "improvement", "stage", "frameworks", "best", "approach", "optimizing"]
+    },
+    {
+      "id": 35,
+      "question": "Imagine you're trying to educate your team on the sprint cycle. You tell them that the sprint cycle is the foundation of the continuous improvement stage. The sprint cycle keeps the team focused on ____.",
+      "answer": "high-impact items",
+      "matching_keywords": ["educate", "team", "sprint", "cycle", "foundation", "continuous", "improvement", "stage", "focused"]
+    },
+    {
+      "id": 36,
+      "question": "What is the recommended minimum number of months to stay in the continuous improvement stage before developing a new launch pad website?",
+      "answer": "6 months",
+      "matching_keywords": ["recommended", "minimum", "number", "months", "stay", "continuous", "improvement", "stage", "developing", "new", "launch", "pad"]
+    },
+    {
+      "id": 37,
+      "question": "Why is the \"value\" focus area important to complete early on for most websites?",
+      "answer": "Because it helps establish trust and credibility with visitors",
+      "matching_keywords": ["value", "focus", "area", "important", "complete", "early", "websites"]
+    },
+    {
+      "id": 38,
+      "question": "Why is the \"expand\" theme important to consider when working on your launch pad website?",
+      "answer": "It helps you think about future growth and scalability",
+      "matching_keywords": ["expand", "theme", "important", "consider", "working", "launch", "pad", "website"]
+    },
+    {
+      "id": 39,
+      "question": "True or false? A launch pad website doesn't contain any content. It's a functional website your team uses to launch the continuous improvement stage.",
+      "answer": "False",
+      "matching_keywords": ["true", "false", "launch", "pad", "website", "contain", "content", "functional", "team", "continuous", "improvement"]
+    },
+    {
+      "id": 40,
+      "question": "Why is it important to wait until the end of the strategy stage to plan and create your launch pad website?",
+      "answer": "Because you need the insights from user research to inform your decisions",
+      "matching_keywords": ["important", "wait", "end", "strategy", "stage", "plan", "create", "launch", "pad", "website"]
+    },
+    {
+      "id": 41,
+      "question": "Which of the following items could be included on a launch pad website?",
+      "answer": "All of the above",
+      "matching_keywords": ["items", "included", "launch", "pad", "website"]
+    },
+    {
+      "id": 42,
+      "question": "Which statement best describes when user research is valuable to conduct on your website?",
+      "answer": "Throughout the entire Growth-Driven Design process",
+      "matching_keywords": ["statement", "best", "describes", "user", "research", "valuable", "conduct", "website"]
+    },
+    {
+      "id": 43,
+      "question": "When is quantitative research a good option for your team?",
+      "answer": "When you need to validate hypotheses with statistical significance",
+      "matching_keywords": ["quantitative", "research", "good", "option", "team"]
+    },
+    {
+      "id": 44,
+      "question": "Imagine your boss asks you, \"Why is it important to do user research when building a launch pad website?\" How should you respond?",
+      "answer": "User research helps us understand what our audience needs and wants",
+      "matching_keywords": ["boss", "important", "user", "research", "building", "launch", "pad", "website"]
+    },
+    {
+      "id": 45,
+      "question": "True or false? It's impossible to build a launch pad website without the help of a developer.",
+      "answer": "False",
+      "matching_keywords": ["true", "false", "impossible", "build", "launch", "pad", "website", "help", "developer"]
+    },
+    {
+      "id": 46,
+      "question": "Which of the following technique(s) can be used to speed up the creation of a launch pad website?",
+      "answer": "All of the above",
+      "matching_keywords": ["technique", "used", "speed", "creation", "launch", "pad", "website"]
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is NOT a good way to speed up the creation of your launch pad website?",
+      "answer": "Skipping user research",
+      "matching_keywords": ["following", "not", "good", "way", "speed", "creation", "launch", "pad", "website"]
+    },
+    {
+      "id": 48,
+      "question": "How many action items should you aim to complete in each sprint cycle?",
+      "answer": "5-10 action items",
+      "matching_keywords": ["many", "action", "items", "aim", "complete", "sprint", "cycle"]
+    },
+    {
+      "id": 49,
+      "question": "What is the goal of the \"learn\" step in the sprint cycle?",
+      "answer": "To analyze results and determine what to do next",
+      "matching_keywords": ["goal", "learn", "step", "sprint", "cycle"]
+    },
+    {
+      "id": 50,
+      "question": "True or false? The two primary focus areas of the continuous improvement stage are to increase conversions and improve user experience.",
+      "answer": "True",
+      "matching_keywords": ["true", "false", "two", "primary", "focus", "areas", "continuous", "improvement", "stage", "increase", "conversions", "improve", "user", "experience"]
+    },
+    {
+      "id": 51,
+      "question": "What is the difference between Growth-Driven Design and other iterative web design processes?",
+      "answer": "Growth-Driven Design is specifically focused on continuous improvement based on data",
+      "matching_keywords": ["difference", "growth", "driven", "design", "other", "iterative", "web", "design", "processes"]
+    },
+    {
+      "id": 52,
+      "question": "Why is it important to focus on effective content creation early on in the website building process?",
+      "answer": "Because content drives engagement and conversions",
+      "matching_keywords": ["important", "focus", "effective", "content", "creation", "early", "website", "building", "process"]
+    },
+    {
+      "id": 53,
+      "question": "Which focus area is often worked on directly after the launch pad website goes live?",
+      "answer": "Value",
+      "matching_keywords": ["focus", "area", "often", "worked", "directly", "after", "launch", "pad", "website", "goes", "live"]
+    }
+  ]
+}

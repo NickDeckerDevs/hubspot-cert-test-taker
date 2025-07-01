@@ -63,7 +63,7 @@ The extension expects JSON schema files with this structure:
 
 ## Testing
 
-1. Use the provided `hubspot_academy_gdd_exam.json` schema file for testing
+1. The extension automatically loads the complete Growth Driven Design schema with all 53 questions
 2. Navigate to: https://app.hubspot.com/academy/171726/tracks/9108789/exam (requires HubSpot Academy login)
 3. Upload the schema through the extension popup
 4. Click "Process Page" and watch for questions highlighted in blue and correct answers in green
