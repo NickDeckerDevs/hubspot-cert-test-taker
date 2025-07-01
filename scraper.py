@@ -97,32 +97,47 @@ class WebScraper:
             content_area = soup
         
         # Look for questions in various formats
-        # First priority: list items that contain questions
+        # First priority: list items with links to individual question pages
         question_elements = []
         
-        # For this specific site structure, extract questions from text content
+        # Look for <li> elements with <a> tags pointing to individual question pages
         if content_area:
-            full_text = content_area.get_text()
-            lines = full_text.split('\n')
+            li_elements = content_area.find_all('li')
             
-            for line in lines:
-                line = line.strip()
-                # Look for lines that are likely questions
-                if (line and '?' in line and len(line) > 20 and len(line) < 500 and
-                    (line.startswith('What') or line.startswith('Which') or 
-                     line.startswith('How') or line.startswith('Why') or 
-                     line.startswith('True or false') or line.startswith('Fill in the blank') or
-                     line.startswith('Imagine') or line.startswith('When') or
-                     line.startswith('Where') or line.startswith('Who'))):
-                    
-                    # Create a pseudo-element for this question
-                    question_elements.append({
-                        'text': line,
-                        'is_text_question': True
-                    })
+            # Find <li> elements that contain question links
+            for li in li_elements:
+                a_tag = li.find('a')
+                if (a_tag and 
+                    a_tag.get('href', '').startswith('https://www.gcertificationcourse.com/') and
+                    a_tag.get('href', '') != listing_url):  # Exclude self-referencing links
+                    question_elements.append(li)
+            
+            # If no question links found, fallback to text parsing
+            if not question_elements:
+                full_text = content_area.get_text()
+                lines = full_text.split('\n')
+                
+                for line in lines:
+                    line = line.strip()
+                    # Look for lines that are likely questions
+                    if (line and '?' in line and len(line) > 20 and len(line) < 500 and
+                        (line.startswith('What') or line.startswith('Which') or 
+                         line.startswith('How') or line.startswith('Why') or 
+                         line.startswith('True or false') or line.startswith('Fill in the blank') or
+                         line.startswith('Imagine') or line.startswith('When') or
+                         line.startswith('Where') or line.startswith('Who'))):
+                        
+                        # Create a pseudo-element for this question
+                        question_elements.append({
+                            'text': line,
+                            'is_text_question': True
+                        })
         
         if question_elements:
-            logger.info(f"Found {len(question_elements)} question list items")
+            if any(hasattr(elem, 'find') for elem in question_elements):
+                logger.info(f"Found {len(question_elements)} question links with individual URLs")
+            else:
+                logger.info(f"Found {len(question_elements)} question list items")
         else:
             # Try other selectors
             question_selectors = [
