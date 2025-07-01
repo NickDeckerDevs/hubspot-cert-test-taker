@@ -1,0 +1,53 @@
+{
+  "manifest_version": 3,
+  "name": "Q&A Schema Highlighter",
+  "version": "1.0",
+  "description": "Highlights correct answers on certification course pages based on scraped Q&A schemas",
+  
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  
+  "host_permissions": [
+    "https://academy.hubspot.com/*",
+    "https://skillshop.withgoogle.com/*",
+    "https://www.facebookblueprint.com/*",
+    "*://*/*"
+  ],
+  
+  "background": {
+    "service_worker": "background.js"
+  },
+  
+  "content_scripts": [
+    {
+      "matches": [
+        "https://academy.hubspot.com/*",
+        "https://skillshop.withgoogle.com/*",
+        "https://www.facebookblueprint.com/*"
+      ],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_end"
+    }
+  ],
+  
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Q&A Schema Highlighter"
+  },
+  
+  "icons": {
+    "16": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMEMzLjU4IDAgMCAzLjU4IDAgOFMzLjU4IDE2IDggMTZTMTYgMTIuNDIgMTYgOFMxMi40MiAwIDggMFpNOSAxMkg3VjZIOVYxMlpNOSA0SDdWMkg5VjRaIiBmaWxsPSIjMDBGRjAwIi8+Cjwvc3ZnPgo=",
+    "32": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE2IDBDOC4yNyAwIDAgNy4xNiAwIDE2UzcuMTYgMzIgMTYgMzJTMzIgMjQuODQgMzIgMTZTMjQuODQgMCAxNiAwWk0xOCAyNEgxNFYxMkgxOFYyNFpNMTggOEgxNFY0SDE4VjhaIiBmaWxsPSIjMDBGRjAwIi8+Cjwvc3ZnPgo="
+  },
+  
+  "web_accessible_resources": [
+    {
+      "resources": ["styles.css"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
