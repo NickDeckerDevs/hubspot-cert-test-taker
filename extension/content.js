@@ -159,41 +159,54 @@
         return new Promise(async (resolve) => {
             console.log('🔄 [Q&A] Loading schemas...');
             
-            // First, try to load schema based on current URL
             const currentUrl = window.location.href;
-            let examId = null;
-            
             console.log(`🌐 [Q&A] Current URL: ${currentUrl}`);
             
-            // Extract exam ID from HubSpot Academy URL
-            const examIdMatch = currentUrl.match(/tracks\/(\d+)\/exam/);
-            if (examIdMatch) {
-                examId = examIdMatch[1];
-                console.log(`🎯 [Q&A] Detected exam ID: ${examId}`);
+            // Load the schema registry first
+            try {
+                console.log('📋 [Q&A] Loading schema registry...');
+                const registryResponse = await fetch(chrome.runtime.getURL('schema_registry.json'));
                 
-                // Try to load the specific schema for this exam
-                try {
-                    const schemaUrl = `schemas/hubspot_gdd_${examId}_complete.json`;
-                    console.log(`📥 [Q&A] Attempting to load schema: ${schemaUrl}`);
+                if (!registryResponse.ok) {
+                    throw new Error(`Registry not found: ${registryResponse.status}`);
+                }
+                
+                const registry = await registryResponse.json();
+                console.log(`📋 [Q&A] Registry loaded with ${registry.schemas.length} schema(s)`);
+                
+                // Find matching schema based on URL pattern
+                const matchingSchema = registry.schemas.find(schema => {
+                    const pattern = schema.exam_url_pattern;
+                    const isMatch = currentUrl.includes(pattern);
+                    console.log(`🔍 [Q&A] Checking pattern "${pattern}" against URL: ${isMatch ? '✅ MATCH' : '❌ NO MATCH'}`);
+                    return isMatch;
+                });
+                
+                if (matchingSchema) {
+                    console.log(`🎯 [Q&A] Found matching schema: ${matchingSchema.name}`);
+                    console.log(`📂 [Q&A] Loading schema file: ${matchingSchema.schema_file}`);
                     
-                    const response = await fetch(chrome.runtime.getURL(schemaUrl));
-                    if (response.ok) {
-                        const schema = await response.json();
+                    // Load the actual schema file
+                    const schemaResponse = await fetch(chrome.runtime.getURL(matchingSchema.schema_file));
+                    
+                    if (schemaResponse.ok) {
+                        const schema = await schemaResponse.json();
                         loadedSchemas = [schema];
-                        console.log(`✅ [Q&A] Successfully loaded exam-specific schema:`);
+                        console.log(`✅ [Q&A] Successfully loaded schema:`);
                         console.log(`   📚 Course: ${schema.course_info.name}`);
                         console.log(`   📊 Questions: ${schema.questions.length}`);
                         console.log(`   🔗 Exam ID: ${schema.course_info.exam_id}`);
                         resolve(loadedSchemas);
                         return;
                     } else {
-                        console.log(`❌ [Q&A] Schema file not found (${response.status}): ${schemaUrl}`);
+                        console.log(`❌ [Q&A] Schema file not found: ${matchingSchema.schema_file}`);
                     }
-                } catch (error) {
-                    console.log(`❌ [Q&A] Error loading exam-specific schema for ID ${examId}:`, error);
+                } else {
+                    console.log(`❓ [Q&A] No matching schema found for current URL`);
                 }
-            } else {
-                console.log(`❓ [Q&A] No exam ID found in URL`);
+                
+            } catch (error) {
+                console.log(`❌ [Q&A] Error loading schema registry:`, error);
             }
             
             // Fallback to stored schemas from user uploads

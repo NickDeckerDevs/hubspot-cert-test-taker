@@ -53,7 +53,7 @@ def validate_url(url: str) -> bool:
     except:
         return False
 
-def scrape_course(url: str, course_name: str = None, output_dir: str = None) -> str:
+def scrape_course(url: str, course_name: str = None, output_dir: str = None, exam_url: str = None) -> str:
     """
     Scrape a single course and generate schema
     
@@ -229,6 +229,7 @@ Examples:
     scrape_parser.add_argument('url', help='Course listing URL to scrape')
     scrape_parser.add_argument('--name', help='Course name (optional)')
     scrape_parser.add_argument('--output-dir', help='Output directory for schema files')
+    scrape_parser.add_argument('--exam-url', help='HubSpot exam URL for Chrome extension mapping (optional)')
     
     # Scrape batch command
     batch_parser = subparsers.add_parser('scrape-batch', help='Scrape multiple courses from a file')
@@ -253,7 +254,7 @@ Examples:
     
     try:
         if args.command == 'scrape':
-            schema_file = scrape_course(args.url, args.name, args.output_dir)
+            schema_file = scrape_course(args.url, args.name, args.output_dir, getattr(args, 'exam_url', None))
             if schema_file:
                 print(f"Schema saved to: {schema_file}")
             else:

@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "updated": "2025-07-01",
+  "schemas": [
+    {
+      "name": "HubSpot Growth Driven Design",
+      "exam_url_pattern": "tracks/9108789/exam",
+      "schema_file": "schemas/hubspot_gdd_9108789_complete.json",
+      "exam_id": "9108789",
+      "course_name": "HubSpot Growth Driven Design Certification"
+    }
+  ]
+}
