@@ -147,26 +147,27 @@ To create a new schema for any HubSpot certification test, you need:
 
 ### Step-by-Step Process
 
-1. **Run the scraper command**:
+1. **Run the scraper command with HubSpot exam URL**:
    ```bash
-   python main.py scrape "[LISTING_PAGE_URL]" --name "[TEST_NAME]" --output-dir "schemas"
+   python main.py scrape "[LISTING_PAGE_URL]" --name "[TEST_NAME]" --exam-url "[HUBSPOT_EXAM_URL]" --output-dir "schemas"
    ```
 
 2. **Example command**:
    ```bash
-   python main.py scrape "https://www.gcertificationcourse.com/hubspot-content-marketing-answers/" --name "HubSpot Content Marketing" --output-dir "schemas"
+   python main.py scrape "https://www.gcertificationcourse.com/hubspot-content-marketing-answers/" --name "HubSpot Content Marketing" --exam-url "https://app.hubspot.com/academy/171726/tracks/123456/exam" --output-dir "schemas"
    ```
 
-3. **The scraper will**:
+3. **The scraper will automatically**:
    - Extract all questions from the listing page
    - Visit each individual question page
    - Find correct answers in `<strong>` tags
    - Generate a JSON schema file in the schemas directory
+   - **Update the Chrome extension registry** to map the HubSpot exam URL to the schema file
 
-4. **Load schema into Chrome extension**:
-   - Open the extension popup
-   - Click "Choose File" and select the generated schema
-   - The schema will be loaded and ready for use
+4. **Chrome extension will automatically work**:
+   - When you visit the HubSpot exam URL, the extension will automatically load the correct schema
+   - No manual file upload needed - the extension finds the right schema based on the exam URL
+   - Answers will be highlighted with green backgrounds automatically
 
 ### Schema File Structure
 Generated schemas contain:

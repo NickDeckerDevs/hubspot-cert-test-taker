@@ -14,6 +14,7 @@ from typing import List, Dict
 
 from scraper import WebScraper
 from schema_builder import SchemaBuilder
+from registry_manager import add_schema_to_registry
 from config import (
     DEFAULT_SCRAPING_CONFIG,
     SCHEMA_CONFIG,
@@ -94,6 +95,19 @@ def scrape_course(url: str, course_name: str = None, output_dir: str = None, exa
         
         # Save schema
         schema_file = schema_builder.save_schema(schema)
+        
+        # Update registry for Chrome extension if exam URL provided
+        if exam_url and schema_file:
+            try:
+                # Calculate relative path for extension
+                relative_schema_path = os.path.relpath(schema_file, 'extension')
+                add_schema_to_registry(
+                    course_name=course_data.get('course_name', 'Unknown Course'),
+                    exam_url=exam_url,
+                    schema_filename=relative_schema_path
+                )
+            except Exception as e:
+                logger.warning(f"Failed to update registry: {e}")
         
         logger.info(SUCCESS_MESSAGES['scraping_complete'].format(
             count=len(course_data['questions']),
