@@ -161,7 +161,11 @@ class WebScraper:
         for i, element in enumerate(question_elements):
             try:
                 # Extract question text
-                question_text = element.get_text(strip=True)
+                if isinstance(element, dict) and element.get('is_text_question'):
+                    question_text = element['text']
+                else:
+                    question_text = element.get_text(strip=True) if hasattr(element, 'get_text') else str(element)
+                
                 if not question_text or len(question_text) < 10:
                     continue
                 
@@ -172,7 +176,7 @@ class WebScraper:
                     'link': listing_url,  # Same page contains the answers
                     'scraped_from': listing_url,
                     'element_index': i,  # Track which element this was for answer extraction
-                    'element_tag': element.name
+                    'element_tag': element.get('name', 'text') if hasattr(element, 'get') else 'text'
                 })
                     
             except Exception as e:
@@ -310,6 +314,12 @@ class WebScraper:
         # Scrape questions from listing page
         questions = self.scrape_questions_listing(listing_url)
         
+        # Since all questions are on the same page, fetch it once and extract answers
+        soup = self.get_page_content(listing_url)
+        if not soup:
+            logger.error("Failed to fetch main page for answer extraction")
+            return {'error': 'Failed to fetch page'}
+        
         # Scrape answers for each question
         course_data = {
             'course_name': course_name,
@@ -319,11 +329,12 @@ class WebScraper:
             'questions': []
         }
         
+        # Extract answers from the same page using the cached content
         for i, question_data in enumerate(questions, 1):
             logger.info(f"Processing question {i}/{len(questions)}: {question_data['question'][:50]}...")
             
-            # Scrape answer content
-            answer_data = self.scrape_answer_content(question_data['link'])
+            # Extract answer from the same page content
+            answer_data = self._extract_answer_from_page(soup, question_data, listing_url)
             
             # Combine question and answer data
             complete_qa = {
@@ -338,3 +349,70 @@ class WebScraper:
         
         logger.info(f"Completed scraping {len(questions)} questions for {course_name}")
         return course_data
+    
+    def _extract_answer_from_page(self, soup, question_data: Dict, url: str) -> Dict:
+        """
+        Extract answer for a specific question from the page soup
+        
+        Args:
+            soup: BeautifulSoup object of the page
+            question_data: Question data dictionary
+            url: URL of the page
+            
+        Returns:
+            Dictionary with answer content
+        """
+        # Find the main content area
+        content_area = (soup.find('div', class_='entry-content') or 
+                       soup.find('main') or 
+                       soup.find('article') or 
+                       soup.find('div', {'id': 'content'}) or
+                       soup)
+        
+        # For this type of site, answers might be embedded in the text after questions
+        # Try to find answer by looking for patterns in the text
+        full_text = content_area.get_text() if content_area else ""
+        
+        question_text = question_data['question']
+        answer_text = ""
+        
+        # Simple approach: try to find the answer following the question in text
+        if question_text in full_text:
+            # Split text into lines and find the question
+            lines = full_text.split('\n')
+            question_found = False
+            
+            for line in lines:
+                line = line.strip()
+                if not line:
+                    continue
+                    
+                # Check if this line contains our question
+                if question_text in line or line in question_text:
+                    question_found = True
+                    continue
+                
+                # If we found the question, look for answer patterns
+                if question_found:
+                    # Look for answer indicators
+                    if (line.startswith('Answer:') or line.startswith('A:') or 
+                        any(word in line.lower() for word in ['correct', 'true', 'false', 'all of the above', 'none of the above'])):
+                        answer_text = line
+                        break
+                    # Also check if this might be an answer option
+                    elif len(line) > 10 and len(line) < 200:
+                        # This might be an answer, take the first reasonable one
+                        answer_text = line
+                        break
+        
+        # If no specific answer found, use a placeholder
+        if not answer_text:
+            answer_text = "Answer extraction needed - check source page"
+        
+        return {
+            'url': url,
+            'text_content': full_text[:1000] + "..." if len(full_text) > 1000 else full_text,
+            'structured_content': answer_text,
+            'options': [],
+            'extraction_method': 'same_page_text_analysis'
+        }

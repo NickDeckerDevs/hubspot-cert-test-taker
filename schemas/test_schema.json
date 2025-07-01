@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-01T14:40:00.000000",
+  "course_info": {
+    "name": "HubSpot Growth Driven Design - Sample",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+    "total_questions": 3,
+    "scraped_date": "2025-07-01 14:40:00"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What primary challenge(s) exist with the traditional web design process?",
+      "answer": "It takes too long, costs too much, and is too risky",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "traditional",
+        "web",
+        "design",
+        "process",
+        "challenge",
+        "primary",
+        "exist"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 2,
+      "question": "What are the three stages of Growth-Driven Design?",
+      "answer": "Strategy, Launch Pad, Continuous Improvement",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "design",
+        "driven",
+        "growth",
+        "three",
+        "stages"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 3,
+      "question": "True or false? You can skip the strategy stage and move right to building the launch pad if you have a senior team member who has been working at the company for a while because they will already know what should be built on the website.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "true",
+        "false",
+        "strategy",
+        "stage",
+        "skip",
+        "launch",
+        "pad",
+        "senior",
+        "team"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    }
+  ]
+}
