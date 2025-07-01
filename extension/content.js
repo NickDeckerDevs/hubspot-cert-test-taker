@@ -631,12 +631,16 @@
                     (element.dataset.testId === 'exam-next-question-button' ||
                      element.textContent?.includes('Next') && element.tagName === 'BUTTON')) {
                     
-                    log('Next button clicked, will process new question after delay');
+                    console.log('🔄 [Q&A] Next button clicked - clearing highlights and preparing for new question');
+                    
+                    // Immediately clear all existing highlights
+                    clearHighlights();
                     
                     // Wait for new content to load, then process the page
                     setTimeout(() => {
+                        console.log('🆕 [Q&A] Processing new question after Next button click');
                         processPage();
-                    }, 2000); // 2 second delay for content to load
+                    }, 1000); // 1 second delay for content to load
                     
                     break;
                 }
@@ -664,9 +668,14 @@
             });
             
             if (shouldProcess) {
-                log('New question content detected, processing page');
+                console.log('🔄 [Q&A] New question content detected via DOM changes');
+                
+                // Clear existing highlights before processing new content
+                clearHighlights();
+                
                 // Small delay to ensure content is fully loaded
                 setTimeout(() => {
+                    console.log('🆕 [Q&A] Processing new question after DOM change');
                     processPage();
                 }, 1000);
             }
