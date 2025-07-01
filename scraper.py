@@ -84,55 +84,96 @@ class WebScraper:
         
         questions = []
         
-        # Look for common patterns in certification pages
-        # This is a generic approach that can be customized for specific sites
-        question_selectors = [
-            'div[class*="question"]',
-            'li[class*="question"]',
-            'div[class*="qa"]',
-            'div[class*="faq"]',
-            'article',
-            '.question-item',
-            '.qa-item'
-        ]
+        # First, try to find the main content area
+        content_area = (soup.find('div', class_='entry-content') or 
+                       soup.find('main') or 
+                       soup.find('article') or 
+                       soup.find('div', {'id': 'content'}))
         
-        for selector in question_selectors:
-            question_elements = soup.select(selector)
-            if question_elements:
-                logger.info(f"Found {len(question_elements)} elements with selector: {selector}")
-                break
+        if content_area:
+            logger.info("Found main content area")
+        else:
+            logger.warning("No main content area found, using entire page")
+            content_area = soup
         
-        if not question_elements:
-            # Fallback: look for links that might be questions
-            question_elements = soup.find_all('a', href=True)
-            logger.info(f"Fallback: Found {len(question_elements)} links")
+        # Look for questions in various formats
+        # First priority: list items that contain questions
+        question_elements = []
         
-        for element in question_elements:
+        # For this specific site structure, extract questions from text content
+        if content_area:
+            full_text = content_area.get_text()
+            lines = full_text.split('\n')
+            
+            for line in lines:
+                line = line.strip()
+                # Look for lines that are likely questions
+                if (line and '?' in line and len(line) > 20 and len(line) < 500 and
+                    (line.startswith('What') or line.startswith('Which') or 
+                     line.startswith('How') or line.startswith('Why') or 
+                     line.startswith('True or false') or line.startswith('Fill in the blank') or
+                     line.startswith('Imagine') or line.startswith('When') or
+                     line.startswith('Where') or line.startswith('Who'))):
+                    
+                    # Create a pseudo-element for this question
+                    question_elements.append({
+                        'text': line,
+                        'is_text_question': True
+                    })
+        
+        if question_elements:
+            logger.info(f"Found {len(question_elements)} question list items")
+        else:
+            # Try other selectors
+            question_selectors = [
+                'div[class*="question"]',
+                'p:contains("?")',
+                'h1:contains("?")',
+                'h2:contains("?")',
+                'h3:contains("?")',
+                'h4:contains("?")',
+                'strong:contains("?")',
+                'div[class*="qa"]',
+                'div[class*="faq"]'
+            ]
+            
+            for selector in question_selectors:
+                try:
+                    if ':contains(' in selector and hasattr(content_area, 'find_all'):
+                        # Handle pseudo-selector manually
+                        tag = selector.split(':')[0]
+                        elements = content_area.find_all(tag)
+                        for elem in elements:
+                            if '?' in elem.get_text():
+                                question_elements.append(elem)
+                    elif hasattr(content_area, 'select'):
+                        elements = content_area.select(selector)
+                        question_elements.extend(elements)
+                    
+                    if question_elements:
+                        logger.info(f"Found {len(question_elements)} elements with selector: {selector}")
+                        break
+                except Exception as e:
+                    logger.error(f"Error with selector {selector}: {e}")
+                    continue
+        
+        # Process found questions
+        for i, element in enumerate(question_elements):
             try:
                 # Extract question text
                 question_text = element.get_text(strip=True)
                 if not question_text or len(question_text) < 10:
                     continue
                 
-                # Find associated link
-                link = None
-                if element.name == 'a':
-                    link = element.get('href')
-                else:
-                    # Look for a link within the element
-                    link_elem = element.find('a', href=True)
-                    if link_elem:
-                        link = link_elem.get('href')
-                
-                if link:
-                    # Make absolute URL
-                    absolute_link = urljoin(listing_url, link)
-                    
-                    questions.append({
-                        'question': question_text,
-                        'link': absolute_link,
-                        'scraped_from': listing_url
-                    })
+                # For this specific site, the questions and answers are on the same page
+                # We'll use the current URL as the link and extract answers from the same page
+                questions.append({
+                    'question': question_text,
+                    'link': listing_url,  # Same page contains the answers
+                    'scraped_from': listing_url,
+                    'element_index': i,  # Track which element this was for answer extraction
+                    'element_tag': element.name
+                })
                     
             except Exception as e:
                 logger.error(f"Error processing question element: {e}")
@@ -141,12 +182,13 @@ class WebScraper:
         logger.info(f"Scraped {len(questions)} questions from listing page")
         return questions
     
-    def scrape_answer_content(self, answer_url: str) -> Dict:
+    def scrape_answer_content(self, answer_url: str, question_data: Dict = None) -> Dict:
         """
         Scrape the answer content from an individual answer page
         
         Args:
             answer_url: URL of the answer page
+            question_data: Optional question data for context
             
         Returns:
             Dictionary with answer content
@@ -158,24 +200,59 @@ class WebScraper:
         # Extract text content using trafilatura for better readability
         text_content = self.get_website_text_content(answer_url)
         
-        # Also try to get structured content
-        answer_selectors = [
-            'div[class*="answer"]',
-            'div[class*="content"]',
-            'div[class*="explanation"]',
-            'div[class*="solution"]',
-            'main',
-            'article',
-            '.answer-content',
-            '.content-body'
-        ]
+        # Find the main content area
+        content_area = (soup.find('div', class_='entry-content') or 
+                       soup.find('main') or 
+                       soup.find('article') or 
+                       soup.find('div', {'id': 'content'}) or
+                       soup)
         
-        structured_content = ""
-        for selector in answer_selectors:
-            answer_elem = soup.select_one(selector)
-            if answer_elem:
-                structured_content = answer_elem.get_text(strip=True)
-                break
+        # For pages where questions and answers are together, 
+        # try to extract the answer that follows the question
+        answer_text = ""
+        
+        if question_data and 'element_index' in question_data:
+            # Find the specific question element and look for answer after it
+            li_elements = content_area.find_all('li')
+            question_index = question_data['element_index']
+            
+            if question_index < len(li_elements):
+                current_element = li_elements[question_index]
+                
+                # Look for answer patterns after the question
+                # Check next sibling elements
+                next_element = current_element.find_next_sibling()
+                if next_element:
+                    answer_text = next_element.get_text(strip=True)
+                
+                # Also check if the answer is in the same element (after the question)
+                element_text = current_element.get_text(strip=True)
+                if 'Answer:' in element_text or 'A:' in element_text:
+                    # Split on common answer markers
+                    parts = element_text.split('Answer:', 1)
+                    if len(parts) > 1:
+                        answer_text = parts[1].strip()
+                    else:
+                        parts = element_text.split('A:', 1)
+                        if len(parts) > 1:
+                            answer_text = parts[1].strip()
+        
+        # If no specific answer found, try general answer extraction
+        if not answer_text:
+            answer_selectors = [
+                'div[class*="answer"]',
+                'div[class*="content"]',
+                'div[class*="explanation"]',
+                'div[class*="solution"]',
+                '.answer-content',
+                '.content-body'
+            ]
+            
+            for selector in answer_selectors:
+                answer_elem = content_area.select_one(selector)
+                if answer_elem:
+                    answer_text = answer_elem.get_text(strip=True)
+                    break
         
         # Extract multiple choice options if present
         options = []
@@ -189,10 +266,10 @@ class WebScraper:
         ]
         
         for selector in option_selectors:
-            option_elements = soup.select(selector)
+            option_elements = content_area.select(selector)
             for elem in option_elements:
                 option_text = elem.get_text(strip=True)
-                if option_text:
+                if option_text and len(option_text) < 200:  # Reasonable option length
                     # Check if this is marked as correct
                     is_correct = (
                         'correct' in elem.get('class', []) or
@@ -209,7 +286,7 @@ class WebScraper:
         return {
             'url': answer_url,
             'text_content': text_content,
-            'structured_content': structured_content,
+            'structured_content': answer_text,
             'options': options,
             'raw_html': str(soup) if len(str(soup)) < 10000 else str(soup)[:10000] + "..."
         }
