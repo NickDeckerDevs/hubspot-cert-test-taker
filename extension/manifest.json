@@ -27,7 +27,8 @@
       "matches": [
         "https://academy.hubspot.com/*",
         "https://skillshop.withgoogle.com/*",
-        "https://www.facebookblueprint.com/*"
+        "https://www.facebookblueprint.com/*",
+        "https://www.gcertificationcourse.com/*"
       ],
       "js": ["content.js"],
       "css": ["styles.css"],

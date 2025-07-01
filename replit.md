@@ -132,8 +132,16 @@ The system follows a two-tier architecture:
 - Users can manually upload schema files through extension popup
 - Future enhancement could include cloud-based schema distribution
 
+## Recent Changes
+- July 01, 2025: Completed Q&A scraper and Chrome extension development
+  - Built web scraper to extract questions from certification sites
+  - Created Chrome extension with schema-based answer highlighting
+  - Successfully tested scraper on HubSpot Growth Driven Design course
+  - Optimized scraper to handle single-page Q&A formats efficiently
+  - Extension supports green borders for correct answers and blue for questions
+
 ## Changelog
-- July 01, 2025. Initial setup
+- July 01, 2025: Initial setup and complete implementation
 
 ## User Preferences
 

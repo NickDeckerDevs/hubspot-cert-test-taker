@@ -1,0 +1,82 @@
+# Q&A Schema Highlighter Chrome Extension
+
+This Chrome extension highlights correct answers on certification course pages based on scraped Q&A schemas.
+
+## How to Load the Extension
+
+1. Open Chrome and navigate to `chrome://extensions/`
+2. Enable "Developer mode" in the top right corner
+3. Click "Load unpacked" 
+4. Select the `extension` folder from this project
+5. The extension should now appear in your Chrome toolbar
+
+## How to Use
+
+### Step 1: Upload Schema Files
+1. Click the extension icon in Chrome toolbar
+2. Click "Upload Schema File" and select a JSON schema file
+3. The extension will store the schema locally
+
+### Step 2: Navigate to Course Page
+1. Go to a certification course page (e.g., https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/)
+2. The extension will automatically try to detect questions
+
+### Step 3: Process the Page
+1. Click the extension icon
+2. Click "Process Page" to analyze the current page
+3. Correct answers will be highlighted with green borders
+4. Questions will be highlighted with blue borders
+
+## Features
+
+- **Automatic Detection**: Finds questions on pages automatically
+- **Smart Matching**: Uses exact text matching and fuzzy matching for questions
+- **Visual Feedback**: Green borders for correct answers, blue borders for questions
+- **Status Display**: Shows number of questions found, answers highlighted, and schemas loaded
+- **Schema Management**: Upload, list, and clear schema files
+- **Multi-Site Support**: Works on various certification platforms
+
+## Schema Format
+
+The extension expects JSON schema files with this structure:
+
+```json
+{
+  "schema_version": "1.0",
+  "course_info": {
+    "name": "Course Name",
+    "source_url": "https://example.com",
+    "total_questions": 3
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the question text?",
+      "answer": "This is the correct answer",
+      "matching_keywords": ["keyword1", "keyword2"],
+      "source_url": "https://example.com"
+    }
+  ]
+}
+```
+
+## Testing
+
+1. Use the provided `test_schema.json` for testing
+2. Navigate to the HubSpot Growth Driven Design answers page
+3. Upload the test schema and process the page
+4. You should see questions highlighted in blue and any matching answers in green
+
+## Troubleshooting
+
+- **No questions detected**: The page structure may not match expected patterns
+- **No answers highlighted**: Ensure your schema has correct answer text that matches page content
+- **Extension not working**: Check that you have proper permissions for the target website
+
+## Supported Sites
+
+- HubSpot Academy (academy.hubspot.com)
+- Google Skillshop (skillshop.withgoogle.com) 
+- Facebook Blueprint (facebookblueprint.com)
+- GCertification Course (gcertificationcourse.com)
+- Any other site (with "*://*/*" permission)
