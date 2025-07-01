@@ -8,7 +8,7 @@
         highlightWidth: '3px',
         partialMatchThreshold: 0.8,
         maxQuestionsPerPage: 50,
-        debugMode: false
+        debugMode: true // Enable debug mode for detailed console logging
     };
     
     // Global variables
@@ -21,6 +21,91 @@
         if (CONFIG.debugMode) {
             console.log(`[Q&A Highlighter] ${message}`, data || '');
         }
+    }
+    
+    // Enhanced logging functions
+    function logQuestion(questionText, questionElement = null) {
+        console.group(`🔍 [Q&A] Found Question`);
+        console.log(`Question Text: "${questionText}"`);
+        if (questionElement) {
+            console.log('Question Element:', questionElement);
+            console.log('Element HTML:', questionElement.outerHTML.substring(0, 200) + '...');
+        }
+        console.groupEnd();
+    }
+    
+    function logSchemaSearch(questionText, matchResult) {
+        console.group(`🔎 [Q&A] Schema Search`);
+        console.log(`Searching for: "${questionText}"`);
+        console.log(`Normalized search text: "${normalizeText(questionText)}"`);
+        
+        if (matchResult) {
+            console.log(`✅ MATCH FOUND!`);
+            console.log(`Match Type: ${matchResult.matchType}`);
+            console.log(`Similarity Score: ${matchResult.similarity.toFixed(3)}`);
+            console.log(`Schema Question: "${matchResult.qa.question}"`);
+            console.log(`Schema Answer: "${matchResult.qa.answer}"`);
+            if (matchResult.qa.answer_options && matchResult.qa.answer_options.length > 0) {
+                console.log(`Answer Options:`, matchResult.qa.answer_options);
+            }
+        } else {
+            console.log(`❌ NO MATCH FOUND`);
+            console.log(`Available schema questions (${loadedSchemas.length > 0 ? loadedSchemas[0].questions?.length || 0 : 0} total):`);
+            if (loadedSchemas.length > 0 && loadedSchemas[0].questions) {
+                loadedSchemas[0].questions.slice(0, 5).forEach((q, i) => {
+                    console.log(`  ${i + 1}. "${q.question.substring(0, 80)}..."`);
+                });
+                if (loadedSchemas[0].questions.length > 5) {
+                    console.log(`  ... and ${loadedSchemas[0].questions.length - 5} more`);
+                }
+            }
+        }
+        console.groupEnd();
+    }
+    
+    function logAnswerSearch(questionElement, correctAnswer, candidates) {
+        console.group(`🎯 [Q&A] Answer Search`);
+        console.log(`Looking for answer: "${correctAnswer}"`);
+        console.log(`Found ${candidates.length} answer candidates near question`);
+        
+        candidates.slice(0, 10).forEach((candidate, i) => {
+            const isMatch = isAnswerMatch(candidate.element, correctAnswer);
+            console.log(`${isMatch ? '✅' : '❌'} Candidate ${i + 1}: "${candidate.text}" (distance: ${candidate.distance.toFixed(1)}px)`);
+            if (isMatch) {
+                console.log(`   📍 Element:`, candidate.element);
+            }
+        });
+        
+        if (candidates.length > 10) {
+            console.log(`... and ${candidates.length - 10} more candidates`);
+        }
+        console.groupEnd();
+    }
+    
+    function logPageAnswers() {
+        console.group(`📋 [Q&A] Page Answer Options Detected`);
+        
+        const answerElements = document.querySelectorAll([
+            'input[type="radio"]',
+            'input[type="checkbox"]', 
+            'label',
+            '[data-test-id*="option"]',
+            '[data-testid*="option"]',
+            '[class*="option"]',
+            '[class*="choice"]',
+            '[class*="answer"]'
+        ].join(','));
+        
+        console.log(`Found ${answerElements.length} potential answer elements on page:`);
+        
+        answerElements.forEach((element, i) => {
+            const text = element.textContent?.trim() || '';
+            if (text.length > 0 && text.length < 200) {
+                console.log(`${i + 1}. "${text}" (${element.tagName}${element.className ? '.' + element.className.split(' ').join('.') : ''})`);
+            }
+        });
+        
+        console.groupEnd();
     }
     
     function normalizeText(text) {
@@ -72,35 +157,50 @@
     // Schema management
     function loadSchemas() {
         return new Promise(async (resolve) => {
+            console.log('🔄 [Q&A] Loading schemas...');
+            
             // First, try to load schema based on current URL
             const currentUrl = window.location.href;
             let examId = null;
+            
+            console.log(`🌐 [Q&A] Current URL: ${currentUrl}`);
             
             // Extract exam ID from HubSpot Academy URL
             const examIdMatch = currentUrl.match(/tracks\/(\d+)\/exam/);
             if (examIdMatch) {
                 examId = examIdMatch[1];
-                log(`Detected exam ID: ${examId}`);
+                console.log(`🎯 [Q&A] Detected exam ID: ${examId}`);
                 
                 // Try to load the specific schema for this exam
                 try {
-                    const response = await fetch(chrome.runtime.getURL(`schemas/hubspot_gdd_${examId}_complete.json`));
+                    const schemaUrl = `schemas/hubspot_gdd_${examId}_complete.json`;
+                    console.log(`📥 [Q&A] Attempting to load schema: ${schemaUrl}`);
+                    
+                    const response = await fetch(chrome.runtime.getURL(schemaUrl));
                     if (response.ok) {
                         const schema = await response.json();
                         loadedSchemas = [schema];
-                        log(`Loaded exam-specific schema for ID ${examId}: ${schema.course_info.name} with ${schema.questions.length} questions`);
+                        console.log(`✅ [Q&A] Successfully loaded exam-specific schema:`);
+                        console.log(`   📚 Course: ${schema.course_info.name}`);
+                        console.log(`   📊 Questions: ${schema.questions.length}`);
+                        console.log(`   🔗 Exam ID: ${schema.course_info.exam_id}`);
                         resolve(loadedSchemas);
                         return;
+                    } else {
+                        console.log(`❌ [Q&A] Schema file not found (${response.status}): ${schemaUrl}`);
                     }
                 } catch (error) {
-                    log(`Could not load exam-specific schema for ID ${examId}:`, error);
+                    console.log(`❌ [Q&A] Error loading exam-specific schema for ID ${examId}:`, error);
                 }
+            } else {
+                console.log(`❓ [Q&A] No exam ID found in URL`);
             }
             
             // Fallback to stored schemas from user uploads
+            console.log(`🔄 [Q&A] Falling back to stored schemas from user uploads...`);
             chrome.storage.local.get(['qaSchemas'], (result) => {
                 loadedSchemas = result.qaSchemas || [];
-                log(`Loaded ${loadedSchemas.length} stored schemas from user uploads`);
+                console.log(`📚 [Q&A] Loaded ${loadedSchemas.length} stored schemas from user uploads`);
                 resolve(loadedSchemas);
             });
         });
@@ -145,6 +245,8 @@
     
     // Question detection
     function findQuestionElements() {
+        console.group('🔍 [Q&A] Finding Question Elements');
+        
         const questionSelectors = [
             // HubSpot Academy specific selectors
             '[data-test-id*="question"]',
@@ -172,20 +274,28 @@
         
         const questionElements = [];
         
+        console.log(`🎯 [Q&A] Trying specific selectors first...`);
         // First, try specific selectors
-        for (const selector of questionSelectors.slice(0, 2)) {
+        for (const selector of questionSelectors.slice(0, 10)) {
             const elements = document.querySelectorAll(selector);
+            console.log(`   Selector "${selector}": found ${elements.length} elements`);
+            
             for (const element of elements) {
                 const text = element.textContent.trim();
                 if (text.length > 10 && text.includes('?')) {
                     questionElements.push(element);
+                    console.log(`   ✅ Added question: "${text.substring(0, 60)}..."`);
                 }
             }
         }
         
         // If no specific elements found, search for text containing questions
         if (questionElements.length === 0) {
+            console.log(`🔄 [Q&A] No specific elements found, searching all text elements...`);
+            
             const allElements = document.querySelectorAll('div, p, h1, h2, h3, h4, li, span');
+            console.log(`   Checking ${allElements.length} text elements for question patterns...`);
+            
             for (const element of allElements) {
                 const text = element.textContent.trim();
                 if (text.length > 20 && text.includes('?') && text.length < 500) {
@@ -198,12 +308,26 @@
                     
                     if (questionPatterns.some(pattern => pattern.test(text))) {
                         questionElements.push(element);
+                        console.log(`   ✅ Found question by pattern: "${text.substring(0, 60)}..."`);
                     }
                 }
             }
         }
         
-        log(`Found ${questionElements.length} potential question elements`);
+        console.log(`📊 [Q&A] Total question elements found: ${questionElements.length}`);
+        
+        // Log details of each found question
+        questionElements.slice(0, 10).forEach((element, i) => {
+            const text = element.textContent.trim();
+            console.log(`   ${i + 1}. "${text.substring(0, 80)}..." (${element.tagName})`);
+        });
+        
+        if (questionElements.length > 10) {
+            console.log(`   ... and ${questionElements.length - 10} more questions`);
+        }
+        
+        console.groupEnd();
+        
         return questionElements.slice(0, CONFIG.maxQuestionsPerPage);
     }
     
@@ -320,25 +444,32 @@
     
     // Main processing function
     async function processPage() {
-        log('Starting page processing...');
+        console.log('🚀 [Q&A] Starting page processing...');
         
         // Load schemas
         await loadSchemas();
         
         if (loadedSchemas.length === 0) {
-            log('No schemas loaded, showing alert');
+            console.log('❌ [Q&A] No schemas loaded');
             showAlert('No Q&A schemas loaded. Please upload schema files first.', 'warning');
             return;
         }
+        
+        console.log(`📚 [Q&A] Loaded ${loadedSchemas.length} schema(s) with ${loadedSchemas[0]?.questions?.length || 0} questions`);
+        
+        // Log all answer options currently visible on the page
+        logPageAnswers();
         
         // Find questions on the page
         const questionElements = findQuestionElements();
         
         if (questionElements.length === 0) {
-            log('No questions found on page');
+            console.log('❌ [Q&A] No questions found on page');
             showAlert('No questions detected on this page.', 'info');
             return;
         }
+        
+        console.log(`📋 [Q&A] Found ${questionElements.length} question elements on page`);
         
         let highlightedCount = 0;
         let unrecognizedCount = 0;
@@ -351,26 +482,34 @@
             if (processedQuestions.has(questionText)) continue;
             processedQuestions.add(questionText);
             
+            // Log the found question
+            logQuestion(questionText, questionElement);
+            
             // Find matching Q&A in schema
             const match = findMatchingQuestion(questionText);
             
+            // Log the schema search result
+            logSchemaSearch(questionText, match);
+            
             if (match) {
-                log(`Found match for question: ${questionText.substring(0, 50)}...`, match);
-                
                 // Highlight the question
                 highlightElement(questionElement, 'question');
                 
-                // Highlight the correct answer
+                // Find and highlight the correct answer
+                const candidates = findAnswerCandidates(questionElement, match.qa.answer);
+                logAnswerSearch(questionElement, match.qa.answer, candidates);
+                
                 const answerHighlighted = highlightCorrectAnswer(questionElement, match.qa.answer);
                 
                 if (answerHighlighted) {
                     highlightedCount++;
+                    console.log(`✅ [Q&A] Successfully highlighted answer for: "${questionText.substring(0, 50)}..."`);
                 } else {
-                    log(`Could not find answer element for: ${questionText.substring(0, 50)}...`);
+                    console.log(`❌ [Q&A] Could not find/highlight answer for: "${questionText.substring(0, 50)}..."`);
                 }
             } else {
                 unrecognizedCount++;
-                log(`No match found for question: ${questionText.substring(0, 50)}...`);
+                console.log(`❓ [Q&A] No schema match for: "${questionText.substring(0, 50)}..."`);
             }
         }
         
