@@ -132,13 +132,62 @@ The system follows a two-tier architecture:
 - Users can manually upload schema files through extension popup
 - Future enhancement could include cloud-based schema distribution
 
+## Creating New Schemas for Different HubSpot Tests
+
+### Required Information
+To create a new schema for any HubSpot certification test, you need:
+
+1. **Test Name**: The name of the certification (e.g., "HubSpot Content Marketing", "HubSpot Email Marketing")
+2. **HubSpot Test URL**: The actual exam URL where students take the test
+   - Format: `https://app.hubspot.com/academy/[ACCOUNT_ID]/tracks/[EXAM_ID]/exam`
+   - Example: `https://app.hubspot.com/academy/171726/tracks/9108789/exam`
+3. **Listing Page URL**: The gcertificationcourse.com page with all questions/answers
+   - Format: `https://www.gcertificationcourse.com/[exam-name]-answers/`
+   - Example: `https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/`
+
+### Step-by-Step Process
+
+1. **Run the scraper command**:
+   ```bash
+   python main.py scrape "[LISTING_PAGE_URL]" --name "[TEST_NAME]" --output-dir "schemas"
+   ```
+
+2. **Example command**:
+   ```bash
+   python main.py scrape "https://www.gcertificationcourse.com/hubspot-content-marketing-answers/" --name "HubSpot Content Marketing" --output-dir "schemas"
+   ```
+
+3. **The scraper will**:
+   - Extract all questions from the listing page
+   - Visit each individual question page
+   - Find correct answers in `<strong>` tags
+   - Generate a JSON schema file in the schemas directory
+
+4. **Load schema into Chrome extension**:
+   - Open the extension popup
+   - Click "Choose File" and select the generated schema
+   - The schema will be loaded and ready for use
+
+### Schema File Structure
+Generated schemas contain:
+- `id`: Unique identifier for each question
+- `question`: The full question text
+- `answer`: The correct answer text
+- `source_url`: Individual question page URL
+
+### Common HubSpot Test Listing Pages
+- Growth Driven Design: `https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/`
+- Content Marketing: `https://www.gcertificationcourse.com/hubspot-content-marketing-answers/`
+- Email Marketing: `https://www.gcertificationcourse.com/hubspot-email-marketing-answers/`
+- Inbound Marketing: `https://www.gcertificationcourse.com/hubspot-inbound-marketing-answers/`
+
 ## Recent Changes
-- July 01, 2025: Completed Q&A scraper and Chrome extension development
-  - Built web scraper to extract questions from certification sites
-  - Created Chrome extension with schema-based answer highlighting
-  - Successfully tested scraper on HubSpot Growth Driven Design course
-  - Optimized scraper to handle single-page Q&A formats efficiently
-  - Extension supports green borders for correct answers and blue for questions
+- July 01, 2025: Fixed critical scraper issues and documented schema creation process
+  - Fixed scraper to extract individual question URLs instead of using main page
+  - Successfully extracts answers from `<strong>` tags in individual question pages
+  - Now processes 69 questions (up from 53) with proper individual URLs
+  - Added comprehensive documentation for creating new test schemas
+  - Verified scraper functionality with test question extraction
 
 ## Changelog
 - July 01, 2025: Initial setup and complete implementation
