@@ -41,11 +41,6 @@
     "default_title": "Q&A Schema Highlighter"
   },
   
-  "icons": {
-    "16": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMEMzLjU4IDAgMCAzLjU4IDAgOFMzLjU4IDE2IDggMTZTMTYgMTIuNDIgMTYgOFMxMi40MiAwIDggMFpNOSAxMkg3VjZIOVYxMlpNOSA0SDdWMkg5VjRaIiBmaWxsPSIjMDBGRjAwIi8+Cjwvc3ZnPgo=",
-    "32": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE2IDBDOC4yNyAwIDAgNy4xNiAwIDE2UzcuMTYgMzIgMTYgMzJTMzIgMjQuODQgMzIgMTZTMjQuODQgMCAxNiAwWk0xOCAyNEgxNFYxMkgxOFYyNFpNMTggOEgxNFY0SDE4VjhaIiBmaWxsPSIjMDBGRjAwIi8+Cjwvc3ZnPgo="
-  },
-  
   "web_accessible_resources": [
     {
       "resources": ["styles.css"],
