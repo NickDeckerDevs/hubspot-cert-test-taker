@@ -104,13 +104,7 @@ class SchemaBuilder:
                     'id': qa.get('id'),
                     'question': question_text,
                     'answer': answer_text.strip(),
-                    'source_url': qa.get('question_source_url', ''),
-                    'matching_keywords': self.extract_keywords(question_text),
-                    'answer_options': qa.get('answer_data', {}).get('options', []),
-                    'metadata': {
-                        'scraped_from': qa.get('scraped_from_listing', ''),
-                        'has_multiple_choice': bool(qa.get('answer_data', {}).get('options'))
-                    }
+                    'source_url': qa.get('answer_data', {}).get('url', qa.get('question_source_url', ''))  # Use individual page URL
                 }
                 
                 schema['questions'].append(question_schema)

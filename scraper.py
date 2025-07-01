@@ -362,57 +362,51 @@ class WebScraper:
         Returns:
             Dictionary with answer content
         """
-        # Find the main content area
-        content_area = (soup.find('div', class_='entry-content') or 
-                       soup.find('main') or 
-                       soup.find('article') or 
-                       soup.find('div', {'id': 'content'}) or
-                       soup)
-        
-        # For this type of site, answers might be embedded in the text after questions
-        # Try to find answer by looking for patterns in the text
-        full_text = content_area.get_text() if content_area else ""
-        
-        question_text = question_data['question']
-        answer_text = ""
-        
-        # Simple approach: try to find the answer following the question in text
-        if question_text in full_text:
-            # Split text into lines and find the question
-            lines = full_text.split('\n')
-            question_found = False
+        try:
+            answer_text = None
             
-            for line in lines:
-                line = line.strip()
-                if not line:
-                    continue
-                    
-                # Check if this line contains our question
-                if question_text in line or line in question_text:
-                    question_found = True
-                    continue
+            # Look for the correct answer pattern: <li> elements with <strong> tags inside <article>
+            article = soup.find('article')
+            if article:
+                # Find all list items within the article
+                list_items = article.find_all('li')
                 
-                # If we found the question, look for answer patterns
-                if question_found:
-                    # Look for answer indicators
-                    if (line.startswith('Answer:') or line.startswith('A:') or 
-                        any(word in line.lower() for word in ['correct', 'true', 'false', 'all of the above', 'none of the above'])):
-                        answer_text = line
+                for li in list_items:
+                    # Look for <strong> tag within this list item
+                    strong_tag = li.find('strong')
+                    if strong_tag:
+                        answer_text = strong_tag.get_text(strip=True)
+                        logging.info(f"Found answer in <strong> tag: {answer_text}")
                         break
-                    # Also check if this might be an answer option
-                    elif len(line) > 10 and len(line) < 200:
-                        # This might be an answer, take the first reasonable one
-                        answer_text = line
+            
+            # Fallback: Look for bold text in lists anywhere on the page
+            if not answer_text:
+                bold_in_lists = soup.find_all('li')
+                for li in bold_in_lists:
+                    strong_tag = li.find('strong')
+                    if strong_tag:
+                        answer_text = strong_tag.get_text(strip=True)
+                        logging.info(f"Found answer in fallback search: {answer_text}")
                         break
-        
-        # If no specific answer found, use a placeholder
-        if not answer_text:
-            answer_text = "Answer extraction needed - check source page"
-        
-        return {
-            'url': url,
-            'text_content': full_text[:1000] + "..." if len(full_text) > 1000 else full_text,
-            'structured_content': answer_text,
-            'options': [],
-            'extraction_method': 'same_page_text_analysis'
-        }
+            
+            if not answer_text:
+                logging.warning(f"Could not extract answer from {url}")
+                answer_text = "Answer not found"
+            
+            return {
+                'url': url,
+                'text_content': answer_text,
+                'structured_content': answer_text,
+                'options': [],
+                'extraction_method': 'strong_tag_in_list_item'
+            }
+            
+        except Exception as e:
+            logging.error(f"Error extracting answer from {url}: {str(e)}")
+            return {
+                'url': url,
+                'text_content': "Error extracting answer",
+                'structured_content': "Error extracting answer",
+                'options': [],
+                'extraction_method': 'error'
+            }
