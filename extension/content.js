@@ -1,3 +1,8 @@
+/*
+
+Which of the following statements about theme modules is TRUE
+
+*/
 // Q&A Schema Highlighter Content Script
 (function() {
     'use strict';
@@ -165,7 +170,11 @@
             // Load the schema registry first
             try {
                 console.log('📋 [Q&A] Loading schema registry...');
-                const registryResponse = await fetch(chrome.runtime.getURL('schema_registry.json'));
+
+                let registryUrl = chrome.runtime.getURL('schema_registry.json')
+                console.log('registryUrl')
+                console.log(registryUrl)
+                const registryResponse = await fetch(registryUrl);
                 
                 if (!registryResponse.ok) {
                     throw new Error(`Registry not found: ${registryResponse.status}`);
@@ -352,12 +361,14 @@
         console.log(`Found ${answerCandidates.length} answer candidates to check`);
         
         for (const candidate of answerCandidates) {
-            const isMatch = isAnswerMatch(candidate.element, answer);
-            console.log(`Checking candidate: "${candidate.text}" - Match: ${isMatch ? '✅' : '❌'}`);
+            console.log(candidate)
+            
+            const isMatch = isAnswerMatch(candidate, answer);
+            console.log(`Checking candidate: "${candidate.textContent}" - Match: ${isMatch ? '✅' : '❌'}`);
             
             if (isMatch) {
-                const highlightedElement = highlightAnswerElement(candidate.element);
-                console.log(`✅ Successfully highlighted answer: "${candidate.text}"`);
+                const highlightedElement = highlightAnswerElement(candidate);
+                console.log(`✅ Successfully highlighted answer: "${candidate.textContent}"`);
                 console.log(`Highlighted element:`, highlightedElement);
                 console.groupEnd();
                 return true;
@@ -370,104 +381,62 @@
     }
     
     function findAnswerCandidates(questionElement, answer) {
-        const candidates = [];
-        const searchRadius = 500; // pixels to search around the question
-        
-        // Get question position
-        const questionRect = questionElement.getBoundingClientRect();
-        
-        // Find potential answer elements - enhanced for HubSpot Academy
-        const answerSelectors = [
-            // Form elements
-            'input[type="radio"]',
-            'input[type="checkbox"]',
-            'label',
-            'button',
-            // HubSpot Academy specific
-            '[data-test-id*="option"]',
-            '[data-testid*="option"]',
-            '[data-test-id*="choice"]',
-            '[data-testid*="choice"]',
-            '[data-test-id*="answer"]',
-            '[data-testid*="answer"]',
-            // Generic class-based selectors
-            '[class*="option"]',
-            '[class*="choice"]',
-            '[class*="answer"]',
-            '[class*="radio"]',
-            '[class*="checkbox"]',
-            // Content containers
-            'li',
-            'div',
-            'span',
-            'p'
-        ];
-        
-        const allElements = document.querySelectorAll(answerSelectors.join(','));
-        
-        for (const element of allElements) {
-            const elementRect = element.getBoundingClientRect();
-            
-            // Check if element is within search radius
-            const distance = Math.sqrt(
-                Math.pow(elementRect.top - questionRect.bottom, 2) +
-                Math.pow(elementRect.left - questionRect.left, 2)
-            );
-            
-            if (distance <= searchRadius) {
-                const text = element.textContent.trim();
-                if (text.length > 0) {
-                    candidates.push({
-                        element,
-                        text,
-                        distance
-                    });
-                }
-            }
-        }
-        
-        // Sort by distance (closest first)
-        return candidates.sort((a, b) => a.distance - b.distance);
+        console.log('findAnswerCandidates() ==> questionElement')
+        console.log(questionElement)
+        console.log('searching for answer:')
+        console.log(answer)
+        const parentElement = questionElement.closest('div')
+        console.log(parentElement)
+        const possibleAnswers = parentElement.querySelectorAll('li > div')
+        console.log(possibleAnswers)
+        possibleAnswers.forEach(answerDiv => {
+
+            console.log('answerdiv', answerDiv)
+            console.log('textContent', answerDiv.textContent)
+        })
+        return possibleAnswers
     }
     
     function isAnswerMatch(element, correctAnswer) {
+        console.log('incomingElementToGetTextContent, element, .textContent')
+        console.log(element)
+        console.log(element.textContent)
         const elementText = normalizeText(element.textContent);
         const answerText = normalizeText(correctAnswer);
-        
+        console.log('isAnswerMatch')
+        console.log('elementText')
+        console.log(elementText)
+        console.log('answerText')
+        console.log(answerText)
         // Direct match
-        if (elementText === answerText) return true;
+        if (elementText === answerText) {
+            console.log('exact match')
+            return true;
+        }
+             
         
         // Contains match
-        if (elementText.includes(answerText) || answerText.includes(elementText)) return true;
+        if (elementText.includes(answerText) || answerText.includes(elementText)) {
+            console.log('contains match')
+            return true;
+        }
         
         // Similarity match
         const similarity = calculateSimilarity(elementText, answerText);
         return similarity >= CONFIG.partialMatchThreshold;
     }
     
-    function highlightAnswerElement(textElement) {
-        // Find the appropriate parent container using closest()
-        const answerContainer = textElement.closest([
-            '.SelectableBox__StyledInnerBox-p3ixlm-1', // HubSpot specific
-            '[class*="SelectableBox"]',
-            '[class*="option"]',
-            '[class*="choice"]',
-            '[class*="answer"]',
-            'li',
-            'label',
-            'div'
-        ].join(','));
+    function highlightAnswerElement(correctAnswerElement) {
         
-        const targetElement = answerContainer || textElement;
-        
-        console.log(`🎨 [Q&A] Highlighting answer element:`, targetElement);
+        console.log(`🎨 [Q&A] Highlighting answer element:`, correctAnswerElement);
         
         // Store original styles
-        const originalStyle = targetElement.style.cssText;
+        const originalStyle = correctAnswerElement.style.cssText;
         
         // Apply green background highlighting (50% opacity)
-        targetElement.style.backgroundColor = 'rgba(0, 255, 0, 0.5)';
-        targetElement.style.transition = 'background-color 0.3s ease';
+        correctAnswerElement.style.backgroundColor = 'rgba(0, 255, 0, 0.5)';
+        correctAnswerElement.style.border = '3px solid purple';
+        correctAnswerElement.style.transition = 'background-color 0.3s ease';
         
         // Store for cleanup
         highlightedElements.push({
@@ -476,7 +445,7 @@
             className: 'answer-highlight'
         });
         
-        return targetElement;
+        return correctAnswerElement;
     }
     
     // Main processing function
