@@ -381,7 +381,7 @@ Which of the following statements about theme modules is TRUE
         console.log(`Found ${answerCandidates.length} answer candidates to check`);
         
         addSourceLink(questionElement,sourceUrl)
-        
+
         for (const candidate of answerCandidates) {
             console.log(candidate)
             
@@ -462,7 +462,7 @@ Which of the following statements about theme modules is TRUE
         
         // Store for cleanup
         highlightedElements.push({
-            element: targetElement,
+            element: correctAnswerElement,
             originalStyle,
             className: 'answer-highlight'
         });
