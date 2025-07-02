@@ -99,13 +99,16 @@ def scrape_course(url: str, course_name: str = None, output_dir: str = None, exa
         # Update registry for Chrome extension if exam URL provided
         if exam_url and schema_file:
             try:
-                # Calculate relative path for extension
-                relative_schema_path = os.path.relpath(schema_file, 'extension')
+                # Get relative path from extension directory
+                schema_filename = os.path.basename(schema_file)
+                relative_schema_path = f"schemas/{schema_filename}"
+                
                 add_schema_to_registry(
                     course_name=course_data.get('course_name', 'Unknown Course'),
                     exam_url=exam_url,
                     schema_filename=relative_schema_path
                 )
+                logger.info(f"Updated registry for exam: {exam_url}")
             except Exception as e:
                 logger.warning(f"Failed to update registry: {e}")
         
