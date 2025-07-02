@@ -47,27 +47,25 @@ class SchemaBuilder:
         
         return cleaned
     
-    def extract_correct_answer(self, answer_data: Dict) -> str:
+    def extract_correct_answer(self, answer_data):
         """
         Extract the correct answer from answer data
         
         Args:
-            answer_data: Answer data dictionary
+            answer_data: Answer data string or array
             
         Returns:
-            Correct answer text
+            Correct answer text or array
         """
-        # Check for multiple choice options first
-        if answer_data.get('options'):
-            correct_options = [opt['text'] for opt in answer_data['options'] if opt.get('is_correct')]
-            if correct_options:
-                return correct_options[0]  # Return first correct option
+        if isinstance(answer_data, list):
+            return answer_data
+        elif isinstance(answer_data, str):
+            return answer_data
+        elif isinstance(answer_data, dict):
+            return answer_data.get('answer', '')
+        else:
+            return ''
         
-        # Fallback to structured content or text content
-        if answer_data.get('structured_content'):
-            return answer_data['structured_content']
-        
-        return answer_data.get('text_content', '')
     
     def build_schema(self, course_data: Dict) -> Dict:
         """
