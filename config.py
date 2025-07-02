@@ -50,7 +50,7 @@ EXTENSION_CONFIG = {
 
 # Schema configuration
 SCHEMA_CONFIG = {
-    'output_directory': 'schemas',
+    'output_directory': 'extension/schemas',
     'schema_version': '1.0',
     'backup_enabled': True,
     'max_question_length': 1000,
