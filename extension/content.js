@@ -631,9 +631,13 @@ Which of the following statements about theme modules is TRUE
             // Check if clicked element or its parents contain the next button data attributes
             let element = target;
             for (let i = 0; i < 5 && element; i++) {
-                if (element.dataset && 
+                const isNextButton = element.dataset && 
                     (element.dataset.testId === 'exam-next-question-button' ||
-                     element.textContent?.includes('Next') && element.tagName === 'BUTTON')) {
+                     element.textContent?.includes('Next') && element.tagName === 'BUTTON')
+                // console.log('isNextButton', isNextButton)
+                // console.log(element)
+                const isResumeButton = element.dataset && element.dataset.key === 'learningCenter.exams.resume.resumeExam'
+                if (isNextButton || isResumeButton) {
                     
                     console.log('🔄 [Q&A] Next button clicked - clearing highlights and preparing for new question');
                     
