@@ -431,13 +431,14 @@ class WebScraper:
             if not answer_text:
                 logging.warning(f"Could not extract answer from {url}")
                 answer_text = "Answer not found"
+
             if len(answer_texts) == 1:
                 answer_text = answer_texts[0]
             elif len(answer_texts) > 1:
                 answer_text = answer_texts
             else:
                 answer_text = None
-                
+
             return {
                 'url': url,
                 'text_content': answer_text,
