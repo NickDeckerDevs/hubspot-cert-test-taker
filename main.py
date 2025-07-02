@@ -99,8 +99,20 @@ def scrape_course(url: str, course_name: str = None, output_dir: str = None, exa
         # Update registry for Chrome extension if exam URL provided
         if exam_url and schema_file:
             try:
-                # Calculate relative path for extension
-                relative_schema_path = os.path.relpath(schema_file, 'extension')
+                # Copy schema file to extension directory
+                extension_schemas_dir = os.path.join('extension', 'schemas')
+                os.makedirs(extension_schemas_dir, exist_ok=True)
+                
+                schema_filename = os.path.basename(schema_file)
+                extension_schema_path = os.path.join(extension_schemas_dir, schema_filename)
+                
+                # Copy the schema file
+                import shutil
+                shutil.copy2(schema_file, extension_schema_path)
+                logger.info(f"Copied schema to extension: {extension_schema_path}")
+                
+                # Register with relative path from extension directory
+                relative_schema_path = f"schemas/{schema_filename}"
                 add_schema_to_registry(
                     course_name=course_data.get('course_name', 'Unknown Course'),
                     exam_url=exam_url,

@@ -189,6 +189,8 @@ Generated schemas contain:
   - Now processes 69 questions (up from 53) with proper individual URLs
   - Added comprehensive documentation for creating new test schemas
   - Verified scraper functionality with test question extraction
+  - **Fixed schema deployment**: Scraper now automatically copies schema files to extension/schemas/ directory
+  - Registry system now works end-to-end: scraper creates schema → copies to extension → updates registry → extension auto-loads
 
 ## Changelog
 - July 01, 2025: Initial setup and complete implementation
