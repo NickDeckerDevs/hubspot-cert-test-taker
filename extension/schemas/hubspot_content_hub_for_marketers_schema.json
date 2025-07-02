@@ -1,0 +1,390 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-01T14:40:15.477559",
+  "course_info": {
+    "name": "HubSpot Content Hub for Marketers",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-cms-for-marketers-certification-answers/",
+    "total_questions": 63,
+    "scraped_date": "2025-07-01 14:37:49"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "When deciding on naming conventions for your Content Hub assets, what do you need to make sure of?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/when-deciding-on-naming-conventions-for/"
+    },
+    {
+      "id": 2,
+      "question": "What happens when you clone a landing page in HubSpot?",
+      "answer": "HubSpot creates a duplicate draft version of the page and adds the word “Clone” at the end of the original name.",
+      "source_url": "https://www.gcertificationcourse.com/what-happens-when-you-clone-a-landing/"
+    },
+    {
+      "id": 3,
+      "question": "True or false? You can upload files in bulk into the HubSpot file manager.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-upload-files-in/"
+    },
+    {
+      "id": 4,
+      "question": "True or false? The HubSpot Content Hub includes a standard SSL certificate for your website.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-hubspot-content-hub/"
+    },
+    {
+      "id": 5,
+      "question": "True or False? A website’s design is solely about looks.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-websites-design-is/"
+    },
+    {
+      "id": 6,
+      "question": "What are the five key characteristics of a good website user experience?",
+      "answer": "Useful, Intuitive, Consistent, Accessible, Appealing",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-five-key-characteristics/"
+    },
+    {
+      "id": 7,
+      "question": "Choose all that apply. Which methods can you use to research your user’s goals on your website?",
+      "answer": "Surveys",
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-methods/"
+    },
+    {
+      "id": 8,
+      "question": "How can you take advantage of the mere-exposure effect on your website?",
+      "answer": "Create consistency across your website’s visual and written content",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-take-advantage-of-the/"
+    },
+    {
+      "id": 9,
+      "question": "On the website shown in this image, what could this business do to improve the user experience of their website?",
+      "answer": "A and B",
+      "source_url": "https://www.gcertificationcourse.com/on-the-website-shown-in-this-image-wh/"
+    },
+    {
+      "id": 10,
+      "question": "True or False? In the Content Hub, website pages and landing pages are the same thing.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-in-the-content-hub-website/"
+    },
+    {
+      "id": 11,
+      "question": "In the page editor in the HubSpot Content Hub, pages are organized by:",
+      "answer": "Sections, rows, columns, modules",
+      "source_url": "https://www.gcertificationcourse.com/in-the-page-editor-in-the-hubspot-content/"
+    },
+    {
+      "id": 12,
+      "question": "In the HubSpot Content Hub, where do you go to change a page’s meta description?",
+      "answer": "The Settings tab",
+      "source_url": "https://www.gcertificationcourse.com/in-the-hubspot-content-hub-where-do-you/"
+    },
+    {
+      "id": 13,
+      "question": "What is the primary purpose of a topic cluster content strategy?",
+      "answer": "To rearrange your site architecture into clusters of related content",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-primary-purpose-of-a-topic-cluster/"
+    },
+    {
+      "id": 14,
+      "question": "What can you add to a blog post to determine what content will show up on the short form version of that post on your blog’s homepage?",
+      "answer": "Read more separator",
+      "source_url": "https://www.gcertificationcourse.com/what-can-you-add-to-a-blog-post-to-determine/"
+    },
+    {
+      "id": 15,
+      "question": "True or False? You can add a featured image to your blog post which will appear in social media posts.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-add-a-featured/"
+    },
+    {
+      "id": 16,
+      "question": "How do you build relevance and authority for your website?",
+      "answer": "Build relevance by creating high-quality content people want to read. Build authority by building high-quality backlinks.",
+      "source_url": "https://www.gcertificationcourse.com/how-do-you-build-relevance-and-authority-2/"
+    },
+    {
+      "id": 17,
+      "question": "Where in HubSpot can you go to improve the on-page SEO of a blog post?",
+      "answer": "The optimize tab in the blog post editor",
+      "source_url": "https://www.gcertificationcourse.com/where-in-hubspot-can-you-go-to-improve/"
+    },
+    {
+      "id": 18,
+      "question": "True or false? The recommended settings for canonical URLs are enabled by default in the HubSpot Content Hub and cannot be edited.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-recommended-settings/"
+    },
+    {
+      "id": 19,
+      "question": "What is the SEO purpose of adding links throughout your content?",
+      "answer": "Links help establish you as a trustworthy source and drive traffic to your other content.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-seo-purpose-of-adding-links/"
+    },
+    {
+      "id": 20,
+      "question": "What is the purpose of a sitemap?",
+      "answer": "To help search engine crawlers determine the structure of your website so that they can crawl it more intelligently",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-a-sitemap/"
+    },
+    {
+      "id": 21,
+      "question": "Choose all that apply. Technical optimizations you can make to your website in the HubSpot Content Hub include:",
+      "answer": "Requiring HTTPs for your domains.",
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-technical-optimizations/"
+    },
+    {
+      "id": 22,
+      "question": "What is the first question you should ask before you start gathering and analyzing data about your website?",
+      "answer": "“What is my main goal for my website and what metrics can I track to help me achieve it?”",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-first-question-you-should-ask/"
+    },
+    {
+      "id": 23,
+      "question": "True or False? You can only use one type of smart rule per module.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-only-use-one-type/"
+    },
+    {
+      "id": 24,
+      "question": "What tool can you use to segment your contacts database?",
+      "answer": "Lists",
+      "source_url": "https://www.gcertificationcourse.com/what-tool-can-you-use-to-segment-your/"
+    },
+    {
+      "id": 25,
+      "question": "Choose all that apply. Which of these tools are included for free with Content Hub?",
+      "answer": "Forms",
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-these-tools/"
+    },
+    {
+      "id": 26,
+      "question": "True or False? Every page published in the Content Hub is created using a template.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-every-page-published-in-the/"
+    },
+    {
+      "id": 27,
+      "question": "How do developers use themes?",
+      "answer": "Themes enable developers to create a site-wide content editing experience for marketers",
+      "source_url": "https://www.gcertificationcourse.com/how-do-cms-developers-use-themes/"
+    },
+    {
+      "id": 28,
+      "question": "Where in the HubSpot Content Hub can you edit your website’s header and footer?",
+      "answer": "In the page editor",
+      "source_url": "https://www.gcertificationcourse.com/where-in-the-hubspot-content-hub-can-you/"
+    },
+    {
+      "id": 29,
+      "question": "Choose all that apply. What are the different types of templates in the Content Hub?",
+      "answer": "Page templates",
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-what-are-the-different-2/"
+    },
+    {
+      "id": 30,
+      "question": "Fill in the blank: Theme modules are _______.",
+      "answer": "designed specifically to work within your theme",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-theme-modules-are/"
+    },
+    {
+      "id": 31,
+      "question": "True or False? Every page must be created using its own unique template.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-every-page-must-be-created/"
+    },
+    {
+      "id": 32,
+      "question": "True or False? Your theme is your source of truth for your website’s design.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-your-theme-is-your-source/"
+    },
+    {
+      "id": 33,
+      "question": "True or False? You need to know CSS to make any style changes to your pages.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-need-to-know-css-to/"
+    },
+    {
+      "id": 34,
+      "question": "The purpose of the Contents tab in the page editor is to:",
+      "answer": "Display a list of all the content modules on your page in the order they appear",
+      "source_url": "https://www.gcertificationcourse.com/the-purpose-of-the-contents-tab-in-the/"
+    },
+    {
+      "id": 35,
+      "question": "True or False? Once you remove a section, row, column, or module from your page you cannot undo it.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-once-you-remove-a-section/"
+    },
+    {
+      "id": 36,
+      "question": "What is the final step you should take before publishing a page?",
+      "answer": "Preview the page",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-final-step-you-should-take-before/"
+    },
+    {
+      "id": 37,
+      "question": "True or False? You should use a different theme for every page on your website.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-use-a-different/"
+    },
+    {
+      "id": 38,
+      "question": "What is a topic cluster?",
+      "answer": "A targeted cluster of relevant content that covers a specific topic in depth",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-topic-cluster/"
+    },
+    {
+      "id": 39,
+      "question": "Where can you view data about an individual blog post’s performance in HubSpot?",
+      "answer": "In the Performance tab of that blog post",
+      "source_url": "https://www.gcertificationcourse.com/where-can-you-view-data-about-an-individual/"
+    },
+    {
+      "id": 40,
+      "question": "Which of these data points is not tracked on the Performance tab of a blog post?",
+      "answer": "Revenue",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-data-points-is-not-tracked/"
+    },
+    {
+      "id": 41,
+      "question": "Choose all that apply. Which of the following should you add to your blog post to generate leads?",
+      "answer": "A text call-to-action at the top of your post",
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-the/"
+    },
+    {
+      "id": 42,
+      "question": "The purpose of a robots.txt file is to:",
+      "answer": "instruct search engine bots on how to crawl the pages on a website",
+      "source_url": "https://www.gcertificationcourse.com/the-purpose-of-a-robots-txt-file-is/"
+    },
+    {
+      "id": 43,
+      "question": "Fill in the blank. Backlinks are links ________.",
+      "answer": "from other websites to your website",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-backlinks-are-links/"
+    },
+    {
+      "id": 44,
+      "question": "Fill in the blank. HubSpot analysis found that the ideal length for blog posts is ____ words.",
+      "answer": "2100",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-hubspot-analysis-found/"
+    },
+    {
+      "id": 45,
+      "question": "Which of these is not a recommended best practice for writing blog post titles?",
+      "answer": "Write it in the form of a question",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-is-not-a-recommended-best/"
+    },
+    {
+      "id": 46,
+      "question": "Why is it important to avoid unnatural repetition of words in your blog post title, meta description, and URL?",
+      "answer": "It is a signal that search engines use to detect spam.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-important-to-avoid-unnatural-repetition/"
+    },
+    {
+      "id": 47,
+      "question": "Where can you find your website and traffic analytics reports in HubSpot?",
+      "answer": "Reporting & Data > Reports",
+      "source_url": "https://www.gcertificationcourse.com/where-can-you-find-your-website-and-traffic/"
+    },
+    {
+      "id": 48,
+      "question": "True or False? Using your traffic analytics report, you can see the source of traffic to your website.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-using-your-traffic-analytics/"
+    },
+    {
+      "id": 49,
+      "question": "Choose all that apply. At a high level, which metrics should you be tracking about your website performance?",
+      "answer": "Where your visitors are coming from",
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-at-a-high-level-which/"
+    },
+    {
+      "id": 50,
+      "question": "True or False? If you’re using assets from the marketplace, both the folder structure and names will be determined by the provider.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-youre-using-assets-from/"
+    },
+    {
+      "id": 51,
+      "question": "Choose all that apply. Where in HubSpot can you use folders to organize your Content Hub assets?",
+      "answer": "File manager",
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-where-in-hubspot-2/"
+    },
+    {
+      "id": 52,
+      "question": "Which of these is not a content status in HubSpot?",
+      "answer": "Updated",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-is-not-a-content-status/"
+    },
+    {
+      "id": 53,
+      "question": "Choose all that apply. Which of these pieces of content should be archived and unpublished?",
+      "answer": "Landing pages for expired offers",
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-these-pieces/"
+    },
+    {
+      "id": 54,
+      "question": "Which of these characteristics is not available to use in smart content?",
+      "answer": "Email address",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-characteristics-is-not/"
+    },
+    {
+      "id": 55,
+      "question": "What is a buyer persona?",
+      "answer": "A semi-fictional representation of your ideal customer based on real data and some select educated speculation",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-buyer-persona/"
+    },
+    {
+      "id": 56,
+      "question": "Which of these segments is a good place to start with your personalization efforts?",
+      "answer": "Your buyer personas",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-segments-is-a-good-place/"
+    },
+    {
+      "id": 57,
+      "question": "How is a visitor’s country determined for smart content?",
+      "answer": "The visitor’s IP address",
+      "source_url": "https://www.gcertificationcourse.com/how-is-a-visitors-country-determined-for/"
+    },
+    {
+      "id": 58,
+      "question": "True or False? You can have unlimited smart rules per module.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-have-unlimited-smart/"
+    },
+    {
+      "id": 59,
+      "question": "Jill is a marketer at The Green Thumb, a plant nursery that delivers plants to your doorstep. Her main buyer persona is young women who want to add greenery to their apartments but don’t know how to properly take care of plants. On The Green Thumb’s website they have the page “Which Plant Is Right For You?” that shows all the plants they offer and what environments they are suited for. How can Jill personalize this page to better target her buyer persona?",
+      "answer": "Add a “Recommended” tag to plants that are easy to take care of and well-suited for apartment living",
+      "source_url": "https://www.gcertificationcourse.com/jill-is-a-marketer-at-the-green-thumb-a-plant/"
+    },
+    {
+      "id": 60,
+      "question": "Which tool in HubSpot helps you establish thought leadership in search engines using a topic cluster content strategy?",
+      "answer": "SEO",
+      "source_url": "https://www.gcertificationcourse.com/which-tool-in-hubspot-helps-you-establish/"
+    },
+    {
+      "id": 61,
+      "question": "Where can you view all of your downloaded templates and modules?",
+      "answer": "Purchased tab of the Template Marketplace",
+      "source_url": "https://www.gcertificationcourse.com/where-can-you-view-all-of-your-downloaded/"
+    },
+    {
+      "id": 62,
+      "question": "What is the most important thing you can do to ensure your content ranks highly in search engines?",
+      "answer": "Create high-quality content that’s relevant to searchers’ needs",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-most-important-thing-you/"
+    },
+    {
+      "id": 63,
+      "question": "True or False? Adding someone’s name to a page is effective personalization.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-adding-someones-name/"
+    }
+  ]
+}

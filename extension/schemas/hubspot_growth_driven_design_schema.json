@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-01T14:37:38.796388",
+  "course_info": {
+    "name": "HubSpot Growth Driven Design",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+    "total_questions": 5,
+    "scraped_date": "2025-07-01 14:37:38"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What primary challenge(s) exist with the traditional web design process?",
+      "answer": "Fill in the blank: Growth-Driven Design is a smarter approach to web design that ____________, ____________, and ____________.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "traditional",
+        "web",
+        "design",
+        "process",
+        "challenge",
+        "primary",
+        "exist"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 2,
+      "question": "What are the three stages of Growth-Driven Design?",
+      "answer": "Which statement best describes the purpose of the strategy stage?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "design",
+        "driven",
+        "growth",
+        "three",
+        "stages"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 3,
+      "question": "Which statement best describes the purpose of the strategy stage?",
+      "answer": "Fill in the blank: The primary goal of the continuous improvement stage is to _______.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "strategy",
+        "best",
+        "describes",
+        "statement",
+        "stage",
+        "purpose"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 4,
+      "question": "Imagine your CEO says, “Why do we need to use Growth-Driven Design on our website? Don’t we just need it to look better than our competitors?” Which of the following is the best response to your CEO?",
+      "answer": "Which of the following statements best describes how to think of the website in relation to other departments?",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "imagine",
+        "best",
+        "growth",
+        "our",
+        "website",
+        "better",
+        "driven",
+        "design",
+        "following",
+        "ceo"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    },
+    {
+      "id": 5,
+      "question": "Which of the following statements best describes how to think of the website in relation to other departments?",
+      "answer": "Fill in the blank: When using Growth-Driven Design, you can experience ______, _______, and ______ compared to traditional web design.",
+      "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+      "matching_keywords": [
+        "think",
+        "departments",
+        "other",
+        "best",
+        "describes",
+        "following",
+        "statements",
+        "relation",
+        "website"
+      ],
+      "answer_options": [],
+      "metadata": {
+        "scraped_from": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+        "has_multiple_choice": false
+      }
+    }
+  ]
+}

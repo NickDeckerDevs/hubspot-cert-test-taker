@@ -1,0 +1,558 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-01T14:02:07.151276",
+  "course_info": {
+    "name": "Integrating With HubSpot I: Foundations",
+    "source_url": "https://www.gcertificationcourse.com/integrating-with-hubspot-i-foundations-answers/",
+    "total_questions": 91,
+    "scraped_date": "2025-07-01 13:58:35"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the key difference between a one-to-one integration and a one-to-many integration?",
+      "answer": "One-to-one integrations only work in a single account, while one-to-many integrations work in several accounts.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-key-difference-between-a-one/"
+    },
+    {
+      "id": 2,
+      "question": "What is a commonality of one-to-one and one-to-many integrations?",
+      "answer": "One-to-one and one-to-many integrations both need authentication to work.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-commonality-of-one-to-one-and/"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following statements about private apps is NOT true?",
+      "answer": "Private apps can be used in one-to-many integrations.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-about-14/"
+    },
+    {
+      "id": 4,
+      "question": "A customer wants to help their sales team generate new deals through email, which is their primary form of communication with potential customers. They’re evaluating whether they should build a custom solution. What’s the first question you should answer to help them determine next steps?",
+      "answer": "What problem is this integration aiming to solve?",
+      "source_url": "https://www.gcertificationcourse.com/a-customer-wants-to-help-their-sales-team/"
+    },
+    {
+      "id": 5,
+      "question": "What does the acronym CRUD stand for?",
+      "answer": "Create, Read, Update, Delete",
+      "source_url": "https://www.gcertificationcourse.com/what-does-the-acronym-crud-stand-for/"
+    },
+    {
+      "id": 6,
+      "question": "Select all that apply. What are the different HubSpot account types that developers can use?",
+      "answer": "Test account",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-the/"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is NOT a feature of a test account?",
+      "answer": "They expire after 60 days and you can’t renew them.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-feature-2/"
+    },
+    {
+      "id": 8,
+      "question": "True or false? Most HubSpot API endpoints are public and can be accessed using client-side JavaScript.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-most-hubspot-api-endpoints/"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a good use case for using the Webhooks API?",
+      "answer": "The customer wants to receive a notification every time a deal moves to a new stage in the pipeline.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-good-use-case/"
+    },
+    {
+      "id": 10,
+      "question": "Fill in the blank: CREATE is to POST as UPDATE is to ____.",
+      "answer": "PATCH",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-create-is-to-post-as/"
+    },
+    {
+      "id": 11,
+      "question": "When starting a new development project, what’s the biggest benefit to visiting the HubSpot Marketplace as your first step?",
+      "answer": "You can find a pre-built integration that meets your customer’s requests instead of having to build one out from scratch, saving time and money.",
+      "source_url": "https://www.gcertificationcourse.com/when-starting-a-new-development-project/"
+    },
+    {
+      "id": 12,
+      "question": "True or false? Developers can add associations to custom objects and standard CRM objects.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-developers-can-add/"
+    },
+    {
+      "id": 13,
+      "question": "A customer wants to update a custom object’s associations to be associated with the company object. How should they go about it doing this from the UI, without making a call to the API?",
+      "answer": "Update the associations of the custom object in the Data Management section in Settings.",
+      "source_url": "https://www.gcertificationcourse.com/a-customer-wants-to-update-a-custom-objects/"
+    },
+    {
+      "id": 14,
+      "question": "Why are the standard CRM objects closely aligned?",
+      "answer": "Because these objects need one another to make sense, such as having a contact associated with a deal.",
+      "source_url": "https://www.gcertificationcourse.com/why-are-the-standard-crm-objects-closely/"
+    },
+    {
+      "id": 15,
+      "question": "What is the importance of an entity relationship diagram?",
+      "answer": "It clearly defines the maximum and minimum number of associations between object types.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-importance-of-an-entity/"
+    },
+    {
+      "id": 16,
+      "question": "What is the importance of an object type’s unique ID?",
+      "answer": "You need the unique ID to access associated objects.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-importance-of-an-object-types/"
+    },
+    {
+      "id": 17,
+      "question": "How many company records can an individual engagement object, such as an email, be associated with?",
+      "answer": "Either zero or one",
+      "source_url": "https://www.gcertificationcourse.com/how-many-company-records-can-an-individual/"
+    },
+    {
+      "id": 18,
+      "question": "When making an API call to a standard object, what query parameter must you append to get connected contact records?",
+      "answer": "?associations=contacts",
+      "source_url": "https://www.gcertificationcourse.com/when-making-an-api-call-to-a-standard/"
+    },
+    {
+      "id": 19,
+      "question": "True or false? You would have to make another call to the contacts endpoint to get more information on the contacts associated with a company.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-would-have-to-make/"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a drawback to how API calls return associated contacts object data?",
+      "answer": "The call only returns the record ID property of the associated contacts and not any human-readable data.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-drawback-to/"
+    },
+    {
+      "id": 21,
+      "question": "True or false? In most situations, you’ll want to create a one-way bridge to dictate the flow of information between your integrations.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-in-most-situations-youll/"
+    },
+    {
+      "id": 22,
+      "question": "What does delegated authorization mean?",
+      "answer": "It creates a three-way bond between a user and two different apps, allowing apps to interact with each other and give the user a seamless experience.",
+      "source_url": "https://www.gcertificationcourse.com/what-does-delegated-authorization-mean/"
+    },
+    {
+      "id": 23,
+      "question": "Which of the following is an example of how you interact with OAuth on a daily basis?",
+      "answer": "You sign into a shopping site with your Google login information.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-3/"
+    },
+    {
+      "id": 24,
+      "question": "True or false? The OAuth endpoint expects the form/urlencoded format instead of JSON.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-oauth-endpoint-expects/"
+    },
+    {
+      "id": 25,
+      "question": "What is the purpose of an .env file?",
+      "answer": "To keep secret keys outside of source code, which often live in online code repositories",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-an-env-file/"
+    },
+    {
+      "id": 26,
+      "question": "What must you first obtain and then add to your OAuth flow (once the authorization expires)?",
+      "answer": "Refresh token",
+      "source_url": "https://www.gcertificationcourse.com/what-must-you-first-obtain-and-then-add/"
+    },
+    {
+      "id": 27,
+      "question": "When working with a private app, you receive the error 403. How would you go about rectifying this error?",
+      "answer": "Update the scopes in your private app scope settings.",
+      "source_url": "https://www.gcertificationcourse.com/when-working-with-a-private-app-you-receive/"
+    },
+    {
+      "id": 28,
+      "question": "When expiring your private app access tokens, how much of a time buffer can you set before the private app token is rotated?",
+      "answer": "Seven days",
+      "source_url": "https://www.gcertificationcourse.com/when-expiring-your-private-app-access/"
+    },
+    {
+      "id": 29,
+      "question": "Select all that apply. Which of the following are the different ways you can filter the private app API call logs?",
+      "answer": "Response code",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-2/"
+    },
+    {
+      "id": 30,
+      "question": "You want to build a private app that can create new custom objects. What scope would you need to give this private app access to?",
+      "answer": "crm.schema.custom",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-build-a-private-app-that-can/"
+    },
+    {
+      "id": 31,
+      "question": "What are the two things you need to pass along to the axios .get method?",
+      "answer": "The API endpoint URL and the headers object",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-two-things-you-need-to-pass/"
+    },
+    {
+      "id": 32,
+      "question": "How can you find the API version number for the call you’re using?",
+      "answer": "The version number is embedded in the API endpoint URL, such as v1 or v3.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-find-the-api-version-number/"
+    },
+    {
+      "id": 33,
+      "question": "True or false? Most HubSpot APIs require you to use either OAuth or private app for authentication.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-most-hubspot-apis-require/"
+    },
+    {
+      "id": 34,
+      "question": "What is the main purpose of an API rate limit?",
+      "answer": "To ensure every user has a quality experience with the system",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-main-purpose-of-an-api-rate/"
+    },
+    {
+      "id": 35,
+      "question": "What is the main benefit of the HubSpot developer changelog?",
+      "answer": "It shares updates to the HubSpot product in a single place.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-main-benefit-of-the-hubspot/"
+    },
+    {
+      "id": 36,
+      "question": "Fill in the blank: Apps using OAuth are subject to a limit of ____ requests every 10 seconds.",
+      "answer": "100",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-apps-using-oauth-are/"
+    },
+    {
+      "id": 37,
+      "question": "Which API has a special limit of four requests per second per authentication token?",
+      "answer": "The Search API",
+      "source_url": "https://www.gcertificationcourse.com/which-api-has-a-special-limit-of-four/"
+    },
+    {
+      "id": 38,
+      "question": "What is the maximum number of private apps you can create in one account?",
+      "answer": "20",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-maximum-number-of-private/"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is NOT a benefit of using a Batch API endpoint?",
+      "answer": "You can better work with time-sensitive data so that they’re updated faster.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-benefit-3/"
+    },
+    {
+      "id": 40,
+      "question": "A customer wants a ticket’s data called on a certain web page to also be available in other parts of the integration. What could you do to ensure you’re not making too many of the same calls to the API?",
+      "answer": "Cache the data on the first call and then grab the data from the cache on subsequent uses.",
+      "source_url": "https://www.gcertificationcourse.com/a-customer-wants-a-tickets-data-called/"
+    },
+    {
+      "id": 41,
+      "question": "How does a webhook differ from a traditional API call?",
+      "answer": "Webhooks only complete an action once the stated event occurs.",
+      "source_url": "https://www.gcertificationcourse.com/how-does-a-webhook-differ-from-a/"
+    },
+    {
+      "id": 42,
+      "question": "True or false? You can list an integration that receives error responses 7% of the time.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-list-an-integration/"
+    },
+    {
+      "id": 43,
+      "question": "What is the best strategy to avoid receiving 400-level errors?",
+      "answer": "Routinely clean your account data.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-best-strategy-to-avoid/"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following resources would be best to use if you wanted to crowdsource a development question you have?",
+      "answer": "HubSpot developer community",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-resources-would/"
+    },
+    {
+      "id": 45,
+      "question": "Why is it best practice to add a delay between automatic, repeated API calls?",
+      "answer": "It lessens the chance you’ll receive 5xx temporarily overloaded errors.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-best-practice-to-add-a-delay/"
+    },
+    {
+      "id": 46,
+      "question": "What is the key difference between 400- and 500-level errors?",
+      "answer": "400-level errors are usually within the integration itself. 500-level errors are usually with the service you’re calling.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-key-difference-between-400/"
+    },
+    {
+      "id": 47,
+      "question": "True or false? You can use the dev docs to make test calls to the API.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-use-the-dev-docs/"
+    },
+    {
+      "id": 48,
+      "question": "When would you likely receive a 477 error?",
+      "answer": "If you were migrating your Hub to an EU hublet.",
+      "source_url": "https://www.gcertificationcourse.com/when-would-you-likely-receive-a-477-error/"
+    },
+    {
+      "id": 49,
+      "question": "Where would you submit a question regarding a JavaScript error you received within the HubSpot developer Slack?",
+      "answer": "#javascript",
+      "source_url": "https://www.gcertificationcourse.com/where-would-you-submit-a-question/"
+    },
+    {
+      "id": 50,
+      "question": "Fill in the blank: For an integration, the single required parameter is _____.",
+      "answer": "authentication",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-for-an-integration-the/"
+    },
+    {
+      "id": 51,
+      "question": "Why is it recommended to use Axios when making HTTP requests?",
+      "answer": "The syntax clearly states what types of requests are being made.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-recommended-to-use-axios-when/"
+    },
+    {
+      "id": 52,
+      "question": "True or false? Using a try/catch is recommended in case the API call fails.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-using-a-try-catch-is/"
+    },
+    {
+      "id": 53,
+      "question": "What is the difference between a 200 response and a 201 response?",
+      "answer": "200 generally applies to GET calls, while 201 generally applies to POST calls.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-difference-between-a-200/"
+    },
+    {
+      "id": 54,
+      "question": "Select all that apply. What are some of the query parameters for standard CRM objects.",
+      "answer": "associations",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-some-of/"
+    },
+    {
+      "id": 55,
+      "question": "What is the purpose of a pug template?",
+      "answer": "To more easily create HTML code that uses the data from the server-side",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-a-pug-template/"
+    },
+    {
+      "id": 56,
+      "question": "A bike repair shop customer wants to make it easier for their repair technicians to alert customers when a job has been completed. Their repair technicians are busy and don’t have time to send individual messages to their customers. Which of the following is the fastest, easiest potential solution you could offer?",
+      "answer": "Set up an automated email workflow that triggers when the ticket is completed.",
+      "source_url": "https://www.gcertificationcourse.com/a-bike-repair-shop-customer-wants-to-make/"
+    },
+    {
+      "id": 57,
+      "question": "True or false? You must build a Node app to test API calls.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-must-build-a-node-app/"
+    },
+    {
+      "id": 58,
+      "question": "Fill in the blank: const headers = { Authorization: `Bearer ${private_app_token} 'Content-Type: ______ }",
+      "answer": "application/json",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-const-headers/"
+    },
+    {
+      "id": 59,
+      "question": "Which of the following is the correct API endpoint for calling the Companies API?",
+      "answer": "/crm/v3/objects/companies",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-correct-api/"
+    },
+    {
+      "id": 60,
+      "question": "Which of the following is a key reason you should use node packages when building a basic Node app?",
+      "answer": "Node packages allow you to use pre-built code for specific functionalities of your integration.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-key-reason/"
+    },
+    {
+      "id": 61,
+      "question": "What is the purpose of using OAuth in a one-to-many integration?",
+      "answer": "To allow multiple different users to authenticate with the integration.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-using-oauth-in-a/"
+    },
+    {
+      "id": 62,
+      "question": "What is NOT a key benefit of the HubSpot APIs being RESTful APIs?",
+      "answer": "The HubSpot APIs connect the server-side to the client-side, so they are never independent of one another.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-not-a-key-benefit-of-the-hubspot/"
+    },
+    {
+      "id": 63,
+      "question": "What HTTP method would you use if you wanted to read the tickets data from a HubSpot account?",
+      "answer": "GET method",
+      "source_url": "https://www.gcertificationcourse.com/what-http-method-would-you-use-if-you/"
+    },
+    {
+      "id": 64,
+      "question": "Select all that apply. Which of the following is a difference in the way developers and users interact with the CRM?",
+      "answer": "Developers focus on the object API endpoints, while customers focus on the object records.",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the/"
+    },
+    {
+      "id": 65,
+      "question": "Select all that apply. What is the purpose of having a pipeline view for deals and tickets?",
+      "answer": "To more quickly drag and drop records into a new part of the pipeline.",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-the-purpose/"
+    },
+    {
+      "id": 66,
+      "question": "True or false? A timeline event can be associated with zero contacts.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-timeline-event-can-be/"
+    },
+    {
+      "id": 67,
+      "question": "Where can you find pre-built Postman collections to view and test API calls?",
+      "answer": "The HubSpot developer documentation",
+      "source_url": "https://www.gcertificationcourse.com/where-can-you-find-pre-built-postman/"
+    },
+    {
+      "id": 68,
+      "question": "Fill in the blank: There can be many timeline events associated with a contact, but a timeline event cannot be associated with ____ contacts.",
+      "answer": "zero",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-there-can-be-many-timeline/"
+    },
+    {
+      "id": 69,
+      "question": "Which of the following is NOT a benefit of using OAuth as your authentication flow?",
+      "answer": "It can be created inside of single HubSpot accounts.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-benefit-4/"
+    },
+    {
+      "id": 70,
+      "question": "What must the user do to authenticate with OAuth?",
+      "answer": "None of the above. The user only has to read the first authorization screen and permit or deny the integration from accessing their HubSpot account. The rest happens in the backend.",
+      "source_url": "https://www.gcertificationcourse.com/what-must-the-user-do-to-authenticate-with/"
+    },
+    {
+      "id": 71,
+      "question": "Fill in the blank: HubSpot API rate limits vary by authentication method and _____.",
+      "answer": "product tier",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-hubspot-api-rate-limits/"
+    },
+    {
+      "id": 72,
+      "question": "What is the key benefit of using a webhook call in a workflow?",
+      "answer": "They don’t count toward the API rate limit.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-key-benefit-of-using-a-webhook/"
+    },
+    {
+      "id": 73,
+      "question": "What type of HTTP method is a batch API call?",
+      "answer": "POST",
+      "source_url": "https://www.gcertificationcourse.com/what-type-of-http-method-is-a-batch-api/"
+    },
+    {
+      "id": 74,
+      "question": "Which of the following is NOT a benefit of using the dev docs?",
+      "answer": "You can directly submit questions to other developers.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-benefit-5/"
+    },
+    {
+      "id": 75,
+      "question": "Fill in the blank: HubSpot API errors are structured to be ______, but it’ll also be helpful for you to recognize some common error response codes when troubleshooting.",
+      "answer": "human-readable",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-hubspot-api-errors-are/"
+    },
+    {
+      "id": 76,
+      "question": "A customer has a lot of inbox conversations coming in each day for their service reps. Their reps can sometimes miss questions because of how full it gets. They mainly work in Slack and would prefer if they could answer their customers’ questions without leaving that app. What part of the dev docs could help you create this connection point?",
+      "answer": "The Conversations section",
+      "source_url": "https://www.gcertificationcourse.com/a-customer-has-a-lot-of-inbox-conversations/"
+    },
+    {
+      "id": 77,
+      "question": "What is NOT one of the benefits of the HubSpot developer community?",
+      "answer": "You can get an overview of a specific API.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-not-one-of-the-benefits-of-the-2/"
+    },
+    {
+      "id": 78,
+      "question": "How can you set up the idProperty to use a unique parameter, such as an email address, other than the contact record’s ID number?",
+      "answer": "Use “idProperty=email”",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-set-up-the-idproperty-to-use/"
+    },
+    {
+      "id": 79,
+      "question": "Which of the following is needed to call a custom property in your integration?",
+      "answer": "The custom property’s internal name",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-needed-to-call/"
+    },
+    {
+      "id": 80,
+      "question": "What is the main purpose of a developer account?",
+      "answer": "To create and manage apps and test accounts",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-main-purpose-of-a-developer/"
+    },
+    {
+      "id": 81,
+      "question": "A customer wants to create an internal integration that’ll assign a contact directly to a chosen workflow. What type of integration would this be and what type of authentication method would you use?",
+      "answer": "One-to-one, Private app",
+      "source_url": "https://www.gcertificationcourse.com/a-customer-wants-to-create-an-internal/"
+    },
+    {
+      "id": 82,
+      "question": "True or false? You must have a Professional or higher HubSpot account to purchase the API Add-on.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-must-have-a-professional/"
+    },
+    {
+      "id": 83,
+      "question": "Select all that apply. What are the benefits of having an app monitoring tool in your HubSpot account?",
+      "answer": "You can track how much of your daily usage you’ve used.",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-the-benefits/"
+    },
+    {
+      "id": 84,
+      "question": "What is the most common cause of a 404 error?",
+      "answer": "The data is either deleted or archived.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-most-common-cause-of-a-404/"
+    },
+    {
+      "id": 85,
+      "question": "Select all that apply. Which of the following topics can be found on the API-side of the dev docs?",
+      "answer": "CRM",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-19/"
+    },
+    {
+      "id": 86,
+      "question": "When creating a new object record, how is the new data sent along?",
+      "answer": "In a body object",
+      "source_url": "https://www.gcertificationcourse.com/when-creating-a-new-object-record-how-is/"
+    },
+    {
+      "id": 87,
+      "question": "Select all that apply. Which of the following is a benefit of using a promise when working with APIs in a Node App?",
+      "answer": "Promises allow you to run code asynchronously.",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-20/"
+    },
+    {
+      "id": 88,
+      "question": "In the HubSpot UI, where can you find the other objects associated to an individual contact record?",
+      "answer": "In the right-hand column of an individual contact record page",
+      "source_url": "https://www.gcertificationcourse.com/in-the-hubspot-ui-where-can-you-find-the/"
+    },
+    {
+      "id": 89,
+      "question": "What account permission level is required to create private apps?",
+      "answer": "Super admin access",
+      "source_url": "https://www.gcertificationcourse.com/what-account-permission-level-is-required/"
+    },
+    {
+      "id": 90,
+      "question": "What is the main difference between the dev docs and the knowledge base (KB)?",
+      "answer": "The dev docs are written with developers in mind, while the KB is written with end-users in mind.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-main-difference-between-the-2/"
+    },
+    {
+      "id": 91,
+      "question": "Which of the following is NOT a way to keep your access token safe?",
+      "answer": "Keep your access tokens in a GitHub repository",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-way-to-2/"
+    }
+  ]
+}
