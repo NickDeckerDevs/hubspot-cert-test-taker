@@ -352,13 +352,35 @@ Which of the following statements about theme modules is TRUE
         
         return questionElements.slice(0, CONFIG.maxQuestionsPerPage);
     }
+
+    // add link to answer to dom
+    function addSourceLink(questionElement, url) {
+        const elem = document.createElement('a')
+        elem.href = url
+        elem.target = '_blank'
+        elem.textContent = 'Open Test Answer In New Tab'
+        elem.style.cssText = `
+            display: inline-block;
+            margin-left: 10px;
+            padding: 2px 6px;
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 3px;
+            font-size: 11px;
+            font-weight: bold;
+        `
+        questionElement.parentNode.insertBefore(elem, questionElement.nextSibling)
+    }
     
     // Answer highlighting
-    function highlightCorrectAnswer(questionElement, answer) {
+    function highlightCorrectAnswer(questionElement, answer, sourceUrl) {
         console.group(`🎯 [Q&A] Highlighting Answer: "${answer}"`);
         
         const answerCandidates = findAnswerCandidates(questionElement, answer);
         console.log(`Found ${answerCandidates.length} answer candidates to check`);
+        
+        addSourceLink(questionElement,sourceUrl)
         
         for (const candidate of answerCandidates) {
             console.log(candidate)
@@ -499,7 +521,7 @@ Which of the following statements about theme modules is TRUE
             
             if (match) {
                 // Only highlight the correct answer (no question highlighting)
-                const answerHighlighted = highlightCorrectAnswer(questionElement, match.qa.answer);
+                const answerHighlighted = highlightCorrectAnswer(questionElement, match.qa.answer, match.qa.source_url);
                 
                 if (answerHighlighted) {
                     highlightedCount++;
@@ -514,7 +536,7 @@ Which of the following statements about theme modules is TRUE
         }
         
         // Show results
-        const message = `Processed ${questionElements.length} questions. Highlighted ${highlightedCount} answers.`;
+        let message = `Processed ${questionElements.length} questions. Highlighted ${highlightedCount} answers.`;
         if (unrecognizedCount > 0) {
             message += ` ${unrecognizedCount} questions not recognized.`;
         }
