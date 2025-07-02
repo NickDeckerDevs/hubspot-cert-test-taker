@@ -267,110 +267,58 @@ Which of the following statements about theme modules is TRUE
     
     // Question detection
     function findQuestionElements() {
-        console.group('🔍 [Q&A] Finding Question Elements');
-        
-        const questionSelectors = [
-            // HubSpot Academy specific selectors
-            '[data-test-id*="question"]',
-            '[data-testid*="question"]',
-            '[class*="question"]',
-            '[id*="question"]',
-            // Generic exam platform selectors
-            '[class*="quiz"]',
-            '[class*="assessment"]',
-            '[class*="exam"]',
-            '[role="group"]',
-            '[role="radiogroup"]',
-            '[role="checkbox"]',
-            // Content-based selectors for question text
-            'div:contains("?")',
-            'p:contains("?")',
-            'h1:contains("?")',
-            'h2:contains("?")',
-            'h3:contains("?")',
-            'h4:contains("?")',
-            'li:contains("?")',
-            'label:contains("?")',
-            'span:contains("?")'
-        ];
-        
-        const questionElements = [];
-        
-        console.log(`🎯 [Q&A] Trying specific selectors first...`);
-        // First, try specific selectors
-        for (const selector of questionSelectors.slice(0, 10)) {
-            const elements = document.querySelectorAll(selector);
-            console.log(`   Selector "${selector}": found ${elements.length} elements`);
-            
-            for (const element of elements) {
-                const text = element.textContent.trim();
-                if (text.length > 10 && text.includes('?')) {
-                    questionElements.push(element);
-                    console.log(`   ✅ Added question: "${text.substring(0, 60)}..."`);
-                }
-            }
-        }
-        
-        // If no specific elements found, search for text containing questions
-        if (questionElements.length === 0) {
-            console.log(`🔄 [Q&A] No specific elements found, searching all text elements...`);
-            
-            const allElements = document.querySelectorAll('div, p, h1, h2, h3, h4, li, span');
-            console.log(`   Checking ${allElements.length} text elements for question patterns...`);
-            
-            for (const element of allElements) {
-                const text = element.textContent.trim();
-                if (text.length > 20 && text.includes('?') && text.length < 500) {
-                    // Check if it's likely a question (not just containing a question mark)
-                    const questionPatterns = [
-                        /^(what|which|who|when|where|why|how|is|are|do|does|did|can|could|should|would|will)/i,
-                        /\?$/,
-                        /^.{10,200}\?/
-                    ];
-                    
-                    if (questionPatterns.some(pattern => pattern.test(text))) {
-                        questionElements.push(element);
-                        console.log(`   ✅ Found question by pattern: "${text.substring(0, 60)}..."`);
-                    }
-                }
-            }
-        }
-        
-        console.log(`📊 [Q&A] Total question elements found: ${questionElements.length}`);
-        
-        // Log details of each found question
-        questionElements.slice(0, 10).forEach((element, i) => {
-            const text = element.textContent.trim();
-            console.log(`   ${i + 1}. "${text.substring(0, 80)}..." (${element.tagName})`);
-        });
-        
-        if (questionElements.length > 10) {
-            console.log(`   ... and ${questionElements.length - 10} more questions`);
-        }
-        
-        console.groupEnd();
-        
-        return questionElements.slice(0, CONFIG.maxQuestionsPerPage);
+        const learningContainer = document.querySelector('div[class^="LearningContentContainer"]')
+        if(!learningContainer) return []
+        let questionElement = learningContainer.querySelector('h2')
+        // returning array to allow for variations if needed 
+        return [questionElement]
     }
 
     // add link to answer to dom
     function addSourceLink(questionElement, url) {
+        const linkContainer = document.createElement('div')
+        linkContainer.style.cssText = `
+            width: 100%;
+            height: auto;
+            display: flex;
+            justify-content: flex-end;
+        `
+        linkContainer.classList = 'nd__source-link--container'
         const elem = document.createElement('a')
         elem.href = url
+        elem.classList = 'nd__source-link'
         elem.target = '_blank'
         elem.textContent = 'Open Test Answer In New Tab'
         elem.style.cssText = `
             display: inline-block;
-            margin-left: 10px;
+            margin: 5px 0 0 0;
             padding: 2px 6px;
-            background: #007bff;
-            color: white;
+            background: rgba(0, 255, 0, 0.5);
+            border: 2px solid purple;
+            color: purple;
             text-decoration: none;
             border-radius: 3px;
-            font-size: 11px;
+            font-size: 12px;
             font-weight: bold;
+            position: relative;
+            z-index: 1000000;
         `
-        questionElement.parentNode.insertBefore(elem, questionElement.nextSibling)
+
+
+        const sourceLink = document.querySelector('.nd__source-link')
+        if(sourceLink) {
+            sourceLink.href = url
+            return
+        }
+
+        const examContainer = document.querySelector('div[data-test-id="exam-container"]')
+        if(!examContainer) {
+            console.log('exam container not found while trying to post question')
+            return
+        }
+        linkContainer.append(elem)
+        examContainer.appendChild(linkContainer)
+        
     }
     
     // Answer highlighting
