@@ -1,0 +1,8 @@
+.DS_Store
+scraper.log
+venv
+
+# Other common Python ignores
+__pycache__/
+*.pyc
+*.log # If you want to ignore scraper.log
