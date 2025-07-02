@@ -7,6 +7,13 @@ from urllib.parse import urljoin, urlparse
 import trafilatura
 from typing import List, Dict, Optional
 
+
+# todo list
+# scraper needs to pick up multiple options
+# https://www.gcertificationcourse.com/choose-all-that-apply-which-of-the-following/
+# Choose all that apply. Which of the following are always good strategies for building templates
+
+
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -403,7 +410,7 @@ class WebScraper:
             Dictionary with answer content
         """
         try:
-            answer_text = None
+            answer_texts = []
             
             # Look for the correct answer pattern: <li> elements with <strong> tags inside <article>
             article = soup.find('article')
@@ -416,23 +423,21 @@ class WebScraper:
                     strong_tag = li.find('strong')
                     if strong_tag:
                         answer_text = strong_tag.get_text(strip=True)
+                        answer_texts.append(answer_text)
                         logging.info(f"Found answer in <strong> tag: {answer_text}")
                         break
-            
-            # Fallback: Look for bold text in lists anywhere on the page
-            if not answer_text:
-                bold_in_lists = soup.find_all('li')
-                for li in bold_in_lists:
-                    strong_tag = li.find('strong')
-                    if strong_tag:
-                        answer_text = strong_tag.get_text(strip=True)
-                        logging.info(f"Found answer in fallback search: {answer_text}")
-                        break
+
             
             if not answer_text:
                 logging.warning(f"Could not extract answer from {url}")
                 answer_text = "Answer not found"
-            
+            if len(answer_texts) == 1:
+                answer_text = answer_texts[0]
+            elif len(answer_texts) > 1:
+                answer_text = answer_texts
+            else:
+                answer_text = None
+                
             return {
                 'url': url,
                 'text_content': answer_text,
