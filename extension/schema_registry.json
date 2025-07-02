@@ -40,6 +40,14 @@
       "exam_id": "9206068",
       "course_name": "HubSpot Content Hub for Marketers",
       "exam_url": "https://app.hubspot.com/academy/171726/tracks/9206068/exam"
+    },
+    {
+      "name": "Service Hub Software",
+      "exam_url_pattern": "tracks/9148739/exam",
+      "schema_file": "schemas/service_hub_software_schema.json",
+      "exam_id": "9148739",
+      "course_name": "Service Hub Software",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9148739/exam"
     }
   ]
 }

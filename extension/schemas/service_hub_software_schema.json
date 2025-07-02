@@ -1,0 +1,534 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-02T13:00:32.496402",
+  "course_info": {
+    "name": "Service Hub Software",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-service-hub-software-certification/",
+    "total_questions": 87,
+    "scraped_date": "2025-07-02 12:57:11"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "True or false? When connecting your email to help desk, you should connect your personal email.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-connecting-your-email/"
+    },
+    {
+      "id": 2,
+      "question": "True or false? Most people prefer using self-service compared to phone support.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-most-people-prefer-using-self-service/"
+    },
+    {
+      "id": 3,
+      "question": "True or false? It's a best practice to send your NPS survey to customers monthly.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-a-best-practice-to-send-your/"
+    },
+    {
+      "id": 4,
+      "question": "True or false? You should only ask a customer to become an advocate over the phone.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-only-ask-a-customer/"
+    },
+    {
+      "id": 5,
+      "question": "True or false? You could use an NPS survey to assess overall sentiment of your employees.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-could-use-an-nps-survey-to-assess/"
+    },
+    {
+      "id": 6,
+      "question": "True or false? When writing custom feedback surveys, use a variety of open-ended and closed-ended questions.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-writing-custom-feedback/"
+    },
+    {
+      "id": 7,
+      "question": "True or false? Customer effort score is measured on a three-point scale.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-customer-effort-score-is-measured/"
+    },
+    {
+      "id": 8,
+      "question": "True or false? Regardless of how long it takes, you should respond to every single customer feedback survey you receive.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-regardless-of-how-long-it-takes/"
+    },
+    {
+      "id": 9,
+      "question": "Your manager wants to know who your primary persona is. The best feedback survey to use is:",
+      "answer": "Custom feedback survey",
+      "source_url": "https://www.gcertificationcourse.com/your-manager-wants-to-know-who-your-primary/"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is NOT a stage in HubSpot's feedback framework?",
+      "answer": "Collect customer feedback",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-stage-in-hubspots/"
+    },
+    {
+      "id": 11,
+      "question": "What is an advocate?",
+      "answer": "Someone who helps you generate more business",
+      "source_url": "https://www.gcertificationcourse.com/what-is-an-advocate/"
+    },
+    {
+      "id": 12,
+      "question": "According to the prioritization matrix, customer issues that are high impact and high cost should be prioritized:",
+      "answer": "Tomorrow",
+      "source_url": "https://www.gcertificationcourse.com/according-to-the-prioritization-matrix-customer/"
+    },
+    {
+      "id": 13,
+      "question": "If you want to know what your customer thinks about their sales experience, which feedback survey should you use?",
+      "answer": "Customer satisfaction survey",
+      "source_url": "https://www.gcertificationcourse.com/if-you-want-to-know-what-your-customer-thinks/"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is NOT an example of an advocacy action?",
+      "answer": "Paying your customer to leave you a good review regardless of their actual experience.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-example-of/"
+    },
+    {
+      "id": 15,
+      "question": "All of the following are reasons to collect feedback EXCEPT:",
+      "answer": "To save money",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-reasons-to-collect-feedback/"
+    },
+    {
+      "id": 16,
+      "question": "How do you calculate NPS?",
+      "answer": "Percentage of promoters minus percentage of detractors",
+      "source_url": "https://www.gcertificationcourse.com/how-do-you-calculate-nps/"
+    },
+    {
+      "id": 17,
+      "question": "What's a good NPS score?",
+      "answer": "Varies by industry",
+      "source_url": "https://www.gcertificationcourse.com/whats-a-good-nps-score/"
+    },
+    {
+      "id": 18,
+      "question": "All of following are appropriate ways you can encourage folks to fill out your feedback surveys EXCEPT:",
+      "answer": "Email customers daily until they fill out the survey",
+      "source_url": "https://www.gcertificationcourse.com/all-of-following-are-appropriate-ways-you-can/"
+    },
+    {
+      "id": 19,
+      "question": "Scenario: Your boss wants to assess how customers feel after a technician visited their home. Which survey should your boss use?",
+      "answer": "Customer satisfaction survey",
+      "source_url": "https://www.gcertificationcourse.com/scenario-your-boss-wants-to-assess-how-customers/"
+    },
+    {
+      "id": 20,
+      "question": "Which survey asks the following question: How easy was it for you to handle your issue?",
+      "answer": "Customer effort score",
+      "source_url": "https://www.gcertificationcourse.com/which-survey-asks-the-following-question/"
+    },
+    {
+      "id": 21,
+      "question": "Fill in the blank: You should use NPS instead of customer satisfaction survey when you want to understand __________.",
+      "answer": "Overall satisfaction vs. satisfaction at a particular moment",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-you-should-use-nps-instead/"
+    },
+    {
+      "id": 22,
+      "question": "Fill in the blank: You should use a customer effort score instead of a customer satisfaction survey when you want to understand __________.",
+      "answer": "Ease of completing a task",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-you-should-use-a-customer-effort/"
+    },
+    {
+      "id": 23,
+      "question": "True of false? You can edit the NPS question in HubSpot.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-of-false-you-can-edit-the-nps-question-in-hubspot/"
+    },
+    {
+      "id": 24,
+      "question": "Fill in the blank: When responding to a customer, you should use an email template to______.",
+      "answer": "answer a generic question",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-when-responding-to-a-customer/"
+    },
+    {
+      "id": 25,
+      "question": "Which report(s) do you use to decide which knowledge base articles to write?",
+      "answer": "Ticket volume by category",
+      "source_url": "https://www.gcertificationcourse.com/which-reports-do-you-use-to-decide-which/"
+    },
+    {
+      "id": 26,
+      "question": "Which of the following is a benefit of phone support?",
+      "answer": "Customers can get immediate help for complicated issues.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-benefit-of-phone-support/"
+    },
+    {
+      "id": 27,
+      "question": "All of the following are benefits of email support EXCEPT:",
+      "answer": "It's immediate",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-benefits-of-email-support-except/"
+    },
+    {
+      "id": 28,
+      "question": "A service level agreement is a(n)",
+      "answer": "Commitment between a service provider and a client",
+      "source_url": "https://www.gcertificationcourse.com/a-service-level-agreement-is-an/"
+    },
+    {
+      "id": 29,
+      "question": "A help desk does all of the following EXCEPT:",
+      "answer": "Provide feedback",
+      "source_url": "https://www.gcertificationcourse.com/a-help-desk-does-all-of-the-following-except/"
+    },
+    {
+      "id": 30,
+      "question": "Intake is how you _____.",
+      "answer": "receive support inquiries",
+      "source_url": "https://www.gcertificationcourse.com/intake-is-how-you/"
+    },
+    {
+      "id": 31,
+      "question": "In terms of customer support, what does triage mean?",
+      "answer": "Categorizing and routing support inquiries",
+      "source_url": "https://www.gcertificationcourse.com/in-terms-of-customer-support-what-does-triage-mean/"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is an example of when you should use a restricted knowledge base?",
+      "answer": "A&B",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-when/"
+    },
+    {
+      "id": 33,
+      "question": "The HubSpot knowledge base tool can do all of the following EXCEPT:",
+      "answer": "Suggest articles to be written",
+      "source_url": "https://www.gcertificationcourse.com/the-hubspot-knowledge-base-tool-can-do-all-of-the/"
+    },
+    {
+      "id": 34,
+      "question": "In order to assess customer service agent performance, which of the following reports should you look at?",
+      "answer": "Ticket close total by rep",
+      "source_url": "https://www.gcertificationcourse.com/in-order-to-assess-customer-service-agent-performance/"
+    },
+    {
+      "id": 35,
+      "question": "Fill in the blank: A knowledge base is a ______.",
+      "answer": "collection of articles about a product or service",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-a-knowledge-base-is-a/"
+    },
+    {
+      "id": 36,
+      "question": "With Service Hub, you can complete all of the following tasks EXCEPT:",
+      "answer": "Monitor all social media",
+      "source_url": "https://www.gcertificationcourse.com/with-service-hub-you-can-complete-all-of-the/"
+    },
+    {
+      "id": 37,
+      "question": "True or false? A knowledge base is a type of self-service.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-knowledge-base-is-a-type-of-self/"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following tools is NOT included in HubSpot's Service Hub?",
+      "answer": "Project management",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-tools-is-not-included/"
+    },
+    {
+      "id": 39,
+      "question": "True or false? You should only reach out to your detractors.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-only-reach-out-to-your/"
+    },
+    {
+      "id": 40,
+      "question": "An example of a customer using self-service is when they:",
+      "answer": "Search for their inquiry and finds an article",
+      "source_url": "https://www.gcertificationcourse.com/an-example-of-a-customer-using-self-service-is-when-they/"
+    },
+    {
+      "id": 41,
+      "question": "True or false? Through ticket automation, you can move a ticket from one stage to another based on an email response.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-through-ticket-automation-you-can/"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is a benefit of live chat?",
+      "answer": "It's immediate.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-benefit-of-live-chat/"
+    },
+    {
+      "id": 43,
+      "question": "With ticket ______, you are able to filter down your tickets",
+      "answer": "views",
+      "source_url": "https://www.gcertificationcourse.com/with-ticket-you-are-able-to-filter-down-your-tickets/"
+    },
+    {
+      "id": 44,
+      "question": "When setting up your knowledge base in HubSpot, you need to connect your _______.",
+      "answer": "domain",
+      "source_url": "https://www.gcertificationcourse.com/when-setting-up-your-knowledge-base-in-hubspot/"
+    },
+    {
+      "id": 45,
+      "question": "True or false? Cross-object reporting exists in the service analytics tool.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-cross-object-reporting/"
+    },
+    {
+      "id": 46,
+      "question": "Reports bucketed under the \"conversation overview\" category give you insight into:",
+      "answer": "How productive your reps are.",
+      "source_url": "https://www.gcertificationcourse.com/reports-bucketed-under-the-conversation/"
+    },
+    {
+      "id": 47,
+      "question": "A customer portal helps customers do all of the following EXCEPT:",
+      "answer": "live chat with a support rep.",
+      "source_url": "https://www.gcertificationcourse.com/a-customer-portal-helps-customers-do/"
+    },
+    {
+      "id": 48,
+      "question": "True or false? All customer portals are password protected.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-all-customer-portals-are/"
+    },
+    {
+      "id": 49,
+      "question": "What information can a user see in their customer portal?",
+      "answer": "Ticket replies from customer service agents",
+      "source_url": "https://www.gcertificationcourse.com/what-information-can-a-user-see-in-their/"
+    },
+    {
+      "id": 50,
+      "question": "________ is for folks who need to create basic, out-of-the-box reporting.",
+      "answer": "Service analytics",
+      "source_url": "https://www.gcertificationcourse.com/is-for-folks-who-need-to-create-basic/"
+    },
+    {
+      "id": 51,
+      "question": "What's the difference between service analytics and the report builder?",
+      "answer": "Service analytics has out-of-the-box reports; the report builder requires you to build every report from scratch.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-difference-between-service/"
+    },
+    {
+      "id": 52,
+      "question": "What type of feedback survey can you add to your live chat?",
+      "answer": "CSAT",
+      "source_url": "https://www.gcertificationcourse.com/what-type-of-feedback-survey-can-you/"
+    },
+    {
+      "id": 53,
+      "question": "If you've never set up service reports in HubSpot before, start with _________.",
+      "answer": "Service analytics",
+      "source_url": "https://www.gcertificationcourse.com/if-youve-never-set-up-service-reports/"
+    },
+    {
+      "id": 54,
+      "question": "True or false? It’s best practice to match your knowledge base design with the design of your website.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-best-practice-to-match/"
+    },
+    {
+      "id": 55,
+      "question": "Which of the following CANNOT be done from your help desk?",
+      "answer": "Start a video chat",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-cannot-be-done/"
+    },
+    {
+      "id": 56,
+      "question": "Select all that apply. AI allows you to do which of the following in your help desk?",
+      "answer": "Expand your writing",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-ai-allows-you-to-do/"
+    },
+    {
+      "id": 57,
+      "question": "Which of the following CANNOT be inserted when responding in the help desk?",
+      "answer": "A ticket",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-cannot-be-inserted/"
+    },
+    {
+      "id": 58,
+      "question": "Fill in the blank: With HubSpot's help desk, you can streamline intake by_________.",
+      "answer": "Connecting multiple channels to help desk",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-with-hubspots-help-desk/"
+    },
+    {
+      "id": 59,
+      "question": "Select all that apply. AI helps you write your knowledge base articles in which of the following ways?",
+      "answer": "Rewrite your content in a different tone.",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-ai-helps-you-write/"
+    },
+    {
+      "id": 60,
+      "question": "Select all that apply. What intake methods can you connect to HubSpot?",
+      "answer": "Calling",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-intake-methods/"
+    },
+    {
+      "id": 61,
+      "question": "True or false? The only way to move tickets to different stages is manually.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-only-way-to-move-tickets/"
+    },
+    {
+      "id": 62,
+      "question": "True or false? Knowledge base articles should be casual, personable, and anecdotal.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-knowledge-base-articles-should-be/"
+    },
+    {
+      "id": 63,
+      "question": "True or false? It's a good idea to write your knowledge base titles as questions.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-a-good-idea-to-write-your/"
+    },
+    {
+      "id": 64,
+      "question": "True or false? Experiencing lower ticket volume is a good indicator that your knowledge base is working well.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-experiencing-lower-ticket-volume/"
+    },
+    {
+      "id": 65,
+      "question": "Fill in the blank: Reach out to your ______ to ask them to complete advocacy actions.",
+      "answer": "promoters",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-reach-out-to-your-to-ask-them/"
+    },
+    {
+      "id": 66,
+      "question": "In HubSpot, help desk is comprised of all of the following tools EXCEPT:",
+      "answer": "Knowledge base",
+      "source_url": "https://www.gcertificationcourse.com/in-hubspot-help-desk-is-comprised-of-all-of-the/"
+    },
+    {
+      "id": 67,
+      "question": "Select all that apply. You can create SLAs based on which of the following?",
+      "answer": "Capacity",
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-you-can-create-slas/"
+    },
+    {
+      "id": 68,
+      "question": "All of the following are stages of troubleshooting EXCEPT:",
+      "answer": "Ask for help",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-stages-of-troubleshooting-except/"
+    },
+    {
+      "id": 69,
+      "question": "Which of the following is NOT a best practice when creating knowledge base articles?",
+      "answer": "Use a casual tone",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-best-practice/"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is an appropriate knowledge base title?",
+      "answer": "How do I create a custom feedback survey?",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-appropriate-knowledge/"
+    },
+    {
+      "id": 71,
+      "question": "You should use a call-out in a knowledge base article to:",
+      "answer": "draw the reader's attention to an important detail",
+      "source_url": "https://www.gcertificationcourse.com/you-should-use-a-call-out-in-a-knowledge-base-article-to/"
+    },
+    {
+      "id": 72,
+      "question": "Which of the following is NOT an appropriate way to categorize your knowledge base articles?",
+      "answer": "By author",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-appropriate-way/"
+    },
+    {
+      "id": 73,
+      "question": "True or false? You should write new knowledge base articles every day.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-write-new-knowledge-base/"
+    },
+    {
+      "id": 74,
+      "question": "If you're setting up Service Hub reports for the first time, where should you start?",
+      "answer": "Service analytics",
+      "source_url": "https://www.gcertificationcourse.com/if-youre-setting-up-service-hub-reports/"
+    },
+    {
+      "id": 75,
+      "question": "A customer portal is a __________.",
+      "answer": "home base where customers can view, open, and reply to support tickets.",
+      "source_url": "https://www.gcertificationcourse.com/a-customer-portal-is-a/"
+    },
+    {
+      "id": 76,
+      "question": "True or false? You cannot edit the look and feel of your customer portal.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-cannot-edit-the-look/"
+    },
+    {
+      "id": 77,
+      "question": "Customer portal is a _______ offering.",
+      "answer": "self-service",
+      "source_url": "https://www.gcertificationcourse.com/customer-portal-is-a-offering/"
+    },
+    {
+      "id": 78,
+      "question": "True or false? You can access conversations from the HubSpot mobile app.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-access-conversations/"
+    },
+    {
+      "id": 79,
+      "question": "If your support reps have trouble prioritizing tickets, consider _______.",
+      "answer": "All of the above.",
+      "source_url": "https://www.gcertificationcourse.com/if-your-support-reps-have-trouble-prioritizing/"
+    },
+    {
+      "id": 80,
+      "question": "You want to understand how easy it is for your customers to get their questions answered from your support team. The appropriate feedback survey to use is:",
+      "answer": "Customer effort score",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-understand-how-easy-it-is/"
+    },
+    {
+      "id": 81,
+      "question": "Which of the following is NOT a step when establishing listening posts?",
+      "answer": "Analyze feedback",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-step-when-establishing/"
+    },
+    {
+      "id": 82,
+      "question": "You should use custom feedback surveys when you want to understand ________.",
+      "answer": "something that's not covered in industry standard surveys.",
+      "source_url": "https://www.gcertificationcourse.com/you-should-use-custom-feedback-surveys-when-you/"
+    },
+    {
+      "id": 83,
+      "question": "When should you use multiple ticket pipelines?",
+      "answer": "If your tickets go through different stages",
+      "source_url": "https://www.gcertificationcourse.com/when-should-you-use-multiple-ticket-pipelines/"
+    },
+    {
+      "id": 84,
+      "question": "How often should a customer effort score survey be used?",
+      "answer": "After every support interaction",
+      "source_url": "https://www.gcertificationcourse.com/how-often-should-a-customer-effort-score-survey/"
+    },
+    {
+      "id": 85,
+      "question": "How often should you edit your knowledge base articles?",
+      "answer": "Whenever products or service change pertaining to the article",
+      "source_url": "https://www.gcertificationcourse.com/how-often-should-you-edit-your-knowledge-base-articles/"
+    },
+    {
+      "id": 86,
+      "question": "True or false? You can create cross-object reports from the report builder.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-create-cross-object/"
+    },
+    {
+      "id": 87,
+      "question": "In Service Hub, you can set SLAs based on how long it takes your reps to first respond to a ticket and/or how long it takes reps to _____.",
+      "answer": "close the ticket.",
+      "source_url": "https://www.gcertificationcourse.com/in-service-hub-you-can-set-slas-based/"
+    }
+  ]
+}
