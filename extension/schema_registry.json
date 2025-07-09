@@ -17,7 +17,7 @@
       "schema_file": "../schemas/hubspot_cms_for_developers_schema.json",
       "exam_id": "9171525",
       "course_name": "HubSpot CMS for Developers",
-      "listing_url": "https://www.gcertificationcourse.com/hubspot-cms-for-developers-answers/",
+      "listing_url": "https://www.gcertificationcourse.com/hubspot-cms-for-developers-certification/",
       "exam_url": "https://app.hubspot.com/academy/171726/tracks/9171525/exam"
     },
     {
@@ -35,7 +35,7 @@
       "schema_file": "../schemas/hubspot_cms_for_developers_ii_best_practices_schema.json",
       "exam_id": "9146235",
       "course_name": "HubSpot CMS for Developers II: Best Practices",
-      "listing_url": "https://www.gcertificationcourse.com/hubspot-cms-for-developers-ii-best-practices-answers/",
+      "listing_url": "https://www.gcertificationcourse.com/hubspot-cms-for-developers-ii-answers/",
       "exam_url": "https://app.hubspot.com/academy/171726/tracks/9146235/exam"
     },
     {
@@ -44,7 +44,7 @@
       "schema_file": "../schemas/hubspot_content_hub_for_marketers_schema.json",
       "exam_id": "9206068",
       "course_name": "HubSpot Content Hub for Marketers",
-      "listing_url": "https://www.gcertificationcourse.com/hubspot-content-hub-for-marketers-answers/",
+      "listing_url": "https://www.gcertificationcourse.com/hubspot-cms-for-marketers-certification-answers/",
       "exam_url": "https://app.hubspot.com/academy/171726/tracks/9206068/exam"
     },
     {
@@ -53,7 +53,7 @@
       "schema_file": "schemas/service_hub_software_schema.json",
       "exam_id": "9148739",
       "course_name": "Service Hub Software",
-      "listing_url": "https://www.gcertificationcourse.com/service-hub-software-answers/",
+      "listing_url": "https://www.gcertificationcourse.com/hubspot-service-hub-software-certification/",
       "exam_url": "https://app.hubspot.com/academy/171726/tracks/9148739/exam"
     },
     {
@@ -62,7 +62,7 @@
       "schema_file": "schemas/inbound_marketing_optimization_schema.json",
       "exam_id": "9147492",
       "course_name": "Inbound Marketing Optimization",
-      "listing_url": "https://www.gcertificationcourse.com/inbound-marketing-optimization-answers/",
+      "listing_url": "https://www.gcertificationcourse.com/hubspot-inbound-marketing-optimization-answers/",
       "exam_url": "https://app.hubspot.com/academy/171726/tracks/9147492/exam"
     }
   ]
