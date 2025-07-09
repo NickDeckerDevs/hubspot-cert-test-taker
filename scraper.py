@@ -411,6 +411,7 @@ class WebScraper:
         """
         try:
             answer_texts = []
+            answer_text = None
             
             # Look for the correct answer pattern: <li> elements with <strong> tags inside <article>
             article = soup.find('article')
@@ -425,7 +426,6 @@ class WebScraper:
                         answer_text = strong_tag.get_text(strip=True)
                         answer_texts.append(answer_text)
                         logging.info(f"Found answer in <strong> tag: {answer_text}")
-                        break
 
             
             if not answer_text:
