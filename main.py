@@ -242,16 +242,17 @@ def rescrape_all_from_registry() -> List[str]:
         try:
             course_name = schema_entry.get('course_name', 'Unknown Course')
             exam_url = schema_entry.get('exam_url', '')
+            listing_url = schema_entry.get('listing_url', '')
             
-            # We need to reconstruct the listing URL from the course name
-            # This is a limitation - we should store the listing URL in the registry
-            if 'hubspot' in course_name.lower():
-                # Convert course name to listing URL format
-                course_slug = course_name.lower().replace(' ', '-').replace('hubspot-', '')
-                listing_url = f"https://www.gcertificationcourse.com/hubspot-{course_slug}-answers/"
-            else:
-                logger.warning(f"Cannot determine listing URL for: {course_name}")
-                continue
+            # Use stored listing URL if available, otherwise try to reconstruct
+            if not listing_url:
+                if 'hubspot' in course_name.lower():
+                    # Convert course name to listing URL format
+                    course_slug = course_name.lower().replace(' ', '-').replace('hubspot-', '')
+                    listing_url = f"https://www.gcertificationcourse.com/hubspot-{course_slug}-answers/"
+                else:
+                    logger.warning(f"Cannot determine listing URL for: {course_name}")
+                    continue
             
             print(f"[{i}/{len(schemas)}] Rescaping: {course_name}")
             print(f"  Listing URL: {listing_url}")
