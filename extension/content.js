@@ -322,6 +322,7 @@ Which of the following statements about theme modules is TRUE
                 display: block;
                 text-align: left;
                 padding: 5px 10px 0 0;
+                max-width: 72%;
         `
 
         const linkElem = document.createElement('a')
@@ -335,6 +336,8 @@ Which of the following statements about theme modules is TRUE
             align-items: center;
             flex-basis: 220px;
             max-width: 220px;
+            line-height: 1.2;
+            text-align: center;
             margin: 5px 0 0 0;
             padding: 2px 6px;
             background: rgba(0, 255, 0, 0.5);
@@ -413,20 +416,19 @@ Which of the following statements about theme modules is TRUE
                 console.log('checking: elem, answer', elementText, answerText)
                 let exactAnswerMatch = elementText === answerText
                 console.log('exactAnswerMatch', exactAnswerMatch)
-                let answerIncludesMatch = elementText.includes(answerText)
-                console.log('answerIncludesMatch', answerIncludesMatch)
-                let matchIncludesAnswer = answerText.includes(elementText)
-                console.log('matchIncludesAnswer', matchIncludesAnswer)
+                if(exactAnswerMatch) return true
+                
+                // generates false postives with numerical values
+                // let answerIncludesMatch = elementText.includes(answerText)
+                // let matchIncludesAnswer = answerText.includes(elementText)
+                // console.log('answerIncludesMatch', answerIncludesMatch)
+                // console.log('matchIncludesAnswer', matchIncludesAnswer)
+
+
                 console.log('currentMatchThreshold', CONFIG.partialMatchThreshold)
                 let matchSimiliarity = calculateSimilarity(elementText, answerText)
                 console.log('matchSimiliarity', matchSimiliarity)
-                
-
-
-                return elementText === answerText || 
-                       elementText.includes(answerText) || 
-                       answerText.includes(elementText) ||
-                       calculateSimilarity(elementText, answerText) >= CONFIG.partialMatchThreshold;
+                return matchSimiliarity >= CONFIG.partialMatchThreshold;
             });
         }
         const answerText = normalizeText(correctAnswer);
@@ -439,10 +441,11 @@ Which of the following statements about theme modules is TRUE
              
         
         // Contains match
-        if (elementText.includes(answerText) || answerText.includes(elementText)) {
-            console.log('INCLUDES ==> contains match')
-            return true;
-        }
+        // this creates false positives and will be left out for now
+        // if (elementText.includes(answerText) || answerText.includes(elementText)) {
+        //     console.log('INCLUDES ==> contains match')
+        //     return true;
+        // }
         
         // Similarity match
         console.log('currentMatchThreshold', CONFIG.partialMatchThreshold)
