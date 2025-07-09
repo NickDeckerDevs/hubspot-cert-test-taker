@@ -48,6 +48,14 @@
       "exam_id": "9148739",
       "course_name": "Service Hub Software",
       "exam_url": "https://app.hubspot.com/academy/171726/tracks/9148739/exam"
+    },
+    {
+      "name": "Inbound Marketing Optimization",
+      "exam_url_pattern": "tracks/9147492/exam",
+      "schema_file": "schemas/inbound_marketing_optimization_schema.json",
+      "exam_id": "9147492",
+      "course_name": "Inbound Marketing Optimization",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9147492/exam"
     }
   ]
 }
