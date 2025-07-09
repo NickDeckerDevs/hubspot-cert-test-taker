@@ -49,7 +49,7 @@ def generate_url_pattern(exam_url: str) -> str:
         parsed = urlparse(exam_url)
         return parsed.netloc
 
-def add_schema_to_registry(course_name: str, exam_url: str, schema_filename: str) -> bool:
+def add_schema_to_registry(course_name: str, exam_url: str, schema_filename: str, listing_url: str = None) -> bool:
     """
     Add a schema entry to the registry
     
@@ -79,6 +79,7 @@ def add_schema_to_registry(course_name: str, exam_url: str, schema_filename: str
                 "exam_url_pattern": url_pattern,
                 "schema_file": schema_filename,
                 "exam_id": exam_id,
+                "listing_url": listing_url,
                 "course_name": course_name,
                 "exam_url": exam_url
             })
@@ -92,6 +93,7 @@ def add_schema_to_registry(course_name: str, exam_url: str, schema_filename: str
         "exam_url_pattern": url_pattern,
         "schema_file": schema_filename,
         "exam_id": exam_id,
+        "listing_url": listing_url,
         "course_name": course_name,
         "exam_url": exam_url
     }
