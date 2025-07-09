@@ -218,24 +218,81 @@ def list_schemas(schema_dir: str = None) -> List[Dict]:
     
     return schemas
 
+def rescrape_all_from_registry() -> List[str]:
+    """
+    Rescrape all sites from the schema registry
+    
+    Returns:
+        List of updated schema file paths
+    """
+    from registry_manager import load_registry
+    
+    # Load the registry
+    registry = load_registry()
+    schemas = registry.get('schemas', [])
+    
+    if not schemas:
+        logger.warning("No schemas found in registry")
+        return []
+    
+    print(f"Found {len(schemas)} schemas in registry to rescrape")
+    updated_schemas = []
+    
+    for i, schema_entry in enumerate(schemas, 1):
+        try:
+            course_name = schema_entry.get('course_name', 'Unknown Course')
+            exam_url = schema_entry.get('exam_url', '')
+            
+            # We need to reconstruct the listing URL from the course name
+            # This is a limitation - we should store the listing URL in the registry
+            if 'hubspot' in course_name.lower():
+                # Convert course name to listing URL format
+                course_slug = course_name.lower().replace(' ', '-').replace('hubspot-', '')
+                listing_url = f"https://www.gcertificationcourse.com/hubspot-{course_slug}-answers/"
+            else:
+                logger.warning(f"Cannot determine listing URL for: {course_name}")
+                continue
+            
+            print(f"[{i}/{len(schemas)}] Rescaping: {course_name}")
+            print(f"  Listing URL: {listing_url}")
+            print(f"  Exam URL: {exam_url}")
+            
+            # Rescrape the course
+            schema_file = scrape_course(listing_url, course_name, exam_url=exam_url)
+            
+            if schema_file:
+                updated_schemas.append(schema_file)
+                print(f"  ✅ Updated: {schema_file}")
+            else:
+                print(f"  ❌ Failed to update: {course_name}")
+                
+        except Exception as e:
+            logger.error(f"Error rescaping {course_name}: {e}")
+            print(f"  ❌ Error: {e}")
+            continue
+    
+    print(f"\nCompleted rescaping {len(updated_schemas)} out of {len(schemas)} schemas")
+    return updated_schemas
+
+
 def main():
     """Main function to handle command line interface"""
     parser = argparse.ArgumentParser(
         description="Q&A Schema Scraper and Builder",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
-Examples:
-  # Scrape a single course
-  python main.py scrape https://academy.hubspot.com/courses/inbound-marketing
-  
-  # Scrape multiple courses
-  python main.py scrape-batch urls.txt
-  
-  # List existing schemas
-  python main.py list
-  
-  # Merge existing schemas
-  python main.py merge schema1.json schema2.json
+        Examples:
+        # Scrape a single course
+        python main.py scrape https://academy.hubspot.com/courses/inbound-marketing
+        
+        # Scrape multiple courses
+        python main.py scrape-batch urls.txt
+        
+        # List existing schemas
+        python main.py list
+        
+        # Merge existing schemas
+        python main.py merge schema1.json schema2.json
         """
     )
     
@@ -263,6 +320,10 @@ Examples:
     merge_parser.add_argument('schema_files', nargs='+', help='Schema files to merge')
     merge_parser.add_argument('--output', help='Output filename for merged schema')
     
+    # Rescrape all command
+    rescrape_parser = subparsers.add_parser('rescrape-all', help='Rescrape all sites from registry')
+    rescrape_parser.add_argument('--confirm', action='store_true', help='Confirm you want to rescrape all sites (this may take a while)')
+
     args = parser.parse_args()
     
     if not args.command:
@@ -322,6 +383,18 @@ Examples:
             
             merged_file = merge_schemas(args.schema_files, args.output)
             print(f"Merged schema saved to: {merged_file}")
+
+        elif args.command == 'rescrape-all':
+            if not args.confirm:
+                print("This will rescrape all sites in the registry. This may take a while.")
+                print("Use --confirm to proceed: python main.py rescrape-all --confirm")
+                return
+            
+            updated_schemas = rescrape_all_from_registry()
+            if updated_schemas:
+                print(f"Successfully updated {len(updated_schemas)} schemas")
+            else:
+                print("No schemas were updated")
     
     except KeyboardInterrupt:
         print("\nOperation cancelled by user")
