@@ -187,7 +187,7 @@ Which of the following statements about theme modules is TRUE
                 const matchingSchema = registry.schemas.find(schema => {
                     const pattern = schema.exam_url_pattern;
                     const isMatch = currentUrl.includes(pattern);
-                    console.log(`🔍 [Q&A] Checking pattern "${pattern}" against URL: ${isMatch ? '✅ MATCH' : '❌ NO MATCH'}`);
+                    if(isMatch) console.log(`🔍 [Q&A] Checking pattern "${pattern}" against URL: ✅ MATCH`);
                     return isMatch;
                 });
                 
@@ -204,7 +204,7 @@ Which of the following statements about theme modules is TRUE
                         console.log(`✅ [Q&A] Successfully loaded schema:`);
                         console.log(`   📚 Course: ${schema.course_info.name}`);
                         console.log(`   📊 Questions: ${schema.questions.length}`);
-                        console.log(`   🔗 Exam ID: ${schema.course_info.exam_id}`);
+                        console.log(`   🔗 Exam Answers Scraped Date: ${schema.course_info.scraped_date}`);
                         resolve(loadedSchemas);
                         return;
                     } else {
@@ -274,23 +274,67 @@ Which of the following statements about theme modules is TRUE
         return [questionElement]
     }
 
+
+    function formatAnswerForDisplay(answer) {
+        if (Array.isArray(answer)) {
+            let html = '<ul>'
+            answer.forEach(answerText => {
+                html += `<li>${answerText}</li>`
+            })
+            return `${html}</ul>`
+        }
+        return `<p>${answer}</p>`
+    }
     // add link to answer to dom
-    function addSourceLink(questionElement, url) {
+    function addSourceLink(questionElement, url, answer) {
+        const answerHtml = formatAnswerForDisplay(answer)
+        const sourceLink = document.querySelector('.nd__source-link')
+        const answerContainer = document.querySelector('.nd__answer-text')
+
+        if(sourceLink && answerContainer) {
+            sourceLink.href = url
+            answerContainer.innerHTML = answerHtml
+            return
+        }
+
+        const examContainer = document.querySelector('div[data-test-id="exam-container"]')
+        if(!examContainer) {
+            console.log('exam container not found while trying to post question')
+            return
+        }
+
         const linkContainer = document.createElement('div')
         linkContainer.style.cssText = `
             width: 100%;
             height: auto;
             display: flex;
-            justify-content: flex-end;
+            justify-content: space-between;
+            position: relative;
         `
         linkContainer.classList = 'nd__source-link--container'
-        const elem = document.createElement('a')
-        elem.href = url
-        elem.classList = 'nd__source-link'
-        elem.target = '_blank'
-        elem.textContent = 'Open Test Answer In New Tab'
-        elem.style.cssText = `
-            display: inline-block;
+
+        const answerElem = document.createElement('span')
+        answerElem.classList = 'nd__answer-text'
+        answerElem.innerHTML = answerHtml
+        answerElem.style.cssText = `
+                background: rgba(255,255,255,0.0);
+                color: #000;
+                display: block;
+                text-align: left;
+                padding: 5px 10px 0 0;
+        `
+
+        const linkElem = document.createElement('a')
+        linkElem.href = url
+        linkElem.classList = 'nd__source-link'
+        linkElem.target = '_blank'
+        linkElem.textContent = 'Open Test Answer In New Tab'
+        linkElem.style.cssText = `
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-basis: 220px;
+            max-width: 220px;
             margin: 5px 0 0 0;
             padding: 2px 6px;
             background: rgba(0, 255, 0, 0.5);
@@ -301,22 +345,11 @@ Which of the following statements about theme modules is TRUE
             font-size: 12px;
             font-weight: bold;
             position: relative;
+            height: 40px;
             z-index: 1000000;
         `
-
-
-        const sourceLink = document.querySelector('.nd__source-link')
-        if(sourceLink) {
-            sourceLink.href = url
-            return
-        }
-
-        const examContainer = document.querySelector('div[data-test-id="exam-container"]')
-        if(!examContainer) {
-            console.log('exam container not found while trying to post question')
-            return
-        }
-        linkContainer.append(elem)
+        linkContainer.append(answerElem)
+        linkContainer.append(linkElem)
         examContainer.appendChild(linkContainer)
         
     }
@@ -328,7 +361,7 @@ Which of the following statements about theme modules is TRUE
         const answerCandidates = findAnswerCandidates(questionElement, answer);
         console.log(`Found ${answerCandidates.length} answer candidates to check`);
         
-        addSourceLink(questionElement,sourceUrl)
+        addSourceLink(questionElement,sourceUrl, answer)
 
         for (const candidate of answerCandidates) {
             console.log(candidate)
