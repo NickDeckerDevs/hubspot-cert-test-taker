@@ -372,6 +372,16 @@ Which of the following statements about theme modules is TRUE
         console.log(element)
         console.log(element.textContent)
         const elementText = normalizeText(element.textContent);
+
+        if (Array.isArray(correctAnswer)) {
+            return correctAnswer.some(answer => {
+                const answerText = normalizeText(answer);
+                return elementText === answerText || 
+                       elementText.includes(answerText) || 
+                       answerText.includes(elementText) ||
+                       calculateSimilarity(elementText, answerText) >= CONFIG.partialMatchThreshold;
+            });
+        }
         const answerText = normalizeText(correctAnswer);
         console.log('isAnswerMatch')
         console.log('elementText')
