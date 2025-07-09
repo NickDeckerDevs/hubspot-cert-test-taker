@@ -324,7 +324,7 @@ Which of the following statements about theme modules is TRUE
     // Answer highlighting
     function highlightCorrectAnswer(questionElement, answer, sourceUrl) {
         console.group(`🎯 [Q&A] Highlighting Answer: "${answer}"`);
-        
+        let matchFound = false;
         const answerCandidates = findAnswerCandidates(questionElement, answer);
         console.log(`Found ${answerCandidates.length} answer candidates to check`);
         
@@ -337,14 +337,14 @@ Which of the following statements about theme modules is TRUE
             console.log(`Checking candidate: "${candidate.textContent}" - Match: ${isMatch ? '✅' : '❌'}`);
             
             if (isMatch) {
+                matchFound = true;
                 const highlightedElement = highlightAnswerElement(candidate);
                 console.log(`✅ Successfully highlighted answer: "${candidate.textContent}"`);
                 console.log(`Highlighted element:`, highlightedElement);
-                console.groupEnd();
-                return true;
             }
         }
         
+        if(matchFound) return true
         console.log(`❌ No matching answer found for: "${answer}"`);
         console.groupEnd();
         return false;
