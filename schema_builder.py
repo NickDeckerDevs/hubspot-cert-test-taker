@@ -58,11 +58,14 @@ class SchemaBuilder:
             Correct answer text or array
         """
         if isinstance(answer_data, list):
-            return answer_data
+            return answer_data  # Multiple answers
         elif isinstance(answer_data, str):
-            return answer_data
+            return answer_data  # Single answer
         elif isinstance(answer_data, dict):
-            return answer_data.get('answer', '')
+            # Try different keys where answer might be stored
+            return (answer_data.get('structured_content') or 
+                    answer_data.get('text_content') or 
+                    answer_data.get('answer', ''))
         else:
             return ''
         
@@ -92,16 +95,22 @@ class SchemaBuilder:
         for qa in course_data.get('questions', []):
             try:
                 question_text = self.clean_question_text(qa.get('question', ''))
-                answer_text = self.extract_correct_answer(qa.get('answer_data', {}))
+                answer_data = qa.get('answer_data', {})
+                answer_text = self.extract_correct_answer(answer_data.get('structured_content', ''))
                 
                 if not question_text or not answer_text:
                     logger.warning(f"Skipping incomplete Q&A: {question_text[:50]}...")
                     continue
-                
+                # Handle both single and multiple answers
+                if isinstance(answer_text, list):
+                    processed_answer = answer_text  # Keep as array for multiple answers
+                else:
+                    processed_answer = answer_text.strip()  # Strip whitespace for single answers
+
                 question_schema = {
                     'id': qa.get('id'),
                     'question': question_text,
-                    'answer': answer_text.strip(),
+                    'answer': processed_answer,
                     'source_url': qa.get('answer_data', {}).get('url', qa.get('question_source_url', ''))  # Use individual page URL
                 }
                 
