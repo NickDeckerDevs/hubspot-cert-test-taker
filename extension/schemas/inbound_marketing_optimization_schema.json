@@ -1,11 +1,532 @@
 {
   "schema_version": "1.0",
-  "created_date": "2025-07-09T12:37:13.236559",
+  "created_date": "2025-07-09T14:16:23.947895",
   "course_info": {
     "name": "Inbound Marketing Optimization",
     "source_url": "https://www.gcertificationcourse.com/hubspot-inbound-marketing-optimization-answers/",
     "total_questions": 72,
-    "scraped_date": "2025-07-09 12:34:25"
+    "scraped_date": "2025-07-09 14:13:40"
   },
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Full disclosure: IMPACT is a HubSpot partner — but that's not why they're included here. IMPACT's landing pages have long been a source of design inspiration. Looking at this landing page, which best practices are the content creators over at IMPACT using to entice visitors to convert? Select all that apply.",
+      "answer": [
+        "Action-oriented CTA",
+        "Simple Use of Color and Fonts",
+        "Large Headline Copy",
+        "Detailed Featured Image"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/full-disclosure-impact-is-a-hubspot-partner/"
+    },
+    {
+      "id": 2,
+      "question": "You’ve just successfully run a lead generation campaign, and are tasked with calculating the conversion rate of the email associated with it. You’re currently defining a conversion as a clickthrough. If 100 leads opened the email and 18 clicked, what is your conversion rate percentage for that email?",
+      "answer": "18%",
+      "source_url": "https://www.gcertificationcourse.com/youve-just-successfully-run-a-lead-generation/"
+    },
+    {
+      "id": 3,
+      "question": "Select all that apply. A good conversion rate depends on your ______.",
+      "answer": [
+        "Industry",
+        "Niche",
+        "Traffic Channel"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-a-good-conversion-rate/"
+    },
+    {
+      "id": 4,
+      "question": "AirBnB is always optimizing their homepage to create an exciting and engaging experience for website visitors. Looking below, how is this homepage optimized to entice visitors to book a trip? Select all that apply.",
+      "answer": [
+        "It includes the destination and date search form that most visitors come looking for up front, guiding visitors to the logical next step.",
+        "It's easy to consume. The impactful image almost acts like a story.",
+        "The primary call-to-action (\"Search\") contrasts with the background and stands out; but the secondary call-to-action for hosts is visible above the fold, too."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/airbnb-is-always-optimizing-their-homepage/"
+    },
+    {
+      "id": 5,
+      "question": "You’re browsing for shoes on the Everlane website, and notice this pop-up. Which stage of the flywheel does this type of pop-up correspond with?",
+      "answer": "Attract",
+      "source_url": "https://www.gcertificationcourse.com/youre-browsing-for-shoes-on-the/"
+    },
+    {
+      "id": 6,
+      "question": "You work as a marketer at a company that sells mens’ suits. You know from customer research that a large percentage of your customers struggle with selecting the right size for their suit. How could you solve this problem with a pop-up?",
+      "answer": "A pop-up with a sizing guide to help them pick their right size.",
+      "source_url": "https://www.gcertificationcourse.com/you-work-as-a-marketer-at-a-company-that-sells/"
+    },
+    {
+      "id": 7,
+      "question": "You’ve just run a campaign promoting a new line of necklaces at your fine jewelry business. Overall, the campaign generated 2,500 new website visitors, 1,400 of which ended up visiting your necklace landing page. Ultimately, you got 350 new leads and 175 new customers. What is the conversion rate of your form?",
+      "answer": "25%",
+      "source_url": "https://www.gcertificationcourse.com/youve-just-run-a-campaign-promoting-a-new/"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following factors directly affects your page speed? Select all that apply.",
+      "answer": [
+        "How many images, videos, and other media files are contained on the page",
+        "What themes and plug-ins are installed on your site",
+        "The coding and server-side scripts on the page"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-factors-directly-affects/"
+    },
+    {
+      "id": 9,
+      "question": "Take a look at the recent promotion run by the skincare and bath product company, Nourish. Based on the SMS best practices you’ve learned, what is one area the company could optimize when sending promotions like these in the future?",
+      "answer": "Keep it concise. This is quite a lot of text to include in a single promotion.",
+      "source_url": "https://www.gcertificationcourse.com/take-a-look-at-the-recent-promotion-run-by/"
+    },
+    {
+      "id": 10,
+      "question": "Why is it necessary to obtain consent before sending your audience promotional SMS messages?",
+      "answer": "You need to obtain consent before sending your audience promotional SMS messages because it is a legal requirement in many countries.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-necessary-to-obtain-consent-before/"
+    },
+    {
+      "id": 11,
+      "question": "Modcloth, a popular online fashion retailer, recently ran a promotion that encourages users to pick a style of fashion based on their unique interests and goals as fashion forward consumers. This showcases that the brand:",
+      "answer": "Understand their personas and their consumer preferences.",
+      "source_url": "https://www.gcertificationcourse.com/modcloth-a-popular-online-fashion-retailer/"
+    },
+    {
+      "id": 12,
+      "question": "Dollar Shave Club’s chatbot answers simple questions and queries that customers may have. Based on the information available in the chat, what are the benefits for the business to use a chatbot like this? Select all that apply.",
+      "answer": [
+        "Availability: Offers 24/7 service for simple questions and queries that customers may have, providing global audiences with support options regardless of their timezone.",
+        "Frictionless Experience: Using a CTA with your chatbots immediately sets the expectation for what your bot can help users accomplish, and drives the purpose of the interaction.",
+        "Case Deflection: Letting customers know what a chatbot can do is a best practice, especially if it can only answer simple questions. Customers will know to look elsewhere for more involved issues, like sending an email or calling an agent."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/dollar-shave-clubs-chatbot-answers-simple/"
+    },
+    {
+      "id": 13,
+      "question": "True or false: When building and optimizing chatbots, you will need to work with both qualitative and quantitative data.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-building-and-optimizing/"
+    },
+    {
+      "id": 14,
+      "question": "Optimum has an SMS chatbot for customers with support questions, giving users quick access to 24/7 support. A customer can simply text their issue, and the bot uses language processing to bring the customer the best solution. Looking at their current chat set-up, how might Optimum optimize this chatbot?",
+      "answer": "Using predefined answers instead of allowing folks to type in their own answers.",
+      "source_url": "https://www.gcertificationcourse.com/optimum-has-an-sms-chatbot-for-customers-with/"
+    },
+    {
+      "id": 15,
+      "question": "Select all that apply. Why would a user be bucketed under “Direct traffic” in HubSpot?",
+      "answer": [
+        "The visitor who typed the URL directly into their browser.",
+        "The visitor who submitted the form has opted to not accept cookies from your site, or ignored the banner completely.​",
+        "​​​A contact submitted a HubSpot form on a page without the ​​HubSpot tracking code​."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-why-would-a-user-be/"
+    },
+    {
+      "id": 16,
+      "question": "When is a session or contact bucketed under “Other campaigns” in HubSpot?",
+      "answer": "When a visitor or contact comes in from a tracking URL you’ve created in HubSpot",
+      "source_url": "https://www.gcertificationcourse.com/when-is-a-session-or-contact-bucketed-under/"
+    },
+    {
+      "id": 17,
+      "question": "How does HubSpot use UTM parameters to categorize traffic to your website?",
+      "answer": "Any visitor coming to your website using a URL with UTM parameters will be filtered into their corresponding traffic sources in HubSpot.",
+      "source_url": "https://www.gcertificationcourse.com/how-does-hubspot-use-utm-parameters-to/"
+    },
+    {
+      "id": 18,
+      "question": "You’re reviewing your organic social data in HubSpot Traffic Analytics and notice the following trend from Facebook. What should be your next steps to investigating this data? Select all that apply.",
+      "answer": [
+        "Chat with your team to determine your goals surrounding Facebook.",
+        "Investigate the content to determine if it’s optimized for conversion."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/youre-reviewing-your-organic-social-data-in/"
+    },
+    {
+      "id": 19,
+      "question": "When would you use campaign analytics to analyze your data in HubSpot?",
+      "answer": "Campaign analytics helps you compare the overall performance of your campaigns against each other, and draw conclusions about how well your campaigns are creating contact or revenue over all.",
+      "source_url": "https://www.gcertificationcourse.com/when-would-you-use-campaign-analytics/"
+    },
+    {
+      "id": 20,
+      "question": "Why should you check the HubSpot reporting library before building your own custom report? Select all that apply.",
+      "answer": [
+        "Checking the reporting library will save you time and effort, so you don’t accidentally build a report that already exists.",
+        "Reports found in the reporting library are built by subject matter experts; so they are the most effective means to answer certain questions."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/why-should-you-check-the-hubspot-reporting/"
+    },
+    {
+      "id": 21,
+      "question": "In the 1970s, research suggested that “people have conversations to accomplish some combination of two major goals.” Which two of the following are those goals? Select all that apply.",
+      "answer": [
+        "Information exchange (learning)",
+        "Impression management (liking)"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/in-the-1970s-research-suggested-that-people/"
+    },
+    {
+      "id": 22,
+      "question": "True or False: The inbound methodology is centered around building meaningful, lasting relationships with employees and shareholders.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-inbound-methodology-is/"
+    },
+    {
+      "id": 23,
+      "question": "True or False: Mirroring a person’s speaking patterns can help build rapport.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-mirroring-a-persons-speaking/"
+    },
+    {
+      "id": 24,
+      "question": "True or False: Only 55% of marketing projects are completed on time.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-only-55-of-marketing-projects/"
+    },
+    {
+      "id": 25,
+      "question": "What is a reason you should be kind to your colleagues? Select all that apply.",
+      "answer": [
+        "Making enemies will make your job harder.",
+        "When people like others they work with, they are more invested in their job.",
+        "Being kind to colleagues will help projects flow more smoothly.",
+        "You’ll feel better about yourself and your job."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-reason-you-should-be-kind-to-your/"
+    },
+    {
+      "id": 26,
+      "question": "What does the S.M.A.R.T. in S.M.A.R.T. goals stand for? Select all that apply:",
+      "answer": [
+        "Specific: Work with clear intentions, not broad or vague goals.",
+        "Measurable: Provide a method to gauge your success by setting benchmarks to meet.",
+        "Achievable: Sensible objectives that are realistic and able to be achieved.",
+        "Relevant: Cut out unnecessary or irrelevant work that could take away from what’s important.",
+        "Timely: Set a clear beginning and end to adhere to in reaching your goals."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-does-the-s-m-a-r-t-in-s-m-a-r-t-goals/"
+    },
+    {
+      "id": 27,
+      "question": "What is scope creep?",
+      "answer": "A project's scope grows — either continuously or at random — as the project progresses.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-scope-creep/"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following are important interpersonal communication skills a marketer needs? Choose all that apply.",
+      "answer": [
+        "Pay attention",
+        "Practice active listening",
+        "Be empathetic",
+        "Be genuinely curious"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-are-important-interpersonal/"
+    },
+    {
+      "id": 29,
+      "question": "True or False: 35% of customers are more likely to use a business after reading positive reviews.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-35-of-customers-are-more-likely/"
+    },
+    {
+      "id": 30,
+      "question": "True or False: 88% of consumers trust online testimonials as much as recommendations from friends or family.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-88-of-consumers-trust-online/"
+    },
+    {
+      "id": 31,
+      "question": "True or False: Only 27% of B2B customers cited testimonials and peer recommendations as the most reliable type of content.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-only-27-of-b2b-customers-cited/"
+    },
+    {
+      "id": 32,
+      "question": "What are some ways that you can get your customers to leave you a review? Choose all that apply.",
+      "answer": [
+        "Send an email blast",
+        "Optimize your website to make reviews easy to leave",
+        "Offer an incentive"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-are-some-ways-that-you-can-get-your/"
+    },
+    {
+      "id": 33,
+      "question": "Which techniques can help your business receive strong testimonials? Select all that apply.",
+      "answer": [
+        "Ask immediately",
+        "Showcase the complete experience",
+        "Ask again",
+        "Make it easy"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/which-techniques-can-help-your-business/"
+    },
+    {
+      "id": 34,
+      "question": "What are the two most popular review sites? Select all that apply.",
+      "answer": [
+        "Google Reviews",
+        "Yelp"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-two-most-popular-review-sites/"
+    },
+    {
+      "id": 35,
+      "question": "What three things should testimonials always be? Select all that apply.",
+      "answer": [
+        "Relatable",
+        "Sincere",
+        "Specific"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-three-things-should-testimonials-always/"
+    },
+    {
+      "id": 36,
+      "question": "During an exploratory interview, your colleagues ask a participant the following: \"What do you use our app for, and do you like the experience?\" You could improve this question by:",
+      "answer": "Only asking one question at a time.",
+      "source_url": "https://www.gcertificationcourse.com/during-an-exploratory-interview-your-colleagues/"
+    },
+    {
+      "id": 37,
+      "question": "The Eisenhower box helps you:",
+      "answer": "Prioritize",
+      "source_url": "https://www.gcertificationcourse.com/the-eisenhower-box-helps-you/"
+    },
+    {
+      "id": 38,
+      "question": "What's the difference between attitudinal and behavioral research?",
+      "answer": "Attitudinal research measures what your customers say; behavioral measures what they do.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-difference-between-attitudinal/"
+    },
+    {
+      "id": 39,
+      "question": "What's the difference between qualitative and quantitative research?",
+      "answer": "Qualitative studies generate data based on observing a person or thing directly; quantitative data is gathered indirectly.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-difference-between-qualitative-and/"
+    },
+    {
+      "id": 40,
+      "question": "When should you use a thematic analysis?",
+      "answer": "After you've conducted your research.",
+      "source_url": "https://www.gcertificationcourse.com/when-should-you-use-a-thematic-analysis/"
+    },
+    {
+      "id": 41,
+      "question": "After you've conducted your thematic analysis, when writing a narrative you should include all of the following EXCEPT a(n):",
+      "answer": "Eisenhower box",
+      "source_url": "https://www.gcertificationcourse.com/after-youve-conducted-your-thematic-analysis/"
+    },
+    {
+      "id": 42,
+      "question": "You have a goal of redesigning your website, but you first want to know which categories certain links should go under. Which research method should you use?",
+      "answer": "Card sorts",
+      "source_url": "https://www.gcertificationcourse.com/you-have-a-goal-of-redesigning-your-website/"
+    },
+    {
+      "id": 43,
+      "question": "Your team has redesigned your company website. Which study will help you analyze whether or not the changes they've made have resulted in an improved customer experience?",
+      "answer": "Benchmark study",
+      "source_url": "https://www.gcertificationcourse.com/your-team-has-redesigned-your-company/"
+    },
+    {
+      "id": 44,
+      "question": "Dennis is a content marketer for a web development agency. While researching a blog post about accessibility, he came across some alarming information about companies being sued for lack of accessibility. How should he address this in his blog post?",
+      "answer": "Even if your website isn't legally required to be accessible, ensure it doesn't prevent anyone from consuming, navigating, or obtaining information. Speak with a lawyer if you have concerns.",
+      "source_url": "https://www.gcertificationcourse.com/dennis-is-a-content-marketer-for-a-web/"
+    },
+    {
+      "id": 45,
+      "question": "How can you leverage the Mere-Exposure effect on your website?",
+      "answer": "Create consistency across your website's design, page layouts, fonts, and colors.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-leverage-the-mere-exposure/"
+    },
+    {
+      "id": 46,
+      "question": "Jess is a freelance web designer. Her client has asked her to remove all navigation from their website's product pages, stating that they want users to focus on the information and convert, rather than navigate away from the page. How should Jess explain why this is not a good idea?",
+      "answer": "Including navigation menus on all pages helps users understand where they are on your site and find the information they need, especially if they entered your website through a page other than your homepage.",
+      "source_url": "https://www.gcertificationcourse.com/jess-is-a-freelance-web-designer-her-client-has/"
+    },
+    {
+      "id": 47,
+      "question": "Louis is a marketer for an online shoe store. Each product page includes a series of images and a short video of the shoe. Louis wants to make these pages more accessible. What steps should he take? Choose all that apply.",
+      "answer": [
+        "Add descriptive alt text for each image.",
+        "Include captions for videos.",
+        "Ensure users can stop the videos' autoplay."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/louis-is-a-marketer-for-an-online-shoe-store-each/"
+    },
+    {
+      "id": 48,
+      "question": "Rachel works for a marketing agency and is designing a new website for a client. She's trying to create the site navigation, but is having trouble figuring out which items to include and where to place them. How should Rachel start tackling this problem?",
+      "answer": "Perform an open card sort with a group of users.",
+      "source_url": "https://www.gcertificationcourse.com/rachel-works-for-a-marketing-agency-and-is/"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following are key principles of information architecture? Choose all that apply.",
+      "answer": [
+        "Disclosure",
+        "Multiple Classification",
+        "Growth",
+        "Front Doors"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-are-key-principles-of/"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is an example of the Principle of Exemplars in action?",
+      "answer": "A movie streaming service's homepage includes categories such as \"Romantic Comedies\" with a list of films that fall into this category.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-the-2/"
+    },
+    {
+      "id": 51,
+      "question": "Fill in the blank: When enticing visitors with pop-ups in the ______ stage, you may want to promote offers, sales, or discount codes.",
+      "answer": "Engage",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-when-enticing-visitors-with/"
+    },
+    {
+      "id": 52,
+      "question": "Nauto, a data platform for self-driving cars, helps make autonomous driving safer for companies managing fleets of self-driving vehicles. Naturally, its customers would need all kinds of information, and Nauto has this information packaged into a super-simple e-book. Their landing page gives you both a brief contact form, and some preview statistics to prove why this resource is so important. Reflecting on the landing page’s best practices, which area could Nauto optimize on this page?",
+      "answer": "Graphics",
+      "source_url": "https://www.gcertificationcourse.com/nauto-a-data-platform-for-self-driving-cars/"
+    },
+    {
+      "id": 53,
+      "question": "Fill in the blank: This pop-up from Pixizoo is a great example of using pop-ups in the ______ stage.",
+      "answer": "Delight",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-this-pop-up-from-pixizoo-is/"
+    },
+    {
+      "id": 54,
+      "question": "Why is it important for marketers to optimize their mobile experience?",
+      "answer": "You want to help consumers find what they want to find, and do what they want to do, quickly and easily.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-important-for-marketers-to-optimize/"
+    },
+    {
+      "id": 55,
+      "question": "Crate & Barrel recently sent out an SMS promotion to its audience that included the following. If they didn’t receive the results they were looking for, what’s one thing they could improve upon with their SMS strategy moving forward?",
+      "answer": "Use a related image. Based on this photo, it’s difficult to tell what exactly they’re advertising.",
+      "source_url": "https://www.gcertificationcourse.com/crate-barrel-recently-sent-out-an-sms-promotion/"
+    },
+    {
+      "id": 56,
+      "question": "Impulse Creative uses a chatbot to help users navigate through its website and find what they’re looking for with a “choose your own adventure” of sorts. Visitors can select a query from the bot that aligns with their interests. Based on what’s displayed in the chat window, which best practice is Impulse Creative using to qualify leads with their chatbots? Select all that apply.",
+      "answer": [
+        "Adding value before they extract value, and letting the visitor know how they can help.",
+        "Using predefined answers instead of allowing folks to type in their own answers."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/impulse-creative-uses-a-chatbot-to-help/"
+    },
+    {
+      "id": 57,
+      "question": "UrbanStems is an ecommerce marketplace for flowers and plants. Its website features the chatbot below. Reflecting on chatbot best practices and what you learned in the certification, what are the benefits of using a chatbot in this manner? Select all that apply.",
+      "answer": [
+        "Common Solutions: The chatbot feature surfaces the answers to FAQs that enable users to quickly find solutions to the most common problems.",
+        "Live Chat Option: The chatbot features a Live Chat button that visitors can click to be transferred to a live agent for more pressing issues."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/urbanstems-is-an-ecommerce-marketplace/"
+    },
+    {
+      "id": 58,
+      "question": "When would you NOT want to implement live chat on your website?",
+      "answer": "If human bandwidth was a constraint",
+      "source_url": "https://www.gcertificationcourse.com/when-would-you-not-want-to-implement-live/"
+    },
+    {
+      "id": 59,
+      "question": "Why is it important to reconcile date ranges on your campaigns’ sources reports?",
+      "answer": "If you don’t add date ranges, all historical data associated with new or influenced contacts could skew the numbers you see on the performance tab.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-important-to-reconcile-date-ranges/"
+    },
+    {
+      "id": 60,
+      "question": "You’re reviewing the average bounce rates of your channels, and you encounter the following metrics. Based on this information, which of the following conclusions can you draw about your channels?",
+      "answer": "More investigation of the goals of each of these channels and the content they’re directing visitors to is necessary before drawing conclusions.",
+      "source_url": "https://www.gcertificationcourse.com/youre-reviewing-the-average-bounce-rates-of/"
+    },
+    {
+      "id": 61,
+      "question": "You notice quite a bit of traffic is coming to your site and being categorized as Direct traffic. Why might these site visitors be categorized in this way? Select all that apply.",
+      "answer": [
+        "The referring URL of a visit is an identified mail domain or RSS reader.",
+        "The referring URL of a visit is empty because a visitor typed your website URL into their browser directly, or the referring information is otherwise lost."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/you-notice-quite-a-bit-of-traffic-is-coming-to/"
+    },
+    {
+      "id": 62,
+      "question": "Why would you see “unknown” or “Unknown SSL” appear in your Organic search traffic in the sources report in HubSpot?",
+      "answer": "The search engine is encrypting the user data. This is common on Google.",
+      "source_url": "https://www.gcertificationcourse.com/why-would-you-see-unknown-or-unknown-ssl/"
+    },
+    {
+      "id": 63,
+      "question": "What is one way we can develop a positive mindset?",
+      "answer": "Reframe the situation to consider the positive aspects of the problem",
+      "source_url": "https://www.gcertificationcourse.com/what-is-one-way-we-can-develop-a-positive/"
+    },
+    {
+      "id": 64,
+      "question": "What is social proof?",
+      "answer": "When someone sees other people like them doing something they're more likely to do the same and follow the crowd",
+      "source_url": "https://www.gcertificationcourse.com/what-is-social-proof/"
+    },
+    {
+      "id": 65,
+      "question": "\"How do you use our app today?\" is an example of a _________ question.",
+      "answer": "Focused",
+      "source_url": "https://www.gcertificationcourse.com/how-do-you-use-our-app-today-is-an-example/"
+    },
+    {
+      "id": 66,
+      "question": "You've completed a couple exploratory interviews, and you want to validate some of the findings you've discovered. Select the appropriate research methods that will help you accomplish this goal.",
+      "answer": [
+        "Surveys",
+        "Card sorts",
+        "Listening Labs"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/youve-completed-a-couple-exploratory-interviews/"
+    },
+    {
+      "id": 67,
+      "question": "What is the Principle of Growth in information architecture?",
+      "answer": "Leave room to add new content within existing sections of your website, and add entirely new sections.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-principle-of-growth-in-information/"
+    },
+    {
+      "id": 68,
+      "question": "Which of the following is the best way to gather data indirectly about how people use your website?",
+      "answer": "Heat mapping software",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-best-way-to-2/"
+    },
+    {
+      "id": 69,
+      "question": "Dale Carnegie’s 1936 bestseller, 'How to Win Friends and Influence People', suggests that you can, “Ask questions the other person will enjoy answering.” What’s one way that you can do this in a business setting?",
+      "answer": "Ask for advice or an opinion.",
+      "source_url": "https://www.gcertificationcourse.com/dale-carnegies-1936-bestseller-how-to-win/"
+    },
+    {
+      "id": 70,
+      "question": "Other than the main navigation menu, how else can you include navigation on your website?",
+      "answer": "A & C",
+      "source_url": "https://www.gcertificationcourse.com/other-than-the-main-navigation-menu-how-else/"
+    },
+    {
+      "id": 71,
+      "question": "True or False: 89% of marketers say video testimonials are the most effective content marketing tactic.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-89-of-marketers-say-video/"
+    },
+    {
+      "id": 72,
+      "question": "True or False: You should never ask your customers for a review of your business.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-never-ask-your/"
+    }
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "created_date": "2025-07-01T14:35:59.892036",
+  "created_date": "2025-07-09T14:07:46.653079",
   "course_info": {
     "name": "HubSpot CMS for Developers II: Best Practices",
     "source_url": "https://www.gcertificationcourse.com/hubspot-cms-for-developers-ii-answers/",
     "total_questions": 89,
-    "scraped_date": "2025-07-01 14:32:35"
+    "scraped_date": "2025-07-09 14:04:23"
   },
   "questions": [
     {
@@ -53,25 +53,40 @@
     {
       "id": 8,
       "question": "Select all that apply. What are some web accessibility best practices you should account for near the beginning of a project?",
-      "answer": "Creating large enough clickable areas in prototypes",
+      "answer": [
+        "Creating large enough clickable areas in prototypes",
+        "Designing copy and buttons with sufficient color contrast",
+        "Being thoughtful about the tab order of your site"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-some-web/"
     },
     {
       "id": 9,
       "question": "Select all that apply. When performing manual keyboard testing on your page, what should you check for?",
-      "answer": "That the appropriate elements receive focus",
+      "answer": [
+        "That the appropriate elements receive focus",
+        "That focused elements have an outline or other visual indicator so they can be easily identified",
+        "That the tab order makes intuitive sense"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-when-performing-manual/"
     },
     {
       "id": 10,
       "question": "Select all that apply. Which of the following are HTML semantic elements?",
-      "answer": "main",
+      "answer": [
+        "main",
+        "header",
+        "nav"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-16/"
     },
     {
       "id": 11,
       "question": "Select all that apply. Which of the following is an example of a web accessibility optimization that also benefits most of your users?",
-      "answer": "Using sufficient color contrast between foreground text and the background",
+      "answer": [
+        "Using sufficient color contrast between foreground text and the background",
+        "Developing a well-organized user interface"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-17/"
     },
     {
@@ -95,7 +110,11 @@
     {
       "id": 15,
       "question": "Select all that apply. Which of the following make page navigation more efficient for those using assistive technology?",
-      "answer": "A skip to content link",
+      "answer": [
+        "A skip to content link",
+        "A valid heading hierarchy",
+        "Landmarks"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-15/"
     },
     {
@@ -107,7 +126,10 @@
     {
       "id": 17,
       "question": "Consider this scenario: You are loading a script (script 1) on your page which two other scripts rely on to function (scripts 2 and 3). All of these scripts can be safely executed after construction of the DOM. Which of the following approaches would work when loading these scripts? Select all that apply.",
-      "answer": "Load script 1 normally (without an async or defer) attribute and load scripts 2 and 3 with the defer attribute.",
+      "answer": [
+        "Load script 1 normally (without an async or defer) attribute and load scripts 2 and 3 with the defer attribute.",
+        "Load all 3 scripts with the defer attribute, making sure to include script 1 first in the HTML."
+      ],
       "source_url": "https://www.gcertificationcourse.com/consider-this-scenario-you-are-loading/"
     },
     {
@@ -161,7 +183,12 @@
     {
       "id": 26,
       "question": "Select all that apply. What can you do to optimize images within a custom module?",
-      "answer": "Set the image's loading attribute to \"lazy,\" by default",
+      "answer": [
+        "Set the image's loading attribute to \"lazy,\" by default",
+        "Add width and height attributes to the image",
+        "Use the resize_image_url function to resize the image",
+        "Use srcset and sizes attributes"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-can-you-do-to/"
     },
     {
@@ -173,7 +200,10 @@
     {
       "id": 28,
       "question": "Select all that apply. Which of the following are Core Web Vitals?",
-      "answer": "First Input Delay",
+      "answer": [
+        "First Input Delay",
+        "Cumulative Layout Shift"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-14/"
     },
     {
@@ -191,7 +221,11 @@
     {
       "id": 31,
       "question": "Select all that apply. How can you help content creators more easily work with modules?",
-      "answer": "Use a description of the elements in the module to name it",
+      "answer": [
+        "Use a description of the elements in the module to name it",
+        "Include help text that describes the module",
+        "Include default content for required module fields"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-how-can-you-help/"
     },
     {
@@ -215,13 +249,22 @@
     {
       "id": 35,
       "question": "Select all that apply. Where can you access a brand color that you've set in the account's brand settings?",
-      "answer": "Within an HTML + HubL file",
+      "answer": [
+        "Within an HTML + HubL file",
+        "Within a CSS + HubL file",
+        "Within a module's fields.json file",
+        "Within a theme's fields.json file"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-where-can-you-access-2/"
     },
     {
       "id": 36,
       "question": "Select all that apply. Where can you access a brand logo that you've set in your account's brand settings?",
-      "answer": "Within HTML + HubL files",
+      "answer": [
+        "Within HTML + HubL files",
+        "Within CSS + HubL files",
+        "Within a module's fields.json file"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-where-can-you-access/"
     },
     {
@@ -233,19 +276,31 @@
     {
       "id": 38,
       "question": "Select all that apply. Which of the following fields should you include in your theme's fields.json file?",
-      "answer": "Color and font controls for forms",
+      "answer": [
+        "Color and font controls for forms",
+        "Global color fields",
+        "Global font fields",
+        "Color and font controls for buttons"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-12/"
     },
     {
       "id": 39,
       "question": "Select all that apply. Which of the following best describes modules?",
-      "answer": "Good for reorganizing into custom layouts",
+      "answer": [
+        "Good for reorganizing into custom layouts",
+        "Atomic",
+        "Span less than the full width of the page"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-13/"
     },
     {
       "id": 40,
       "question": "Which of the following is NOT a system template?",
-      "answer": "Blog preferences page",
+      "answer": [
+        "Blog preferences page",
+        "Blog listing page template"
+      ],
       "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-system-template/"
     },
     {
@@ -269,7 +324,11 @@
     {
       "id": 44,
       "question": "Select all that apply. Which style fields have a generated .css property?",
-      "answer": "Border",
+      "answer": [
+        "Border",
+        "Gradient",
+        "Background image"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-style-fields/"
     },
     {
@@ -329,13 +388,20 @@
     {
       "id": 54,
       "question": "Select all that apply: In order to account for mobile-first indexing, you should:",
-      "answer": "Create a mobile-friendly website.",
+      "answer": [
+        "Create a mobile-friendly website.",
+        "Use the same content on your mobile site as your desktop site.",
+        "Use the same meta tags on both the desktop and mobile versions of your site."
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-in-order-to-account/"
     },
     {
       "id": 55,
       "question": "Select all that apply. What can you use sitemaps for?",
-      "answer": "To tell search engines about what pages and files you think are important on your site",
+      "answer": [
+        "To tell search engines about what pages and files you think are important on your site",
+        "To help search engines find and understand media content and news articles"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-can-you-use/"
     },
     {
@@ -347,7 +413,11 @@
     {
       "id": 57,
       "question": "Select all that apply. What is a canonical URL?",
-      "answer": "Something that's useful if you have a single page accessible by multiple URLs",
+      "answer": [
+        "Something that's useful if you have a single page accessible by multiple URLs",
+        "The URL to the version of a page that should be crawled and indexed",
+        "Something that's useful if you have multiple pages with similar content"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-a-canonical-url/"
     },
     {
@@ -359,13 +429,20 @@
     {
       "id": 59,
       "question": "Select all that apply. When might you use a redirect?",
-      "answer": "When moving your site to a new domain",
+      "answer": [
+        "When moving your site to a new domain",
+        "When you've moved a page to a new URL",
+        "When you have multiple URLs for your site"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-when-might-you-use/"
     },
     {
       "id": 60,
       "question": "Select all that apply. Which of the following will prevent a page from appearing in Google's search results?",
-      "answer": "Adding a noindex meta tag to the page",
+      "answer": [
+        "Adding a noindex meta tag to the page",
+        "Password-protecting the page"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-11/"
     },
     {
@@ -395,7 +472,11 @@
     {
       "id": 65,
       "question": "Select all that apply. Which elements should receive focus as you tab through a web page?",
-      "answer": "button elements",
+      "answer": [
+        "button elements",
+        "anchor elements",
+        "input elements"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-elements-should/"
     },
     {
@@ -419,19 +500,28 @@
     {
       "id": 69,
       "question": "Select all that apply. Which of the following are examples of render-blocking resources?",
-      "answer": "CSS files",
+      "answer": [
+        "CSS files",
+        "JavaScript files"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-10/"
     },
     {
       "id": 70,
       "question": "Select all that apply. What is Cumulative Layout Shift?",
-      "answer": "A Core Web Vital",
+      "answer": [
+        "A Core Web Vital",
+        "A measure of visual stability"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-cumulative/"
     },
     {
       "id": 71,
       "question": "Select all that apply. What is First Input Delay?",
-      "answer": "A measure of interactivity",
+      "answer": [
+        "A measure of interactivity",
+        "A Core Web Vital"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-first-input/"
     },
     {
@@ -467,19 +557,30 @@
     {
       "id": 77,
       "question": "Select all that apply. When should you create a section template instead of a module?",
-      "answer": "When you want to create a fixed layout page area for content editors to use",
+      "answer": [
+        "When you want to create a fixed layout page area for content editors to use",
+        "When you have multiple page elements organized in a specific layout",
+        "When you want to create a full-width page area"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-when-should-you-create/"
     },
     {
       "id": 78,
       "question": "Select all that apply. Which of the following module elements would be a good candidate for a style field?",
-      "answer": "Text color",
+      "answer": [
+        "Text color",
+        "A background image"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-9/"
     },
     {
       "id": 79,
       "question": "Select all that apply. When it comes to SEO, developers are usually responsible for:",
-      "answer": "Some elements of technical SEO.",
+      "answer": [
+        "Some elements of technical SEO.",
+        "Some elements of on-page SEO.",
+        "Implementing structured data."
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-when-it-comes-to-seo/"
     },
     {
@@ -491,7 +592,10 @@
     {
       "id": 81,
       "question": "Select all that apply. Which of the following are good examples of descriptive link text?",
-      "answer": "View our course catalog",
+      "answer": [
+        "View our course catalog",
+        "Fill out our contact form"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-8/"
     },
     {

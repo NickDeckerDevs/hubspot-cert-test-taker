@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "created_date": "2025-07-01T14:02:07.151276",
+  "created_date": "2025-07-09T14:04:21.256069",
   "course_info": {
     "name": "Integrating With HubSpot I: Foundations",
     "source_url": "https://www.gcertificationcourse.com/integrating-with-hubspot-i-foundations-answers/",
     "total_questions": 91,
-    "scraped_date": "2025-07-01 13:58:35"
+    "scraped_date": "2025-07-09 14:00:53"
   },
   "questions": [
     {
@@ -41,7 +41,11 @@
     {
       "id": 6,
       "question": "Select all that apply. What are the different HubSpot account types that developers can use?",
-      "answer": "Test account",
+      "answer": [
+        "Test account",
+        "Developer sandbox account",
+        "CMS sandbox account"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-the/"
     },
     {
@@ -179,7 +183,11 @@
     {
       "id": 29,
       "question": "Select all that apply. Which of the following are the different ways you can filter the private app API call logs?",
-      "answer": "Response code",
+      "answer": [
+        "Response code",
+        "HTTP method",
+        "Date period"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-2/"
     },
     {
@@ -329,7 +337,11 @@
     {
       "id": 54,
       "question": "Select all that apply. What are some of the query parameters for standard CRM objects.",
-      "answer": "associations",
+      "answer": [
+        "associations",
+        "properties",
+        "limit"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-some-of/"
     },
     {
@@ -389,13 +401,21 @@
     {
       "id": 64,
       "question": "Select all that apply. Which of the following is a difference in the way developers and users interact with the CRM?",
-      "answer": "Developers focus on the object API endpoints, while customers focus on the object records.",
+      "answer": [
+        "Developers focus on the object API endpoints, while customers focus on the object records.",
+        "Developers use batch calls for large amounts of data, while users use the Import GUI.",
+        "Developers can use GraphQL to call CRM data in an email or webpage, while users can use personalization tokens."
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the/"
     },
     {
       "id": 65,
       "question": "Select all that apply. What is the purpose of having a pipeline view for deals and tickets?",
-      "answer": "To more quickly drag and drop records into a new part of the pipeline.",
+      "answer": [
+        "To more quickly drag and drop records into a new part of the pipeline.",
+        "To visually see the current stage of the pipeline record.",
+        "To more easily know how many records are in each pipeline."
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-the-purpose/"
     },
     {
@@ -503,7 +523,11 @@
     {
       "id": 83,
       "question": "Select all that apply. What are the benefits of having an app monitoring tool in your HubSpot account?",
-      "answer": "You can track how much of your daily usage you’ve used.",
+      "answer": [
+        "You can track how much of your daily usage you’ve used.",
+        "You can access the specific response codes you received with each call.",
+        "You can expire your access token if you find any suspicious behavior in the call logs."
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-the-benefits/"
     },
     {
@@ -515,7 +539,11 @@
     {
       "id": 85,
       "question": "Select all that apply. Which of the following topics can be found on the API-side of the dev docs?",
-      "answer": "CRM",
+      "answer": [
+        "CRM",
+        "Analytics & Events",
+        "Webhooks"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-19/"
     },
     {
@@ -527,7 +555,11 @@
     {
       "id": 87,
       "question": "Select all that apply. Which of the following is a benefit of using a promise when working with APIs in a Node App?",
-      "answer": "Promises allow you to run code asynchronously.",
+      "answer": [
+        "Promises allow you to run code asynchronously.",
+        "Promises make sure you only render the results once a value is returned.",
+        "Promises allow you to chain callbacks together."
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-20/"
     },
     {

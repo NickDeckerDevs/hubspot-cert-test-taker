@@ -1,0 +1,426 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-09T13:58:53.437291",
+  "course_info": {
+    "name": "HubSpot Growth Driven Design Certification",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-growth-driven-design-answers/",
+    "total_questions": 69,
+    "scraped_date": "2025-07-09 13:56:17"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What primary challenge(s) exist with the traditional web design process?",
+      "answer": "A, B, and C",
+      "source_url": "https://www.gcertificationcourse.com/what-primary-challenges-exist-with-the-traditional-web-design-process/"
+    },
+    {
+      "id": 2,
+      "question": "Fill in the blank: Growth-Driven Design is a smarter approach to web design that ____________, ____________, and ____________.",
+      "answer": "reduces frustration and risk, drives optimal results using data, improves the entire company by using the website as a tool for company-wide learning and growth.",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-growth-driven-design-is-a-smarter-approach/"
+    },
+    {
+      "id": 3,
+      "question": "What are the three stages of Growth-Driven Design?",
+      "answer": "Strategy, Launch Pad, Continuous Improvement",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-three-stages-of-growth-driven-design/"
+    },
+    {
+      "id": 4,
+      "question": "Which statement best describes the purpose of the strategy stage?",
+      "answer": "Develop an empathetic understanding of your audience’s world and how the website can solve problems along their journey.",
+      "source_url": "https://www.gcertificationcourse.com/which-statement-best-describes-the-purpose-of-the-strategy-stage/"
+    },
+    {
+      "id": 5,
+      "question": "Fill in the blank: The primary goal of the continuous improvement stage is to _______.",
+      "answer": "use data to identify and build high-impact actions to drive business growth.",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-primary-goal-of-the-continuous-improvement-stage/"
+    },
+    {
+      "id": 6,
+      "question": "During the continuous improvement stage, what are the steps used in the cycle?",
+      "answer": "Plan, build, learn, transfer.",
+      "source_url": "https://www.gcertificationcourse.com/during-the-continuous-improvement-stage-what-are-the-steps/"
+    },
+    {
+      "id": 7,
+      "question": "Imagine your CEO says, “Why do we need to use Growth-Driven Design on our website? Don’t we just need it to look better than our competitors?” Which of the following is the best response to your CEO?",
+      "answer": "“We need to shift our thinking to view the website as an asset we invest in to drive company growth. Agencies on a 2017 survey reported seeing 14.1% more visitors, 16.9% more leads, and 11.2% more revenue six months after launching their website using Growth-Driven Design.”",
+      "source_url": "https://www.gcertificationcourse.com/imagine-your-ceo-says-why-do-we-need-to-use-growth-driven/"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following statements best describes how to think of the website in relation to other departments?",
+      "answer": "The website is a tool that can be used by all departments to scale and hit individual department goals.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-best-describes-how-to-think/"
+    },
+    {
+      "id": 9,
+      "question": "Fill in the blank: When using Growth-Driven Design, you can experience ______, _______, and ______ compared to traditional web design.",
+      "answer": "quicker time-to-value, happier team members, better results",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-when-using-growth-driven-design/"
+    },
+    {
+      "id": 10,
+      "question": "True or false? You can skip the strategy stage and move right to building the launch pad if you have a senior team member who has been working at the company for a while because they will already know what should be built on the website.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-skip-the-strategy-stage-and-move-right/"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following factors is NOT important to determine during the website goals step?",
+      "answer": "The number of high-impact pages required to build on the new website.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-factors-is-not-important-to-determine/"
+    },
+    {
+      "id": 12,
+      "question": "Imagine your team is reviewing the required work to complete the strategy stage. Upon reviewing, your boss asks, “What is the Jobs to Be Done step?” Which of the following responses would be the best?",
+      "answer": "“Jobs to Be Done is a framework that helps us understand the progress our customers are trying to make, which they are “hiring” our product or service to help with.”",
+      "source_url": "https://www.gcertificationcourse.com/imagine-your-team-is-reviewing-the-required-work-to-complete/"
+    },
+    {
+      "id": 13,
+      "question": "Which statement best describes what a buyer persona is?",
+      "answer": "A semi-fictional representation of your ideal customer.",
+      "source_url": "https://www.gcertificationcourse.com/which-statement-best-describes-what-a-buyer-persona-is/"
+    },
+    {
+      "id": 14,
+      "question": "Fill in the blank: ________ are the core elements of the business and website. They act like the beams of a house, the underlying support upon which all other activities should be built.",
+      "answer": "The “fundamental assumptions”",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-are-the-core-elements-of-the-business-and-website/"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following statements best describes the goal of a journey map?",
+      "answer": "To gain a holistic view of your persona's life throughout their journey of accomplishing their job to be done.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-best-describes-the-goal/"
+    },
+    {
+      "id": 16,
+      "question": "True or false? Your strategist’s (or team leader’s) role is to master the process of uncovering answers from your users and turning those answers into items to build to drive value and business results.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-your-strategists-or-team-leaders-role-is-to-master/"
+    },
+    {
+      "id": 17,
+      "question": "What are the three high-level steps of the user research process?",
+      "answer": "Develop user questions, perform research, analyze and report on findings.",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-three-high-level-steps-of-the-user-research-process/"
+    },
+    {
+      "id": 18,
+      "question": "Fill in the blank: You’re training a new team member on the research and brainstorming process. Your teammate asks, “Why are the user questions the first step in the research process?” You respond with, “Starting with creating user questions helps us _______.”",
+      "answer": "focus our research efforts in the right areas and helps us determine the best research methods to use",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-youre-training-a-new-team-member-on-the-research/"
+    },
+    {
+      "id": 19,
+      "question": "True or false? It’s common to answer a user question by conducting one type of research.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-common-to-answer-a-user-question/"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following statements is NOT an example of a time you need to use qualitative research?",
+      "answer": "When you need to save time on research to hit a deadline.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-is-not-an-example-of-a-time/"
+    },
+    {
+      "id": 21,
+      "question": "Imagine you’re reviewing your website’s analytics and notice a large percentage of users exiting the site on the third step of your conversion funnel. The third step of the conversion funnel is the “product comparison page.” You want to review the behaviors and interactions each user has on that page just before they exit. Which research category would be best to use in the scenario above?",
+      "answer": "Observational",
+      "source_url": "https://www.gcertificationcourse.com/imagine-youre-reviewing-your-websites-analytics-and-notice/"
+    },
+    {
+      "id": 22,
+      "question": "Which statement best defines a launch pad website?",
+      "answer": "A website that looks and performs better than the one you have today but is built quickly and is not a final product. Rather, your launch pad is the foundation you’ll build and optimize from using data.",
+      "source_url": "https://www.gcertificationcourse.com/which-statement-best-defines-a-launch-pad-website/"
+    },
+    {
+      "id": 23,
+      "question": "What is the difference between a launch pad website and a traditional website?",
+      "answer": "The end result is a fully built website for both. It’s the behind-the-scenes process involved in the launch pad site that the company and users don’t see that enables a faster launch.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-difference-between-a-launch-pad-website/"
+    },
+    {
+      "id": 24,
+      "question": "When customizing your launch pad acceleration approach, which of the following possible acceleration methods should you NOT use?",
+      "answer": "All hands on deck",
+      "source_url": "https://www.gcertificationcourse.com/when-customizing-your-launch-pad-acceleration-approach/"
+    },
+    {
+      "id": 25,
+      "question": "Imagine your team launched a new website three months ago, before you were hired. The website is performing well, but there’s still opportunity to improve using Growth-Driven Design. Based on this scenario, which is the BEST approach to recommend to your boss?",
+      "answer": "Use the “refresh” method by reviewing the strategy stage, auditing the existing website, developing the list of required updates, and moving into continuous improvement starting with your list of required updates.",
+      "source_url": "https://www.gcertificationcourse.com/imagine-your-team-launched-a-new-website-three-months-ago/"
+    },
+    {
+      "id": 26,
+      "question": "True or false? The only way to speed up the creation of a launch pad website is to cut out the majority of the content.",
+      "answer": "False — cutting down the amount of content on the site is only one of many options for speeding up a launch pad website and may not be the right choice for your specific website.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-only-way-to-speed-up-the-creation-of-a-launch/"
+    },
+    {
+      "id": 27,
+      "question": "Fill in the blanks: A sprint workshop is a _________ where _______ step(s) out of the day-to-day to collaborate and develop a set of _________ that will be ________.",
+      "answer": "focused period of time, the team, specific deliverables, tested on website users",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blanks-a-sprint-workshop-is-a-where-steps-out-of-the-day/"
+    },
+    {
+      "id": 28,
+      "question": "Fill in the blank: Running a sprint workshop is time consuming for the team, but it’s worth the time investment because: ___________.",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-running-a-sprint-workshop-is-time-consuming/"
+    },
+    {
+      "id": 29,
+      "question": "Your team and the stakeholders are discussing where to run sprint workshops. In which parts of the GDD process is it common to run a sprint workshop?",
+      "answer": "During the strategy kick-off, wish list brainstorming, designs, and new site launch.",
+      "source_url": "https://www.gcertificationcourse.com/your-team-and-the-stakeholders-are-discussing-where-to-run/"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is NOT a way to create remarkable content?",
+      "answer": "Have the CEO create the content from scratch to ensure it’s in their voice and makes a personal connection with website users.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-way-to-create-remarkable-content/"
+    },
+    {
+      "id": 31,
+      "question": "True or false? It’s important to code a marketer-friendly website.",
+      "answer": "True — this removes bottlenecks, allows your team to move faster, and keeps developers building interesting projects versus spending their time making small updates.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-important-to-code-a-marketer-friendly-website/"
+    },
+    {
+      "id": 32,
+      "question": "Fill in the blank: The continuous improvement stage is a repeatable, _____ process for the team to continuously collect ______, build _______, and generate more momentum as they go.",
+      "answer": "agile, real user data, high-impact items",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-continuous-improvement-stage-is-a-repeatable/"
+    },
+    {
+      "id": 33,
+      "question": "Imagine while planning your yearly budget, your CEO asks you, “We have many people asking for funding. Why should we invest in continuous improvement? Can’t we just stop at the launch pad website?” What is the best response?",
+      "answer": "“The continuous improvement of our website is an investment in driving even more value to our users and better results for the company. In a 2017 web design agency survey, it was found that running GDD resulted in 16.9% more leads and 11.2% more revenue six months after launch!”",
+      "source_url": "https://www.gcertificationcourse.com/imagine-while-planning-your-yearly-budget-your-ceo-asks-you/"
+    },
+    {
+      "id": 34,
+      "question": "Who should choose the team’s theme to focus on, and when will it be announced to the team?",
+      "answer": "Strategist, the quarterly summit",
+      "source_url": "https://www.gcertificationcourse.com/who-should-choose-the-teams-theme-to-focus-on-and-when/"
+    },
+    {
+      "id": 35,
+      "question": "What is the goal of the “plan” step in the sprint cycle?",
+      "answer": "To determine the most impactful action items to implement to get closer to the current focus metric goal.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-goal-of-the-plan-step-in-the-sprint-cycle/"
+    },
+    {
+      "id": 36,
+      "question": "While going through the sprint cycles, where should your team focus all their time and energy?",
+      "answer": "Improving the focus area selected by the strategist at the beginning of the cycle.",
+      "source_url": "https://www.gcertificationcourse.com/while-going-through-the-sprint-cycles-where-should-your-team-focus/"
+    },
+    {
+      "id": 37,
+      "question": "How do you prioritize which wish list items to work on?",
+      "answer": "A combination of highest impact score, lowest effort required to build, and urgency to implement.",
+      "source_url": "https://www.gcertificationcourse.com/how-do-you-prioritize-which-wish-list-items-to-work-on/"
+    },
+    {
+      "id": 38,
+      "question": "True or false? It’s important to leave a certain percentage of flex time in each sprint cycle for implementing updates, maintenance, or CEO-mandated items.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-important-to-leave-a-certain-percentage-of-flex-time/"
+    },
+    {
+      "id": 39,
+      "question": "Which statement best describes why it’s important to run experiments to test the action items your team is building?",
+      "answer": "Running experiments is important for having a structured way to learn about your users and how the business can interact with them.",
+      "source_url": "https://www.gcertificationcourse.com/which-statement-best-describes-why-its-important-to-run-experiments/"
+    },
+    {
+      "id": 40,
+      "question": "True or false? A/B or split testing is the only way to validate your hypothesis.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-b-or-split-testing-is-the-only-way-to-validate/"
+    },
+    {
+      "id": 41,
+      "question": "What is the goal of the \"transfer\" step in the sprint cycle?",
+      "answer": "To help teams improve their efforts by informing them of your user learnings, and vice versa.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-goal-of-the-transfer-step-in-the-sprint-cycle/"
+    },
+    {
+      "id": 42,
+      "question": "How many sprint cycles should you run on each focus area?",
+      "answer": "You should run as many sprint cycles as it takes to reach the predetermined focus metric goal of that focus area.",
+      "source_url": "https://www.gcertificationcourse.com/how-many-sprint-cycles-should-you-run-on-each-focus-area/"
+    },
+    {
+      "id": 43,
+      "question": "What is the website performance roadmap?",
+      "answer": "A framework used by the strategist when they’re planning during the continuous improvement stage.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-website-performance-roadmap/"
+    },
+    {
+      "id": 44,
+      "question": "Imagine your launch pad website is now live, and you’re moving into the continuous improvement stage. Which of the following frameworks provides focus to the team, sets clear expectations, and helps track and measure progress?",
+      "answer": "The website performance roadmap",
+      "source_url": "https://www.gcertificationcourse.com/imagine-your-launch-pad-website-is-now-live-and-youre-moving/"
+    },
+    {
+      "id": 45,
+      "question": "The website performance roadmap is a framework structured into a decision tree with three levels. In what order are the three tree levels?",
+      "answer": "Theme, focus area, tactics",
+      "source_url": "https://www.gcertificationcourse.com/the-website-performance-roadmap-is-a-framework-structured/"
+    },
+    {
+      "id": 46,
+      "question": "Imagine you’re trying to educate your team on the website performance roadmap. How would you best describe what a “theme” is?",
+      "answer": "A directional mindset the team should use to think through building and optimizing the website. It’s used to help direct and focus the team.",
+      "source_url": "https://www.gcertificationcourse.com/imagine-youre-trying-to-educate-your-team-on-the-website/"
+    },
+    {
+      "id": 47,
+      "question": "What is the recommended minimum number of months to stay on a particular theme?",
+      "answer": "Three",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-recommended-minimum-number-of-months-to-stay/"
+    },
+    {
+      "id": 48,
+      "question": "Each focus area has a specific focus metric associated with it. Which of the following best describes what a focus metric is?",
+      "answer": "A single metric that provides focus for ideation and prioritization while also serving as a direct measure of the progress you make toward the current goal.",
+      "source_url": "https://www.gcertificationcourse.com/each-focus-area-has-a-specific-focus-metric-associated-with-it/"
+    },
+    {
+      "id": 49,
+      "question": "Select the definition that best describes the “establish” theme.",
+      "answer": "The core foundational activities you need to do once you’ve built something new.",
+      "source_url": "https://www.gcertificationcourse.com/select-the-definition-that-best-describes-the-establish-theme/"
+    },
+    {
+      "id": 50,
+      "question": "Why is the “value” focus area important to complete early on after launching a new launch pad or website initiative?",
+      "answer": "If you don’t first validate that the solution you built does, in-fact, solve users’ pain points and provide value, your team might waste time optimizing something users don’t care about in the first place.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-the-value-focus-area-important-to-complete-early/"
+    },
+    {
+      "id": 51,
+      "question": "Why is the “expand” theme important to consider when thinking of the website as a tool for company-wide growth?",
+      "answer": "It’s easy to think of the website as a tool for the marketing team to acquire new leads, but the website is a tool that the entire company can use to achieve their goals and provide value across the user’s journey.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-the-expand-theme-important-to-consider-when-thinking/"
+    },
+    {
+      "id": 52,
+      "question": "When searching for website design tools, look for tools that ___________.",
+      "answer": "all of the above",
+      "source_url": "https://www.gcertificationcourse.com/when-searching-for-website-design-tools/"
+    },
+    {
+      "id": 53,
+      "question": "A critical first step to choosing your website design tools is to ___________.",
+      "answer": "map business goals to website functionality",
+      "source_url": "https://www.gcertificationcourse.com/a-critical-first-step-to-choosing-your/"
+    },
+    {
+      "id": 54,
+      "question": "Most of your website design tools can be found in a CMS. A CMS can be defined as which of the following?",
+      "answer": "Content management system",
+      "source_url": "https://www.gcertificationcourse.com/most-of-your-website-design-tools-can-be/"
+    },
+    {
+      "id": 55,
+      "question": "True or false? A launch pad website doesn’t contain any content. It’s a functional prototype of what the website will look like when it’s done.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-launch-pad-website-doesnt-contain-any-content/"
+    },
+    {
+      "id": 56,
+      "question": "Why is it important to wait until the end of the strategy stage to complete the website-specific strategy items?",
+      "answer": "It’s important to have a deep understanding of your users before developing the website-specific strategy items.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-important-to-wait-until-the-end-of-the-strategy-stage/"
+    },
+    {
+      "id": 57,
+      "question": "Which of the following items could be included on your website wish list?",
+      "answer": "They all could be included on the website wish list",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-items-could-be-included-on-your-website/"
+    },
+    {
+      "id": 58,
+      "question": "Which statement best describes when user research is used during Growth-Driven Design?",
+      "answer": "User research is used throughout the entire GDD methodology, but it’s especially common during the strategy stage and the plan step of the continuous improvement stage.",
+      "source_url": "https://www.gcertificationcourse.com/which-statement-best-describes-when-user-research-is-used/"
+    },
+    {
+      "id": 59,
+      "question": "When is quantitative research a good option for your team to use?",
+      "answer": "A and C",
+      "source_url": "https://www.gcertificationcourse.com/when-is-quantitative-research-a-good-option-for-your-team-to-use/"
+    },
+    {
+      "id": 60,
+      "question": "Imagine your boss asks you, “Why is it important that we launch the launch pad website quickly?” Which of the following statements is the best response?",
+      "answer": "“Two reasons. First, the faster we launch, the less risky assumptions are made. Once it’s live, we can start collecting data to inform our decisions. And second, the faster we launch, the sooner we’ll start seeing a return on our investment. Remember, we’ll continue to build and optimize the site after it’s live.”",
+      "source_url": "https://www.gcertificationcourse.com/imagine-your-boss-asks-you-why-is-it-important-that-we-launch/"
+    },
+    {
+      "id": 61,
+      "question": "True or false? It’s impossible to build a launch pad website for a large, enterprise website.",
+      "answer": "False — it is possible. You’ll likely have to adjust your approach, and it will likely take you longer to build your initial launch pad, but it will still be quicker than if you built the website using traditional web design.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-impossible-to-build-a-launch-pad-website/"
+    },
+    {
+      "id": 62,
+      "question": "Which of the following technique(s) can be used to increase speed and quality of the new launch pad website?",
+      "answer": "A, B, C, and E",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-techniques-can-be-used-to-increase-speed/"
+    },
+    {
+      "id": 63,
+      "question": "Which of the following is NOT a good way to speed up the process of building a launch pad website?",
+      "answer": "Build the site as quickly as possible, regardless of quality.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-good-way-to-speed-up-the-process/"
+    },
+    {
+      "id": 64,
+      "question": "How many action items should you aim to complete in each sprint cycle?",
+      "answer": "Start at the top of the prioritized wish list and select as many action items as you can complete based on the effort required by each item and the team’s capacity.",
+      "source_url": "https://www.gcertificationcourse.com/how-many-action-items-should-you-aim-to-complete-in-each/"
+    },
+    {
+      "id": 65,
+      "question": "What is the goal of the \"learn\" step in the sprint cycle?",
+      "answer": "To reflect on your experiments to gain a deeper understanding of your users so you can make smarter decisions and drive more value in the next sprint cycle.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-goal-of-the-learn-step-in-the-sprint-cycle/"
+    },
+    {
+      "id": 66,
+      "question": "True or false? The two primary focus areas of the “optimize” theme are conversion rate optimization and personalization.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-two-primary-focus-areas-of-the-optimize-theme/"
+    },
+    {
+      "id": 67,
+      "question": "What is the difference between Growth-Driven Design and conversion rate optimization (CRO)?",
+      "answer": "Conversion rate optimization efforts are just one piece of a bigger puzzle. The bigger puzzle is the Growth-Driven Design methodology.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-difference-between-growth-driven-design/"
+    },
+    {
+      "id": 68,
+      "question": "Why is it important to focus on effective content development?",
+      "answer": "A and B",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-important-to-focus-on-effective-content-development/"
+    },
+    {
+      "id": 69,
+      "question": "Which focus area is often worked on directly after your new launch pad website goes live?",
+      "answer": "Harvest. You build high-impact items that are easy and quick to accomplish.",
+      "source_url": "https://www.gcertificationcourse.com/which-focus-area-is-often-worked-on-directly-after-your-new/"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "created_date": "2025-07-01T13:06:42.026854",
+  "created_date": "2025-07-09T14:00:51.597997",
   "course_info": {
     "name": "HubSpot CMS for Developers",
     "source_url": "https://www.gcertificationcourse.com/hubspot-cms-for-developers-certification/",
     "total_questions": 51,
-    "scraped_date": "2025-07-01 13:04:41"
+    "scraped_date": "2025-07-09 13:58:55"
   },
   "questions": [
     {
@@ -185,7 +185,10 @@
     {
       "id": 30,
       "question": "Choose all that apply. Which of the following options is configured in the theme.json file?",
-      "answer": "Name of the theme",
+      "answer": [
+        "Name of the theme",
+        "Link to a preview image for the theme"
+      ],
       "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-the-following-2/"
     },
     {
@@ -233,7 +236,10 @@
     {
       "id": 38,
       "question": "Select all that apply. Which of the following is something that can NOT be added to a dnd_section tag inside a section template.",
-      "answer": "Template annotations",
+      "answer": [
+        "Template annotations",
+        "A link to a style sheet"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-18/"
     },
     {
@@ -293,7 +299,10 @@
     {
       "id": 48,
       "question": "Select all that apply. In order to create a section template, you need which of the following in the file?",
-      "answer": "A template annotation with the “templateType” set to the value of “section”.",
+      "answer": [
+        "A template annotation with the “templateType” set to the value of “section”.",
+        "A dnd_section tag"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-in-order-to-create/"
     },
     {
@@ -305,7 +314,11 @@
     {
       "id": 50,
       "question": "Choose all that apply. Which of the following are always good strategies for building templates?",
-      "answer": "Keeping content editors front of mind at all times and optimizing their editing experience.",
+      "answer": [
+        "Keeping content editors front of mind at all times and optimizing their editing experience.",
+        "Building in appropriate guardrails to help content editors quickly build pages and reduce the likelihood of errors and bugs.",
+        "Looking for ways to keep your codebase DRY and avoid repeated code that is prone to bugs."
+      ],
       "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-the-following/"
     },
     {

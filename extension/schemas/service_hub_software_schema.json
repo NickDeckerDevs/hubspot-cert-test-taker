@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "created_date": "2025-07-02T13:00:32.496402",
+  "created_date": "2025-07-09T14:13:38.935410",
   "course_info": {
     "name": "Service Hub Software",
     "source_url": "https://www.gcertificationcourse.com/hubspot-service-hub-software-certification/",
     "total_questions": 87,
-    "scraped_date": "2025-07-02 12:57:11"
+    "scraped_date": "2025-07-09 14:10:19"
   },
   "questions": [
     {
@@ -341,7 +341,11 @@
     {
       "id": 56,
       "question": "Select all that apply. AI allows you to do which of the following in your help desk?",
-      "answer": "Expand your writing",
+      "answer": [
+        "Expand your writing",
+        "Summarize your conversation",
+        "Change the tone of your writing"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-ai-allows-you-to-do/"
     },
     {
@@ -359,13 +363,21 @@
     {
       "id": 59,
       "question": "Select all that apply. AI helps you write your knowledge base articles in which of the following ways?",
-      "answer": "Rewrite your content in a different tone.",
+      "answer": [
+        "Rewrite your content in a different tone.",
+        "Expand your writing.",
+        "Shorten your writing."
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-ai-helps-you-write/"
     },
     {
       "id": 60,
       "question": "Select all that apply. What intake methods can you connect to HubSpot?",
-      "answer": "Calling",
+      "answer": [
+        "Calling",
+        "Forms",
+        "Team email"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-intake-methods/"
     },
     {
@@ -407,7 +419,10 @@
     {
       "id": 67,
       "question": "Select all that apply. You can create SLAs based on which of the following?",
-      "answer": "Capacity",
+      "answer": [
+        "Capacity",
+        "Skills"
+      ],
       "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-you-can-create-slas/"
     },
     {

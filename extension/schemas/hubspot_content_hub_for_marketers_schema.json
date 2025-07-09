@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "created_date": "2025-07-01T14:40:15.477559",
+  "created_date": "2025-07-09T14:10:18.104030",
   "course_info": {
     "name": "HubSpot Content Hub for Marketers",
     "source_url": "https://www.gcertificationcourse.com/hubspot-cms-for-marketers-certification-answers/",
     "total_questions": 63,
-    "scraped_date": "2025-07-01 14:37:49"
+    "scraped_date": "2025-07-09 14:07:48"
   },
   "questions": [
     {
@@ -47,7 +47,11 @@
     {
       "id": 7,
       "question": "Choose all that apply. Which methods can you use to research your user’s goals on your website?",
-      "answer": "Surveys",
+      "answer": [
+        "Surveys",
+        "Email",
+        "Heat-mapping"
+      ],
       "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-methods/"
     },
     {
@@ -131,7 +135,13 @@
     {
       "id": 21,
       "question": "Choose all that apply. Technical optimizations you can make to your website in the HubSpot Content Hub include:",
-      "answer": "Requiring HTTPs for your domains.",
+      "answer": [
+        "Requiring HTTPs for your domains.",
+        "Adding links between topic cluster content.",
+        "Customizing your sitemap.",
+        "Customizing your robots.txt file.",
+        "Enabling Google AMP."
+      ],
       "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-technical-optimizations/"
     },
     {
@@ -155,7 +165,12 @@
     {
       "id": 25,
       "question": "Choose all that apply. Which of these tools are included for free with Content Hub?",
-      "answer": "Forms",
+      "answer": [
+        "Forms",
+        "Conversations",
+        "Ads",
+        "Calls-to-action"
+      ],
       "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-these-tools/"
     },
     {
@@ -179,7 +194,11 @@
     {
       "id": 29,
       "question": "Choose all that apply. What are the different types of templates in the Content Hub?",
-      "answer": "Page templates",
+      "answer": [
+        "Page templates",
+        "Blog templates",
+        "System templates"
+      ],
       "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-what-are-the-different-2/"
     },
     {
@@ -251,7 +270,11 @@
     {
       "id": 41,
       "question": "Choose all that apply. Which of the following should you add to your blog post to generate leads?",
-      "answer": "A text call-to-action at the top of your post",
+      "answer": [
+        "A text call-to-action at the top of your post",
+        "An image call-to-action at the bottom of your post",
+        "A form so readers can subscribe to your blog"
+      ],
       "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-the/"
     },
     {
@@ -299,7 +322,11 @@
     {
       "id": 49,
       "question": "Choose all that apply. At a high level, which metrics should you be tracking about your website performance?",
-      "answer": "Where your visitors are coming from",
+      "answer": [
+        "Where your visitors are coming from",
+        "What content your visitors are engaging with",
+        "Which pages your visitors are landing on"
+      ],
       "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-at-a-high-level-which/"
     },
     {
@@ -311,7 +338,11 @@
     {
       "id": 51,
       "question": "Choose all that apply. Where in HubSpot can you use folders to organize your Content Hub assets?",
-      "answer": "File manager",
+      "answer": [
+        "File manager",
+        "Forms",
+        "Landing pages"
+      ],
       "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-where-in-hubspot-2/"
     },
     {
@@ -323,7 +354,11 @@
     {
       "id": 53,
       "question": "Choose all that apply. Which of these pieces of content should be archived and unpublished?",
-      "answer": "Landing pages for expired offers",
+      "answer": [
+        "Landing pages for expired offers",
+        "Product pages for products you no longer sell",
+        "Event pages for events that have passed"
+      ],
       "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-these-pieces/"
     },
     {
@@ -335,7 +370,11 @@
     {
       "id": 55,
       "question": "What is a buyer persona?",
-      "answer": "A semi-fictional representation of your ideal customer based on real data and some select educated speculation",
+      "answer": [
+        "A semi-fictional representation of your ideal customer based on real data and some select educated speculation",
+        "A semi-fictional representation of your ideal customer based on data.",
+        "A fictional representation of your ideal customer"
+      ],
       "source_url": "https://www.gcertificationcourse.com/what-is-a-buyer-persona/"
     },
     {
