@@ -11,7 +11,7 @@ Which of the following statements about theme modules is TRUE
     const CONFIG = {
         highlightColor: '#00ff00',
         highlightWidth: '3px',
-        partialMatchThreshold: 0.8,
+        partialMatchThreshold: 0.94,
         maxQuestionsPerPage: 50,
         debugMode: true // Enable debug mode for detailed console logging
     };
@@ -369,13 +369,27 @@ Which of the following statements about theme modules is TRUE
     
     function isAnswerMatch(element, correctAnswer) {
         console.log('incomingElementToGetTextContent, element, .textContent')
-        console.log(element)
+        
         console.log(element.textContent)
         const elementText = normalizeText(element.textContent);
 
         if (Array.isArray(correctAnswer)) {
+            console.log('%%%%%%%%%%%%%%%%%% answer is multiple choice %%%%%%%%%%%%%%%%%%')
             return correctAnswer.some(answer => {
                 const answerText = normalizeText(answer);
+                console.log('checking: elem, answer', elementText, answerText)
+                let exactAnswerMatch = elementText === answerText
+                console.log('exactAnswerMatch', exactAnswerMatch)
+                let answerIncludesMatch = elementText.includes(answerText)
+                console.log('answerIncludesMatch', answerIncludesMatch)
+                let matchIncludesAnswer = answerText.includes(elementText)
+                console.log('matchIncludesAnswer', matchIncludesAnswer)
+                console.log('currentMatchThreshold', CONFIG.partialMatchThreshold)
+                let matchSimiliarity = calculateSimilarity(elementText, answerText)
+                console.log('matchSimiliarity', matchSimiliarity)
+                
+
+
                 return elementText === answerText || 
                        elementText.includes(answerText) || 
                        answerText.includes(elementText) ||
@@ -383,25 +397,24 @@ Which of the following statements about theme modules is TRUE
             });
         }
         const answerText = normalizeText(correctAnswer);
-        console.log('isAnswerMatch')
-        console.log('elementText')
-        console.log(elementText)
-        console.log('answerText')
-        console.log(answerText)
+        console.log('checking: elem, answer', elementText, answerText)
         // Direct match
         if (elementText === answerText) {
             console.log('exact match')
             return true;
-        }
+        } 
              
         
         // Contains match
         if (elementText.includes(answerText) || answerText.includes(elementText)) {
-            console.log('contains match')
+            console.log('INCLUDES ==> contains match')
             return true;
         }
         
         // Similarity match
+        console.log('currentMatchThreshold', CONFIG.partialMatchThreshold)
+        let matchSimiliarity = calculateSimilarity(elementText, answerText)
+        console.log('matchSimiliarity', matchSimiliarity)
         const similarity = calculateSimilarity(elementText, answerText);
         return similarity >= CONFIG.partialMatchThreshold;
     }
