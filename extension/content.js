@@ -646,7 +646,7 @@ Which of the following statements about theme modules is TRUE
                 // console.log(element)
                 const isResumeButton = element.dataset && element.dataset.key === 'learningCenter.exams.resume.resumeExam'
 
-                const isStartExamButton
+                // const isStartExamButton
                 if (isNextButton || isResumeButton) {
                     
                     console.log('🔄 [Q&A] Next button clicked - clearing highlights and preparing for new question');
