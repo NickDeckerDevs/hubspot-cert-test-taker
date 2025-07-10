@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T10:00:24.621914",
+  "course_info": {
+    "name": "Frictionless Sales",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-frictionless-sales-certification-answers/",
+    "total_questions": 60,
+    "scraped_date": "2025-07-10 09:58:07"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is true?",
+      "answer": "The flywheel is a better business model than the funnel because it takes into account the impact current customers have on future customers.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-true/"
+    },
+    {
+      "id": 2,
+      "question": "Which two groups of people does the frictionless selling framework try to provide a more convenient experience for?",
+      "answer": "Salespeople and their prospective buyers",
+      "source_url": "https://www.gcertificationcourse.com/which-two-groups-of-people-does-the-frictionless/"
+    },
+    {
+      "id": 3,
+      "question": "True or false? Generally speaking, business-to-business sales teams are better at providing a convenient experience for their customers than sales teams who sell directly to consumers.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-generally-speaking-business-to-business/"
+    },
+    {
+      "id": 4,
+      "question": "If you already have a sales framework in place, and you decide to implement the frictionless selling framework, what will the relationship of those two frameworks be?",
+      "answer": "In most cases, frictionless selling will complement your current framework.",
+      "source_url": "https://www.gcertificationcourse.com/if-you-already-have-a-sales-framework-in-place/"
+    },
+    {
+      "id": 5,
+      "question": "When you think about your sales organization as a flywheel, which of the following is the best goal to have?",
+      "answer": "Find ways to increase force and reduce friction.",
+      "source_url": "https://www.gcertificationcourse.com/when-you-think-about-your-sales-organization/"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an example of force?",
+      "answer": "Happy customers",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-force/"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is an example of friction?",
+      "answer": "Manual data entry",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-friction/"
+    },
+    {
+      "id": 8,
+      "question": "True or false? Most sales organizations are doing everything they can to apply force to their flywheel.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-most-sales-organizations-are-doing-2/"
+    },
+    {
+      "id": 9,
+      "question": "True or false? Most sales organizations are doing everything they can to remove friction from their flywheel.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-most-sales-organizations-are-doing/"
+    },
+    {
+      "id": 10,
+      "question": "What are the phases of the frictionless selling framework?",
+      "answer": "Enable, Align, Transform",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-phases-of-the-frictionless-selling-framework/"
+    },
+    {
+      "id": 11,
+      "question": "What is the relationship between the three phases of the frictionless selling framework?",
+      "answer": "They form a progression, with each successive phase building on the previous one.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-relationship-between-the-three-phases/"
+    },
+    {
+      "id": 12,
+      "question": "Fill in the blank: The purpose of the enable phase is to enable your team to ______.",
+      "answer": "spend more time selling",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-purpose-of-the-enable-phase/"
+    },
+    {
+      "id": 13,
+      "question": "What metrics are most important during the enable phase?",
+      "answer": "Time to complete key tasks, time spent connecting with customers and making sales, and quota attainment",
+      "source_url": "https://www.gcertificationcourse.com/what-metrics-are-most-important-during-the-enable-phase/"
+    },
+    {
+      "id": 14,
+      "question": "Fill in the blank: The purpose of the align phase is to align your team with ______.",
+      "answer": "your target buyer",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-purpose-of-the-align-phase/"
+    },
+    {
+      "id": 15,
+      "question": "What metrics are most important during the align phase?",
+      "answer": "Close rates, time to close, and customer satisfaction",
+      "source_url": "https://www.gcertificationcourse.com/what-metrics-are-most-important-during-the-align-phase/"
+    },
+    {
+      "id": 16,
+      "question": "Fill in the blank: The purpose of the transform phase is to transform ______.",
+      "answer": "your team through a culture of learning",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-purpose-of-the-transform-phase/"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is the most important responsibility of sales managers?",
+      "answer": "Ensuring their salespeople are coached on a regular basis",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-most-important-responsibility/"
+    },
+    {
+      "id": 18,
+      "question": "What metrics are most important during the transform phase?",
+      "answer": "Customer retention, rep productivity, and employee happiness",
+      "source_url": "https://www.gcertificationcourse.com/what-metrics-are-most-important-during-the-transform/"
+    },
+    {
+      "id": 19,
+      "question": "On average, how much of a salesperson’s day is spent selling?",
+      "answer": "About a third",
+      "source_url": "https://www.gcertificationcourse.com/on-average-how-much-of-a-salespersons-day-is-spent/"
+    },
+    {
+      "id": 20,
+      "question": "True or false? Your sales team should only be doing things that provide value to your leads.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-your-sales-team-should-only-be-doing/"
+    },
+    {
+      "id": 21,
+      "question": "What two activities should you focus on during the enable phase of the frictionless selling framework?",
+      "answer": "Removing non-sales activities from your team’s responsibilities and streamlining their other responsibilities",
+      "source_url": "https://www.gcertificationcourse.com/what-two-activities-should-you-focus-on-during/"
+    },
+    {
+      "id": 22,
+      "question": "True or false? Some tasks that can be automated should still be done manually to ensure your salespeople have full control and ownership over them.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-some-tasks-that-can-be-automated/"
+    },
+    {
+      "id": 23,
+      "question": "Which of the following is an attribute of a sales team that is well aligned with their buyer?",
+      "answer": "Transparent pricing and discounts",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-attribute-of-a-sales-team/"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is an attribute of a sales team that has a culture of learning?",
+      "answer": "Real-time performance data",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-attribute-of-a-sales-team-2/"
+    },
+    {
+      "id": 25,
+      "question": "Which phase of the frictionless selling framework does automatic email logging help with?",
+      "answer": "Enable",
+      "source_url": "https://www.gcertificationcourse.com/which-phase-of-the-frictionless-selling-framework/"
+    },
+    {
+      "id": 26,
+      "question": "Which phase of the frictionless selling framework do email templates and sequences help with?",
+      "answer": "Enable",
+      "source_url": "https://www.gcertificationcourse.com/which-phase-of-the-frictionless-selling-framework-2/"
+    },
+    {
+      "id": 27,
+      "question": "True or false? The majority of buyers consider salespeople trustworthy.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-majority-of-buyers-consider-salespeople/"
+    },
+    {
+      "id": 28,
+      "question": "What are the stages of the buyer’s journey?",
+      "answer": "Awareness, consideration, decision",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-stages-of-the-buyers-journey/"
+    },
+    {
+      "id": 29,
+      "question": "During the awareness stage of the buyer’s journey, what is the buyer becoming aware of?",
+      "answer": "A problem they have",
+      "source_url": "https://www.gcertificationcourse.com/during-the-awareness-stage-of-the-buyers-journey/"
+    },
+    {
+      "id": 30,
+      "question": "During the consideration stage of the buyer’s journey, what is the buyer considering?",
+      "answer": "Different categories of solutions",
+      "source_url": "https://www.gcertificationcourse.com/during-the-consideration-stage-of-the-buyers-journey/"
+    },
+    {
+      "id": 31,
+      "question": "When in the buyer’s journey should you try to connect with a buyer?",
+      "answer": "Before the decision stage, when they are still defining their path forward",
+      "source_url": "https://www.gcertificationcourse.com/when-in-the-buyers-journey-should-you-try-to-connect/"
+    },
+    {
+      "id": 32,
+      "question": "Which phase of an inbound sales strategy would lead intelligence, lead prioritization, and contact timeline most help with?",
+      "answer": "Identify",
+      "source_url": "https://www.gcertificationcourse.com/which-phase-of-an-inbound-sales-strategy-would-lead/"
+    },
+    {
+      "id": 33,
+      "question": "In which phase of an inbound sales strategy would a salesperson help their leads decide on the best path forward?",
+      "answer": "Advise",
+      "source_url": "https://www.gcertificationcourse.com/in-which-phase-of-an-inbound-sales-strategy-would-2/"
+    },
+    {
+      "id": 34,
+      "question": "In which phase of an inbound sales strategy would a salesperson use a lead qualification framework to discover the buyer's needs?",
+      "answer": "Explore",
+      "source_url": "https://www.gcertificationcourse.com/in-which-phase-of-an-inbound-sales-strategy-would/"
+    },
+    {
+      "id": 35,
+      "question": "Which phase of an inbound sales strategy would email, calling, live chat, and the meetings tool most help with?",
+      "answer": "Connect",
+      "source_url": "https://www.gcertificationcourse.com/which-phase-of-an-inbound-sales-strategy-would-email/"
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is the best agenda for a sales meeting?",
+      "answer": "Start by recapping the previous conversations you’ve had, then talk the prospect through the available options. End by recommending one of those options and explaining how you are uniquely positioned to help with that option.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-best-agenda-for-a-sales/"
+    },
+    {
+      "id": 37,
+      "question": "True or false? Every sales presentation should be personalized for the people you’re presenting it to.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-every-sales-presentation-should-be/"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is true of most sales organizations?",
+      "answer": "They don’t coach their salespeople as much as they should.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-true-of-most-sales-organizations/"
+    },
+    {
+      "id": 39,
+      "question": "True or false? Having reliable sales data is required to create an effective coaching program.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-having-reliable-sales-data-is-required/"
+    },
+    {
+      "id": 40,
+      "question": "What are the steps of the GROW coaching technique?",
+      "answer": "Goal, Reality, Options, Way forward",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-steps-of-the-grow-coaching-technique/"
+    },
+    {
+      "id": 41,
+      "question": "During the Goal step of GROW coaching, what is your role as coach?",
+      "answer": "Ask the salesperson what goal they would like to set.",
+      "source_url": "https://www.gcertificationcourse.com/during-the-goal-step-of-grow-coaching/"
+    },
+    {
+      "id": 42,
+      "question": "During the Reality step of GROW coaching, what is your role as coach?",
+      "answer": "Help the salesperson evaluate the reality of where they are right now.",
+      "source_url": "https://www.gcertificationcourse.com/during-the-reality-step-of-grow-coaching/"
+    },
+    {
+      "id": 43,
+      "question": "During the Options step of GROW coaching, what is your role as coach?",
+      "answer": "Help the salesperson explore their options for getting from where they currently are to where they want to be.",
+      "source_url": "https://www.gcertificationcourse.com/during-the-options-step-of-grow-coaching/"
+    },
+    {
+      "id": 44,
+      "question": "During the Way Forward step of GROW coaching, what is your role as coach?",
+      "answer": "Help the rep decide how they will achieve their goal and how you can support them.",
+      "source_url": "https://www.gcertificationcourse.com/during-the-way-forward-step-of-grow-coaching/"
+    },
+    {
+      "id": 45,
+      "question": "True or false? When you coach a salesperson, you should spend more time listening than talking.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-you-coach-a-salesperson/"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is a benefit of GROW coaching?",
+      "answer": "It places the responsibility for improvement on the person being coached.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-benefit-of-grow-coaching/"
+    },
+    {
+      "id": 47,
+      "question": "True or False? Allowing salespeople to coach each other will distract from their primary responsibility of finding and closing new business.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-allowing-salespeople-to-coach-each-other/"
+    },
+    {
+      "id": 48,
+      "question": "How can a film review be used as part of a coaching strategy?",
+      "answer": "As your team reviews a specific call or meeting one of your salespeople ran, other team members can give advice on how that salesperson can improve in the future.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-a-film-review-be-used-as-part-of-a-coaching-strategy/"
+    },
+    {
+      "id": 49,
+      "question": "How can pipeline meetings be a coaching opportunity?",
+      "answer": "As your salespeople review each other’s pipeline, they can hold one another accountable and share best practices.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-pipeline-meetings-be-a-coaching-opportunity/"
+    },
+    {
+      "id": 50,
+      "question": "What is a salesperson’s role in executing an inbound strategy?",
+      "answer": "They have the opportunity to set the tone for a person’s entire relationship with a company because they are often the first person a prospective customer meets.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-salespersons-role-in-executing-an-inbound/"
+    },
+    {
+      "id": 51,
+      "question": "If a sales team is struggling to prioritize their leads, which phase of the frictionless selling framework will be most helpful to them?",
+      "answer": "Enable",
+      "source_url": "https://www.gcertificationcourse.com/if-a-sales-team-is-struggling-to-prioritize-their-leads/"
+    },
+    {
+      "id": 52,
+      "question": "If a sales team is suffering from low lead quality, which phase of the frictionless selling framework will be most helpful to them?",
+      "answer": "Enable",
+      "source_url": "https://www.gcertificationcourse.com/if-a-sales-team-is-suffering-from-low-lead-quality/"
+    },
+    {
+      "id": 53,
+      "question": "If a sales team is having trouble keeping all their systems synchronized, which phase of the frictionless selling framework will be most helpful to them?",
+      "answer": "Enable",
+      "source_url": "https://www.gcertificationcourse.com/if-a-sales-team-is-having-trouble-keeping-all-their-systems/"
+    },
+    {
+      "id": 54,
+      "question": "If a sales team is relying too much on blind outreach, which phase of the frictionless selling framework will be most helpful to them?",
+      "answer": "Enable",
+      "source_url": "https://www.gcertificationcourse.com/if-a-sales-team-is-relying-too-much-on-blind-outreach/"
+    },
+    {
+      "id": 55,
+      "question": "If a sales team’s leads struggle to get in contact with their assigned salesperson, which phase of the frictionless selling framework will be most helpful to them?",
+      "answer": "Align",
+      "source_url": "https://www.gcertificationcourse.com/if-a-sales-teams-leads-struggle-to-get-in-contact/"
+    },
+    {
+      "id": 56,
+      "question": "If a sales team tends to have hostile negotiations with their prospects, which phase of the frictionless selling framework will be most helpful to them?",
+      "answer": "Align",
+      "source_url": "https://www.gcertificationcourse.com/if-a-sales-team-tends-to-have-hostile-negotiations/"
+    },
+    {
+      "id": 57,
+      "question": "If a sales team asks their prospects to make large commitments early on in the sales process, which phase of the frictionless selling framework will be most helpful to them?",
+      "answer": "Align",
+      "source_url": "https://www.gcertificationcourse.com/if-a-sales-team-asks-their-prospects-to-make-large/"
+    },
+    {
+      "id": 58,
+      "question": "If a sales team is inconsistent in its quota attainment, which phase of the frictionless selling framework will be most helpful to them?",
+      "answer": "Transform",
+      "source_url": "https://www.gcertificationcourse.com/if-a-sales-team-is-inconsistent-in-its-quota-attainment/"
+    },
+    {
+      "id": 59,
+      "question": "If a sales team doesn’t have a good onboarding program for its new hires, which phase of the frictionless selling framework will be most helpful to them?",
+      "answer": "Transform",
+      "source_url": "https://www.gcertificationcourse.com/if-a-sales-team-doesnt-have-a-good-onboarding-program/"
+    },
+    {
+      "id": 60,
+      "question": "If sales managers are spending more of their time reporting sales performance than coaching their salespeople, which phase of the frictionless selling framework will be most helpful to them?",
+      "answer": "Transform",
+      "source_url": "https://www.gcertificationcourse.com/if-sales-managers-are-spending-more-of-their-time/"
+    }
+  ]
+}

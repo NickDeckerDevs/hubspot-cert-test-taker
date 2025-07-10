@@ -1,0 +1,726 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T09:28:30.632595",
+  "course_info": {
+    "name": "HubSpot Marketing Hub Software",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-marketing-software-answers/",
+    "total_questions": 114,
+    "scraped_date": "2025-07-10 09:24:12"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a call-to-action button?",
+      "answer": "A clickable element on a website page, blog post, or email that promotes and redirects visitors to an offer.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-call-to-action-button/"
+    },
+    {
+      "id": 2,
+      "question": "You want to send a series of targeted emails to contacts who haven't engaged with any of your previous emails in the last month. Which of the following would help you achieve this?",
+      "answer": "Set up a contact-based workflow with an enrollment trigger based on email engagement criteria.",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-send-a-series-of-targeted/"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT a component of a topic cluster?",
+      "answer": "Distribution channels, such as YouTube or X",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-component-3/"
+    },
+    {
+      "id": 4,
+      "question": "_______________ is the software that exists with the goal of automating your marketing actions.",
+      "answer": "Marketing automation",
+      "source_url": "https://www.gcertificationcourse.com/the-definition-of-is-the-software-that-exists-with-the-goal/"
+    },
+    {
+      "id": 5,
+      "question": "True or false? The Marketing Hub uses shared contact information with the Sales Hub and Service Hub via the CRM contacts database.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-marketing-hub-uses-shared-contact/"
+    },
+    {
+      "id": 6,
+      "question": "Marketing Hub users will frequently use which of the following menus in HubSpot?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/marketing-hub-users-will-frequently-use/"
+    },
+    {
+      "id": 7,
+      "question": "True or false? The more completely you use the Marketing Hub, the better the individual tools can help you.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-more-completely-you-use-the-marketing-hub/"
+    },
+    {
+      "id": 8,
+      "question": "True or false? You can import contacts into HubSpot that are opted-out of communication.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-import-contacts-into-hubspot/"
+    },
+    {
+      "id": 9,
+      "question": "________ software is the foundation for storing all the information you have on the humans you’re connecting and building trust with.",
+      "answer": "CRM",
+      "source_url": "https://www.gcertificationcourse.com/software-is-the-foundation-for-storing-all-the-information/"
+    },
+    {
+      "id": 10,
+      "question": "Keeping your database healthy and up to date should always be a priority so that you can create powerful and ___________.",
+      "answer": "contextual conversations",
+      "source_url": "https://www.gcertificationcourse.com/keeping-your-database-healthy-and-up-to-date/"
+    },
+    {
+      "id": 11,
+      "question": "True or false? When importing contacts, HubSpot automatically searches for matches with your spreadsheet columns and pairs your existing properties, such as first name and last name.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-importing-contacts-hubspot/"
+    },
+    {
+      "id": 12,
+      "question": "Which parts of your organization can benefit from buyer personas?",
+      "answer": "Marketing, sales, and services team",
+      "source_url": "https://www.gcertificationcourse.com/which-parts-of-your-organization-can-benefit-from-buyer-personas/"
+    },
+    {
+      "id": 13,
+      "question": "True or false? Buyer personas are non-fictional case study examples of your most successful customer.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-buyer-personas-are-non-fictional/"
+    },
+    {
+      "id": 14,
+      "question": "True or false? When creating buyer personas, consider creating a different persona based on job function. Grouping buyer personas together by the goal or challenge they’re trying to overcome won’t be detailed enough to know who you’re talking to.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-creating-buyer-personas/"
+    },
+    {
+      "id": 15,
+      "question": "Fill in the blank: To get started with adding a buyer persona in HubSpot, look for the __________ on your dashboard.",
+      "answer": "Top Personas report",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-to-get-started-with-adding-a-buyer-persona/"
+    },
+    {
+      "id": 16,
+      "question": "Most organizations target how many buyer personas?",
+      "answer": "3–5",
+      "source_url": "https://www.gcertificationcourse.com/most-organizations-target-how-many-buyer-personas/"
+    },
+    {
+      "id": 17,
+      "question": "When determining buyer personas, which type of information is most important to capture?",
+      "answer": "Psychographic information",
+      "source_url": "https://www.gcertificationcourse.com/when-determining-buyer-personas-which-type-of-information/"
+    },
+    {
+      "id": 18,
+      "question": "All of the following are components of a topic cluster EXCEPT:",
+      "answer": "Distribution channels, such as YouTube or Twitter",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-components-of-a-topic-cluster-except/"
+    },
+    {
+      "id": 19,
+      "question": "Fill in the blank: Strive to choose a core topic with a monthly search volume that’s at least __________.",
+      "answer": "300",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-strive-to-choose-a-core-topic-with-a-monthly/"
+    },
+    {
+      "id": 20,
+      "question": "Fill in the blank: When linking your topic cluster together, it’s critical that you __________.",
+      "answer": "link all subtopics to the pillar page",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-when-linking-your-topic-cluster/"
+    },
+    {
+      "id": 21,
+      "question": "True or false? The higher your DA (Domain Authority), the easier it should be for your topic clusters to rank.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-higher-your-da-the-easier-it-should/"
+    },
+    {
+      "id": 22,
+      "question": "All of the following are examples of SMART goals EXCEPT:",
+      "answer": "Have thought leaders contribute to an upcoming ebook.",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-examples-of-smart-goals-except/"
+    },
+    {
+      "id": 23,
+      "question": "All of the following are tools you can connect to a HubSpot campaign EXCEPT:",
+      "answer": "Content strategy",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-tools-you-can-connect/"
+    },
+    {
+      "id": 24,
+      "question": "True or false? All assets should be built before creating a campaign.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-all-assets-should-be-built-before-creating/"
+    },
+    {
+      "id": 25,
+      "question": "All of the following are ways you can report on a campaign EXCEPT:",
+      "answer": "None of the above: Campaign reporting is a default option in the marketing dashboard",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-ways-you-can-report/"
+    },
+    {
+      "id": 26,
+      "question": "Which of the following are campaign metrics that can be tracked in HubSpot?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-are-campaign-metrics-that-can-be-tracked/"
+    },
+    {
+      "id": 27,
+      "question": "All of the following are examples of how you can export campaign data EXCEPT:",
+      "answer": "PDF",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-examples-of-how-you-can-export/"
+    },
+    {
+      "id": 28,
+      "question": "You can create a call-to-action to align with which stage of the buyer’s journey?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/you-can-create-a-call-to-action-to-align-with-which-stage/"
+    },
+    {
+      "id": 29,
+      "question": "What are/is the area(s) you need to consider when building a call-to-action?",
+      "answer": "A, B, and C",
+      "source_url": "https://www.gcertificationcourse.com/what-are-is-the-areas-you-need-to-consider/"
+    },
+    {
+      "id": 30,
+      "question": "Why should your call-to-action contain action-oriented language?",
+      "answer": "B and C",
+      "source_url": "https://www.gcertificationcourse.com/why-should-your-call-to-action-contain-action-oriented/"
+    },
+    {
+      "id": 31,
+      "question": "You should base the design of your CTA on the following:",
+      "answer": "A, B, and C",
+      "source_url": "https://www.gcertificationcourse.com/you-should-base-the-design-of-your-cta-on-the-following/"
+    },
+    {
+      "id": 32,
+      "question": "True or false? You can use your HubSpot CTAs in externally hosted content.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-use-your-hubspot-ctas-in-externally/"
+    },
+    {
+      "id": 33,
+      "question": "True or false? You should always disable cookie tracking on forms, unless you have a specific use case in mind.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-always-disable-cookie/"
+    },
+    {
+      "id": 34,
+      "question": "What is a form submission notification?",
+      "answer": "A notification that is emailed to a set list of recipients when a visitor submits a form",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-form-submission-notification/"
+    },
+    {
+      "id": 35,
+      "question": "Your form submission rate tracks:",
+      "answer": "The total number of submissions divided by the total number of views for the form",
+      "source_url": "https://www.gcertificationcourse.com/your-form-submission-rate-tracks/"
+    },
+    {
+      "id": 36,
+      "question": "What is a pop-up form?",
+      "answer": "A dynamic form that acts as CTA, landing page, and thank you page, all-in-one",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-pop-up-form/"
+    },
+    {
+      "id": 37,
+      "question": "True or false? Pop-up forms are outbound.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-pop-up-forms-are-outbound/"
+    },
+    {
+      "id": 38,
+      "question": "You can filter your HubSpot social inbox in a variety of ways. Which one is NOT one of them?",
+      "answer": "By going to X to see the lists you've created in HubSpot",
+      "source_url": "https://www.gcertificationcourse.com/you-can-filter-your-hubspot-social-inbox-in-a-variety-of-ways/"
+    },
+    {
+      "id": 39,
+      "question": "What are the different types of enrollment triggers in workflows?",
+      "answer": "Event-based, filter-based, and schedule-based",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-different-types-of/"
+    },
+    {
+      "id": 40,
+      "question": "Which enrollment trigger allows you to re-enroll contacts every time the trigger occurs?",
+      "answer": "Event-based",
+      "source_url": "https://www.gcertificationcourse.com/which-enrollment-trigger-allows-you/"
+    },
+    {
+      "id": 41,
+      "question": "What are three examples of segments that every business should ideally have?",
+      "answer": "Subscribers, leads, customers",
+      "source_url": "https://www.gcertificationcourse.com/what-are-three-examples-of-segments-that-every-business/"
+    },
+    {
+      "id": 42,
+      "question": "Quickly viewing a segment of your database right from the contacts, companies, deals, or tickets dashboard is an example of which type of segment?",
+      "answer": "Saved filter",
+      "source_url": "https://www.gcertificationcourse.com/quickly-viewing-a-segment-of-your-database/"
+    },
+    {
+      "id": 43,
+      "question": "True or false? Common uses for active lists include sending unique marketing emails based on each contact's behavior and properties.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-common-uses-for-active-lists-include/"
+    },
+    {
+      "id": 44,
+      "question": "True or false? A list and a report in HubSpot accomplish the same actions and goals.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-list-and-a-report-in-hubspot-accomplish/"
+    },
+    {
+      "id": 45,
+      "question": "True or false? Your email channel works with your other conversational channels to help create conversations and experiences with the people you’re connecting with.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-your-email-channel-works-with-your-other/"
+    },
+    {
+      "id": 46,
+      "question": "When should you report on your marketing campaign performance?",
+      "answer": "Throughout a campaign",
+      "source_url": "https://www.gcertificationcourse.com/when-should-you-report-on-your-marketing-campaign/"
+    },
+    {
+      "id": 47,
+      "question": "How does HubSpot calculate the source of a visitor to your site?",
+      "answer": "Using the initial URL a visitor uses when first landing on your site",
+      "source_url": "https://www.gcertificationcourse.com/how-does-hubspot-calculate-the-source-of-a-visitor-to-your-site/"
+    },
+    {
+      "id": 48,
+      "question": "What is the reporting library?",
+      "answer": "A resource that offers dozens of pre-built reports created around marketing best practices",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-reporting-library/"
+    },
+    {
+      "id": 49,
+      "question": "You can create campaigns that increase brand awareness on LinkedIn, Facebook, and Google using which Marketing Hub tool?",
+      "answer": "Ads",
+      "source_url": "https://www.gcertificationcourse.com/you-can-create-campaigns-that-increase/"
+    },
+    {
+      "id": 50,
+      "question": "Select all that apply. Which HubSpot features help you directly attract new visitors using valuable content?",
+      "answer": [
+        "Ads",
+        "Campaigns",
+        "Social"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-hubspot/"
+    },
+    {
+      "id": 51,
+      "question": "Select all that apply. Which HubSpot features help you retain and delight existing leads and customers?",
+      "answer": [
+        "SMS",
+        "WhatsApp",
+        "Smart Content"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-hubspot-2/"
+    },
+    {
+      "id": 52,
+      "question": "What is the primary purpose of the traffic reporting collection?",
+      "answer": "To help marketers understand which channels bring the most traffic to their site",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-primary-purpose-of-the-traffic/"
+    },
+    {
+      "id": 53,
+      "question": "What does the term 'dashboard' refer to in HubSpot?",
+      "answer": "A collection of reports that provide quick insights on how various marketing initiatives are performing",
+      "source_url": "https://www.gcertificationcourse.com/what-does-the-term-dashboard-refer-to-in/"
+    },
+    {
+      "id": 54,
+      "question": "What is a workflow?",
+      "answer": "A series of automated actions that can be triggered based on predefined conditions that are designed to streamline and automate marketing, sales, and customer service processes",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-workflow/"
+    },
+    {
+      "id": 55,
+      "question": "Branching logic in workflows is also commonly referred to as what?",
+      "answer": "Conditional logic",
+      "source_url": "https://www.gcertificationcourse.com/branching-logic-in-workflows-is-also/"
+    },
+    {
+      "id": 56,
+      "question": "True or false? Delays can be added to your workflow to ensure certain actions don’t fire immediately.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-delays-can-be-added-to-your/"
+    },
+    {
+      "id": 57,
+      "question": "What is not an option for the blog/RSS email frequency in HubSpot?",
+      "answer": "Biweekly",
+      "source_url": "https://www.gcertificationcourse.com/what-is-not-an-option-for-the-blog-rss/"
+    },
+    {
+      "id": 58,
+      "question": "What is a requirement before sending an automated email in HubSpot?",
+      "answer": "The email must be published.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-requirement-before-sending-an/"
+    },
+    {
+      "id": 59,
+      "question": "What steps do you take to view the top clicked links in your email?",
+      "answer": "Marketing > Email > Email title",
+      "source_url": "https://www.gcertificationcourse.com/what-steps-do-you-take-to-view-the-top/"
+    },
+    {
+      "id": 60,
+      "question": "What tool allows you to add contacts' first names to your marketing email?",
+      "answer": "Personalization token",
+      "source_url": "https://www.gcertificationcourse.com/what-tool-allows-you-to-add-contacts/"
+    },
+    {
+      "id": 61,
+      "question": "Which of the following is NOT a report included in the traffic reporting collection?",
+      "answer": "Conversions",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-report/"
+    },
+    {
+      "id": 62,
+      "question": "What is the purpose of contact create attribution reports?",
+      "answer": "To track and analyze the sources or channels that contribute to the creation of new contacts within HubSpot",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-contact-create/"
+    },
+    {
+      "id": 63,
+      "question": "Which is NOT an example of demographic information that can help bring value to your buyer persona research?",
+      "answer": "Shoe size",
+      "source_url": "https://www.gcertificationcourse.com/which-is-not-an-example-of-demographic-information/"
+    },
+    {
+      "id": 64,
+      "question": "True or false? You have up to one week to edit the name of a campaign.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-have-up-to-one-week-to-edit/"
+    },
+    {
+      "id": 65,
+      "question": "True or false? Every time you publish a blog post, you’re creating a new, unique page for your website.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-every-time-you-publish-a-blog-post/"
+    },
+    {
+      "id": 66,
+      "question": "A call-to-action button is also known as a:",
+      "answer": "CTA",
+      "source_url": "https://www.gcertificationcourse.com/a-call-to-action-button-is-also-known-as-a/"
+    },
+    {
+      "id": 67,
+      "question": "Why should you limit the number of form fields you use on your form?",
+      "answer": "The information you ask for should be a fair exchange for the content you’re offering.",
+      "source_url": "https://www.gcertificationcourse.com/why-should-you-limit-the-number-of-form-fields-you-use/"
+    },
+    {
+      "id": 68,
+      "question": "True or false? Forms are dead.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-forms-are-dead/"
+    },
+    {
+      "id": 69,
+      "question": "What are the two most important things to keep in mind when developing a HubSpot social media strategy? Choose two:",
+      "answer": [
+        "Knowing your buyer persona",
+        "Mapping your business goals to social objectives"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-two-most-important-things-to-keep-in-mind/"
+    },
+    {
+      "id": 70,
+      "question": "True or false? All scheduled social posts can be attached to an existing HubSpot campaign, or you can create a new campaign with your post.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-all-scheduled-social-posts-can-be-attached/"
+    },
+    {
+      "id": 71,
+      "question": "True or false? The primary uses of marketing automation are lead nurturing, data hygiene maintenance, and routing support tickets.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-primary-uses-of/"
+    },
+    {
+      "id": 72,
+      "question": "Consider the following scenario. Your workflow sends a series of marketing emails that include a large discount email. Should you turn the enrollment of merged contacts for this workflow on or off?",
+      "answer": "Off",
+      "source_url": "https://www.gcertificationcourse.com/consider-the-following-scenario-your/"
+    },
+    {
+      "id": 73,
+      "question": "A(n) _______ list can help you gain an understanding of contacts who met a certain criteria on a particular date. Then you can look back at that list later and see contacts who may no longer meet the criteria.",
+      "answer": "static",
+      "source_url": "https://www.gcertificationcourse.com/an-list-can-help-you-gain-an-understanding-of-contacts/"
+    },
+    {
+      "id": 74,
+      "question": "What is key to the success of your reporting?",
+      "answer": "A, B, and C",
+      "source_url": "https://www.gcertificationcourse.com/what-is-key-to-the-success-of-your-reporting/"
+    },
+    {
+      "id": 75,
+      "question": "What is a X (formerly Twitter) stream?",
+      "answer": "A display of tweets that match pre-defined, saved searches on specific criteria",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-x-formerly-twitter-stream/"
+    },
+    {
+      "id": 76,
+      "question": "True or false? SMS is a paid-add on available within Marketing Hub.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-sms-is-a-paid-add-on/"
+    },
+    {
+      "id": 77,
+      "question": "Which tool helps you see all scheduled social posts within the HubSpot social tool?",
+      "answer": "Calendar",
+      "source_url": "https://www.gcertificationcourse.com/which-tool-helps-you-see-all-scheduled/"
+    },
+    {
+      "id": 78,
+      "question": "Which of the following is NOT a method you can use to create a workflow?",
+      "answer": "You can create a workflow from an import, so you can build a workflow based off of a campaign you’ve built in a different software.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-method/"
+    },
+    {
+      "id": 79,
+      "question": "What is the definition of contact management?",
+      "answer": "A strategy that focuses on using a software program to easily store and source a contact’s information, including their name, contact history, email information, and more",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-definition-of-contact-management/"
+    },
+    {
+      "id": 80,
+      "question": "Where is information collected by your form submissions stored in HubSpot?",
+      "answer": "Contact records",
+      "source_url": "https://www.gcertificationcourse.com/where-is-information-collected-by-your-form-submissions/"
+    },
+    {
+      "id": 81,
+      "question": "What is the advantage of using a form?",
+      "answer": "Forms help you gauge how interesting a piece of content is to your target audience.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-advantage-of-using-a-form/"
+    },
+    {
+      "id": 82,
+      "question": "What is the definition of segmentation?",
+      "answer": "Breaking up your contacts into smaller groups of similar people",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-definition-of-segmentation/"
+    },
+    {
+      "id": 83,
+      "question": "Select all that apply. Which HubSpot features help nurture leads into customers?",
+      "answer": [
+        "Forms",
+        "Email",
+        "Automation",
+        "CTAs"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-hubspot-3/"
+    },
+    {
+      "id": 84,
+      "question": "Who created the pre-built reports found in the reporting library?",
+      "answer": "HubSpot subject matter experts",
+      "source_url": "https://www.gcertificationcourse.com/who-created-the-pre-built-reports-found/"
+    },
+    {
+      "id": 85,
+      "question": "What are the three types of segments you can create in HubSpot?",
+      "answer": "Saved filters, active lists, static lists",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-three-types-of-segments-you-can-create/"
+    },
+    {
+      "id": 86,
+      "question": "Fill in the blank: The goal of _____ is to scale repetitive marketing tasks while reducing errors.",
+      "answer": "Marketing automation",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-goal-of-_____/"
+    },
+    {
+      "id": 87,
+      "question": "True or false? Marketing Hub uses shared contact information with Sales Hub and Service Hub via Smart CRM contacts database.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-marketing-hub-uses/"
+    },
+    {
+      "id": 88,
+      "question": "True or false? The more completely you use Marketing Hub, the better the individual tools can help you.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-more-completely/"
+    },
+    {
+      "id": 89,
+      "question": "Fill in the blank: To get started with adding a buyer persona in HubSpot, click the __________ icon.",
+      "answer": "Settings",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-to-get-started/"
+    },
+    {
+      "id": 90,
+      "question": "Fill in the blank: Most organizations should target ____ buyer personas.",
+      "answer": "3–5",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-most-organizations/"
+    },
+    {
+      "id": 91,
+      "question": "Which of the following is NOT an example of a SMART goal?",
+      "answer": "Have thought leaders contribute to an upcoming ebook.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-2/"
+    },
+    {
+      "id": 92,
+      "question": "What should you consider when building a call-to-action?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/what-should-you-consider-when/"
+    },
+    {
+      "id": 93,
+      "question": "What is an X stream?",
+      "answer": "A display of posts that match pre-defined, saved searches on specific criteria",
+      "source_url": "https://www.gcertificationcourse.com/what-is-an-x-stream/"
+    },
+    {
+      "id": 94,
+      "question": "What is a HubSpot dashboard?",
+      "answer": "A collection of reports that provide quick insights on how various marketing initiatives are performing",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-hubspot-dashboard/"
+    },
+    {
+      "id": 95,
+      "question": "What distinguishes a marketing campaign from ongoing marketing efforts?",
+      "answer": "Marketing campaigns are designed as a connected series of operations focused on achieving a particular, defined outcome.",
+      "source_url": "https://www.gcertificationcourse.com/what-distinguishes-a-marketing/"
+    },
+    {
+      "id": 96,
+      "question": "Which of the following is NOT a way you can report on your campaigns’ performance in HubSpot?",
+      "answer": "Generating a marketing email performance report that includes campaigns’ GRR",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-way-3/"
+    },
+    {
+      "id": 97,
+      "question": "When designing the copy for a call-to-action button, what's a crucial element to include to encourage higher click-through rates?",
+      "answer": "Action-oriented verbs that tell the visitor what they will do by clicking the button",
+      "source_url": "https://www.gcertificationcourse.com/when-designing-the-copy-for-a-call/"
+    },
+    {
+      "id": 98,
+      "question": "Select all that apply. You’re creating a CTA button for a new e-book on your website. Which of the following should you incorporate to maximize its effectiveness?",
+      "answer": [
+        "CTA reads “Download e-book now.”",
+        "CTA uses bold, contrasting colors that are aligned with brand aesthetic."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-youre-creating/"
+    },
+    {
+      "id": 99,
+      "question": "Select all that apply. Why should you connect a form field to a property in your contact database in HubSpot?",
+      "answer": [
+        "It’s a necessary step to ensure the form can be published and shared with visitors.",
+        "It ensures that the data submitted through the form is correctly stored within the appropriate contact records in HubSpot."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-why-should-you/"
+    },
+    {
+      "id": 100,
+      "question": "Select all that apply. What is key to the success of your reporting?",
+      "answer": [
+        "Set the right goals.",
+        "Identify the correct success metrics.",
+        "Have the correct analytics in place."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-key-to/"
+    },
+    {
+      "id": 101,
+      "question": "You want to automatically send a series of personalized emails to new leads after they fill out a form on your website. Which combination of HubSpot tools would best support this goal?",
+      "answer": "Automated emails set up within HubSpot workflows based on form submission triggers",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-automatically-send-a/"
+    },
+    {
+      "id": 102,
+      "question": "True or false? Multi-step forms only increase the likelihood of form completion if you have over 1,000 visitors to your website per month.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-multi-step-forms-only/"
+    },
+    {
+      "id": 103,
+      "question": "You want every new submission of your web form to automatically update the contact's lifecycle stage to “Lead” without the visitor having to make this selection. How should you set this up in HubSpot?",
+      "answer": "By using a hidden form field with the value for the Lifecycle Stage property set to Lead",
+      "source_url": "https://www.gcertificationcourse.com/you-want-every-new-submission-of/"
+    },
+    {
+      "id": 104,
+      "question": "Fill in the blank: ________ software is the foundation for storing all the information you have on the humans you’re connecting and building trust with.",
+      "answer": "CRM",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-________-software/"
+    },
+    {
+      "id": 105,
+      "question": "Which of the following is NOT a tool you can connect to a HubSpot campaign?",
+      "answer": "Campaign strategy",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-tool/"
+    },
+    {
+      "id": 106,
+      "question": "Fill in the blank: A(n)_____ list can help you gain an understanding of contacts who meet a certain criteria on a particular date. Then, you can refer to that list later and see contacts who may no longer meet the criteria.",
+      "answer": "static",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-an_____-list-can/"
+    },
+    {
+      "id": 107,
+      "question": "You need to find all the past interactions a specific lead has had with your company. In a HubSpot contact record, where can you access this information?",
+      "answer": "In the middle section of the contact record, specifically within the Overview or Recent activities sections",
+      "source_url": "https://www.gcertificationcourse.com/you-need-to-find-all-the-past/"
+    },
+    {
+      "id": 108,
+      "question": "You’re creating a lead generation form in HubSpot. Which of the following should you keep in mind for maximum impact?",
+      "answer": "Collecting only the most essential information to encourage more visitors to complete the form",
+      "source_url": "https://www.gcertificationcourse.com/youre-creating-a-lead-generation/"
+    },
+    {
+      "id": 109,
+      "question": "Imagine you're gathering specific information from new leads for your bakery, Sweet Stacks, but it wasn't included in HubSpot's default contact fields. How can you accomplish this?",
+      "answer": "Utilizing the HubSpot forms tool to ask these questions and ensuring the responses are mapped to custom contact properties",
+      "source_url": "https://www.gcertificationcourse.com/imagine-youre-gathering-specific/"
+    },
+    {
+      "id": 110,
+      "question": "Select all that apply. Which of the following should you use to design your CTA?",
+      "answer": [
+        "Your buyer persona’s preferences",
+        "Your brand",
+        "Accessibility"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-7/"
+    },
+    {
+      "id": 111,
+      "question": "A business wants to organize its contacts in HubSpot to better tailor its marketing efforts. What’s the primary purpose of using segmentation for their customer base?",
+      "answer": "To group contacts based on shared characteristics, needs, or behaviors to enable more personalized communication",
+      "source_url": "https://www.gcertificationcourse.com/a-business-wants-to-organize-its/"
+    },
+    {
+      "id": 112,
+      "question": "In HubSpot workflows, what's the function of an enrollment trigger?",
+      "answer": "It specifies the criteria that contacts or companies must meet to automatically enter the workflow.",
+      "source_url": "https://www.gcertificationcourse.com/in-hubspot-workflows-whats-the/"
+    },
+    {
+      "id": 113,
+      "question": "Fill in the blank: Keeping your database healthy and updated should always be a priority, so you can create powerful and ___________ conversations.",
+      "answer": "contextual",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-keeping-your/"
+    },
+    {
+      "id": 114,
+      "question": "You’re creating a new email in HubSpot and need to decide on the email type. If you want to send a personalized email to a specific group of contacts just once, which email type should you choose?",
+      "answer": "Regular email",
+      "source_url": "https://www.gcertificationcourse.com/youre-creating-a-new-email-in/"
+    }
+  ]
+}

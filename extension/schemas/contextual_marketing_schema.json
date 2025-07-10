@@ -1,0 +1,414 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T09:51:46.718156",
+  "course_info": {
+    "name": "Contextual Marketing",
+    "source_url": "https://www.gcertificationcourse.com/contextual-marketing-assessment-answers/",
+    "total_questions": 67,
+    "scraped_date": "2025-07-10 09:49:12"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "How does contextual marketing help you create a good user experience?",
+      "answer": "It delivers content that is relevant to the user's needs.",
+      "source_url": "https://www.gcertificationcourse.com/how-does-contextual-marketing-help-you-create/"
+    },
+    {
+      "id": 2,
+      "question": "Contextual marketing is used in which stage of the Inbound Methodology?",
+      "answer": "All of the stages",
+      "source_url": "https://www.gcertificationcourse.com/contextual-marketing-is-used-in-which-stage-of-the-inbound/"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT a way that contextual marketing can help to increase conversion rates?",
+      "answer": "It delivers offers that are more easily found in search engine results.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-way-that-contextual/"
+    },
+    {
+      "id": 4,
+      "question": "True or false? Dynamic content consists of entirely randomized content.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-dynamic-content-consists-of-entirely/"
+    },
+    {
+      "id": 5,
+      "question": "Your colleague Shane wants to add contextual marketing to all of your company’s landing pages by the end of this month. You respond by telling Shane that this isn’t a recommended approach because:",
+      "answer": "It's easy to get overwhelmed and best to start small in your efforts.",
+      "source_url": "https://www.gcertificationcourse.com/your-colleague-shane-wants-to-add-contextual-marketing/"
+    },
+    {
+      "id": 6,
+      "question": "How can contextual marketing help to make your website more accessible for your visitors?",
+      "answer": "You can offer the visitor relevant content upfront instead of making them search for it.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-contextual-marketing-help-to-make-your-website/"
+    },
+    {
+      "id": 7,
+      "question": "You begin to optimize your website content for search engines and visitors alike. Which stage of the buyer’s journey should this content be for?",
+      "answer": "The Awareness Stage",
+      "source_url": "https://www.gcertificationcourse.com/you-begin-to-optimize-your-website-content-for-search/"
+    },
+    {
+      "id": 8,
+      "question": "Which lifecycle stage should the default website content be geared towards?",
+      "answer": "Visitor",
+      "source_url": "https://www.gcertificationcourse.com/which-lifecycle-stage-should-the-default-website/"
+    },
+    {
+      "id": 9,
+      "question": "Your customer Nina is returning to your website. Which messaging option would be the most helpful to Nina?",
+      "answer": "“Need some help, Nina? Click to contact our support team.”",
+      "source_url": "https://www.gcertificationcourse.com/your-customer-nina-is-returning-to-your-website/"
+    },
+    {
+      "id": 10,
+      "question": "True or false? You want to promote a new content offer to customers that visit your Services page. This can be accomplished using smart content.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-want-to-promote-a-new-content/"
+    },
+    {
+      "id": 11,
+      "question": "The most important purpose of a website with a good user experience is:",
+      "answer": "To help its users accomplish their goals",
+      "source_url": "https://www.gcertificationcourse.com/the-most-important-purpose-of-a-website-with-a-good/"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is NOT one of the characteristics a website must have in order to create a good user experience?",
+      "answer": "Enjoyable",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-one-of-the-characteristics/"
+    },
+    {
+      "id": 13,
+      "question": "How many common user questions should each page attempt to answer at one time?",
+      "answer": "One – keep each page clear and focused.",
+      "source_url": "https://www.gcertificationcourse.com/how-many-common-user-questions-should-each-page/"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is NOT a reason to have consistency from page-to-page?",
+      "answer": "Consistency is one of the primary factors for increasing the conversion rate.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-reason-to-have/"
+    },
+    {
+      "id": 15,
+      "question": "When designing your navigation, your primary objective should be to include keywords for search engines.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/when-designing-your-navigation-your-primary-objective/"
+    },
+    {
+      "id": 16,
+      "question": "Where do you want to place a navigation menu?",
+      "answer": "Above the fold and in the footer of each website page.",
+      "source_url": "https://www.gcertificationcourse.com/where-do-you-want-to-place-a-navigation-menu/"
+    },
+    {
+      "id": 17,
+      "question": "What are the two types of main navigation menu structure?",
+      "answer": "Flat and deep",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-two-types-of-main-navigation-menu-structure/"
+    },
+    {
+      "id": 18,
+      "question": "What do you learn from a content audit?",
+      "answer": "How each piece of content is mapped to the buyer’s journey.",
+      "source_url": "https://www.gcertificationcourse.com/what-do-you-learn-from-a-content-audit/"
+    },
+    {
+      "id": 19,
+      "question": "Why is a content audit useful?",
+      "answer": "It shows you where the holes in your content are.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-a-content-audit-useful/"
+    },
+    {
+      "id": 20,
+      "question": "Which is NOT a reason to do usability testing?",
+      "answer": "It allows you to see which of your users are more qualified than others.",
+      "source_url": "https://www.gcertificationcourse.com/which-is-not-a-reason-to-do-usability-testing/"
+    },
+    {
+      "id": 21,
+      "question": "What kind of users do you want to recruit for usability testing?",
+      "answer": "Both customers and noncustomers. A mix of the two emulates your current website traffic to make a good usability test.",
+      "source_url": "https://www.gcertificationcourse.com/what-kind-of-users-do-you-want-to-recruit-for-usability/"
+    },
+    {
+      "id": 22,
+      "question": "How can you ensure that you’re recruiting the right users for usability testing?",
+      "answer": "Ask the users to fill out a screener form.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-ensure-that-youre-recruiting-the-right/"
+    },
+    {
+      "id": 23,
+      "question": "Your boss, Sam, has approved for you to conduct a usability test on your company’s website. Your next step is to design the test. All of the following are important for the test’s success EXCEPT:",
+      "answer": "That the test asks users to accomplish a series of tasks.",
+      "source_url": "https://www.gcertificationcourse.com/your-boss-sam-has-approved-for-you-to-conduct/"
+    },
+    {
+      "id": 24,
+      "question": "Which is NOT a way to ensure that the results from usability testing are consistently reliable?",
+      "answer": "Coach your users during testing so that they get to the right end goal.",
+      "source_url": "https://www.gcertificationcourse.com/which-is-not-a-way-to-ensure-that-the-results/"
+    },
+    {
+      "id": 25,
+      "question": "Jana has offered to conduct a card-sort to help with user testing for your company’s new website. What is Jana hoping to determine with a card-sort?",
+      "answer": "Your site’s navigation.",
+      "source_url": "https://www.gcertificationcourse.com/jana-has-offered-to-conduct-a-card-sort-to-help/"
+    },
+    {
+      "id": 26,
+      "question": "How can you ensure that your website stays visually consistent?",
+      "answer": "Create a style guide.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-ensure-that-your-website-stays-visually/"
+    },
+    {
+      "id": 27,
+      "question": "It’s time for your monthly website performance review. Your colleague Jana has pulled the numbers and finds that your homepage has a 70% bounce rate. Is this a good rate?",
+      "answer": "No. A low rate is good because that means the users are not ‘bouncing’ off of your website after arriving on a single page.",
+      "source_url": "https://www.gcertificationcourse.com/its-time-for-your-monthly-website-performance-review/"
+    },
+    {
+      "id": 28,
+      "question": "True or false? Holding interviews with your colleagues and boss is an action to take when redesigning the user experience.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-holding-interviews-with-your-colleagues/"
+    },
+    {
+      "id": 29,
+      "question": "You’re trying to build out a contextual marketing strategy at your company, but your boss is not seeing the value of it. How do you explain the benefit of personalization?",
+      "answer": "Personalization is important for our larger contextual marketing strategy because it allows us to focus on an individual.",
+      "source_url": "https://www.gcertificationcourse.com/youre-trying-to-build-out-a-contextual-marketing/"
+    },
+    {
+      "id": 30,
+      "question": "How do personalization tokens differ from smart text created in HubSpot?",
+      "answer": "Personalization tokens don’t require segmentation to use them.",
+      "source_url": "https://www.gcertificationcourse.com/how-do-personalization-tokens-differ-from-smart-text/"
+    },
+    {
+      "id": 31,
+      "question": "True or false? You can use personalization tokens in email subject lines.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-use-personalization-tokens/"
+    },
+    {
+      "id": 32,
+      "question": "Your colleague Jana would like to add a personalization token to a landing page that offers “10 Tips to Generate More Leads.” She would like to add the Company Name property in order to connect with the user, showing that this ebook would be helpful to the individual’s company. How would you respond to Jana?",
+      "answer": "“Good idea. Let’s make sure that our forms have been collecting ‘company name’ so the personalization token will be effective.”",
+      "source_url": "https://www.gcertificationcourse.com/your-colleague-jana-would-like-to-add-a-personalization/"
+    },
+    {
+      "id": 33,
+      "question": "True or false? You can use custom contact properties you've created for forms as personalization tokens.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-use-custom-contact-properties/"
+    },
+    {
+      "id": 34,
+      "question": "In order to successfully use personalization, you need to review your contacts database and ensure all of the following EXCEPT:",
+      "answer": "Personalization has been enabled for the properties you’re using.",
+      "source_url": "https://www.gcertificationcourse.com/in-order-to-successfully-use-personalization-you-need/"
+    },
+    {
+      "id": 35,
+      "question": "What are two main reasons to use personalization?",
+      "answer": "To drive engagement and communicate specifics.",
+      "source_url": "https://www.gcertificationcourse.com/what-are-two-main-reasons-to-use-personalization/"
+    },
+    {
+      "id": 36,
+      "question": "True or false? A personalization token has a default value set automatically.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-personalization-token-has-a-default/"
+    },
+    {
+      "id": 37,
+      "question": "Sam, your boss at ABC Marketing Agency, wants users to feel more connected to your company. Sam suggests: “Add a personalization token to the home page that says ‘Welcome, first name.’ I know that we need personalized content.” How would you respond to Sam’s request?",
+      "answer": "“We might add it. Let’s figure out how the personalized home page adds value to the visitor's experience on our website.”",
+      "source_url": "https://www.gcertificationcourse.com/sam-your-boss-at-abc-marketing-agency-wants-users/"
+    },
+    {
+      "id": 38,
+      "question": "Your marketing director at ABC Marketing Agency would like to set up an email campaign that will use personalization to reference a lead’s recent conversion. Is this possible?",
+      "answer": "Yes, this is possible for leads.",
+      "source_url": "https://www.gcertificationcourse.com/your-marketing-director-at-abc-marketing-agency/"
+    },
+    {
+      "id": 39,
+      "question": "True or false? You must set up a smart list in order to segment users by country.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-must-set-up-a-smart-list-in-order/"
+    },
+    {
+      "id": 40,
+      "question": "When segmenting by lifecycle stage, what is the first thing to decide?",
+      "answer": "Decide what qualifies a user for being in each lifecycle stage.",
+      "source_url": "https://www.gcertificationcourse.com/when-segmenting-by-lifecycle-stage-what-is-the-first/"
+    },
+    {
+      "id": 41,
+      "question": "True or false? When segmenting by buyer persona, focus on your newest persona first.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-segmenting-by-buyer-persona/"
+    },
+    {
+      "id": 42,
+      "question": "Fill in the blank: Lifecycle stages allow you to categorize your users by _______.",
+      "answer": "how far along in their decision-making process they are",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-lifecycle-stages-allow-you-to-categorize/"
+    },
+    {
+      "id": 43,
+      "question": "How is the geography of a visitor on your website determined?",
+      "answer": "IP address",
+      "source_url": "https://www.gcertificationcourse.com/how-is-the-geography-of-a-visitor-on-your-website/"
+    },
+    {
+      "id": 44,
+      "question": "When a visitor’s location cannot be determined, which of the following rules is displayed?",
+      "answer": "The default content with no smart rules.",
+      "source_url": "https://www.gcertificationcourse.com/when-a-visitors-location-cannot-be-determined/"
+    },
+    {
+      "id": 45,
+      "question": "The ABC Marketing Agency has become an international business and you now need a Portuguese version of your website as soon as possible. Your boss Sam asks you to create the second website using smart content. Why is this not the best approach?",
+      "answer": "Because search engines won’t see the Portuguese content.",
+      "source_url": "https://www.gcertificationcourse.com/the-abc-marketing-agency-has-become-an-international/"
+    },
+    {
+      "id": 46,
+      "question": "True or false? You can display content variations to mobile, tablet or desktop users.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-display-content-variations/"
+    },
+    {
+      "id": 47,
+      "question": "All of the following are ways to improve the mobile experience for a website visitor EXCEPT:",
+      "answer": "Add more links to keep the visitor engaged.",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-ways-to-improve-the-mobile/"
+    },
+    {
+      "id": 48,
+      "question": "When using the context of a user’s mobile device type, which landing page element should be first evaluated for adding contextual marketing?",
+      "answer": "The questions on the form",
+      "source_url": "https://www.gcertificationcourse.com/when-using-the-context-of-a-users-mobile-device-type/"
+    },
+    {
+      "id": 49,
+      "question": "The language of the user’s choice is set by:",
+      "answer": "Their browser.",
+      "source_url": "https://www.gcertificationcourse.com/the-language-of-the-users-choice-is-set-by/"
+    },
+    {
+      "id": 50,
+      "question": "Your colleague Jana is building a campaign around the longtail keyword “landing page optimization services,” which is a service your company provides. What kind of segmentation should you use to add contextual marketing in order to help Jana have more of an impact on visitors?",
+      "answer": "Segmentation by organic search",
+      "source_url": "https://www.gcertificationcourse.com/your-colleague-jana-is-building-a-campaign-around/"
+    },
+    {
+      "id": 51,
+      "question": "You are evaluating the bounce rate of your overall website traffic and find that users with a social media referral source have a higher bounce rate. Which user experience principle will help to keep social media visitors engaged on your website?",
+      "answer": "Accessibility. Send the users to a more relevant page.",
+      "source_url": "https://www.gcertificationcourse.com/you-are-evaluating-the-bounce-rate-of-your-overall/"
+    },
+    {
+      "id": 52,
+      "question": "True or false? “Other campaigns” is a segmentation option used to manually segment contacts.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-other-campaigns-is-a-segmentation/"
+    },
+    {
+      "id": 53,
+      "question": "True or false? You should always start creating a contextual marketing strategy by targeting your buyer personas.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-always-start-creating/"
+    },
+    {
+      "id": 54,
+      "question": "In order to begin with contextual marketing, you should determine the opportunities. Where should you start?",
+      "answer": "High traffic landing pages, since you’re getting many views on the pages.",
+      "source_url": "https://www.gcertificationcourse.com/in-order-to-begin-with-contextual-marketing/"
+    },
+    {
+      "id": 55,
+      "question": "Default content should be optimized for which group above all?",
+      "answer": "First time visitors.",
+      "source_url": "https://www.gcertificationcourse.com/default-content-should-be-optimized-for-which-group/"
+    },
+    {
+      "id": 56,
+      "question": "Your colleague wants you to add contextual marketing to the landing page called “50 Copywriting Mistakes to Avoid Checklist.” Which of the following is not an important factor to investigate before adding contextual marketing to the landing page?",
+      "answer": "The buyer’s journey stage of each individual that submitted the form.",
+      "source_url": "https://www.gcertificationcourse.com/your-colleague-wants-you-to-add-contextual-marketing/"
+    },
+    {
+      "id": 57,
+      "question": "In evaluating your company’s blog posts from the past quarter, your boss Sam has identified that the post called “The Top 3 Ways to Improve Your Marketing” as being a top-performing post. Sam wants to add contextual marketing to show different ‘ways to improve your marketing’ to different blog readers based on their lifecycle stage. Is this a good approach?",
+      "answer": "“No. We cannot change the blog content because it is confusing to RSS readers.”",
+      "source_url": "https://www.gcertificationcourse.com/in-evaluating-your-companys-blog-posts-from-the-past/"
+    },
+    {
+      "id": 58,
+      "question": "Why is it important to map out the conversion path of a smart CTA for each segment?",
+      "answer": "To ensure you know where you’re sending each segment.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-important-to-map-out-the-conversion-path/"
+    },
+    {
+      "id": 59,
+      "question": "True or false? Most contextual marketing strategies are well-suited for refining the default content to align with a particular user segment’s needs.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-most-contextual-marketing-strategies/"
+    },
+    {
+      "id": 60,
+      "question": "True or false? Personalization tokens work for first-time visitors for known things like their country location.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-personalization-tokens-work-for-first/"
+    },
+    {
+      "id": 61,
+      "question": "How can you avoid confusing or frightening your visitors when creating contextual marketing?",
+      "answer": "Don’t surprise your visitors with personalization tokens where they don’t expect them.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-avoid-confusing-or-frightening-your-visitors/"
+    },
+    {
+      "id": 62,
+      "question": "How can you ensure that the content on your website will be helpful for your users?",
+      "answer": "It aligns with the buyer’s journey.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-ensure-that-the-content-on-your-website/"
+    },
+    {
+      "id": 63,
+      "question": "At which stage of the Buyer’s Journey is a user most likely to be if she is spending time on your products page?",
+      "answer": "Decision",
+      "source_url": "https://www.gcertificationcourse.com/at-which-stage-of-the-buyers-journey-is-a-user/"
+    },
+    {
+      "id": 64,
+      "question": "You offer a free trial on your products page. Which of the following would be appropriate wording for the same offer on your blog CTA?",
+      "answer": "“Free trial” – keep your wording the same.",
+      "source_url": "https://www.gcertificationcourse.com/you-offer-a-free-trial-on-your-products-page/"
+    },
+    {
+      "id": 65,
+      "question": "In order to create a good user experience, simplicity is an important consideration for the website’s appeal.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/in-order-to-create-a-good-user-experience-simplicity/"
+    },
+    {
+      "id": 66,
+      "question": "An automated email that you send has a high click-through rate, but the landing page that it promotes has a low conversion rate. Which element would benefit most from contextual marketing?",
+      "answer": "A smart form on the landing page to ask different questions of visitors who come from the email.",
+      "source_url": "https://www.gcertificationcourse.com/an-automated-email-that-you-send-has-a-high-click/"
+    },
+    {
+      "id": 67,
+      "question": "Your colleague Jana wants to add contextual marketing to your organization’s homepage. She wants to target your company’s top buyer persona “Copywriter Charles.” What would you suggest for Jana to do next in planning a contextual marketing strategy?",
+      "answer": "Decide what type of smart content (CTA, form, or text) to add to the homepage.",
+      "source_url": "https://www.gcertificationcourse.com/your-colleague-jana-wants-to-add-contextual-marketing/"
+    }
+  ]
+}

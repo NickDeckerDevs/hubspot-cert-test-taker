@@ -1,0 +1,387 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T10:09:18.904659",
+  "course_info": {
+    "name": "Sales Management",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-sales-management-training-certification-answers/",
+    "total_questions": 62,
+    "scraped_date": "2025-07-10 10:06:58"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Fill in the blank: While buyer personas help you understand who your customer is, Jobs to Be Done helps you understand your customer’s _____.",
+      "answer": "motivations",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-while-buyer-personas-help-you/"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a benefit of using Jobs to Be Done?",
+      "answer": "All of the above.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-benefit-of-using-jobs/"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is the BEST way to uncover the job that people hire your product to do?",
+      "answer": "By interviewing individual customers.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-best-way/"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is an example of a formal job story?",
+      "answer": "As a founder, when my company has grown beyond my ability to control it, I want to learn the strategies and design the playbooks that will help me guide the growth of my company, so that I can double the size of my company in the next three to five years.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-a-formal-job-story/"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a problem with thinking of your business as a funnel?",
+      "answer": [
+        "After something exits the bottom of a funnel, it no longer has any impact on the things entering the top of the funnel.",
+        "Movement through a funnel immediately stops when things stop flowing into the top of the funnel."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-problem-with-thinking-of-your-business/"
+    },
+    {
+      "id": 6,
+      "question": "In a flywheel business, which of the following is the most important source of new prospects?",
+      "answer": "Word-of-mouth",
+      "source_url": "https://www.gcertificationcourse.com/in-a-flywheel-business-which-of-the-following-is-the-most-important/"
+    },
+    {
+      "id": 7,
+      "question": "Why is it common for companies to think of themselves in terms of a funnel?",
+      "answer": "Because many business charts show conversion rates, and those charts are often shaped like a funnel.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-common-for-companies-to-think-of-themselves/"
+    },
+    {
+      "id": 8,
+      "question": "What are the stages of the buyer’s journey?",
+      "answer": "Awareness, consideration, decision",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-stages-of-the-buyers-journey/"
+    },
+    {
+      "id": 9,
+      "question": "When in the buyer’s journey should you try to connect with a buyer?",
+      "answer": "Before the decision stage, when they are still defining their path forward",
+      "source_url": "https://www.gcertificationcourse.com/when-in-the-buyers-journey-should-you-try-to-connect/"
+    },
+    {
+      "id": 10,
+      "question": "True or false? Having reliable sales data is required to create an effective coaching program.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-having-reliable-sales-data-is-required/"
+    },
+    {
+      "id": 11,
+      "question": "What are the steps of the GROW coaching technique?",
+      "answer": "Goal, Reality, Options, Way forward",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-steps-of-the-grow-coaching-technique/"
+    },
+    {
+      "id": 12,
+      "question": "During the Goal step of GROW coaching, what is your role as coach?",
+      "answer": "Ask the salesperson what goal they would like to set.",
+      "source_url": "https://www.gcertificationcourse.com/during-the-goal-step-of-grow-coaching/"
+    },
+    {
+      "id": 13,
+      "question": "During the Reality step of GROW coaching, what is your role as coach?",
+      "answer": "Help the salesperson evaluate the reality of where they are right now.",
+      "source_url": "https://www.gcertificationcourse.com/during-the-reality-step-of-grow-coaching/"
+    },
+    {
+      "id": 14,
+      "question": "During the Way Forward step of GROW coaching, what is your role as coach?",
+      "answer": "Help the rep decide how they will achieve their goal and how you can support them.",
+      "source_url": "https://www.gcertificationcourse.com/during-the-way-forward-step-of-grow-coaching/"
+    },
+    {
+      "id": 15,
+      "question": "True or false? When you coach a salesperson, you should spend more time listening than talking.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-you-coach-a-salesperson/"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is a benefit of GROW coaching?",
+      "answer": "It places the responsibility for improvement on the person being coached.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-benefit-of-grow-coaching/"
+    },
+    {
+      "id": 17,
+      "question": "How can a film review be used as part of a coaching strategy?",
+      "answer": "As your team reviews a specific call or meeting one of your salespeople ran, other team members can give advice on how that salesperson can improve in the future.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-a-film-review-be-used-as-part-of-a-coaching-strategy/"
+    },
+    {
+      "id": 18,
+      "question": "How can pipeline meetings be a coaching opportunity?",
+      "answer": "As your salespeople review each other’s pipeline, they can hold one another accountable and share best practices.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-pipeline-meetings-be-a-coaching-opportunity/"
+    },
+    {
+      "id": 19,
+      "question": "True or false? A good sales process has enough flexibility to allow salespeople to adapt to the needs of individual prospects.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-good-sales-process-has-enough-flexibility/"
+    },
+    {
+      "id": 20,
+      "question": "What are exit criteria?",
+      "answer": "The actions that have to be taken before a sales can move out of a particular stage of your sales process",
+      "source_url": "https://www.gcertificationcourse.com/what-are-exit-criteria/"
+    },
+    {
+      "id": 21,
+      "question": "What is the “source of truth” for every sale’s status?",
+      "answer": "Your CRM",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-source-of-truth-for-every-sales-status/"
+    },
+    {
+      "id": 22,
+      "question": "Fill in the blanks: Each step of your sales process is a combination of _____ and _____.",
+      "answer": "A rep-focused action, a buyer-focused outcome",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blanks-each-step-of-your-sales-process/"
+    },
+    {
+      "id": 23,
+      "question": "True or false? You can forecast as accurately with an informal sales process as you can with a formal sales process.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-forecast-as-accurately/"
+    },
+    {
+      "id": 24,
+      "question": "A colleague at another company has developed a sales process with four steps in it. They are concerned that the process is too short. What would you tell them?",
+      "answer": "“If the process is robust enough to support the needs of your sales team, it doesn’t matter how long or short it is.”",
+      "source_url": "https://www.gcertificationcourse.com/a-colleague-at-another-company-has-developed-a-sales/"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following groups is the easiest to sell to?",
+      "answer": "Happy customers",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-groups-is-the-easiest-to-sell-to/"
+    },
+    {
+      "id": 26,
+      "question": "Which of the following should be included in your sales process?",
+      "answer": "Steps to ensure closed customers received the value your team promised them",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-should-be-included-in-your-sales/"
+    },
+    {
+      "id": 27,
+      "question": "True or false? Making the steps of your sales process buyer-centric can be as simple as changing their names a little bit.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-making-the-steps-of-your-sales-process/"
+    },
+    {
+      "id": 28,
+      "question": "True or false? Combining multiple methodologies causes confusion and low performance.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-combining-multiple-methodologies-causes/"
+    },
+    {
+      "id": 29,
+      "question": "What is the best way to provide content to your sales team?",
+      "answer": "Provide them with a framework that helps them match specific pieces of content to the specific needs of their prospects.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-best-way-to-provide-content-to-your-sales/"
+    },
+    {
+      "id": 30,
+      "question": "What format should your sales playbook be in?",
+      "answer": "An interactive digital format",
+      "source_url": "https://www.gcertificationcourse.com/what-format-should-your-sales-playbook-be-in/"
+    },
+    {
+      "id": 31,
+      "question": "True or false? You need to continually evaluate how well your sales process is working.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-need-to-continually-evaluate/"
+    },
+    {
+      "id": 32,
+      "question": "What’s the sales manager’s role in the second phase of a sales training, when the training is reinforced?",
+      "answer": "Ensuring the salespeople who attended the training understood what was taught",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-sales-managers-role-in-the-second-phase/"
+    },
+    {
+      "id": 33,
+      "question": "What’s the sales manager’s role in the third phase of a sales training, when the sales team converts knowledge into behavior?",
+      "answer": "Providing salespeople with a safe place to practice their new skills",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-sales-managers-role-in-the-third-phase/"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is an example of an ineffective coaching technique that should be avoided?",
+      "answer": "A salesperson is struggling to write a follow-up email, so the sales manager steps in and writes it for them.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-an-ineffective/"
+    },
+    {
+      "id": 35,
+      "question": "True or false? During coaching sessions, the salesperson needs to identify their own path forward.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-during-coaching-sessions-the-salesperson/"
+    },
+    {
+      "id": 36,
+      "question": "What’s the best way to avoid making bad sales hires?",
+      "answer": "Develop a robust hiring process.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-best-way-to-avoid-making-bad-sales-hires/"
+    },
+    {
+      "id": 37,
+      "question": "True or false? The sales team needs to be using the same hiring process used by other departments.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-sales-team-needs-to-be-using/"
+    },
+    {
+      "id": 38,
+      "question": "When hiring salespeople, what is the most important thing to look for?",
+      "answer": "The ability to execute your sales process",
+      "source_url": "https://www.gcertificationcourse.com/when-hiring-salespeople-what-is-the-most-important/"
+    },
+    {
+      "id": 39,
+      "question": "When creating interview questions for sales hires, which of the following approaches is a best practice?",
+      "answer": "Create a different set of questions for each sales role, but use the same questions for all candidates for a particular role.",
+      "source_url": "https://www.gcertificationcourse.com/when-creating-interview-questions-for-sales-hires/"
+    },
+    {
+      "id": 40,
+      "question": "Fill in the blanks: When building a recruiting strategy, building relationships with top sales talent at other companies is _____, while building relationships with high-performing business development reps at other companies is _____.",
+      "answer": "a long-term strategy, a short-term strategy",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blanks-when-building-a-recruiting-strategy/"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following should be the primary focus of your sales onboarding program?",
+      "answer": "Your sales process and playbook",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-should-be-the-primary-focus/"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is a best practice for onboarding newly hired salespeople?",
+      "answer": "Cover the things they need to get started and train them on the rest later on when they need it.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-best-practice-for-onboarding/"
+    },
+    {
+      "id": 43,
+      "question": "Which salesperson would most benefit from a coaching program?",
+      "answer": "An underperforming salesperson who is dedicated to improving",
+      "source_url": "https://www.gcertificationcourse.com/which-salesperson-would-most-benefit-from-a-coaching/"
+    },
+    {
+      "id": 44,
+      "question": "If a highly dedicated salesperson is unable to improve their low sales performance despite coaching efforts, what is your best course of action?",
+      "answer": "Help them find a different role within your company.",
+      "source_url": "https://www.gcertificationcourse.com/if-a-highly-dedicated-salesperson-is-unable-to-improve/"
+    },
+    {
+      "id": 45,
+      "question": "During the awareness stage of the buyer’s journey, what is the buyer becoming aware of?",
+      "answer": "A problem they have",
+      "source_url": "https://www.gcertificationcourse.com/during-the-awareness-stage-of-the-buyers-journey/"
+    },
+    {
+      "id": 46,
+      "question": "During the consideration stage of the buyer’s journey, what is the buyer considering?",
+      "answer": "Different categories of solutions",
+      "source_url": "https://www.gcertificationcourse.com/during-the-consideration-stage-of-the-buyers-journey/"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is true of most sales organizations?",
+      "answer": "They don’t coach their salespeople as much as they should.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-true-of-most-sales-organizations/"
+    },
+    {
+      "id": 48,
+      "question": "During the Options step of GROW coaching, what is your role as coach?",
+      "answer": "Help the salesperson explore their options for getting from where they currently are to where they want to be.",
+      "source_url": "https://www.gcertificationcourse.com/during-the-options-step-of-grow-coaching/"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is the most important responsibility of a sales leader?",
+      "answer": "Making sure the sales team is following an effective sales process",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-most-important-responsibility-2/"
+    },
+    {
+      "id": 50,
+      "question": "Fill in the blank: Every step of your sales process needs to be _____.",
+      "answer": "Required, factual, inspectable, and buyer-centric",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-every-step-of-your-sales-process-needs-to-be/"
+    },
+    {
+      "id": 51,
+      "question": "Which of the following has the biggest impact on potential leads?",
+      "answer": "Your existing customers’ word-of-mouth",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-has-the-biggest-impact-on-potential/"
+    },
+    {
+      "id": 52,
+      "question": "When choosing a sales methodology, what’s the most important thing to keep in mind?",
+      "answer": "How well the methodology will work with your process and your target persona",
+      "source_url": "https://www.gcertificationcourse.com/when-choosing-a-sales-methodology/"
+    },
+    {
+      "id": 53,
+      "question": "What’s the sales manager’s role in the fourth phase of a sales training, when the team applies their new skills in the real world?",
+      "answer": "Holding team members accountable to integrating the training into their actual workflow",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-sales-managers-role-in-the-fourth-phase/"
+    },
+    {
+      "id": 54,
+      "question": "What’s the sales manager’s role in the final phase of a sales training, where each team member continues to improve on the skill until they’ve fully mastered it?",
+      "answer": "Coaching individual team members to help them reach mastery",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-sales-managers-role-in-the-final-phase/"
+    },
+    {
+      "id": 55,
+      "question": "True or false? During a training, having participants role play with each other is an effective way to build skills, even if there isn’t an experienced person evaluating the role play.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-during-a-training-having-participants/"
+    },
+    {
+      "id": 56,
+      "question": "What’s the difference between training and coaching?",
+      "answer": "Training teaches salespeople what they need to do, and coaching helps them improve how they do it.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-difference-between-training-and-coaching/"
+    },
+    {
+      "id": 57,
+      "question": "True or false? Job interviews are highly predictive of how successful a person will be after they’re hired.",
+      "answer": "Failed to fetch page",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-job-interviews-are-highly-predictive/"
+    },
+    {
+      "id": 58,
+      "question": "When building a recruiting strategy, which of the following is a good long-term tactic?",
+      "answer": "Building relationships with top sales talent at other companies",
+      "source_url": "https://www.gcertificationcourse.com/when-building-a-recruiting-strategy/"
+    },
+    {
+      "id": 59,
+      "question": "True or False? Allowing salespeople to coach each other will distract from their primary responsibility of finding and closing new business.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-allowing-salespeople-to-coach-each-other/"
+    },
+    {
+      "id": 60,
+      "question": "True or false? You need to define your target persona before you define your sales process.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-need-to-define-your-target-persona/"
+    },
+    {
+      "id": 61,
+      "question": "What’s the sales manager’s role in the first phase of a sales training, when the team is learning something new?",
+      "answer": "Ensuring the selected topics are presented in a way that will drive improvements to the way the sales team executes the sales process",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-sales-managers-role-in-the-first-phase/"
+    },
+    {
+      "id": 62,
+      "question": "True or false? At the end of a good onboarding program, the newly hired salesperson will know everything they’ll need to know in their new role.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-at-the-end-of-a-good-onboarding-program/"
+    }
+  ]
+}

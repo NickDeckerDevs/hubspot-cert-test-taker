@@ -1,0 +1,570 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T10:22:48.185941",
+  "course_info": {
+    "name": "Revenue Operations",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-revenue-operations-answers/",
+    "total_questions": 93,
+    "scraped_date": "2025-07-10 10:19:14"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is scale?",
+      "answer": "When business growth is faster than investment growth",
+      "source_url": "https://www.gcertificationcourse.com/what-is-scale/"
+    },
+    {
+      "id": 2,
+      "question": "What has caused RevOps to become such a popular topic in recent years?",
+      "answer": "Increases in technology, data, and customer expectations",
+      "source_url": "https://www.gcertificationcourse.com/what-has-caused-revops-to-become-such/"
+    },
+    {
+      "id": 3,
+      "question": "How does RevOps help companies scale?",
+      "answer": "By harmonizing the processes, systems, and data used by customer-facing teams",
+      "source_url": "https://www.gcertificationcourse.com/how-does-revops-help-companies-scale/"
+    },
+    {
+      "id": 4,
+      "question": "True or false? RevOps improvements generally require a large investment of money.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-revops-improvements-generally/"
+    },
+    {
+      "id": 5,
+      "question": "True or false? You need an advanced degree in order to be a qualified RevOps professional.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-need-an-advanced-degree/"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following best demonstrates an operations mindset?",
+      "answer": "“I investigated the problem you reported to me, and I discovered several root causes in the processes our teams are using. I’ve designed an experiment to test a possible solution.”",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-best-demonstrates/"
+    },
+    {
+      "id": 7,
+      "question": "Situation: Excelsior Automotive sells autonomous limousines to the wealthy. They recently created a referral program where customers can refer friends in order to get a discount on their bill. Excelsior’s VP of Sales decides that, at the end of each quarter, she’ll find the ten customers who have submitted the most referrals, and the sales reps who closed those ten customers originally will each get a bonus. This is an example of:",
+      "answer": "Adding force",
+      "source_url": "https://www.gcertificationcourse.com/situation-excelsior-automotive-sells-autonomous/"
+    },
+    {
+      "id": 8,
+      "question": "Situation: Granny’s Handmade Electronics produces high-end computers and TVs using only yarn and apple pie filling. Many consumers are skeptical that the products would work as advertised, so Granny has introduced a seven-day free trial and a one-year money-back guarantee. This is an example of:",
+      "answer": "Removing friction",
+      "source_url": "https://www.gcertificationcourse.com/situation-grannys-handmade-electronics/"
+    },
+    {
+      "id": 9,
+      "question": "Situation: Chuck’s Nuclear-Powered Chainsaws are not only the most powerful power tools in the world but also the most dangerous. To prevent overeager apartment landscapers from accidentally cutting down high-rise buildings while trimming the hedges, Chuck requires his customers to complete a four-part training program before purchasing a saw. This is an example of:",
+      "answer": "Adding good friction",
+      "source_url": "https://www.gcertificationcourse.com/situation-chucks-nuclear-powered-chainsaws/"
+    },
+    {
+      "id": 10,
+      "question": "Situation: Ruthie’s Office Furniture sells office furniture to offices that need furniture. Ruthie believes passionately that all contracts should be signed by hand, so she requires her clients to send them to her using a fax machine. This is an example of:",
+      "answer": "Adding bad friction",
+      "source_url": "https://www.gcertificationcourse.com/situation-ruthies-office-furniture-sells-office/"
+    },
+    {
+      "id": 11,
+      "question": "Situation: C’est Wot is a Quebecois-British fusion restaurant specializing in jellied eel poutine. To encourage customers to bring their friends, C’est Wot gives first-time visitors buy-one-get-one meal vouchers for their next visit. This is an example of:",
+      "answer": "Adding force",
+      "source_url": "https://www.gcertificationcourse.com/situation-cest-wot-is-a-quebecois-british/"
+    },
+    {
+      "id": 12,
+      "question": "Situation: Goat Splat is the latest up-and-coming punk band in Perth, Australia. Previously, their live shows were poorly attended because their international fanbase had trouble getting to Perth (it’s a bit out of the way regardless of where you’re coming from). To remedy this, Goat Splat is experimenting with live streaming their shows so fans can attend without having to travel. This is an example of:",
+      "answer": "Removing friction",
+      "source_url": "https://www.gcertificationcourse.com/situation-goat-splat-is-the-latest-up-and/"
+    },
+    {
+      "id": 13,
+      "question": "Situation: Binge TV is a streaming service that specializes in irresistible shows. Their shows are so good, in fact, that their customers' health has been suffering from watching so much TV. Some doctors are encouraging their patients to cancel their Binge TV subscriptions. Therefore, Binge TV is putting a new system in place: Any time an individual user streams content for 16 continuous hours, they get locked out of their account for 8 hours to force them to take a break. This is an example of:",
+      "answer": "Adding good friction",
+      "source_url": "https://www.gcertificationcourse.com/situation-binge-tv-is-a-streaming-service-that/"
+    },
+    {
+      "id": 14,
+      "question": "Evaluate this SLA: By the end of this month, Marketing will increase website traffic by 50%, and sales will attempt contact up to three times for each website lead.",
+      "answer": "This SLA’s requirements focus on the wrong activities.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-sla-by-the-end-of-this-month/"
+    },
+    {
+      "id": 15,
+      "question": "Evaluate this SLA: Each month, marketing will qualify enough leads for sales to close $50,000 in new business, and sales will contact every marketing qualified lead.",
+      "answer": "This SLA’s requirements aren’t specific enough.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-sla-each-month-marketing-will-2/"
+    },
+    {
+      "id": 16,
+      "question": "Evaluate this SLA: Each month, Marketing will generate 500 qualified leads, and sales will contact each lead as quickly as possible.",
+      "answer": "This SLA’s requirements aren’t specific enough.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-sla-each-month-marketing-will/"
+    },
+    {
+      "id": 17,
+      "question": "Evaluate this SLA: Marketing will produce $100,000 of lead value each quarter, and sales will contact every marketing qualified lead within 24 hours of receiving it.",
+      "answer": "No change needed.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-sla-marketing-will-produce/"
+    },
+    {
+      "id": 18,
+      "question": "What four elements should your sales playbook include?",
+      "answer": "What your sales reps need to know, what they need to do, what they need to say, and what they need to show",
+      "source_url": "https://www.gcertificationcourse.com/what-four-elements-should-your-sales-playbook/"
+    },
+    {
+      "id": 19,
+      "question": "Evaluate this step of a sales process: Buyer submitted “Contact Sales” form.",
+      "answer": "This step isn’t required.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-step-of-a-sales-process-buyer-2/"
+    },
+    {
+      "id": 20,
+      "question": "Evaluate this step of a sales process: Buyer discussed our product with their team.",
+      "answer": "This step isn’t inspectable.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-step-of-a-sales-process-buyer-3/"
+    },
+    {
+      "id": 21,
+      "question": "Situation: Trustworthy Financial Services recently hired a RevOps professional named Markeisha. Markeisha is spending her first few months trying to understand where leads come from, how they get passed to sales, and what happens to new customers after the deal is closed. This is an example of:",
+      "answer": "Process definition",
+      "source_url": "https://www.gcertificationcourse.com/situation-trustworthy-financial-services-recently/"
+    },
+    {
+      "id": 22,
+      "question": "Situation: Real Good Manufacturing recently hired a RevOps professional named Vladislav. Vladislav has discovered that the company has no restrictions on who can access and change customer data, and he is working to put regulations in place that control access and permissions. This is an example of:",
+      "answer": "Data governance",
+      "source_url": "https://www.gcertificationcourse.com/situation-real-good-manufacturing-recently/"
+    },
+    {
+      "id": 23,
+      "question": "Situation: The Lucky Nickel Construction Company recently hired a RevOps professional named Abeeku. He has discovered that the sales department and the customer support department have two different systems for tracking customer information and that the two aren’t connected in any way. He would like to get both departments onto the same system, but in the meantime he is focusing on integrating the two systems so they can share data. This is an example of:",
+      "answer": "Tech stack management",
+      "source_url": "https://www.gcertificationcourse.com/situation-the-lucky-nickel-construction/"
+    },
+    {
+      "id": 24,
+      "question": "Situation: Oslo’s biggest knitting supplies wholesaler recently launched an ecommerce store and hired a RevOps professional named Einar. He has mapped out the buyer’s journey for the company’s customers, and he is in the process of documenting everywhere responsibility for a customer is passed from one team to another. This is an example of:",
+      "answer": "Process definition",
+      "source_url": "https://www.gcertificationcourse.com/situation-oslos-biggest-knitting-supplies/"
+    },
+    {
+      "id": 25,
+      "question": "Situation: Beep Boop Beep is a quickly growing telecommunications company that recently hired a RevOps professional named Alexis. She is developing a data dictionary to document all the information stored in the company’s many systems and how they are connected to each other. This is an example of:",
+      "answer": "Data governance",
+      "source_url": "https://www.gcertificationcourse.com/situation-beep-boop-beep-is-a-quickly/"
+    },
+    {
+      "id": 26,
+      "question": "Situation: Bedside Manor is a healthcare company that recently hired a RevOps professional named Dyani. Dyani has determined that there is more work to do than she can accomplish by herself, and she’s using an A3 template to persuade the executive team to hire a second operations professional. This is an example of:",
+      "answer": "None of the above",
+      "source_url": "https://www.gcertificationcourse.com/situation-bedside-manor-is-a-healthcare/"
+    },
+    {
+      "id": 27,
+      "question": "What accounting tool gives a snapshot of your business's financial standing at a single point in time?",
+      "answer": "Balance sheet",
+      "source_url": "https://www.gcertificationcourse.com/what-accounting-tool-gives-a-snapshot-of/"
+    },
+    {
+      "id": 28,
+      "question": "What accounting tool shows the net amount of money moving in and out of your business?",
+      "answer": "Cashflow statement",
+      "source_url": "https://www.gcertificationcourse.com/what-accounting-tool-shows-the-net-amount/"
+    },
+    {
+      "id": 29,
+      "question": "Situation: Charlie's Pressurized Cottage Cheese Company sells soft cheese products in aerosol cans, making it easy for their customers to put copious amounts of cheese onto fruit, granola, or directly into their mouths. Yum! Unfortunately, the cans occasionally explode in the warehouse before they can be sold to customers. According to The Cost of Poor Quality, what category does this cost belong to?",
+      "answer": "Internal failure",
+      "source_url": "https://www.gcertificationcourse.com/situation-charlies-pressurized-cottage/"
+    },
+    {
+      "id": 30,
+      "question": "Situation: Tamara's Monogrammed Baked Goods sells muffins, cakes, and pastries that have their customers' initials sewed onto them with celery strings. But, the delivery team sometimes gets orders mixed up and delivers monogrammed baked goods to the wrong customers. For health reasons, food items cannot be returned, so Tamara has to monogram a new set of baked goods and have them delivered to the affected customers. According to The Cost of Poor Quality, what category does this cost belong to?",
+      "answer": "External failure",
+      "source_url": "https://www.gcertificationcourse.com/situation-tamaras-monogrammed-baked-goods/"
+    },
+    {
+      "id": 31,
+      "question": "Situation: Maria's Seltzer Broth produces a wide array of ready-made carbonated soups. Be sure to look for the hand-labeled cans at your local grocer! But, labeling cans by hand frequently causes errors, and customers who purchase a can labeled Bubbly Beef sometimes find that the can actually contains Chipper Chicken. The disappointed customers call Maria's hotline, and the support team has to correct the mistake. According to The Cost of Poor Quality, what category does this cost belong to?",
+      "answer": "External failure",
+      "source_url": "https://www.gcertificationcourse.com/situation-marias-seltzer-broth-produces/"
+    },
+    {
+      "id": 32,
+      "question": "Situation: Bartholomew's Luxury Furniture produces handcrafted home goods with lifetime warranties. Bartholomew invests heavily in educating and training his team to help them avoid mistakes that could lead to defective products. According to The Cost of Poor Quality, what category does this cost belong to?",
+      "answer": "Prevention",
+      "source_url": "https://www.gcertificationcourse.com/situation-bartholomews-luxury-furniture-produces/"
+    },
+    {
+      "id": 33,
+      "question": "In Monroe's Motivated Sequence, the purpose of the Satisfaction section of a persuasive speech is to _____.",
+      "answer": "state your proposed solution as succinctly and clearly as possible.",
+      "source_url": "https://www.gcertificationcourse.com/in-monroes-motivated-sequence-the-purpose-2/"
+    },
+    {
+      "id": 34,
+      "question": "In Monroe's Motivated Sequence, the purpose of the Visualization section of a persuasive speech is to _____.",
+      "answer": "describe the positive outcomes your solution will bring.",
+      "source_url": "https://www.gcertificationcourse.com/in-monroes-motivated-sequence-the-purpose-3/"
+    },
+    {
+      "id": 35,
+      "question": "In Monroe's Motivated Sequence, the purpose of the Action section of a persuasive speech is to _____.",
+      "answer": "ask your audience to take action on your proposal.",
+      "source_url": "https://www.gcertificationcourse.com/in-monroes-motivated-sequence-the-purpose-4/"
+    },
+    {
+      "id": 36,
+      "question": "True or false? The A3 template should be filled only with text, not images or graphs.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-a3-template-should-be/"
+    },
+    {
+      "id": 37,
+      "question": "Situation: Denice Powell is the head of operations at Magic Feather Airlines, which provides flights for people who enjoy traveling with their pets. Magic Feather is popular at small airports but wants to expand. Denice comes from a customer support background and is passionate about building processes that serve their passengers well, but she wants to hire someone who can help build a process for securing space in major airports. Which type of candidate would be best for this role?",
+      "answer": "An experienced operations leader",
+      "source_url": "https://www.gcertificationcourse.com/situation-denice-powell-is-the-head-of/"
+    },
+    {
+      "id": 38,
+      "question": "Situation: Dmitry McNamara is the RevOps leader at Just Me, a single sign-on tool for consumers who want to manage all their social media accounts and email addresses from a unified dashboard. Just Me manages huge quantities of data, and Dmitry wants to hire someone who can analyze the data more deeply to help the company make more informed decisions. Which type of candidate would be best for this role?",
+      "answer": "A credentialed specialist",
+      "source_url": "https://www.gcertificationcourse.com/situation-dmitry-mcnamara-is-the-revops/"
+    },
+    {
+      "id": 39,
+      "question": "Situation: The International Alliance of Superheroes is a rapidly growing professional organization. One of their salespeople, Hyperman, recently left the sales team to lead operations. The organization's highly customized CRM system requires so much administrative work that Hyperman is spending most of his time on system admin responsibilities. He would like to hire someone to administer the CRM so Hyperman can focus on other activities. Which type of candidate would be best for this role?",
+      "answer": "A credentialed specialist",
+      "source_url": "https://www.gcertificationcourse.com/situation-the-international-alliance-of/"
+    },
+    {
+      "id": 40,
+      "question": "Situation: Foolproof Medical Supplies has been selling their products to hospitals for many years, and they now want to start selling directly to consumers. Norma Jones, the head of their RevOps team, has never worked at a company that sells directly to consumers, and she would like to hire someone from a consumer industry who can help her build that strategy. Which type of candidate would be best for this role?",
+      "answer": "An experienced operations leader",
+      "source_url": "https://www.gcertificationcourse.com/situation-foolproof-medical-supplies-has/"
+    },
+    {
+      "id": 41,
+      "question": "What is the first core element of a RevOps strategy?",
+      "answer": "Discussing company goals with company leaders to understand the things that are most important from an executive perspective",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-first-core-element-of-a-revops/"
+    },
+    {
+      "id": 42,
+      "question": "What is the difference between a customer-in strategy and a function-out strategy?",
+      "answer": "A customer-in strategy focuses on providing an excellent experience to customers, while a function-out strategy focuses on enabling internal teams within their current confines.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-difference-between-a-customer/"
+    },
+    {
+      "id": 43,
+      "question": "What is a winning aspiration?",
+      "answer": "What success looks like for your organization three to five years in the future.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-winning-aspiration/"
+    },
+    {
+      "id": 44,
+      "question": "True or false? Aligning your sales team’s incentives with your customers’ long-term success will create delight for your customers.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-aligning-your-sales-teams/"
+    },
+    {
+      "id": 45,
+      "question": "Fill in the blank: The secret to success when deploying friction intentionally is to make sure the amount of friction matches ______.",
+      "answer": "the level of value",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-secret-to-success-when/"
+    },
+    {
+      "id": 46,
+      "question": "True or false? Friction can be used to describe challenges that hold back your internal teams as well as challenges that hold back your customers.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-friction-can-be-used-to-describe/"
+    },
+    {
+      "id": 47,
+      "question": "Fill in the blank: The flywheel is a model adapted by HubSpot to explain the momentum you gain when you align your entire organization around _____.",
+      "answer": "delivering a remarkable customer experience",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-flywheel-is-a-model/"
+    },
+    {
+      "id": 48,
+      "question": "True or false? Preserving the integrity of your company’s data model is exclusively the job of operations professionals.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-preserving-the-integrity-of/"
+    },
+    {
+      "id": 49,
+      "question": "Fill in the blank: Assets = Liabilities + _____",
+      "answer": "Equity",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-assets-liabilities/"
+    },
+    {
+      "id": 50,
+      "question": "Fill in the blank: Buildings, equipment, and long-term investments are all examples of _____.",
+      "answer": "fixed assets",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-buildings-equipment-and-long/"
+    },
+    {
+      "id": 51,
+      "question": "True or false? Changes in working capital are subtracted from net income on the cash flow statement.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-changes-in-working-capital-are/"
+    },
+    {
+      "id": 52,
+      "question": "True or false? Share capital is the amount of money a company pays to its shareholders in the form of dividends and increased share value.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-share-capital-is-the-amount/"
+    },
+    {
+      "id": 53,
+      "question": "Fill in the blank: Income statements report on revenue and expenses _____.",
+      "answer": "over a period of time",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-income-statements-report/"
+    },
+    {
+      "id": 54,
+      "question": "True or false? According to the cost of poor quality, if your products were perfect, you could save 100% of the cost of appraising them.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-according-to-the-cost-of-poor/"
+    },
+    {
+      "id": 55,
+      "question": "Fill in the blank: As marketing gets better at delivering the right number of leads each month, they’ll also need to get better at ______.",
+      "answer": "delivering those leads at a sensible cadence",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-as-marketing-gets-better-at/"
+    },
+    {
+      "id": 56,
+      "question": "True or false? When sales is contacting marketing qualified leads, faster is always better.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-sales-is-contacting-marketing/"
+    },
+    {
+      "id": 57,
+      "question": "Fill in the blank: Every step of your sales process should be required, factual, inspectable, and _____.",
+      "answer": "buyer-centric",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-every-step-of-your-sales-process/"
+    },
+    {
+      "id": 58,
+      "question": "True or false? Every step in your sales process needs clearly defined exit criteria.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-every-step-in-your-sales-process/"
+    },
+    {
+      "id": 59,
+      "question": "Fill in the blank: Your sales playbook should cover what your sales reps need to know, do, say, and _____.",
+      "answer": "show",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-your-sales-playbook-should/"
+    },
+    {
+      "id": 60,
+      "question": "True or false? No sales process is perfect.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-no-sales-process-is-perfect/"
+    },
+    {
+      "id": 61,
+      "question": "Which of the following is an indication that a company needs to invest in RevOps?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-indication-that/"
+    },
+    {
+      "id": 62,
+      "question": "Which of the following is the best way to learn RevOps?",
+      "answer": "Connecting with other operations professionals, taking on projects so you can learn while doing, and being willing to learn from your mistakes",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-best-way-to/"
+    },
+    {
+      "id": 63,
+      "question": "Situation: The Tehachapi Zeppelin Company sells enormous airships to transportation and logistics companies. Each airship costs millions of dollars, and the sales cycle is multiple months long. One sales manager has noticed that bigger deals take longer to close, so he’s encouraging his sales reps to add extra meetings to the sales process in hopes of increasing average deal size. This is an example of:",
+      "answer": "Adding bad friction",
+      "source_url": "https://www.gcertificationcourse.com/situation-the-tehachapi-zeppelin-company/"
+    },
+    {
+      "id": 64,
+      "question": "Evaluate this SLA: Sales will contact all marketing qualified leads within five minutes.",
+      "answer": "This SLA is missing a requirement.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-sla-sales-will-contact-all-marketing/"
+    },
+    {
+      "id": 65,
+      "question": "True or false? Every step of a sales process must have exit criteria.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-every-step-of-a-sales-process/"
+    },
+    {
+      "id": 66,
+      "question": "Evaluate this step of a sales process: Buyer stopped responding to outreach.",
+      "answer": "This step isn’t required.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-step-of-a-sales-process-buyer/"
+    },
+    {
+      "id": 67,
+      "question": "Evaluate this step of a sales process: Product demonstrated.",
+      "answer": "This step isn’t buyer-centric.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-step-of-a-sales-process-product/"
+    },
+    {
+      "id": 68,
+      "question": "Situation: Quackers Insurance recently hired a RevOps professional named Suvi. The company has been tracking leads and customers using paper ledgers, and Suvi is working to get a CRM platform implemented. This is an example of:",
+      "answer": "Tech stack management",
+      "source_url": "https://www.gcertificationcourse.com/situation-quackers-insurance-recently-hired/"
+    },
+    {
+      "id": 69,
+      "question": "In Monroe's Motivated Sequence, the purpose of the Attention section of a persuasive speech is to ______.",
+      "answer": "get the audience to pay attention to you.",
+      "source_url": "https://www.gcertificationcourse.com/in-monroes-motivated-sequence-the-purpose-5/"
+    },
+    {
+      "id": 70,
+      "question": "In Monroe's Motivated Sequence, the purpose of the Need section of a persuasive speech is to _____.",
+      "answer": "get the audience to connect emotionally and psychologically with the problem you've identified.",
+      "source_url": "https://www.gcertificationcourse.com/in-monroes-motivated-sequence-the-purpose/"
+    },
+    {
+      "id": 71,
+      "question": "Situation: Janet Hopkins is the sole operations professional at Equal Lingual, which provides translation services to companies that want their content to be available in critically endangered languages. Equal Lingual is growing rapidly, and Janet is finding herself spread too thin. She wants to hire someone who can take on an odd assortment of responsibilities to give her more time for strategic planning. Which type of candidate would be best for this role?",
+      "answer": "A transitioning generalist",
+      "source_url": "https://www.gcertificationcourse.com/situation-janet-hopkins-is-the-sole-operations/"
+    },
+    {
+      "id": 72,
+      "question": "What is the second core element of a RevOps strategy?",
+      "answer": "Communicating available opportunities to company leaders and committing to a plan that addresses them",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-second-core-element-of-a-revops/"
+    },
+    {
+      "id": 73,
+      "question": "What is the third core element of a RevOps strategy?",
+      "answer": "Aligning the relevant teams around shared metrics and goals that support a plan",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-third-core-element-of-a-revops/"
+    },
+    {
+      "id": 74,
+      "question": "Which is more important for scaling an organization, alignment or strategy?",
+      "answer": "Alignment is more important than strategy",
+      "source_url": "https://www.gcertificationcourse.com/which-is-more-important-for-scaling-an/"
+    },
+    {
+      "id": 75,
+      "question": "In addition to defining your winning aspiration, what three questions will you need to answer as you create and communicate a customer-in strategy?",
+      "answer": "Where you want to play, how you will win, and what measures you'll use to see that you're successful",
+      "source_url": "https://www.gcertificationcourse.com/in-addition-to-defining-your-winning-aspiration/"
+    },
+    {
+      "id": 76,
+      "question": "Fill in the blank: Tools typically ______ whatever processes you have in place.",
+      "answer": "accelerate",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-tools-typically-whatever/"
+    },
+    {
+      "id": 77,
+      "question": "True or false? The amount of assets on your balance sheet should be equal to the amount of liabilities on your balance sheet.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-amount-of-assets-on-your/"
+    },
+    {
+      "id": 78,
+      "question": "Fill in the blank: Accounts payable and income taxes are examples of _____.",
+      "answer": "current liabilities",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-accounts-payable-and/"
+    },
+    {
+      "id": 79,
+      "question": "True or false? To ensure that your SLA is working properly, it’s important to create a judicial branch made up of your top sales leadership.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-to-ensure-that-your-sla-is/"
+    },
+    {
+      "id": 80,
+      "question": "Evaluate this SLA: Each month, marketing will produce 100 qualified leads, and sales will contact each lead within 12 hours.",
+      "answer": "No change needed.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-sla-each-month-marketing-will-3/"
+    },
+    {
+      "id": 81,
+      "question": "Evaluate this SLA: Marketing will send four marketing emails each month, and sales will follow up with 50% of the recipients.",
+      "answer": "This SLA’s requirements focus on the wrong activities.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-sla-marketing-will-send-four/"
+    },
+    {
+      "id": 82,
+      "question": "Evaluate this SLA: Marketing will generate $50,000 in lead value every month.",
+      "answer": "This SLA is missing a requirement.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-sla-marketing-will-generate-4/"
+    },
+    {
+      "id": 83,
+      "question": "Evaluate this step of a sales process: Contract sent.",
+      "answer": "This step isn’t buyer-centric.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-step-of-a-sales-process-contract/"
+    },
+    {
+      "id": 84,
+      "question": "Evaluate this step of a sales process: Budget holder approved expense.",
+      "answer": "This step isn’t inspectable.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-step-of-a-sales-process-budget/"
+    },
+    {
+      "id": 85,
+      "question": "What accounting tool reports on revenue and expenses over a period of time?",
+      "answer": "Income statement",
+      "source_url": "https://www.gcertificationcourse.com/what-accounting-tool-reports-on-revenue/"
+    },
+    {
+      "id": 86,
+      "question": "Situation: Flavio's Organic Construction Company built a commercial building of entirely plant-based materials. Unfortunately, the final inspection found serious problems with the building's plumbing, and extensive non-plant-based renovations were required before the building could be sold to a customer. According to The Cost of Poor Quality, what category does this cost belong to?",
+      "answer": "Internal failure",
+      "source_url": "https://www.gcertificationcourse.com/situation-flavios-organic-construction-company/"
+    },
+    {
+      "id": 87,
+      "question": "Fill in the blank: If your company has more assets than liabilities, the remaining balance is your _____.",
+      "answer": "equity",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-if-your-company-has-more/"
+    },
+    {
+      "id": 88,
+      "question": "Situation: Chiffon Outdoors manufactures rugged outdoor equipment using delicate fabrics. To ensure the safety of their rock-climbing customers, they have to carefully examine every climbing rope before selling it to ensure there are no flaws in the fibers their customers will be dangling from. This involves an extensive examination that requires a lot of time and specialized equipment. According to The Cost of Poor Quality, what category does this cost belong to?",
+      "answer": "Appraisal",
+      "source_url": "https://www.gcertificationcourse.com/situation-chiffon-outdoors-manufactures-rugged/"
+    },
+    {
+      "id": 89,
+      "question": "Situation: The Sneaky Sneaks Shoe Company has been in business for 15 years, and during all that time, operations have been led by the company’s CEO, Larry. However, Larry has recently decided that he would like to hire someone to handle operations full-time. With 15 years in the business, Larry is confident he can train a person on what’s involved in the job, but he wants his operations leader to have good technical and strategic skills. Which type of candidate would be best for this role?",
+      "answer": "A transitioning generalist",
+      "source_url": "https://www.gcertificationcourse.com/situation-the-sneaky-sneaks-shoe-company-has/"
+    },
+    {
+      "id": 90,
+      "question": "Situation: Neon Broccoli is a public relations firm that seeks to make boring companies feel relevant to kids and teens. Their marketing team's top goal is to provide sales with a specific number of qualified leads each month, and the sales team's top goal is to contact those leads within a specific amount of time. The customer service team's top goal is retention. How well are their customer-facing departments' goals supporting their efforts to scale?",
+      "answer": "It's hard to know if these goals are good without knowing what you're company's top priorities and strategies are. When you evaluate individual departments' goals, the most important thing is that they support your company's overall mission.",
+      "source_url": "https://www.gcertificationcourse.com/situation-neon-broccoli-is-a-public-relations/"
+    },
+    {
+      "id": 91,
+      "question": "Fill in the blank: Your _____ is the foundation of everything your sales team does.",
+      "answer": "sales process",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-your-is-the-foundation/"
+    },
+    {
+      "id": 92,
+      "question": "True or false? Whenever possible, it’s best to hire experienced operations leaders to fill your open operations roles.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-whenever-possible-its-best/"
+    },
+    {
+      "id": 93,
+      "question": "True or false? Scale should be a top priority for all companies, even early-stage companies who are still defining product-market fit.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-scale-should-be-a-top-priority/"
+    }
+  ]
+}

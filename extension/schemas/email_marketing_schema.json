@@ -1,0 +1,575 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T09:13:11.335713",
+  "course_info": {
+    "name": "Email Marketing",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-email-marketing-answers/",
+    "total_questions": 88,
+    "scraped_date": "2025-07-10 09:09:51"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Select all that apply. Why is it essential to connect your ESP with your CRM?",
+      "answer": [
+        "To avoid duplication of data",
+        "To ensure better coordination between your marketing and sales strategy",
+        "To avoid losing important behavioral data"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-why-is-it-essential/"
+    },
+    {
+      "id": 2,
+      "question": "Why is segmentation important in email marketing?",
+      "answer": "It allows you to send personalized communication to your audience at scale.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-segmentation-important-in-email/"
+    },
+    {
+      "id": 3,
+      "question": "What is segmentation?",
+      "answer": "The process of separating your contacts into smaller groups of similar profiles",
+      "source_url": "https://www.gcertificationcourse.com/what-is-segmentation/"
+    },
+    {
+      "id": 4,
+      "question": "What is the most effective email marketing campaign strategy?",
+      "answer": "Subscriber segmentation",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-most-effective-email-marketing/"
+    },
+    {
+      "id": 5,
+      "question": "True or false? Your segmentation strategy will partially rely on the industry you’re in.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-your-segmentation-strategy/"
+    },
+    {
+      "id": 6,
+      "question": "A contact receives a follow-up email with a discount two days after signing up for a newsletter. This is an example of which email marketing concept?",
+      "answer": "Automation",
+      "source_url": "https://www.gcertificationcourse.com/a-contact-receives-a-follow-up-email-with/"
+    },
+    {
+      "id": 7,
+      "question": "True or false? If your email is marked as delivered, it will not be marked as spam.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-your-email-is-marked-as/"
+    },
+    {
+      "id": 8,
+      "question": "True or false? Your sender reputation is constantly being assessed, which means your deliverability is constantly changing.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-your-sender-reputation-is/"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT a way to increase your chances of landing in the primary inbox?",
+      "answer": "Sending each of your emails to all the contacts in your CRM",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-way-to-4/"
+    },
+    {
+      "id": 10,
+      "question": "True or false? In email marketing, explicit consent is the only form of acceptable consent.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-in-email-marketing-explicit/"
+    },
+    {
+      "id": 11,
+      "question": "Fill in the blanks: A customer makes a purchase from your company and you proceed to send them marketing emails. This can be described as ______ and ________.",
+      "answer": "implicit consent, single opt-in",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blanks-a-customer-makes-a/"
+    },
+    {
+      "id": 12,
+      "question": "Fill in the blanks: A customer makes a purchase from your company and submits the form with a box checked to receive marketing emails. This box was checked by default. You proceed to send them marketing emails. This can be described as ______ and ________.",
+      "answer": "implicit consent, single opt-in",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blanks-a-customer-makes-a-2/"
+    },
+    {
+      "id": 13,
+      "question": "Fill in the blanks: A customer fills out a form to download an ebook and checks the box asking for further promotional materials. You send a follow-up email asking for confirmation that they want to receive marketing promotional materials. This can be described as ______ and ________.",
+      "answer": "explicit consent, double opt-in",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blanks-a-customer-fills-out/"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following compliance needs are part of the CAN-SPAM Act?",
+      "answer": "You must be compliant if you’re emailing any contacts within the United States.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-compliance-needs/"
+    },
+    {
+      "id": 15,
+      "question": "Select all that apply. Which of the following are principles of the CAN-SPAM Act?",
+      "answer": [
+        "You can’t have deceptive subject lines.",
+        "Your message must include a valid physical postal address.",
+        "Your message must have a clear mechanism for recipients to opt out — in other words, an “unsubscribe” button."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-5/"
+    },
+    {
+      "id": 16,
+      "question": "True or false? Most ESPs’ acceptable use policies are less stringent than both the CAN-SPAM and GDPR.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-most-esps-acceptable-use/"
+    },
+    {
+      "id": 17,
+      "question": "True or false? Open rates are a reliable metric and can serve as the foundation of any deliverability strategy.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-open-rates-are-a-reliable/"
+    },
+    {
+      "id": 18,
+      "question": "What is the definition of graymail?",
+      "answer": "Emails sent to contacts that have provided consent but have stopped engaging",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-definition-of-graymail/"
+    },
+    {
+      "id": 19,
+      "question": "In which scenario, would you consider implementing a sunset policy?",
+      "answer": "You’ve observed some of your contacts have stopped engaging.",
+      "source_url": "https://www.gcertificationcourse.com/in-which-scenario-would-you-consider/"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following incorporates best practices in email design?",
+      "answer": "Ensure the copy, brand voice, colors, and graphics of a linked landing page are consistent with the email.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-incorporates-best/"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is NOT an accessibility best practice in email design?",
+      "answer": "Use all caps wherever possible to enhance reading visibility",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an/"
+    },
+    {
+      "id": 22,
+      "question": "Select all that apply. What are reasons to avoid using a 'no-reply' sender name?",
+      "answer": [
+        "It comes across as impersonal.",
+        "It prevents contacts from giving you direct feedback, if they desire.",
+        "It prevents people from adding your email to their address book."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-reasons-to/"
+    },
+    {
+      "id": 23,
+      "question": "True or false? A subject line should aim to be as lengthy as possible.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-subject-line-should-aim/"
+    },
+    {
+      "id": 24,
+      "question": "What is the recommended amount of characters for preview text?",
+      "answer": "140 characters",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-recommended-amount-of/"
+    },
+    {
+      "id": 25,
+      "question": "True or false? The following is an example of persuasive copywriting that incorporates storytelling and emotional appeal: “Our candles are made with 100% pure soy wax and are available in a range of fragrances. The candles have lead-free wicks, come in sleek glass jars, and have a burn time of approximately 60 hours. You can choose from various sizes and colors to suit every occasion. Order now and enjoy the features of our product.”",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-following-is-an-example-2/"
+    },
+    {
+      "id": 26,
+      "question": "True or false? The following is an example of persuasive copywriting that incorporates storytelling and emotional appeal: \"Your furry friend deserves only the best, and that's exactly what our dog toy subscription box delivers every month. Our carefully curated selection of toys is designed to provide hours of entertainment and joy for your pup. With each delivery, your dog will be eager to rip open the box and discover new toys that are perfect for their size and play style. Treat your furry friend to a monthly surprise and watch their tail wag with joy. Sign up now and give your dog the gift of happiness.\"",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-following-is-an-example/"
+    },
+    {
+      "id": 27,
+      "question": "True or false? A best practice for creating CTAs is using 'Click Here' as often as possible.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-best-practice-for/"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is NOT a form of email authentication?",
+      "answer": "CPC",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-form-of/"
+    },
+    {
+      "id": 29,
+      "question": "What is the primary issue with how Apple’s iOS15 and Mail Privacy Protection feature impacts email metrics?",
+      "answer": "It can give the impression that your open rate is higher than it actually is.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-primary-issue-with-how/"
+    },
+    {
+      "id": 30,
+      "question": "What’s a click-through rate?",
+      "answer": "The percentage of recipients who clicked a link in your email out of those who opened it",
+      "source_url": "https://www.gcertificationcourse.com/whats-a-click-through-rate/"
+    },
+    {
+      "id": 31,
+      "question": "Select all that apply. As the privacy landscape in email marketing changes, what are important factors to keep in mind?",
+      "answer": [
+        "Contacts are becoming more protective of their data but still want personalized buying experiences.",
+        "It’s important to not rely on open rates alone, as those can be unreliable, specifically with Apple users."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-as-the-privacy/"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is NOT a crucial factor for developing an effective send time optimization strategy?",
+      "answer": "Personalization",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-crucial/"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is NOT a core component of a successful CTA?",
+      "answer": "Delivery rate success",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-core/"
+    },
+    {
+      "id": 34,
+      "question": "'The process of collecting, measuring, and analyzing data related to your email campaigns' is the definition of what term?",
+      "answer": "Email analytics",
+      "source_url": "https://www.gcertificationcourse.com/the-process-of-collecting-measuring/"
+    },
+    {
+      "id": 35,
+      "question": "You’re applying email analytics to your email marketing strategy and have just reviewed your goals and created a hypothesis. What step comes next?",
+      "answer": "Collect relevant data",
+      "source_url": "https://www.gcertificationcourse.com/youre-applying-email-analytics-to-your/"
+    },
+    {
+      "id": 36,
+      "question": "When applying email analytics to your email marketing strategy, what step must be completed before you analyze the data?",
+      "answer": "Segment your audience",
+      "source_url": "https://www.gcertificationcourse.com/when-applying-email-analytics-to-your-2/"
+    },
+    {
+      "id": 37,
+      "question": "Select all that apply. Why is data important in your email marketing?",
+      "answer": [
+        "It helps you gather passive customer feedback about your email marketing.",
+        "It can help you understand your customer behavior contextually."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-why-is-data/"
+    },
+    {
+      "id": 38,
+      "question": "You’re running an email campaign and the last email you sent had a click-through rate of 2.9%, while your campaign’s average CTR is 3.3%. Your industry’s benchmark for CTR’s is 1.4%. Which of the following is an accurate description of this data?",
+      "answer": "Your last email was not as compelling as the other emails in your campaign, but you’re doing well compared to others in your industry.",
+      "source_url": "https://www.gcertificationcourse.com/youre-running-an-email-campaign-and-the/"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is NOT a benefit of A/B testing?",
+      "answer": "Building community",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-benefit-of-a-b-testing/"
+    },
+    {
+      "id": 40,
+      "question": "True or false? When you conduct email A/B testing and create test groups, both groups should be a sample of your overall audience (in size and in representation of your contacts).",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-you-conduct-email/"
+    },
+    {
+      "id": 41,
+      "question": "True or false? In A/B testing, you should always send your emails simultaneously.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-in-a-b-testing-you-should/"
+    },
+    {
+      "id": 42,
+      "question": "Fill in the blank: When performing email A/B tests, _______.",
+      "answer": "testing one variable at a time is recommended, because it allows you to isolate the effect of each variable",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-when-performing-email/"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following are fundamental in creating persuasive copy?",
+      "answer": "Knowing yourself and your audience",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-are-fundamental/"
+    },
+    {
+      "id": 44,
+      "question": "In email marketing, email authentication can be related to which of the following metaphors?",
+      "answer": "A driver’s license",
+      "source_url": "https://www.gcertificationcourse.com/in-email-marketing-email-authentication/"
+    },
+    {
+      "id": 45,
+      "question": "Which form of email authentication attaches your brand’s logo to your messages to authenticate your emails?",
+      "answer": "BIMI",
+      "source_url": "https://www.gcertificationcourse.com/which-form-of-email-authentication/"
+    },
+    {
+      "id": 46,
+      "question": "What’s a conversion rate?",
+      "answer": "The percentage of email recipients who completed the desired action after clicking on a link within the email",
+      "source_url": "https://www.gcertificationcourse.com/whats-a-conversion-rate/"
+    },
+    {
+      "id": 47,
+      "question": "True or false? Regardless of your industry, you should send marketing emails celebrating every major holiday to your contacts.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-regardless-of-your-industry/"
+    },
+    {
+      "id": 48,
+      "question": "Consider the following scenario. You’re managing email marketing for a car repair shop and are trying to create a promotional email campaign. In your CRM, you notice there are various misspellings in the car brands assigned to your contacts. What portion of your email marketing strategy will this affect?",
+      "answer": "Segmentation",
+      "source_url": "https://www.gcertificationcourse.com/consider-the-following-scenario-youre/"
+    },
+    {
+      "id": 49,
+      "question": "Why is it important that your ESP integrates with your CRM?",
+      "answer": "Because your segmentation capabilities depend on the amount of information you’ve gained from your audience.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-important-that-your-esp/"
+    },
+    {
+      "id": 50,
+      "question": "You send out a marketing email and it does not bounce, but it lands in the spam folder. What is this example demonstrating?",
+      "answer": "A positive delivery and a negative deliverability",
+      "source_url": "https://www.gcertificationcourse.com/you-send-out-a-marketing-email-and-it/"
+    },
+    {
+      "id": 51,
+      "question": "Select all that apply. A company offers a personalized meal kit subscription service. Which of the following would be an example of appropriate segmentation?",
+      "answer": [
+        "Customers who have indicated they prefer a vegetarian diet",
+        "Customers who have identified as gluten-free"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-a-company-offers-a/"
+    },
+    {
+      "id": 52,
+      "question": "A clothing retailer wants to use personalization in their email marketing. Which of the following is an example of a personalized email?",
+      "answer": "An email that uses the recipient’s name in the subject line",
+      "source_url": "https://www.gcertificationcourse.com/a-clothing-retailer-wants-to-use/"
+    },
+    {
+      "id": 53,
+      "question": "What does 'CTA' stand for?",
+      "answer": "Call to action",
+      "source_url": "https://www.gcertificationcourse.com/what-does-cta-stand-for/"
+    },
+    {
+      "id": 54,
+      "question": "The role of copy in email marketing can be related to which of the following metaphors?",
+      "answer": "A recipe in a restaurant franchise",
+      "source_url": "https://www.gcertificationcourse.com/the-role-of-copy-in-email-marketing-can/"
+    },
+    {
+      "id": 55,
+      "question": "You want to ensure that the format of your email adjusts based on whether your contacts engage via mobile or desktop. This is describing what term?",
+      "answer": "Personalization",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-ensure-that-the-format-of/"
+    },
+    {
+      "id": 56,
+      "question": "Fill in the blank: You’re more likely to successfully re-engage your customers by ______________.",
+      "answer": "layering personalization on top of segmentation",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-youre-more-likely-to/"
+    },
+    {
+      "id": 57,
+      "question": "Which of the following is NOT a variable you can test in an email marketing A/B test?",
+      "answer": "Contact time spent reading",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-variable/"
+    },
+    {
+      "id": 58,
+      "question": "'A software that provides delivery infrastructure for email marketing' describes which of the following terms?",
+      "answer": "ESP",
+      "source_url": "https://www.gcertificationcourse.com/a-software-that-provides-delivery/"
+    },
+    {
+      "id": 59,
+      "question": "Why is the following example an insufficient SMART goal? 'Increase email engagement rate by improving email subject lines, personalizing content, and optimizing CTA placement.'",
+      "answer": "It is not specific enough.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-the-following-example-an/"
+    },
+    {
+      "id": 60,
+      "question": "True or false? Deliverability is not historical — you start fresh with every provider and domain.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-deliverability-is-not/"
+    },
+    {
+      "id": 61,
+      "question": "Why should you ask 'What is your goal?' before creating an email marketing strategy?",
+      "answer": "To understand the 'why' behind everything you do",
+      "source_url": "https://www.gcertificationcourse.com/why-should-you-ask-what-is-your-goal/"
+    },
+    {
+      "id": 62,
+      "question": "Why should the goals set in your email marketing strategy be relevant to the overall business strategy?",
+      "answer": "Both A and B",
+      "source_url": "https://www.gcertificationcourse.com/why-should-the-goals-set-in-your-email/"
+    },
+    {
+      "id": 63,
+      "question": "Which is NOT a component of a SMART goal?",
+      "answer": "Strategic",
+      "source_url": "https://www.gcertificationcourse.com/which-is-not-a-component-of-a-smart/"
+    },
+    {
+      "id": 64,
+      "question": "What is personalization?",
+      "answer": "How brands use data to create unique emails for each person on their email list",
+      "source_url": "https://www.gcertificationcourse.com/what-is-personalization/"
+    },
+    {
+      "id": 65,
+      "question": "Which of the following statements is true?",
+      "answer": [
+        "All of the above.",
+        "Your sender reputation score is unique to each ISP and is NOT made public.",
+        "Automation allows for higher productivity and efficiency while creating more fluid touchpoints with your contacts."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-is-true-3/"
+    },
+    {
+      "id": 66,
+      "question": "Adding the first name of the contact to the email subject line is an example of which email marketing concept?",
+      "answer": "Personalization",
+      "source_url": "https://www.gcertificationcourse.com/adding-the-first-name-of-the-contact-to/"
+    },
+    {
+      "id": 67,
+      "question": "Fill in the blank: _____ is the likelihood an email will land in the primary inbox.",
+      "answer": "Deliverability",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-is-the-likelihood-an/"
+    },
+    {
+      "id": 68,
+      "question": "Select all that apply. Which of the following are components of deliverability?",
+      "answer": [
+        "Contact engagement",
+        "Sender reputation",
+        "Authentication",
+        "Domain set up",
+        "Delivery rate"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-3/"
+    },
+    {
+      "id": 69,
+      "question": "Fill in the blank: Your sender reputation — which is impacted by contact interactions and your email authentication — is a score that the ______ assigns to your organization as it receives emails from your brand.",
+      "answer": "inbox service provider (ISP)",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-your-sender-reputation/"
+    },
+    {
+      "id": 70,
+      "question": "Why is it important to have an email marketing sunset policy for graymail?",
+      "answer": "Unengaged contacts can lead to higher negative metrics, which impacts your deliverability.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-important-to-have-an-email/"
+    },
+    {
+      "id": 71,
+      "question": "Which of the following is an example of utilizing best practices in email design?",
+      "answer": "Don’t use too many fonts, and be sure the fonts you select follow your brand guidelines.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-6/"
+    },
+    {
+      "id": 72,
+      "question": "Select all that apply. Which of the following are common mistakes in writing email copy?",
+      "answer": [
+        "Conceptualizing your copy as a single send-off",
+        "Using your copy as merely a mechanism of your design",
+        "Relying on buzzwords"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-4/"
+    },
+    {
+      "id": 73,
+      "question": "'Comparing two versions of marketing material to determine which performs better' is the definition for what term?",
+      "answer": "A/B testing",
+      "source_url": "https://www.gcertificationcourse.com/comparing-two-versions-of-marketing/"
+    },
+    {
+      "id": 74,
+      "question": "What is the first step in performing an A/B test in email marketing?",
+      "answer": "Determining your goal",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-first-step-in-performing-an/"
+    },
+    {
+      "id": 75,
+      "question": "In A/B testing, when it comes to statistical significance, what is the minimum confidence level HubSpot suggests?",
+      "answer": "95%",
+      "source_url": "https://www.gcertificationcourse.com/in-a-b-testing-when-it-comes-to-statistical/"
+    },
+    {
+      "id": 76,
+      "question": "Fill in the blanks: _______ brings intentionality to the individual emails that land in your contacts’ inbox, but _________ allows you to bring intentionality to your entire email marketing infrastructure.",
+      "answer": "Personalization, automation",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blanks-brings-intentionality/"
+    },
+    {
+      "id": 77,
+      "question": "True or false? When sending emails from a new domain, you begin with a positive reputation and your role is to maintain it.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-sending-emails-from/"
+    },
+    {
+      "id": 78,
+      "question": "Imagine you’re a furniture retailer who sends weekly emails to your subscribers. You’ve created segments based on their purchase history and include their first name in the email body. Your email includes a CTA that reads, “Click here.” Your open rates are high-performing, but your click-through rates are low. Which of the following is the most viable reason?",
+      "answer": "Your CTA’s copy is generic.",
+      "source_url": "https://www.gcertificationcourse.com/imagine-youre-a-furniture-retailer-who/"
+    },
+    {
+      "id": 79,
+      "question": "Sending a different discount email to certain contacts based on the region a contact resides, is an example of which email marketing concept?",
+      "answer": "Segmentation",
+      "source_url": "https://www.gcertificationcourse.com/sending-a-different-discount-email-to/"
+    },
+    {
+      "id": 80,
+      "question": "Fill in the blank: _____ could be described as the first door an email must pass through.",
+      "answer": "Delivery",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-could-be-described-as/"
+    },
+    {
+      "id": 81,
+      "question": "True or false? The GDPR is not only a privacy law, but also a human rights law.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-gdpr-is-not-only-a/"
+    },
+    {
+      "id": 82,
+      "question": "Which of the following is NOT a component of building a strong brand voice?",
+      "answer": "Building a reputation by being spontaneous and unpredictable",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-component-2/"
+    },
+    {
+      "id": 83,
+      "question": "You’re running an email campaign. The last email you sent had a click-through rate of 2.7%, while your campaign’s average CTR is 3.1%. Is your last email’s CTR high-performing or low-performing?",
+      "answer": "Needs further context, especially of the industry specific benchmark",
+      "source_url": "https://www.gcertificationcourse.com/youre-running-an-email-campaign-the/"
+    },
+    {
+      "id": 84,
+      "question": "What is another term for A/B testing?",
+      "answer": "Split testing",
+      "source_url": "https://www.gcertificationcourse.com/what-is-another-term-for-a-b-testing/"
+    },
+    {
+      "id": 85,
+      "question": "Consider the following scenario. You work for a fashion retail company and have asked your customers’ for their favorite fashion brands in your loyalty program sign-up form. You create a segment of customers who prefer designer fashion brands and have also purchased products from your luxury collection in the past 6 months. What is this demonstrating?",
+      "answer": "The capabilities of an email marketing strategy that has an integrated ESP and CRM",
+      "source_url": "https://www.gcertificationcourse.com/consider-the-following-scenario-you-work/"
+    },
+    {
+      "id": 86,
+      "question": "Imagine you’re a marketer for a project management software company. You send monthly emails to your contacts with relevant content regarding industry news, blog posts, and new product features. You segment your subscribers based on their industry, job title, and company size. You address your contacts by their first name in the email body and suggest specific content related to their industry. Your CTA of the last email you sent reads, “Download our ebook.” You notice that your open rates are high for both mobile and browser users, but your click-through rates for browser users are significantly higher. Which step might you have forgotten when creating your marketing email?",
+      "answer": "Previewing your email",
+      "source_url": "https://www.gcertificationcourse.com/imagine-youre-a-marketer-for-a-project/"
+    },
+    {
+      "id": 87,
+      "question": "Which of the following is the HubSpot tool that can help you incorporate automated follow-up into your email marketing strategy?",
+      "answer": "Workflows",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-hubspot/"
+    },
+    {
+      "id": 88,
+      "question": "When applying email analytics to your email marketing strategy, which step takes place after you draw conclusions?",
+      "answer": "Make data-driven decisions",
+      "source_url": "https://www.gcertificationcourse.com/when-applying-email-analytics-to-your/"
+    }
+  ]
+}

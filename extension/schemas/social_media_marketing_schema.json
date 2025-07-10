@@ -1,0 +1,592 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T08:55:36.658010",
+  "course_info": {
+    "name": "Social Media Marketing",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-social-media-answers/",
+    "total_questions": 94,
+    "scraped_date": "2025-07-10 08:52:03"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is NOT a benefit of having a social media strategy?",
+      "answer": "Social media helps you send better emails.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-benefit-of/"
+    },
+    {
+      "id": 2,
+      "question": "Which network has the longest life for a piece of content?",
+      "answer": "Pinterest",
+      "source_url": "https://www.gcertificationcourse.com/which-network-has-the-longest-life-for-a-piece-of-content/"
+    },
+    {
+      "id": 3,
+      "question": "True or false? Social listening can help you find leads.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-social-listening-can-help-you-find-leads/"
+    },
+    {
+      "id": 4,
+      "question": "Fill in the blank: Instagram stories are a great way to _____________.",
+      "answer": "drive traffic and engagement",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-instagram-stories-are-a-great-way-to/"
+    },
+    {
+      "id": 5,
+      "question": "True or false? It’s necessary to conduct a social media audit every 2–3 years.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-necessary-to-conduct-a-social-media-audit-every/"
+    },
+    {
+      "id": 6,
+      "question": "Which of these KPIs demonstrate engagement? Choose all that apply.",
+      "answer": [
+        "Sharing and retweets",
+        "Likes or Favorites"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-kpis-demonstrate-engagement-choose-all-that-apply/"
+    },
+    {
+      "id": 7,
+      "question": "True or False? You should revisit your KPIs every 18 months.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-revisit-your-kpis-every-18-months/"
+    },
+    {
+      "id": 8,
+      "question": "Which of the below is not one of the five types of social media models?",
+      "answer": "Distributed",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-below-is-not-one-of-the-five-types-of-social-media-models/"
+    },
+    {
+      "id": 9,
+      "question": "True or false? The best way to choose the right social media tool is to think about your business goals, then narrow down your choices based on that goal criteria.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-best-way-to-choose-the-right-social-media-tool/"
+    },
+    {
+      "id": 10,
+      "question": "What do senior leaders care about when it comes to your social media plan? Choose all that apply.",
+      "answer": [
+        "Competitive advantage",
+        "Customer satisfaction"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-do-senior-leaders-care-about-when-it-comes-to-your-social/"
+    },
+    {
+      "id": 11,
+      "question": "True or false? Simon Sinek says that people want to buy what you have. They don’t care about what you believe.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-simon-sinek-says-that-people-want-to-buy/"
+    },
+    {
+      "id": 12,
+      "question": "What should you do to secure executive buy-in if you’re starting a social media project and don’t have a past campaign to use as a benchmark?",
+      "answer": "Position your program as an experiment or pilot.",
+      "source_url": "https://www.gcertificationcourse.com/what-should-you-do-to-secure-executive-buy-in-if-youre-starting/"
+    },
+    {
+      "id": 13,
+      "question": "What’s the difference between social listening and social monitoring?",
+      "answer": "Social listening centralizes conversations about your brand so that you can join them, while social monitoring measures reputation from higher- level perspective.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-difference-between-social-listening-and-social-monitoring/"
+    },
+    {
+      "id": 14,
+      "question": "How can social media listening increase customer advocacy?",
+      "answer": "Responding to social posts—whether they’re positive or negative— shows that you’re listening, and your customers are being heard.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-social-media-listening-increase-customer-advocacy/"
+    },
+    {
+      "id": 15,
+      "question": "When it comes to social listening, how do you know which social networks to start with?",
+      "answer": "Start with the social networks your buyer personas use to learn about and interact with brands.",
+      "source_url": "https://www.gcertificationcourse.com/when-it-comes-to-social-listening-how-do-you-know/"
+    },
+    {
+      "id": 16,
+      "question": "Why should you be careful about monitoring competitors?",
+      "answer": "It’s easy to get consumed with competitive intelligence and lose sight of your unique strategy and customer.",
+      "source_url": "https://www.gcertificationcourse.com/why-should-you-be-careful-about-monitoring-competitors/"
+    },
+    {
+      "id": 17,
+      "question": "How can social media monitoring inform your sales and product teams?",
+      "answer": "Customer feedback, whether positive or negative, can help sales people and product teams better solve for the customer’s needs.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-social-media-monitoring-inform-your-sales-and-product-teams/"
+    },
+    {
+      "id": 18,
+      "question": "Why do you need to develop a business case for a new social monitoring technology?",
+      "answer": "To clearly outline the expected value gained from a software investment and set the expectation with your manager of how you’ll realize that value.",
+      "source_url": "https://www.gcertificationcourse.com/why-do-you-need-to-develop-a-business-case-for-a-new-social/"
+    },
+    {
+      "id": 19,
+      "question": "What should you do if your competitor has a big public blunder?",
+      "answer": "Maintain a helpful approach and have empathy for the company’s missteps. Reply thoughtfully and empathetically to posts where appropriate.",
+      "source_url": "https://www.gcertificationcourse.com/what-should-you-do-if-your-competitor-has-a-big-public-blunder/"
+    },
+    {
+      "id": 20,
+      "question": "Why are UTM parameters so valuable to your social listening and monitoring program?",
+      "answer": "They allow me to track where traffic is coming from on social media.",
+      "source_url": "https://www.gcertificationcourse.com/why-are-utm-parameters-so-valuable-to-your-social-listening/"
+    },
+    {
+      "id": 21,
+      "question": "True or false? Social media helps people feel INFORMED by helping them learn new things, stay up to date on topics that matter to them, and discover new ideas and trends.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-social-media-helps-people-feel-informed/"
+    },
+    {
+      "id": 22,
+      "question": "Visual images are usually things like ________. Choose all that apply.",
+      "answer": [
+        "photos",
+        "infographics",
+        "animated GIFs",
+        "illustrations"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/visual-images-are-usually-things-like-choose-all-that-apply/"
+    },
+    {
+      "id": 23,
+      "question": "What is the main benefit of using animated GIFs in social content?",
+      "answer": "They help you demonstrate complex concepts quickly and easily.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-main-benefit-of-using-animated-gifs-in-social-content/"
+    },
+    {
+      "id": 24,
+      "question": "If you don’t have your _____________ in mind as you’re developing content and social campaigns, then you probably aren’t using social as effectively as you could be.",
+      "answer": "business goals and buyer personas",
+      "source_url": "https://www.gcertificationcourse.com/if-you-dont-have-your-in-mind-as-youre-developing-content/"
+    },
+    {
+      "id": 25,
+      "question": "True or false? You should make sure experimentation is ingrained in your strategic plan.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-make-sure-experimentation-is-ingrained/"
+    },
+    {
+      "id": 26,
+      "question": "True or false? Humanizing your brand gives you a competitive edge because people like making connections, and they like to invest their time and money in people they can relate to.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-humanizing-your-brand-gives-you-a-competitive-edge/"
+    },
+    {
+      "id": 27,
+      "question": "Voice refers to:",
+      "answer": "The distinct and steady personality or style of your brand.",
+      "source_url": "https://www.gcertificationcourse.com/voice-refers-to/"
+    },
+    {
+      "id": 28,
+      "question": "True or false? Jumping onto an unrelated hashtag to promote your material is spammy.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-jumping-onto-an-unrelated-hashtag-to-promote/"
+    },
+    {
+      "id": 29,
+      "question": "True or false? The longer your social posts, the more likely that content will be seen and re-shared.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-longer-your-social-posts-the-more-likely/"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is NOT an example of active language you should use on a call-to-action?",
+      "answer": "“More here”",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-example-of-active-language/"
+    },
+    {
+      "id": 31,
+      "question": "What do we mean when we say you should post an “80/20 mix” on social media?",
+      "answer": "20% of your social content should promote your own brand, and 80% of your social content should be anything that truly interests your audience and engages them in conversations.",
+      "source_url": "https://www.gcertificationcourse.com/what-do-we-mean-when-we-say-you-should-post-an-80-20-mix/"
+    },
+    {
+      "id": 32,
+      "question": "True or false? If you’re posting the same content across different channels, make sure you post them simultaneously—on the same days and at the same times.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-youre-posting-the-same-content-across-different/"
+    },
+    {
+      "id": 33,
+      "question": "What did fashion brand Burberry do to revolutionize how marketers use social media?",
+      "answer": "Invited their fans to share photos of their trench coat",
+      "source_url": "https://www.gcertificationcourse.com/what-did-fashion-brand-burberry-do-to-revolutionize/"
+    },
+    {
+      "id": 34,
+      "question": "Which one of the following is NOT a way that UGC can help marketers?",
+      "answer": "Provide deep insight into the effectiveness of your content mix",
+      "source_url": "https://www.gcertificationcourse.com/which-one-of-the-following-is-not-a-way-that-ugc-can-help/"
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is NOT a type of influencer?",
+      "answer": "Attorney",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-type-of-influencer/"
+    },
+    {
+      "id": 36,
+      "question": "True or false? 12% of people generate 70% of the impact online.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-12-of-people-generate-70-of-the-impact-online/"
+    },
+    {
+      "id": 37,
+      "question": "Which type of influencer might be primarily behind the scenes in your marketing campaign?",
+      "answer": "Content creators",
+      "source_url": "https://www.gcertificationcourse.com/which-type-of-influencer-might-be-primarily-behind-the-scenes/"
+    },
+    {
+      "id": 38,
+      "question": "Which of the below is NOT one of the three factors determining how an influencer can impact behavior?",
+      "answer": "Recognition",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-below-is-not-one-of-the-three-factors-determining/"
+    },
+    {
+      "id": 39,
+      "question": "True or false? A channel takeover, such as letting an influencer run your Instagram or Twitter handle for a day, is a good idea for brands.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-channel-takeover-such-as-letting-an-influencer/"
+    },
+    {
+      "id": 40,
+      "question": "Why should you trust the influencer and give them creative license?",
+      "answer": "They understand their audience and what they want.",
+      "source_url": "https://www.gcertificationcourse.com/why-should-you-trust-the-influencer-and-give-them-creative-license/"
+    },
+    {
+      "id": 41,
+      "question": "True or false? Your campaign should also help the influencer build authority and further their own content or reach.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-your-campaign-should-also-help-the-influencer/"
+    },
+    {
+      "id": 42,
+      "question": "Why is user-generated content (UGC) so important? Choose all that apply.",
+      "answer": [
+        "UGC helps brands understand their target audience.",
+        "UGC improves site engagement and time spent on the website.",
+        "UGC provides means for other users to connect, which then builds a stronger community.",
+        "UGC is inherently peer reviewed, making it more trustworthy."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/why-is-user-generated-content-ugc-so-important-choose/"
+    },
+    {
+      "id": 43,
+      "question": "True or false? “Earned” media is exposure your brand has paid for, e.g., advertising or promotions.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-earned-media-is-exposure-your-brand-has-paid/"
+    },
+    {
+      "id": 44,
+      "question": "Do brands have legal ownership over content that users generate about their brand?",
+      "answer": "No",
+      "source_url": "https://www.gcertificationcourse.com/do-brands-have-legal-ownership-over-content-that-users-generate/"
+    },
+    {
+      "id": 45,
+      "question": "Why is content moderation important for user-generated campaigns?",
+      "answer": "To engage the community and reward those who go above and beyond",
+      "source_url": "https://www.gcertificationcourse.com/why-is-content-moderation-important-for-user-generated-campaigns/"
+    },
+    {
+      "id": 46,
+      "question": "Why should you talk directly with your social followers and prospects?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/why-should-you-talk-directly-with-your-social-followers-and-prospects/"
+    },
+    {
+      "id": 47,
+      "question": "True or false? One-to-one engagement doesn’t result in customers spending more.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-one-to-one-engagement-doesnt-result-in-customers/"
+    },
+    {
+      "id": 48,
+      "question": "True or false? Asking for reviews is something you should never do in social media.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-asking-for-reviews-is-something-you-should-never-do/"
+    },
+    {
+      "id": 49,
+      "question": "What is a Social Media Service Level Agreement (SLA)?",
+      "answer": "The agreement a company makes to commit to answering social media responses in a specific amount of time",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-social-media-service-level-agreement-sla/"
+    },
+    {
+      "id": 50,
+      "question": "True or false? When you use language in your social responses that is too casual, you lose the respect of your audience.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-you-use-language-in-your-social-responses/"
+    },
+    {
+      "id": 51,
+      "question": "True or false? It’s not a good policy to delete all negative comments.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-not-a-good-policy-to-delete-all-negative-comments/"
+    },
+    {
+      "id": 52,
+      "question": "What is social selling the inbound way?",
+      "answer": "When a salesperson provides value by offering thoughtful content and answering questions for prospects",
+      "source_url": "https://www.gcertificationcourse.com/what-is-social-selling-the-inbound-way/"
+    },
+    {
+      "id": 53,
+      "question": "When should a salesperson put forth the sales pitch in social media?",
+      "answer": "After sufficient rapport has been built and the customer is looking for what you have to sell",
+      "source_url": "https://www.gcertificationcourse.com/when-should-a-salesperson-put-forth-the-sales-pitch-in-social-media/"
+    },
+    {
+      "id": 54,
+      "question": "True or false? Selling to prospects by messaging them on Facebook could be seen as invading their private space.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-selling-to-prospects-by-messaging-them-on-facebook/"
+    },
+    {
+      "id": 55,
+      "question": "True or false? The world has changed and so has how we think about inbound, which is why advertising should be considered part of your marketing playbook.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-world-has-changed-and-so-has-how-we-think/"
+    },
+    {
+      "id": 56,
+      "question": "Fill in the blank: “Facebook Ads is great for targeting based on _______, while Google Ads targets based on your audience’s ________.",
+      "answer": "interests; intent",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-facebook-ads-is-great-for-targeting-based-on/"
+    },
+    {
+      "id": 57,
+      "question": "True or false? It’s always better to target your ads towards as broad a group of people as possible.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-always-better-to-target-your-ads-towards/"
+    },
+    {
+      "id": 58,
+      "question": "An ad for your upcoming webinar on network security should lead people directly to ___________.",
+      "answer": "a landing page where they can quickly sign up for the webinar",
+      "source_url": "https://www.gcertificationcourse.com/an-ad-for-your-upcoming-webinar-on-network-security/"
+    },
+    {
+      "id": 59,
+      "question": "The number of leads you generate that actually become paying customers is known as your ________.",
+      "answer": "average lead-to-customer rate",
+      "source_url": "https://www.gcertificationcourse.com/the-number-of-leads-you-generate-that-actually-become/"
+    },
+    {
+      "id": 60,
+      "question": "Which one of the below choices is NOT a reason you should be measuring your social media ROI?",
+      "answer": "Show influencers how enticing it would be to work with your company.",
+      "source_url": "https://www.gcertificationcourse.com/which-one-of-the-below-choices-is-not-a-reason-you-should-be/"
+    },
+    {
+      "id": 61,
+      "question": "You’re starting a project and don’t have a past campaign to use as a benchmark. How can you secure executive buy-in?",
+      "answer": "Position your program as an experiment or pilot.",
+      "source_url": "https://www.gcertificationcourse.com/youre-starting-a-project-and-dont-have-a-past-campaign/"
+    },
+    {
+      "id": 62,
+      "question": "Which of the following social media expense do you want to track so you can calculate ROI on your marketing campaigns?",
+      "answer": "All the above",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-social-media-expense/"
+    },
+    {
+      "id": 63,
+      "question": "True or false? When measuring your social media ROI, you calculate the effectiveness of an action by dividing the net income by the cost of this action and multiplying it by 100.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-measuring-your-social-media-roi/"
+    },
+    {
+      "id": 64,
+      "question": "A(n) ________ outlines guidelines and best practices for employees to follow on social media.",
+      "answer": "social media policy",
+      "source_url": "https://www.gcertificationcourse.com/an-outlines-guidelines-and-best-practices-for-employees/"
+    },
+    {
+      "id": 65,
+      "question": "What’s the first step organizations and brands need to take when establishing a social media policy?",
+      "answer": "Educate employees on the importance of having a social media policy for all team members within the organization.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-first-step-organizations-and-brands-need/"
+    },
+    {
+      "id": 66,
+      "question": "What is NOT an example of a social media crisis?",
+      "answer": "These are all examples of a social media crisis.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-not-an-example-of-a-social-media-crisis/"
+    },
+    {
+      "id": 67,
+      "question": "The _________ stage focuses on creating message maps and listening protocols on social media.",
+      "answer": "preparation",
+      "source_url": "https://www.gcertificationcourse.com/the-stage-focuses-on-creating-message-maps-and-listening-protocols/"
+    },
+    {
+      "id": 68,
+      "question": "True or false? Evaluating the team dynamics and how each member did in the crisis along with analyzing the reactions, KPIs, and overall response to the crisis happens during the response stage.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-evaluating-the-team-dynamics-and-how-each-member/"
+    },
+    {
+      "id": 69,
+      "question": "There are certain actions that need to be taken into consideration for a social media crisis. What’s an action you should avoid?",
+      "answer": "Sending out promotional sponsored posts and tweets during a crisis",
+      "source_url": "https://www.gcertificationcourse.com/there-are-certain-actions-that-need-to-be-taken-into-consideration/"
+    },
+    {
+      "id": 70,
+      "question": "True or false: Ephemeral stories are quick bits of content, both video and photo, often with fun filters and “stickers” that disappear after a short period of time (1-24 hours).",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-ephemeral-stories-are-quick-bits/"
+    },
+    {
+      "id": 71,
+      "question": "True or false? A buyer persona is as important as business objectives when developing a social media strategy.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-buyer-persona-is-as-important-as-business-objectives/"
+    },
+    {
+      "id": 72,
+      "question": "On which social network should you share content most frequently?",
+      "answer": "Twitter",
+      "source_url": "https://www.gcertificationcourse.com/on-which-social-network-should-you-share-content-most-frequently/"
+    },
+    {
+      "id": 73,
+      "question": "Why are hashtags helpful?",
+      "answer": "To aid search, track campaigns, and to influence the creation of user-generated content",
+      "source_url": "https://www.gcertificationcourse.com/why-are-hashtags-helpful/"
+    },
+    {
+      "id": 74,
+      "question": "Which KPI is most likely to be a vanity metric?",
+      "answer": "Reach",
+      "source_url": "https://www.gcertificationcourse.com/which-kpi-is-most-likely-to-be-a-vanity-metric/"
+    },
+    {
+      "id": 75,
+      "question": "True or False? In social media, a service level agreement (SLA) refers to how much time passes between when a customer reaches out and when the company responds.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-in-social-media-a-service-level-agreement-sla-refers/"
+    },
+    {
+      "id": 76,
+      "question": "What is the biggest challenge that most social media practitioners have?",
+      "answer": "Getting executive buy-in for social ideas",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-biggest-challenge-that-most-social-media-practitioners-have/"
+    },
+    {
+      "id": 77,
+      "question": "True or False? The Holistic model is the most common social team structure used by organizations today.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-holistic-model-is-the-most-common-social-team/"
+    },
+    {
+      "id": 78,
+      "question": "Why would you want a service to help you manage and discover influence?",
+      "answer": "To identify individuals who have the biggest following and high social clout",
+      "source_url": "https://www.gcertificationcourse.com/why-would-you-want-a-service-to-help-you-manage-and-discover/"
+    },
+    {
+      "id": 79,
+      "question": "“Real-time marketing” refers to:",
+      "answer": "Developing content on the fly for local, national, or global events happening online or offline.",
+      "source_url": "https://www.gcertificationcourse.com/real-time-marketing-refers-to/"
+    },
+    {
+      "id": 80,
+      "question": "Let’s say you conduct a content audit on your competitors and see that they’re having success with live video, but you haven’t really tried live video yet. What might you do?",
+      "answer": "Test out live video on different channels, and see how your audience responds.",
+      "source_url": "https://www.gcertificationcourse.com/lets-say-you-conduct-a-content-audit-on-your-competitors/"
+    },
+    {
+      "id": 81,
+      "question": "When developing your brand’s tone, _______ is key.",
+      "answer": "context",
+      "source_url": "https://www.gcertificationcourse.com/when-developing-your-brands-tone-is-key/"
+    },
+    {
+      "id": 82,
+      "question": "True or false? Curating content means publishing someone else’s content as if it were your own.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-curating-content-means-publishing-someone-elses/"
+    },
+    {
+      "id": 83,
+      "question": "Posting curated content on social shows your audience you’re committed to:",
+      "answer": "Creating value for them.",
+      "source_url": "https://www.gcertificationcourse.com/posting-curated-content-on-social-shows-your-audience/"
+    },
+    {
+      "id": 84,
+      "question": "True or false? Commissions for celebrity influencers are generally 5% of the sale.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-commissions-for-celebrity-influencers/"
+    },
+    {
+      "id": 85,
+      "question": "What is NOT a way that a brand can see financial gain from doing social customer service?",
+      "answer": "Using a social media agency to deliver content to customers",
+      "source_url": "https://www.gcertificationcourse.com/what-is-not-a-way-that-a-brand-can-see-financial-gain/"
+    },
+    {
+      "id": 86,
+      "question": "True or false? Canned messages are a quick and easy way to reach a wide audience in social media to find the right prospects.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-canned-messages-are-a-quick-and-easy-way/"
+    },
+    {
+      "id": 87,
+      "question": "How much of the buyer’s journey is digital?",
+      "answer": "67%",
+      "source_url": "https://www.gcertificationcourse.com/how-much-of-the-buyers-journey-is-digital/"
+    },
+    {
+      "id": 88,
+      "question": "Which of the following would not contribute to ad fatigue?",
+      "answer": "Using the same image on your ad for over a month",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-would-not-contribute-to-ad-fatigue/"
+    },
+    {
+      "id": 89,
+      "question": "What is one of the major benefits of Facebook Lead Ads?",
+      "answer": "The pre-filled form in Facebook makes it super easy for your audience to convert on—especially on mobile.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-one-of-the-major-benefits-of-facebook-lead-ads/"
+    },
+    {
+      "id": 90,
+      "question": "Why do you need to use leading indicators of revenue success when calculating ROI on your social media strategy?",
+      "answer": "It can be months before you’ve closed new customers from a social media campaign.",
+      "source_url": "https://www.gcertificationcourse.com/why-do-you-need-to-use-leading-indicators-of-revenue-success/"
+    },
+    {
+      "id": 91,
+      "question": "True or false? Social content is only used during the attract and delight stages of the inbound methodology.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-content-is-only-used-during-the-attract/"
+    },
+    {
+      "id": 92,
+      "question": "What is a social media audit?",
+      "answer": "A hard look at the data from all your social accounts and the social conversations about your brand and your competitors",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-social-media-audit/"
+    },
+    {
+      "id": 93,
+      "question": "Why do stakeholders matter as you begin to develop your team structure?",
+      "answer": "Stakeholder needs may be the same as your needs and their buy-in may help you influence senior leaders.",
+      "source_url": "https://www.gcertificationcourse.com/why-do-stakeholders-matter-as-you-begin-to-develop-your-team/"
+    },
+    {
+      "id": 94,
+      "question": "True or False? To implement an effective social media strategy, you have to be aware of the legal challenges, not ethical ones.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-to-implement-an-effective-social-media-strategy/"
+    }
+  ]
+}

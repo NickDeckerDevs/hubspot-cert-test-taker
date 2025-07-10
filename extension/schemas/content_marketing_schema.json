@@ -1,0 +1,378 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T09:22:47.928527",
+  "course_info": {
+    "name": "Content Marketing",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-content-marketing-answers/",
+    "total_questions": 61,
+    "scraped_date": "2025-07-10 09:20:29"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "True or false? Content marketing is a relatively new practice that became popular in the 1950’s with the boom of advertising firms.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-content-marketing-is-a-relatively-new-practice/"
+    },
+    {
+      "id": 2,
+      "question": "Fill in the blank: To effectively tell your business’ story, you need ________________.",
+      "answer": "a mission with supporting values",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-to-effectively-tell-your-business-story-you-need/"
+    },
+    {
+      "id": 3,
+      "question": "What’s the best way to have your business’ story remembered and shared?",
+      "answer": "Create emotional alignment between your business and your prospects and customers.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-best-way-to-have-your-business-story/"
+    },
+    {
+      "id": 4,
+      "question": "Fill in the blank: The _________ can help you develop a mission statement that connects with your audience.",
+      "answer": "Golden Circle",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-can-help-you-develop-a-mission-statement/"
+    },
+    {
+      "id": 5,
+      "question": "Every story has these three storytelling elements. What are they?",
+      "answer": "Characters, conflict, and resolution",
+      "source_url": "https://www.gcertificationcourse.com/every-story-has-these-three-storytelling-elements/"
+    },
+    {
+      "id": 6,
+      "question": "True or false? If prospects can get the answers to their questions and see themselves as characters in your story, they’ll be more likely to purchase from you.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-prospects-can-get-the-answers/"
+    },
+    {
+      "id": 7,
+      "question": "True or false? You need conflict to tell an impactful story.",
+      "answer": "True, conflict helps build developmental and emotional connections.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-need-conflict-to-tell-an-impactful-story/"
+    },
+    {
+      "id": 8,
+      "question": "Fill in the blank: The conflict in your content’s story should focus on the ____________.",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-conflict-in-your-contents-story/"
+    },
+    {
+      "id": 9,
+      "question": "Fill in the blank: When you tell a story and the character is your audience, you should tell the story with a ___________.",
+      "answer": "second-person point of view",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-when-you-tell-a-story-and-the-character/"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is NOT a storytelling best practice?",
+      "answer": "Use the third-person point of view",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-storytelling-best-practice/"
+    },
+    {
+      "id": 11,
+      "question": "True or false? The conflict in this blog article is preventing team burnout. (Direct link to blog: https://blog.hubspot.com/marketing/empathic-managers-guide-preventing-team-burnout)",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-conflict-in-this-blog-article/"
+    },
+    {
+      "id": 12,
+      "question": "Fill in the blank: This blog post is written from a _____________. (Direct link to blog: https://blog.hubspot.com/marketing/empathic-managers-guide-preventing-team-burnout)",
+      "answer": "Third-person point of view",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-this-blog-post-is-written-from-a/"
+    },
+    {
+      "id": 13,
+      "question": "True or false? When identifying raw material for generating ideas, it’s best to stick with a specific area of focus. This way you can become an expert in generating ideas in this field.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-identifying-raw-material-for-generating-ideas/"
+    },
+    {
+      "id": 14,
+      "question": "You’re a content creator for an automobile dealership. You’re looking for some inspiration to help generate new content ideas for an upcoming holiday promotion. What source might you find valuable and be inspired by?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/youre-a-content-creator-for-an-automobile-dealership/"
+    },
+    {
+      "id": 15,
+      "question": "True or false? After you digest material it’s best to try and put ideas together immediately.",
+      "answer": "False, you want to give your mind a break to process the information.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-after-you-digest-material-its-best-to-try/"
+    },
+    {
+      "id": 16,
+      "question": "How can you uncover your buyer personas’ reading habits?",
+      "answer": "d. A and B",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-uncover-your-buyer-personas-reading-habits/"
+    },
+    {
+      "id": 17,
+      "question": "Joan owns a dog walking business and read a blog post that explained search engines are a great place to generate ideas on what people are searching for. Joan starts off her research by typing in 'dog walking tip' to see what insight she can find. Fill in the blank: Joan notices that when she types in 'dog walking tip' the search engine offers some helpful suggestions on popular searches, like 'dog walking tips and tricks.' This is known as _________.",
+      "answer": "autocomplete",
+      "source_url": "https://www.gcertificationcourse.com/joan-owns-a-dog-walking-business-and-read-a-blog-post/"
+    },
+    {
+      "id": 18,
+      "question": "Every content brainstorm needs the following EXCEPT:",
+      "answer": "At least five people",
+      "source_url": "https://www.gcertificationcourse.com/every-content-brainstorm-needs-the-following-except/"
+    },
+    {
+      "id": 19,
+      "question": "Fill in the blank: A great way to create a comfortable atmosphere for a company brainstorm is to start off with _________.",
+      "answer": "icebreakers",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-a-great-way-to-create-a-comfortable-atmosphere/"
+    },
+    {
+      "id": 20,
+      "question": "True or false? The goal of a braindump is to have everyone structure ideas they’ve put together.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-goal-of-a-braindump-is-to-have-everyone/"
+    },
+    {
+      "id": 21,
+      "question": "All of the following are examples of a SMART goal EXCEPT:",
+      "answer": "Significantly reduce the amount of time the team spends on creating content.",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-examples-of-a-smart-goal-except/"
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is NOT a category you should organize your content audit by?",
+      "answer": "Content length",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-category-you-should-organize/"
+    },
+    {
+      "id": 23,
+      "question": "You just landed your dream job as a content creator at a local startup. It’s your first week and your boss asks you to perform a content audit to get acquainted with the company’s collateral as well as organize it. Where might you start looking for content that already exists?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/you-just-landed-your-dream-job-as-a-content-creator/"
+    },
+    {
+      "id": 24,
+      "question": "When it comes to a long-term content strategy, what is an important buyer persona trait?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/when-it-comes-to-a-long-term-content-strategy/"
+    },
+    {
+      "id": 25,
+      "question": "Fill in the blank: When identifying buyer’s journey content for a long-term content strategy, it’s important to focus on content for the ___________ stage(s).",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-when-identifying-buyers-journey-content/"
+    },
+    {
+      "id": 26,
+      "question": "True or false? A buyer’s journey is ever-evolving. You should make updates as you learn more about your buyer persona.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-buyers-journey-is-ever-evolving/"
+    },
+    {
+      "id": 27,
+      "question": "Fill in the blank: To keep your content calendar agile, it shouldn’t extend more than ___________.",
+      "answer": "three months",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-to-keep-your-content-calendar-agile-it-shouldnt/"
+    },
+    {
+      "id": 28,
+      "question": "All of the following are attributes of a content creation workflow EXCEPT:",
+      "answer": "How much money it will cost to complete initiative",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-attributes-of-a-content-creation/"
+    },
+    {
+      "id": 29,
+      "question": "You asked your colleague to provide feedback on a blog post you recently wrote. When they sent you their feedback, they made edits directly in the doc. Is this a best practice for a content editing process?",
+      "answer": "No, the editor should have tracked changes which would have shown you where they would apply recommended edits.",
+      "source_url": "https://www.gcertificationcourse.com/you-asked-your-colleague-to-provide-feedback-on-a-blog-post/"
+    },
+    {
+      "id": 30,
+      "question": "True or false? You should use a consistent naming system to store and easily identify hosted files.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-use-a-consistent-naming/"
+    },
+    {
+      "id": 31,
+      "question": "True or false? Your content creation framework should stay consistent over time.",
+      "answer": "False, as business goals and content change, so should your process to support them.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-your-content-creation-framework-should/"
+    },
+    {
+      "id": 32,
+      "question": "True or false? If you want to produce great content, then you need to hire an in-house content creator.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-you-want-to-produce-great-content/"
+    },
+    {
+      "id": 33,
+      "question": "What can you do to make a headline more compelling?",
+      "answer": "Make a promise to the reader",
+      "source_url": "https://www.gcertificationcourse.com/what-can-you-do-to-make-a-headline-more-compelling/"
+    },
+    {
+      "id": 34,
+      "question": "Fill in the blank: When creating a headline for your content, you should come up with ___________ different headlines.",
+      "answer": "5-10",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-when-creating-a-headline-for-your-content/"
+    },
+    {
+      "id": 35,
+      "question": "Consider the following blog post title: \"6 Questions To Ask Before You Plan Your #GivingTuesday Campaign.\" This is an example of which type of headline format?",
+      "answer": "List format",
+      "source_url": "https://www.gcertificationcourse.com/consider-the-following-blog-post-title-6/"
+    },
+    {
+      "id": 36,
+      "question": "True or false? Effective writers start by filling in the main points of their content and save writing the introduction and conclusion for after they’ve written their piece.",
+      "answer": "True, it can be overwhelming to write an introduction first without knowing where the content is headed.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-effective-writers-start-by-filling-in-the-main-points/"
+    },
+    {
+      "id": 37,
+      "question": "True or false? When possible, you should try and use extensive vocabulary in your writing.",
+      "answer": "False, extensive vocabulary makes you appear less credible and confident.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-possible-you-should-try/"
+    },
+    {
+      "id": 38,
+      "question": "Fill in the blank: The following sentence is an example of ____________ voice? “The grocery shopping was done by your father.”",
+      "answer": "Passive",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-following-sentence-is-an-example-of/"
+    },
+    {
+      "id": 39,
+      "question": "How could this sentence be corrected to cut out fluffy words? “I really just want to go to the store to buy groceries in order to be be prepared for the week.”",
+      "answer": "\"I want to go buy groceries at the store to be prepared for the week.”",
+      "source_url": "https://www.gcertificationcourse.com/how-could-this-sentence-be-corrected-to-cut-our-fluffy-words/"
+    },
+    {
+      "id": 40,
+      "question": "True or false? Never use acronyms in your writing.",
+      "answer": "False, use acronyms sparingly.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-never-use-acronyms-in-your-writing/"
+    },
+    {
+      "id": 41,
+      "question": "How long should you wait before republishing a piece of content to a new website?",
+      "answer": "Two weeks",
+      "source_url": "https://www.gcertificationcourse.com/how-long-should-you-wait-before-republishing-a-piece-of-content/"
+    },
+    {
+      "id": 42,
+      "question": "You have a top-performing blog post that you want to republish. Which platforms should you republish it to?",
+      "answer": "Only sites that are relevant to your business and industry.",
+      "source_url": "https://www.gcertificationcourse.com/you-have-a-top-performing-blog-post-that-you-want-to-republish/"
+    },
+    {
+      "id": 43,
+      "question": "When republishing your content, how can you make sure the republished post stands out in contrast to your original post in search engine result listings?",
+      "answer": "Update the headline",
+      "source_url": "https://www.gcertificationcourse.com/when-republishing-your-content-how-can-you-make-sure/"
+    },
+    {
+      "id": 44,
+      "question": "You're in a brainstorming session with your co-workers. You come up with five topics for your ebook, your colleague says that's all you need. How should you respond?",
+      "answer": "“No, we should make a list of as many supporting topics as we can.”",
+      "source_url": "https://www.gcertificationcourse.com/youre-in-a-brainstorming-session-with-your-co-workers-you-come-up/"
+    },
+    {
+      "id": 45,
+      "question": "True or false? You should only include a call-to-action on a blog post once the offer is launched.",
+      "answer": "False, always provide a next step, even if it’s to sign up for email updates.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-only-include-a-call-to-action-on-a-blog/"
+    },
+    {
+      "id": 46,
+      "question": "You can use weekly content activities to grow into which type of long-form content offer?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/you-can-use-weekly-content-activities-to-grow-into/"
+    },
+    {
+      "id": 47,
+      "question": "True or false? A benefit of organic content promotion is that it allows you to show your content to a highly specific audience.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-benefit-of-organic-content-promotion/"
+    },
+    {
+      "id": 48,
+      "question": "To help increase awareness for an upcoming product launch, your manager increases paid promotion funds by 300%. Which channels could you disperse these funds to?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/to-help-increase-awareness-for-an-upcoming-product-launch/"
+    },
+    {
+      "id": 49,
+      "question": "When is the most effective time to boost content on social media?",
+      "answer": "When it’s performing well",
+      "source_url": "https://www.gcertificationcourse.com/when-is-the-most-effective-time-to-boost-content-on-social-media/"
+    },
+    {
+      "id": 50,
+      "question": "True or false? You should post the same message across all of your social channels.",
+      "answer": "False, you should customize the message based on the platform.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-post-the-same-message-across-all/"
+    },
+    {
+      "id": 51,
+      "question": "You’re analyzing the performance of your social channels and you notice that Facebook consistently outperforms your Twitter and LinkedIn page. What should you do next?",
+      "answer": "Analyze Facebook further to see which posts are working for future content ideas.",
+      "source_url": "https://www.gcertificationcourse.com/youre-analyzing-the-performance-of-your-social-channels/"
+    },
+    {
+      "id": 52,
+      "question": "Optimizing your content helps improve __________.",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/optimizing-your-content-helps-improve/"
+    },
+    {
+      "id": 53,
+      "question": "You can measure brand awareness by all of the following, EXCEPT?",
+      "answer": "How many press releases exist on your website.",
+      "source_url": "https://www.gcertificationcourse.com/you-can-measure-brand-awareness-by-all-of-the-following-except/"
+    },
+    {
+      "id": 54,
+      "question": "True or false? It’s best to determine a few key metrics and stick to them.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-best-to-determine-a-few-key-metrics/"
+    },
+    {
+      "id": 55,
+      "question": "Fill in the blank: All of the following are engagement signals that help you understand your content’s effectiveness, except for _______________.",
+      "answer": "email send rate",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-all-of-the-following-are-engagement-signals/"
+    },
+    {
+      "id": 56,
+      "question": "Your boss asks you to report on how your content campaign has contributed to the lead generation goals. What metric do you report on to demonstrate its contribution?",
+      "answer": "Total leads generated from your campaign",
+      "source_url": "https://www.gcertificationcourse.com/your-boss-asks-you-to-report-on-how-your/"
+    },
+    {
+      "id": 57,
+      "question": "Fill in the blank: You had a successful team meeting where you were able to prove the ROI of your content marketing efforts. However, your boss wants more details on the content path that helped close leads into customers. You could do this by creating a(n) ______________.",
+      "answer": "attribution report",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-you-had-a-successful-team-meeting/"
+    },
+    {
+      "id": 58,
+      "question": "When examining your attribution report, you notice 85% of your leads that have closed into customers have downloaded your introductory ebook, but your sales team is only closing 1% of leads from social sources. How do you support your Sales team to close more leads from social into customers?",
+      "answer": "Ensure all leads from social sources are nurtured with the introductory ebook before speaking to sales.",
+      "source_url": "https://www.gcertificationcourse.com/when-examining-your-attribution-report-you-notice-85-of-your-leads/"
+    },
+    {
+      "id": 59,
+      "question": "What results can you yield by establishing reporting expectations prior to campaign launch?",
+      "answer": "The campaign’s written SMART goals better align your work with the stakeholders’ key metrics.",
+      "source_url": "https://www.gcertificationcourse.com/what-results-can-you-yield-by-establishing-reporting-expectations/"
+    },
+    {
+      "id": 60,
+      "question": "One month into a three-month lead generation campaign, it becomes clear your current plan to reach your goal of ten sales qualified leads (SQLs) goal does not look feasible. What option will you present during next week’s meeting with your CEO?",
+      "answer": "You present updated SMART goals better aligned with your projected SQLs for the campaign’s remaining two months, based off the first month’s data.",
+      "source_url": "https://www.gcertificationcourse.com/one-month-into-a-three-month-lead-generation-campaign/"
+    },
+    {
+      "id": 61,
+      "question": "Your boss has tasked you with writing a company story that will help make them stand out from their competitors. Keeping this in mind, what’s the most effective question you should start with?",
+      "answer": "Why are you doing what you are doing?",
+      "source_url": "https://www.gcertificationcourse.com/your-boss-has-tasked-you-with-writing-a-company-story/"
+    }
+  ]
+}

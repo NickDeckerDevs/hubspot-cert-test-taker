@@ -1,0 +1,582 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T09:00:15.259475",
+  "course_info": {
+    "name": "Social Media Marketing Certification II",
+    "source_url": "https://www.gcertificationcourse.com/social-media-marketing-certification-ii-answers/",
+    "total_questions": 90,
+    "scraped_date": "2025-07-10 08:56:48"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following should NOT be considered when setting a social media budget?",
+      "answer": "The number of your current social followers",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-should-not-be/"
+    },
+    {
+      "id": 2,
+      "question": "How much does the average organization spend on social media marketing per month (in US dollars)?",
+      "answer": "$6,000 - $10,500",
+      "source_url": "https://www.gcertificationcourse.com/how-much-does-the-average-organization/"
+    },
+    {
+      "id": 3,
+      "question": "True or false? When budgeting for social media advertising, you shouldn’t run the same ad across all platforms.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-budgeting-for-social/"
+    },
+    {
+      "id": 4,
+      "question": "How much of your advertising budget should go towards ad spend?",
+      "answer": "40%",
+      "source_url": "https://www.gcertificationcourse.com/how-much-of-your-advertising-budget/"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a primary advantage of using social media in omnichannel marketing?",
+      "answer": "It facilitates two-way communication and customer interaction.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-primary/"
+    },
+    {
+      "id": 6,
+      "question": "How does omnichannel marketing impact a customer's experience with a brand?",
+      "answer": "It creates a consistent and similar experience across various channels and platforms.",
+      "source_url": "https://www.gcertificationcourse.com/how-does-omnichannel-marketing-impact/"
+    },
+    {
+      "id": 7,
+      "question": "True or false? In omnichannel marketing, it's best to post the exact same content across all social media platforms.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-in-omnichannel-marketing/"
+    },
+    {
+      "id": 8,
+      "question": "When integrating social media into your broader omnichannel strategy, it's crucial to do which of the following?",
+      "answer": "Use insights from social media platforms to understand customer interests, preferences, and behaviors.",
+      "source_url": "https://www.gcertificationcourse.com/when-integrating-social-media-into-your/"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is an unethical use of social media automation and AI tools?",
+      "answer": "Buying followers",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-unethical/"
+    },
+    {
+      "id": 10,
+      "question": "What benefit does AI bring to scheduling social media posts?",
+      "answer": "It allows for posts to be scheduled in bulk and can recommend optimal posting times based on historical metrics.",
+      "source_url": "https://www.gcertificationcourse.com/what-benefit-does-ai-bring-to-scheduling/"
+    },
+    {
+      "id": 11,
+      "question": "True or false? AI can be used to tailor advertising content and target specific users based on their interests, demographics, and other data points.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-ai-can-be-used-to-tailor/"
+    },
+    {
+      "id": 12,
+      "question": "What is a potential benefit of keeping social media management in-house?",
+      "answer": "It allows for more personalized communication with customers and prospects via social platforms.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-potential-benefit-of-keeping/"
+    },
+    {
+      "id": 13,
+      "question": "When hiring a social media agency, what is one of the important questions you should ask?",
+      "answer": "Do they have experience in your industry or with a similar business?",
+      "source_url": "https://www.gcertificationcourse.com/when-hiring-a-social-media-agency-what-is/"
+    },
+    {
+      "id": 14,
+      "question": "True or false? Christina Garnett, a HubSpot principal marketing manager, suggests that outsourced social media managers need the same type of resources and knowledge as an in-house social media manager.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-christina-garnett-a-hubspot/"
+    },
+    {
+      "id": 15,
+      "question": "What are the two types of online communities?",
+      "answer": "Shared-interest and information",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-two-types-of-online/"
+    },
+    {
+      "id": 16,
+      "question": "You’re part of a team at your company that's responsible for setting up an online community. While creating the strategy, one of your colleagues argues that considering an exit plan is unnecessary and a waste of time. How do you respond?",
+      "answer": "Argue that an exit plan is a critical part of the strategy, as it helps prepare for potential changes in the future, including dissolution of the community if necessary.",
+      "source_url": "https://www.gcertificationcourse.com/youre-part-of-a-team-at-your-company/"
+    },
+    {
+      "id": 17,
+      "question": "What is one of the key performance indicators (KPIs) for measuring the success of an online community?",
+      "answer": "Number of members",
+      "source_url": "https://www.gcertificationcourse.com/what-is-one-of-the-key-performance/"
+    },
+    {
+      "id": 18,
+      "question": "You're in a meeting with your marketing team discussing the performance of your company's social media community. A new team member suggests tracking the company's profit margin as a key performance indicator (KPI) for the social media community. How do you respond?",
+      "answer": "Explain that while company profit margin is important, it's not a direct KPI for a social media community. Instead, focus should be on indicators like number of members, engagement metrics, and referral traffic.",
+      "source_url": "https://www.gcertificationcourse.com/youre-in-a-meeting-with-your-marketing/"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is NOT a reason why a business might build a social media community?",
+      "answer": "Increasing the owner's social media following",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-reason/"
+    },
+    {
+      "id": 20,
+      "question": "Fill in the blank: If you're not prepared to invest time and energy into regular engagement with your community, you won't be able to reap the benefits of ______________.",
+      "answer": "content conversation",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-if-youre-not-prepared/"
+    },
+    {
+      "id": 21,
+      "question": "What should a brand consider if it’s unsure whether to create a community or if it lacks the resources for a community team?",
+      "answer": "Aligning with or partnering with existing communities",
+      "source_url": "https://www.gcertificationcourse.com/what-should-a-brand-consider-if-its/"
+    },
+    {
+      "id": 22,
+      "question": "In the context of digital advertising, what are third-party cookies?",
+      "answer": "Tracking codes placed on a web visitor's computer by another website other than your own",
+      "source_url": "https://www.gcertificationcourse.com/in-the-context-of-digital-advertising/"
+    },
+    {
+      "id": 23,
+      "question": "As a digital marketing manager, you're in a meeting discussing user data and privacy on your company's website. A colleague voices concern that first-party cookies are often seen as non-essential and a breach of privacy. How do you respond?",
+      "answer": "Clarify that first-party cookies, while they do collect user data, are essential for a functional, personalized user experience and are generally seen as more privacy-friendly than third-party cookies.",
+      "source_url": "https://www.gcertificationcourse.com/as-a-digital-marketing-manager-youre-in-a/"
+    },
+    {
+      "id": 24,
+      "question": "What is one of the changes happening in the field of digital advertising with respect to third-party cookies?",
+      "answer": "Major browsers are phasing out or blocking third-party cookies by default.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-one-of-the-changes-happening-in/"
+    },
+    {
+      "id": 25,
+      "question": "Select all that apply. What are some of the new ways that marketers will need to adapt in a future without third-party cookies?",
+      "answer": [
+        "Focus on first-party and second-party cookie data",
+        "Use AI and machine learning"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-some-of-2/"
+    },
+    {
+      "id": 26,
+      "question": "In the context of digital marketing, what is zero-party data?",
+      "answer": "Data voluntarily shared by a customer with a brand",
+      "source_url": "https://www.gcertificationcourse.com/in-the-context-of-digital-marketing-what/"
+    },
+    {
+      "id": 27,
+      "question": "What is one of the potential benefits of using second-party data in advertising?",
+      "answer": "It can give a new perspective on customers.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-one-of-the-potential-benefits-of/"
+    },
+    {
+      "id": 28,
+      "question": "Which type of marketing is characterized by targeting ads based on current events that customers may be interested in?",
+      "answer": "Real-time marketing",
+      "source_url": "https://www.gcertificationcourse.com/which-type-of-marketing-is-characterized/"
+    },
+    {
+      "id": 29,
+      "question": "What does Meta's Conversions API aim to do?",
+      "answer": "All of the above.",
+      "source_url": "https://www.gcertificationcourse.com/what-does-metas-conversions-api-aim/"
+    },
+    {
+      "id": 30,
+      "question": "True or false? The Meta Conversions API only works effectively when used in conjunction with a browser pixel.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-meta-conversions-api/"
+    },
+    {
+      "id": 31,
+      "question": "How can you connect your website or server to the Meta Conversions API?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-connect-your-website-or/"
+    },
+    {
+      "id": 32,
+      "question": "According to Lately’s Kate Bradley Chernis, where should you start when thinking about the structure of a story?",
+      "answer": "The middle",
+      "source_url": "https://www.gcertificationcourse.com/according-to-latelys-kate-bradley-chernis/"
+    },
+    {
+      "id": 33,
+      "question": "Which storytelling framework would be best suited to showcase the company's history, mission, and vision?",
+      "answer": "The Brand Story Framework",
+      "source_url": "https://www.gcertificationcourse.com/which-storytelling-framework-would-be/"
+    },
+    {
+      "id": 34,
+      "question": "What is the purpose of using the underdog archetype in a social media storytelling campaign?",
+      "answer": "To showcase the transformative power of a product or service",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-using-the-underdog/"
+    },
+    {
+      "id": 35,
+      "question": "Nicole O’Donnell suggests using what type of individuals to act as inspiration in storytelling for brands?",
+      "answer": "Role models or community members",
+      "source_url": "https://www.gcertificationcourse.com/nicole-odonnell-suggests-using-what-type/"
+    },
+    {
+      "id": 36,
+      "question": "Fill in the blank: In short-form video, editing styles should vary depending on the _________.",
+      "answer": "platform",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-in-short-form-video/"
+    },
+    {
+      "id": 37,
+      "question": "Which of the following is NOT a potential benefit of using AI in social media content creation?",
+      "answer": "Improved facilitation of social planning meetings",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-potential/"
+    },
+    {
+      "id": 38,
+      "question": "Select all that apply. What is a potential downside of relying on AI for social media content creation?",
+      "answer": [
+        "Lack of emotional understanding",
+        "Dependence on algorithms leading to generic content",
+        "Potential for biased results"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-a-potential/"
+    },
+    {
+      "id": 39,
+      "question": "How can you maintain authenticity while using AI to generate social media content?",
+      "answer": "Regularly review and edit the AI-generated content",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-maintain-authenticity-while/"
+    },
+    {
+      "id": 40,
+      "question": "What is the projected value of global sales USD via social media platforms by 2026?",
+      "answer": "$3 trillion",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-projected-value-of-global/"
+    },
+    {
+      "id": 41,
+      "question": "Fill in the blank: The connection between social and commerce essentially involves driving ______ and providing the immediate opportunity to buy.",
+      "answer": "awareness",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-connection-between/"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is a crucial factor to consider when developing a social commerce strategy?",
+      "answer": "Partnering with influencers",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-crucial-factor/"
+    },
+    {
+      "id": 43,
+      "question": "What kind of influencer often has a smaller following, but a highly engaged audience that trusts their opinions?",
+      "answer": "Micro-influencer",
+      "source_url": "https://www.gcertificationcourse.com/what-kind-of-influencer-often-has-a/"
+    },
+    {
+      "id": 44,
+      "question": "True or false? AI can be a powerful tool for improving your social commerce strategy by developing content and automating customer support.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-ai-can-be-a-powerful-tool/"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is NOT a technique you can use in your social commerce strategy?",
+      "answer": "Collaborating with micro-influencers",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-technique/"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following statements best describes the benefits of short-form videos?",
+      "answer": "They're less expensive to produce.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-statements-best/"
+    },
+    {
+      "id": 47,
+      "question": "Select all that apply. What is a benefit of filming videos with a smartphone for social media content?",
+      "answer": [
+        "The videos appear more authentic.",
+        "They can be easily transferred and edited on the same device."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-a-benefit/"
+    },
+    {
+      "id": 48,
+      "question": "When creating videos for social media, how should you hold your phone when recording?",
+      "answer": "Vertically",
+      "source_url": "https://www.gcertificationcourse.com/when-creating-videos-for-social-media-how/"
+    },
+    {
+      "id": 49,
+      "question": "If you don't have access to natural light when filming indoors, which affordable equipment could help create a well-lit environment?",
+      "answer": "A ring light or softbox",
+      "source_url": "https://www.gcertificationcourse.com/if-you-dont-have-access-to-natural-light/"
+    },
+    {
+      "id": 50,
+      "question": "True or false? An engaging story that connects with your audience is more important than having high-quality lighting and expensive equipment.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-an-engaging-story-that/"
+    },
+    {
+      "id": 51,
+      "question": "True or false? Most short-form videos are filmed horizontally.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-most-short-form-videos-are/"
+    },
+    {
+      "id": 52,
+      "question": "Which of the following is NOT recommended when creating short-form videos?",
+      "answer": "Ignoring the platform's features",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-recommended/"
+    },
+    {
+      "id": 53,
+      "question": "You are advising a team of video content creators who are targeting a Gen Z audience. One of the creators mentions incorporating a technique they heard about called the ‘millennial pause’ into their editing style. How do you respond?",
+      "answer": "Advise them that it's a brief pause considered 'uncool' by Gen Z, and hence might not be the best approach for their target audience.",
+      "source_url": "https://www.gcertificationcourse.com/you-are-advising-a-team-of-video-content/"
+    },
+    {
+      "id": 54,
+      "question": "Fill in the blank: _________ is a recommended strategy to keep viewers engaged throughout a video.",
+      "answer": "Use of multimedia",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-is-a-recommended-strategy/"
+    },
+    {
+      "id": 55,
+      "question": "What is NOT considered a best practice while creating short-form videos?",
+      "answer": "Using a single, static shot for the entire video",
+      "source_url": "https://www.gcertificationcourse.com/what-is-not-considered-a-best-practice/"
+    },
+    {
+      "id": 56,
+      "question": "What's the benefit of having a script for your videos?",
+      "answer": "It ensures the content stays focused and organized.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-benefit-of-having-a-script-for/"
+    },
+    {
+      "id": 57,
+      "question": "The SPACES model helps businesses determine the value of a community. What does the ‘A’ in SPACES stand for?",
+      "answer": "Acquisition",
+      "source_url": "https://www.gcertificationcourse.com/the-spaces-model-helps-businesses-determine/"
+    },
+    {
+      "id": 58,
+      "question": "Which statement best describes the concept of Web3?",
+      "answer": "A vision of a more decentralized web that empowers users",
+      "source_url": "https://www.gcertificationcourse.com/which-statement-best-describes-the/"
+    },
+    {
+      "id": 59,
+      "question": "True or false? The success of an agency's efforts should be measured by how many posts they can generate for your social media platforms.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-success-of-an-agencys/"
+    },
+    {
+      "id": 60,
+      "question": "As the new social media strategist for a small American tech startup, you are tasked with expanding the company's user base to Europe and Asia. You suggest to your manager that you want to use geotargeted ads on Meta and LinkedIn. You explain that this strategy would entail which of the following?",
+      "answer": "Implementing a feature that allows you to target your ads to users in specific locations (Europe and Asia), thereby increasing their relevance and effectiveness",
+      "source_url": "https://www.gcertificationcourse.com/as-the-new-social-media-strategist-for-a/"
+    },
+    {
+      "id": 61,
+      "question": "A company has recently launched a new product and is curious about public sentiment. They've received a significant amount of social media comments about the product. Which of the following strategies would be the most effective way to better understand general public perception?",
+      "answer": "Using an AI tool to analyze the sentiment of posts and comments",
+      "source_url": "https://www.gcertificationcourse.com/a-company-has-recently-launched-a-new/"
+    },
+    {
+      "id": 62,
+      "question": "True or false? AI can be used to generate content and create platform-specific messages and images in your brand voice.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-ai-can-be-used-to-generate/"
+    },
+    {
+      "id": 63,
+      "question": "What is one of the benefits of AI in social media content creation as explained by Kate Bradley Chernis?",
+      "answer": "AI can be paired with human intervention for better results.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-one-of-the-benefits-of-ai-in/"
+    },
+    {
+      "id": 64,
+      "question": "Which of the following was identified as a significant change in the social media landscape?",
+      "answer": "The decline of the attention span",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-was-identified/"
+    },
+    {
+      "id": 65,
+      "question": "Your company's marketing team is aiming to enhance its tracking capabilities to better understand user behavior across the web. A team member suggests that recent changes in privacy laws and data protection would make this easier. As an expert in the field, how do you respond?",
+      "answer": "Caution them that recent changes in privacy laws and data protection have made tracking individuals across the web more challenging, not easier, and suggest that other methods should also be explored.",
+      "source_url": "https://www.gcertificationcourse.com/your-companys-marketing-team-is-aiming/"
+    },
+    {
+      "id": 66,
+      "question": "Select all that apply. According to the lesson, how can a community help businesses?",
+      "answer": [
+        "Communities provide a platform for personal recommendations.",
+        "Communities can reduce support costs.",
+        "Communities offer insight into consumer behavior."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-according-to-the/"
+    },
+    {
+      "id": 67,
+      "question": "What is one tactic to ensure success in community building?",
+      "answer": "Responding quickly to first-time posters",
+      "source_url": "https://www.gcertificationcourse.com/what-is-one-tactic-to-ensure-success-in/"
+    },
+    {
+      "id": 68,
+      "question": "You’re the new social media manager at a start-up company. During your first strategy meeting, an enthusiastic team member suggests choosing the platform for your social media community because it’s the most popular. How do you respond?",
+      "answer": "Suggest a balanced approach, considering both popularity and relevance to your target audience.",
+      "source_url": "https://www.gcertificationcourse.com/youre-the-new-social-media-manager-at/"
+    },
+    {
+      "id": 69,
+      "question": "Select all that apply. Which element(s) are important to consider when developing your community strategy?",
+      "answer": [
+        "The type of community (shared interest or information)",
+        "Potential issues like spam or trolling",
+        "Visual design of the community"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-elements-are/"
+    },
+    {
+      "id": 70,
+      "question": "How does LinkedIn’s ‘Group Identity for B2B’ work?",
+      "answer": "It groups members together based on shared professional identity attributes.",
+      "source_url": "https://www.gcertificationcourse.com/how-does-linkedins-group-identity-for/"
+    },
+    {
+      "id": 71,
+      "question": "In storytelling, what does the \"logic of emotion\" mean?",
+      "answer": "It is the understanding that the human brain responds to emotions before logic.",
+      "source_url": "https://www.gcertificationcourse.com/in-storytelling-what-does-the-logic-of/"
+    },
+    {
+      "id": 72,
+      "question": "Select all that apply. For what reason(s) do we tell stories?",
+      "answer": [
+        "To solidify abstract concepts.",
+        "To foster brand loyalty.",
+        "To promote and shape ideas.",
+        "To inspire and motivate."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-for-what-reasons/"
+    },
+    {
+      "id": 73,
+      "question": "Fill in the blank: Visual information is cognitively processed ___ times faster than text-based information.",
+      "answer": "60,000",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-visual-information-is/"
+    },
+    {
+      "id": 74,
+      "question": "What is NOT a way to collaborate with micro-influencers for social commerce campaigns?",
+      "answer": "Encouraging them to create content outside of brand guidelines",
+      "source_url": "https://www.gcertificationcourse.com/what-is-not-a-way-to-collaborate-with/"
+    },
+    {
+      "id": 75,
+      "question": "How can live stream sales be made more engaging and interactive?",
+      "answer": "Offer live polls and Q&A sessions",
+      "source_url": "https://www.gcertificationcourse.com/how-can-live-stream-sales-be-made-more/"
+    },
+    {
+      "id": 76,
+      "question": "Select all that apply. Why is user-generated content (UGC) important for social commerce?",
+      "answer": [
+        "It helps build trust and credibility.",
+        "It increases customer engagement.",
+        "It drives conversions and generates buzz."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-why-is-user-generated/"
+    },
+    {
+      "id": 77,
+      "question": "Fill in the blank: _________ shopping is a trend where companies showcase their products in real-time, providing an engaging and interactive experience for customers.",
+      "answer": "Live stream",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-shopping-is-a-trend/"
+    },
+    {
+      "id": 78,
+      "question": "According to Jamal Meneide, which part of a short-form video is the most important?",
+      "answer": "The hook",
+      "source_url": "https://www.gcertificationcourse.com/according-to-jamal-meneide-which-part/"
+    },
+    {
+      "id": 79,
+      "question": "You’re collaborating with a video editing team on a social media campaign targeting a diverse, international audience. A team member suggests that text overlays or captions aren’t needed since the video's audio is clear. How do you respond?",
+      "answer": "Object, explaining that text overlays and captions can increase accessibility and comprehension, especially for non-native speakers or viewers in noisy environments.",
+      "source_url": "https://www.gcertificationcourse.com/youre-collaborating-with-a-video-editing/"
+    },
+    {
+      "id": 80,
+      "question": "What purpose does a call-to-action serve in a short-form video?",
+      "answer": "It encourages viewers to interact in some way.",
+      "source_url": "https://www.gcertificationcourse.com/what-purpose-does-a-call-to-action-serve/"
+    },
+    {
+      "id": 81,
+      "question": "True or false? First-party cookies allow businesses to analyze actions taken on other websites that were visited by a user.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-first-party-cookies-allow/"
+    },
+    {
+      "id": 82,
+      "question": "Select all that apply. Under what condition(s) might a company consider outsourcing their social media tasks?",
+      "answer": [
+        "The team members are handling multiple social marketing tasks and are consistently missing deadlines.",
+        "The current social media strategy isn't generating any ROI."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-under-what-conditions/"
+    },
+    {
+      "id": 83,
+      "question": "What is one of the reasons brands are moving towards community-led growth?",
+      "answer": "The social media industry has become more complex",
+      "source_url": "https://www.gcertificationcourse.com/what-is-one-of-the-reasons-brands-are/"
+    },
+    {
+      "id": 84,
+      "question": "Fill in the blank: One of the primary considerations when planning short-form video content is the ___________.",
+      "answer": "purpose of the videos",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-one-of-the-primary/"
+    },
+    {
+      "id": 85,
+      "question": "True or false? Short-form videos are typically watched for less than 40% of their length.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-short-form-videos-are/"
+    },
+    {
+      "id": 86,
+      "question": "Fill in the blank: Jamal Meneide mentions three pillars for video editing and post-production. They are concision, clarity, and _____.",
+      "answer": "captivation",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-jamal-meneide-mentions/"
+    },
+    {
+      "id": 87,
+      "question": "Which of the following is a recommended practice in video creation?",
+      "answer": "Divide the video content into smaller segments",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-recommended/"
+    },
+    {
+      "id": 88,
+      "question": "True or false? The Problem-Solution Framework involves showcasing the journey of a customer, from the initial awareness of the company's product or service, through the decision-making process, and ultimately to the post-purchase experience.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-problem-solution/"
+    },
+    {
+      "id": 89,
+      "question": "Which of these is NOT a good practice when repurposing long-form content into short-form videos?",
+      "answer": "Using copyrighted music",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-is-not-a-good-practice/"
+    },
+    {
+      "id": 90,
+      "question": "Which of the following storytelling techniques is considered effective for social media?",
+      "answer": "Short and impactful stories",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-storytelling/"
+    }
+  ]
+}

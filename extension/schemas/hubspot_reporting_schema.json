@@ -1,0 +1,590 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T09:32:33.708005",
+  "course_info": {
+    "name": "HubSpot Reporting",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-reporting-certification-answers/",
+    "total_questions": 89,
+    "scraped_date": "2025-07-10 09:29:10"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following attribution models are best for lengthy sales cycles?",
+      "answer": "Time-decay attribution models",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-attribution-models/"
+    },
+    {
+      "id": 2,
+      "question": "If you want to know which marketing effort is attracting people to your brand, which attribution model should you use?",
+      "answer": "First-touch",
+      "source_url": "https://www.gcertificationcourse.com/if-you-want-to-know-which-marketing-effort/"
+    },
+    {
+      "id": 3,
+      "question": "How does the linear attribution model calculate credit?",
+      "answer": "Equal credit is assigned to all interactions that occurred before the conversion.",
+      "source_url": "https://www.gcertificationcourse.com/how-does-the-linear-attribution-model/"
+    },
+    {
+      "id": 4,
+      "question": "Select all that apply. What types of questions can marketing attribution answer? Select all that apply.",
+      "answer": [
+        "What was the marketing team's contribution to generated revenue this year?",
+        "What assets drove the most leads last quarter?"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-types-of-questions/"
+    },
+    {
+      "id": 5,
+      "question": "What's the difference between service analytics and the report builder?",
+      "answer": "Service analytics has out-of-the-box reports; the report builder requires you to build every report from scratch.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-difference-between-service/"
+    },
+    {
+      "id": 6,
+      "question": "Select all that apply. Why would a user be bucketed under “Direct traffic” in HubSpot?",
+      "answer": [
+        "The visitor who typed the URL directly into their browser.",
+        "The visitor who submitted the form has opted to not accept cookies from your site, or ignored the banner completely.​",
+        "​​​A contact submitted a HubSpot form on a page without the ​​HubSpot tracking code​."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-why-would-a-user-be/"
+    },
+    {
+      "id": 7,
+      "question": "When is a session or contact bucketed under “Other campaigns” in HubSpot?",
+      "answer": "When a visitor or contact comes in from a tracking URL you’ve created in HubSpot",
+      "source_url": "https://www.gcertificationcourse.com/when-is-a-session-or-contact-bucketed-under/"
+    },
+    {
+      "id": 8,
+      "question": "Why would you see “unknown” or “Unknown SSL” appear in your Organic search traffic in the sources report in HubSpot?",
+      "answer": "The search engine is encrypting the user data. This is common on Google.",
+      "source_url": "https://www.gcertificationcourse.com/why-would-you-see-unknown-or-unknown-ssl/"
+    },
+    {
+      "id": 9,
+      "question": "What information do data dimensions help you access in an attribution report?",
+      "answer": "The reportable metadata about a specific touchpoint in an attribution report",
+      "source_url": "https://www.gcertificationcourse.com/what-information-do-data-dimensions-help/"
+    },
+    {
+      "id": 10,
+      "question": "Select all that apply. Which of the following UTM parameters are typically only used for ads campaigns?",
+      "answer": [
+        "Term",
+        "Content"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-22/"
+    },
+    {
+      "id": 11,
+      "question": "Select all that apply. What insights can be found within the countries report?",
+      "answer": [
+        "The percentage of traffic viewing your site from particular countries",
+        "The percentage of traffic viewing your site from specific regions within particular countries"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-insights-can-be/"
+    },
+    {
+      "id": 12,
+      "question": "The topic cluster report is most powerful when contextualized with the information found in which HubSpot tool?",
+      "answer": "SEO Analytics",
+      "source_url": "https://www.gcertificationcourse.com/the-topic-cluster-report-is-most-powerful/"
+    },
+    {
+      "id": 13,
+      "question": "Select all that apply. Which type of metrics can help you evaluate the health of your Engage stage?",
+      "answer": [
+        "Sales pipeline velocity",
+        "Average deal size",
+        "Sales cycle length"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-type-of-metrics/"
+    },
+    {
+      "id": 14,
+      "question": "Insights about your gated content can be found in the analyze tab of which HubSpot tool?",
+      "answer": "Forms",
+      "source_url": "https://www.gcertificationcourse.com/insights-about-your-gated-content-can-be/"
+    },
+    {
+      "id": 15,
+      "question": "Select all that apply. Which metrics can help you evaluate the success of your email marketing efforts?",
+      "answer": [
+        "Open rate",
+        "Bounces"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-metrics-can/"
+    },
+    {
+      "id": 16,
+      "question": "Which Service Hub analytics reports can help you understand seasonal trends in your ticket volume?",
+      "answer": "Support volume",
+      "source_url": "https://www.gcertificationcourse.com/which-service-hub-analytics-reports-can-2/"
+    },
+    {
+      "id": 17,
+      "question": "Which Service Hub analytics reports can help you understand how well your channels are performing against their SLAs?",
+      "answer": "Chat wait time",
+      "source_url": "https://www.gcertificationcourse.com/which-service-hub-analytics-reports-can/"
+    },
+    {
+      "id": 18,
+      "question": "What does LTV measure?",
+      "answer": "LTV is the predicted revenue that one customer will generate throughout their relationship with a company.",
+      "source_url": "https://www.gcertificationcourse.com/what-does-ltv-measure/"
+    },
+    {
+      "id": 19,
+      "question": "Fill in the blank: An attribution model is _____.",
+      "answer": "the rule, or set of rules, that determines how credit for sales and conversions is assigned to touch points along conversion paths",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-an-attribution-model-is/"
+    },
+    {
+      "id": 20,
+      "question": "How often should you be checking your attribution reports?",
+      "answer": "Once a quarter",
+      "source_url": "https://www.gcertificationcourse.com/how-often-should-you-be-checking-your/"
+    },
+    {
+      "id": 21,
+      "question": "If you want to emphasize the touchpoints that initially captured leads' attention and the touchpoints that directly led to conversions, which attribution model should you use in your report?",
+      "answer": "U-shaped attribution",
+      "source_url": "https://www.gcertificationcourse.com/if-you-want-to-emphasize-the-touchpoints/"
+    },
+    {
+      "id": 22,
+      "question": "You're hoping to identify which lifecycle stages your top 50 company contacts are in. How many data sources would you need to include in the custom report builder?",
+      "answer": "Two",
+      "source_url": "https://www.gcertificationcourse.com/youre-hoping-to-identify-which-lifecycle-2/"
+    },
+    {
+      "id": 23,
+      "question": "How often should you be checking your browsers report?",
+      "answer": "Once a quarter",
+      "source_url": "https://www.gcertificationcourse.com/how-often-should-you-be-checking-your-2/"
+    },
+    {
+      "id": 24,
+      "question": "What insight can be found in the device types report?",
+      "answer": "The percentage of your website traffic accessing your site through desktop, mobile, or tablet",
+      "source_url": "https://www.gcertificationcourse.com/what-insight-can-be-found-in-the-device/"
+    },
+    {
+      "id": 25,
+      "question": "Select all that apply. Which type of metrics can help you evaluate the health of your Attract stage?",
+      "answer": [
+        "Conversion rate",
+        "Cost per lead",
+        "Website traffic"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-type-of-metrics-2/"
+    },
+    {
+      "id": 26,
+      "question": "What is metadata?",
+      "answer": "Metadata refers to information about data. It provides descriptive details about a particular piece of data, helping to organize, discover, and manage it effectively.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-metadata/"
+    },
+    {
+      "id": 27,
+      "question": "Customer journey analytics uses which type of data?",
+      "answer": "First-party data",
+      "source_url": "https://www.gcertificationcourse.com/customer-journey-analytics-uses-which-type/"
+    },
+    {
+      "id": 28,
+      "question": "Which of these methods is NOT a way you can currently share your HubSpot dashboard?",
+      "answer": "Share using ChatSpot",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-methods-is-not-a-way-you/"
+    },
+    {
+      "id": 29,
+      "question": "When should you mark steps as optional in your customer journey analytics reports?",
+      "answer": "In a customer journey analytics report, only after you have a working hypothesis about your conversion path",
+      "source_url": "https://www.gcertificationcourse.com/when-should-you-mark-steps-as-optional-in/"
+    },
+    {
+      "id": 30,
+      "question": "You’re building a report that identifies which companies closed the highest-earning deals this month. Based on the dimensions and measures you’d need to answer this question, which visualization type would be best suited for this report?",
+      "answer": "Combination table",
+      "source_url": "https://www.gcertificationcourse.com/youre-building-a-report-that-identifies-which/"
+    },
+    {
+      "id": 31,
+      "question": "What is the advantage to changing your y-axis to the logarithmic scale?",
+      "answer": "You can effectively visualize complex data sets with a wide range of values.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-advantage-to-changing-your-y/"
+    },
+    {
+      "id": 32,
+      "question": "Fill in the blanks: You want to build a custom report to determine which channels help you generate the most marketing qualified leads. If you were building a bar chart, ____ should go on your x-axis, and ___ should go on your y-axis.",
+      "answer": "Original Source; Count of Contacts",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blanks-you-want-to-build-a-custom/"
+    },
+    {
+      "id": 33,
+      "question": "You want to create a new contact property where your existing customers can specify their preferred flavor of birthday cake. Which of the following would NOT be a recommended field type to store this categorical data under?",
+      "answer": "Single-Line Text",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-create-a-new-contact-property/"
+    },
+    {
+      "id": 34,
+      "question": "Select all that apply. What steps can you take if your embedded content isn't appearing on your HubSpot dashboard?",
+      "answer": [
+        "Make sure that the URL begins with http://, https://, or //.",
+        "Make sure that the link you’re using is sharable and has the correct permissions enabled."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-steps-can-you/"
+    },
+    {
+      "id": 35,
+      "question": "In your ads dashboard, what does the engagement metric measure?",
+      "answer": "The number of comments, likes, reactions, and shares your post received (depending on the ad network)",
+      "source_url": "https://www.gcertificationcourse.com/in-your-ads-dashboard-what-does-the-engagement/"
+    },
+    {
+      "id": 36,
+      "question": "How do objects organize your HubSpot data?",
+      "answer": "Objects organize your HubSpot data into a series of data tables that can be associated with each other.",
+      "source_url": "https://www.gcertificationcourse.com/how-do-objects-organize-your-hubspot-data/"
+    },
+    {
+      "id": 37,
+      "question": "What is a property?",
+      "answer": "A property is a field that stores information on HubSpot records.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-property/"
+    },
+    {
+      "id": 38,
+      "question": "What is the disadvantage of storing your information in a single field type?",
+      "answer": "In reports or filters, you can only search for exact matches.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-disadvantage-of-storing-your/"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following data sources should be marked as primary to answer the following question: “How many contact views am I getting on my HubSpot landing pages?”",
+      "answer": "Landing Pages",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-data-sources-should/"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following data sources should be marked as primary to answer the following question: “What are my team's recent sales activities?”",
+      "answer": "Activities",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-data-sources/"
+    },
+    {
+      "id": 41,
+      "question": "Select all that apply. What type of content can you embed on your HubSpot dashboard?",
+      "answer": [
+        "Spreadsheets",
+        "Slides",
+        "Videos",
+        "Images"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-type-of-content/"
+    },
+    {
+      "id": 42,
+      "question": "True or false? Once a report is added to a HubSpot dashboard, it cannot be edited.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-once-a-report-is-added-to-a/"
+    },
+    {
+      "id": 43,
+      "question": "What is customer churn?",
+      "answer": "The rate at which customers leave your company",
+      "source_url": "https://www.gcertificationcourse.com/what-is-customer-churn/"
+    },
+    {
+      "id": 44,
+      "question": "What is a sankey graph?",
+      "answer": "A visualization that represents the flow of data or resources between different entities. It uses arrows of different widths to show the quantity or proportion of flow between nodes.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-sankey-graph/"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is a feature seen in customer journey analytics but not the custom report builder?",
+      "answer": "Optional steps",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-feature-seen/"
+    },
+    {
+      "id": 46,
+      "question": "What is a dataset?",
+      "answer": "A collection of data from across your HubSpot account that can then be used in custom reports",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-dataset/"
+    },
+    {
+      "id": 47,
+      "question": "True or false? You can include meetings data in your customer journey analytics reports?",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-include-meetings-data/"
+    },
+    {
+      "id": 48,
+      "question": "If you wanted to build a report with deals as your primary object and companies as your secondary object, what information would be included in your report?",
+      "answer": "All deal records and any associated company records will be included after the join.",
+      "source_url": "https://www.gcertificationcourse.com/if-you-wanted-to-build-a-report-with-deals/"
+    },
+    {
+      "id": 49,
+      "question": "You’re building a report that can tell you which website pages your recent live chats are coming from. Based on the dimensions and measures you’d need to answer this question, which visualization type would be best suited for this report?",
+      "answer": "Bar Chart",
+      "source_url": "https://www.gcertificationcourse.com/youre-building-a-report-that-can-tell-you/"
+    },
+    {
+      "id": 50,
+      "question": "True or false? In most cases, data dimensions should be placed on the y-axis.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-in-most-cases-data-dimensions/"
+    },
+    {
+      "id": 51,
+      "question": "You’re building a report to explore which HubSpot landing pages have the most views this month. Which default measure do you put on your y-axis?",
+      "answer": "Count of page views",
+      "source_url": "https://www.gcertificationcourse.com/youre-building-a-report-to-explore-which/"
+    },
+    {
+      "id": 52,
+      "question": "What is a null value?",
+      "answer": "A null value is a placeholder used when the value in a property is either unknown or missing.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-null-value/"
+    },
+    {
+      "id": 53,
+      "question": "You want to build a contact create attribution report that shows how your marketing assets are generating leads over time.Which data dimensions should you include in your report?",
+      "answer": "Interaction date; asset type",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-build-a-contact-create-attribution/"
+    },
+    {
+      "id": 54,
+      "question": "In a deal create attribution report, which data dimension would you need to answer the question: “What type of interactions happened before the deal was created?”",
+      "answer": "Interaction type",
+      "source_url": "https://www.gcertificationcourse.com/in-a-deal-create-attribution-report-which/"
+    },
+    {
+      "id": 55,
+      "question": "When should you set up custom analytics views in your sources or pages reports?",
+      "answer": "You should set this up as soon as ‌you think you may need one. A custom analytics view will only start tracking data the day it's created and won't include historical data.",
+      "source_url": "https://www.gcertificationcourse.com/when-should-you-set-up-custom-analytics/"
+    },
+    {
+      "id": 56,
+      "question": "True or false? You can create recurring dashboard emails to send reports to your team consistently.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-create-recurring/"
+    },
+    {
+      "id": 57,
+      "question": "How many dimensions can you add to your attribution reports?",
+      "answer": "Two",
+      "source_url": "https://www.gcertificationcourse.com/how-many-dimensions-can-you-add-to-your/"
+    },
+    {
+      "id": 58,
+      "question": "Fill in the blank: The Top Posts report shows a list of your top ____ performing posts.",
+      "answer": "10",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-top-posts-report/"
+    },
+    {
+      "id": 59,
+      "question": "What is a reporting statement?",
+      "answer": "An explanation of what insights the report will show and the data needed to build it",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-reporting-statement/"
+    },
+    {
+      "id": 60,
+      "question": "What is the purpose of contact create attribution reports?",
+      "answer": "To track and analyze the sources or channels that contribute to the creation of new contacts within HubSpot",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-contact-create/"
+    },
+    {
+      "id": 61,
+      "question": "True or false? When designing dashboards, you should design them using a visual hierarchy.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-designing-dashboards-you-should/"
+    },
+    {
+      "id": 62,
+      "question": "Fill in the blank: A time decay attribution model gives ____.",
+      "answer": "a weighted percentage of credit to the most recent touchpoints",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-a-time-decay-attribution/"
+    },
+    {
+      "id": 63,
+      "question": "What's the difference between single-source attribution and multi-touch attribution models?",
+      "answer": "Single source attribution models assign credit to one touch point along the buyer's while multi-touch attribution gives each contributing channel a slice of credit for the final conversion.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-difference-between-single-source/"
+    },
+    {
+      "id": 64,
+      "question": "True or false? Events are mutable.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-events-are-mutable/"
+    },
+    {
+      "id": 65,
+      "question": "You're hoping to identify which lifecycle stages your top 50 company contacts are in. When building your bar chart in HubSpot, which measure would you include on the y-axis?",
+      "answer": "Count of Contacts",
+      "source_url": "https://www.gcertificationcourse.com/youre-hoping-to-identify-which-lifecycle/"
+    },
+    {
+      "id": 66,
+      "question": "When is a session or contact bucketed under “Paid search” in HubSpot?",
+      "answer": "When a visitor comes from your paid search advertising campaigns‌ — ‌like from your Google Ads",
+      "source_url": "https://www.gcertificationcourse.com/when-is-a-session-or-contact-bucketed-under-2/"
+    },
+    {
+      "id": 67,
+      "question": "In the custom report builder, what happens if you apply an ALL filter to the fields in your filtering options?",
+      "answer": "Data will appear in your report only if it adheres to all of the conditions set in the filters area.",
+      "source_url": "https://www.gcertificationcourse.com/in-the-custom-report-builder-what-happens/"
+    },
+    {
+      "id": 68,
+      "question": "Customer journey analytics reports closely align with which of the following strategies?",
+      "answer": "Conversion rate optimization",
+      "source_url": "https://www.gcertificationcourse.com/customer-journey-analytics-reports-closely/"
+    },
+    {
+      "id": 69,
+      "question": "Fill in the blank: A relationship between one or more objects is called ____.",
+      "answer": "an association",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-a-relationship-between/"
+    },
+    {
+      "id": 70,
+      "question": "Which tool enables you to visualize your objects and their relationships in HubSpot?",
+      "answer": "Data Model",
+      "source_url": "https://www.gcertificationcourse.com/which-tool-enables-you-to-visualize-your/"
+    },
+    {
+      "id": 71,
+      "question": "What is a join?",
+      "answer": "An operation that combines rows from two or more tables based on a related column between them",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-join/"
+    },
+    {
+      "id": 72,
+      "question": "Select all that apply. If you’ve set your dashboard permissions to “Private to owner”, who can view or edit your dashboard?",
+      "answer": [
+        "Your HubSpot account super admins",
+        "You"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-if-youve-set-your/"
+    },
+    {
+      "id": 73,
+      "question": "Why would you see “Unknown” appear in the location or region data in your countries report?",
+      "answer": "The region or country's ISO data is unavailable.",
+      "source_url": "https://www.gcertificationcourse.com/why-would-you-see-unknown-appear-in-the/"
+    },
+    {
+      "id": 74,
+      "question": "What is the benefit of using sample reports in the HubSpot custom report builder?",
+      "answer": "Once you select a sample report to build, HubSpot will preconfigure your dimensions and measures in the builder, which you can later customize.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-benefit-of-using-sample-reports/"
+    },
+    {
+      "id": 75,
+      "question": "True or false? You can embed Google Data Studio reports into your HubSpot dashboard.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-embed-google-data/"
+    },
+    {
+      "id": 76,
+      "question": "Which HubSpot dashboard feature can you use to indicate the purpose of a dashboard?",
+      "answer": "Dashboard description",
+      "source_url": "https://www.gcertificationcourse.com/which-hubspot-dashboard-feature-can-you/"
+    },
+    {
+      "id": 77,
+      "question": "How does HubSpot join your data in the custom report builder?",
+      "answer": "Left joins",
+      "source_url": "https://www.gcertificationcourse.com/how-does-hubspot-join-your-data-in-the/"
+    },
+    {
+      "id": 78,
+      "question": "You want to build a report that answers the question: “How many marketing qualified leads do I have and how am I getting them?” Which dimension should you put in your breakdown by area?",
+      "answer": "Original source",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-build-a-report-that-answers/"
+    },
+    {
+      "id": 79,
+      "question": "What is a completed event referred to in HubSpot?",
+      "answer": "A completion",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-completed-event-referred-to-in/"
+    },
+    {
+      "id": 80,
+      "question": "Select all that apply. Which of the following UTM parameters should you always add to your tracking URLs?",
+      "answer": [
+        "Medium",
+        "Source"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-21/"
+    },
+    {
+      "id": 81,
+      "question": "What are UTM parameters?",
+      "answer": "UTM parameters are tags you can add to the end of the URLs of your marketing or promotional efforts.",
+      "source_url": "https://www.gcertificationcourse.com/what-are-utm-parameters/"
+    },
+    {
+      "id": 82,
+      "question": "Select all that apply. What role can attribution play in your reporting strategy? Select all that apply.",
+      "answer": [
+        "Marketing attribution can help you identify your highest and lowest performing pieces of content.",
+        "Marketing attribution can help you determine what channels and campaigns are effectively generating leads and customers for your organization."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-role-can-attribution/"
+    },
+    {
+      "id": 83,
+      "question": "Which of the following is NOT a source found in the sources report?",
+      "answer": "Messaging app",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-source/"
+    },
+    {
+      "id": 84,
+      "question": "Select all that apply. Which type of metrics can help you evaluate the health of your Delight stage?",
+      "answer": [
+        "Repeat purchase rate",
+        "Referral rate"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-type-of-metrics-3/"
+    },
+    {
+      "id": 85,
+      "question": "Which of the following is NOT a standard HubSpot object?",
+      "answer": "Shipments",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-standard/"
+    },
+    {
+      "id": 86,
+      "question": "In the custom report builder, what happens if you apply an ANY filter to the fields in your filtering options?",
+      "answer": "Data will appear in your report if it adheres to any of the conditions set in the filters area.",
+      "source_url": "https://www.gcertificationcourse.com/in-the-custom-report-builder-what-happens-2/"
+    },
+    {
+      "id": 87,
+      "question": "In a revenue attribution report, which data dimension would you need to answer the question: “Which channels influenced the most revenue?”",
+      "answer": "Interaction source",
+      "source_url": "https://www.gcertificationcourse.com/in-a-revenue-attribution-report-which-data/"
+    },
+    {
+      "id": 88,
+      "question": "Fill in the blank: ____ are facts that haven't been processed enough to reveal their meaning.",
+      "answer": "Data",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-are-facts-that-havent-been/"
+    },
+    {
+      "id": 89,
+      "question": "If a contact has the original source of referrals in HubSpot, that means the contact first accessed your site from which of the following?",
+      "answer": "A link on a different website",
+      "source_url": "https://www.gcertificationcourse.com/if-a-contact-has-the-original-source-of/"
+    }
+  ]
+}

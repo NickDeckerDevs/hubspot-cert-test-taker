@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T09:03:38.533171",
+  "course_info": {
+    "name": "Inbound",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-inbound-certification-answers/",
+    "total_questions": 69,
+    "scraped_date": "2025-07-10 09:01:00"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the buyer's journey?",
+      "answer": "It's the active research process someone goes through leading up to a purchase.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-buyers-journey/"
+    },
+    {
+      "id": 2,
+      "question": "Which departments should be involved in creating content?",
+      "answer": "All departments",
+      "source_url": "https://www.gcertificationcourse.com/which-departments-should-be-involved-in-creating-content/"
+    },
+    {
+      "id": 3,
+      "question": "True or false? Most buyers start researching potential solutions before they meet with a salesperson.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-most-buyers-start-researching-potential-solutions/"
+    },
+    {
+      "id": 4,
+      "question": "True or false? A customer’s buying journey is ever-evolving. You should make updates as you learn more about your buyer persona.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-a-customers-buying-journey-is-ever-evolving/"
+    },
+    {
+      "id": 5,
+      "question": "Fill in the blank: Your __________ is your strongest acquisition lever.",
+      "answer": "current customer base",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-your-is-your-strongest-acquisition-lever/"
+    },
+    {
+      "id": 6,
+      "question": "What does CRM stand for?",
+      "answer": "Customer Relationship Management",
+      "source_url": "https://www.gcertificationcourse.com/what-does-crm-stand-for/"
+    },
+    {
+      "id": 7,
+      "question": "What are the stages in the inbound methodology?",
+      "answer": "Attract, Engage, Delight",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-stages-in-the-inbound-methodology/"
+    },
+    {
+      "id": 8,
+      "question": "True or false? Attracting is the role of marketing. Engaging is the role of sales. Delighting is the role of services.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-attracting-is-the-role-of-marketing-engaging/"
+    },
+    {
+      "id": 9,
+      "question": "When does the engage stage of the inbound methodology begin?",
+      "answer": "The engage stage begins when a prospect or customer takes a desired action.",
+      "source_url": "https://www.gcertificationcourse.com/when-does-the-engage-stage-of-the-inbound-methodology-begin/"
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of the delight stage of the inbound methodology?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-the-delight-stage-of-the-inbound-methodology/"
+    },
+    {
+      "id": 11,
+      "question": "Fill in the blank: Inbound is about _____ with the world.",
+      "answer": "sharing your knowledge",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-inbound-is-about-with-the-world/"
+    },
+    {
+      "id": 12,
+      "question": "True or false? As buying behavior changes, the inbound philosophy will also evolve.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-as-buying-behavior-changes-the-inbound-philosophy/"
+    },
+    {
+      "id": 13,
+      "question": "The inbound methodology is a circle. What does it represent?",
+      "answer": "flywheel",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-inbound-methodology-is-a-circle/"
+    },
+    {
+      "id": 14,
+      "question": "Which place is recommended for the storage of your prospect's information?",
+      "answer": "A CRM system",
+      "source_url": "https://www.gcertificationcourse.com/which-place-is-recommended-for-the-storage-of-your-prospects/"
+    },
+    {
+      "id": 15,
+      "question": "True or false? It’s a best practice to gate and deliver the majority of your content over live chat.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-a-best-practice-to-gate-and-deliver/"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is NOT true about a flywheel?",
+      "answer": "Flywheels are able to stand unsupported for an indefinite amount of time.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-true-about-a-flywheel/"
+    },
+    {
+      "id": 17,
+      "question": "True or false? Every customer has to have a fantastic experience in order for your company’s flywheel to accelerate.",
+      "answer": "False — thinking of your company as a flywheel will encourage your teams to provide as good of an experience as possible, even to your most difficult customers.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-every-customer-has-to-have-a-fantastic-experience/"
+    },
+    {
+      "id": 18,
+      "question": "What is the relationship of funnels and flywheels to each other?",
+      "answer": "Individual funnels can be interconnected within a flywheel.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-relationship-of-funnels-and-flywheels-to-each-other/"
+    },
+    {
+      "id": 19,
+      "question": "How can thinking of your business as a flywheel foster cross-team collaboration?",
+      "answer": "If each team has separate funnels, a flywheel can help them understand how those funnels fit together and support each other.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-thinking-of-your-business-as-a-flywheel-foster/"
+    },
+    {
+      "id": 20,
+      "question": "What is the relationship between the inbound methodology and the concept of a flywheel?",
+      "answer": "The inbound methodology is shown as a circle. It presents the flywheel that will drive your businesses growth.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-relationship-between-the-inbound-methodology/"
+    },
+    {
+      "id": 21,
+      "question": "True or false? Every business exists primarily to create profits.",
+      "answer": "False — although most businesses have to generate profits in order to sustain themselves, every business exists to fulfill a specific purpose.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-every-business-exists-primarily-to-create-profits/"
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is the best way to align a company’s employees around a single purpose?",
+      "answer": "Defining a culture that encourages employees to focus on fulfilling the company’s purpose",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-best-way-to-align-a-companys-employees/"
+    },
+    {
+      "id": 23,
+      "question": "Which of the following is NOT a key part of a company’s culture?",
+      "answer": "What customers say about the company",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-key-part-of-a-companys-culture/"
+    },
+    {
+      "id": 24,
+      "question": "What is Jobs Theory?",
+      "answer": "A method for understanding why people buy certain products and services.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-jobs-theory/"
+    },
+    {
+      "id": 25,
+      "question": "When you use Jobs Theory to develop a timeline of events, where does that timeline start?",
+      "answer": "The first time a potential customer realizes they have a need.",
+      "source_url": "https://www.gcertificationcourse.com/when-you-use-jobs-theory-to-develop-a-timeline-of-events/"
+    },
+    {
+      "id": 26,
+      "question": "According to Jobs Theory, which of the following is an example of a job story?",
+      "answer": "When I’m on my way to work, I want a quick and easy breakfast so that I can finish eating before I get to work and not get hungry again until after my first meeting of the day.",
+      "source_url": "https://www.gcertificationcourse.com/according-to-jobs-theory-which-of-the-following-is-an-example/"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is NOT a “job dimension” that Jobs Theory might uncover?",
+      "answer": "Demographic information",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-job-dimension/"
+    },
+    {
+      "id": 28,
+      "question": "How does your company’s purpose affect “back office” teams (accounting, legal, etc.)?",
+      "answer": "Back office teams should find ways to make sure accounting processes, legal forms, etc. are focused on the needs of your customers.",
+      "source_url": "https://www.gcertificationcourse.com/how-does-your-companys-purpose-affect-back-office/"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following best describes a buyer persona?",
+      "answer": "A description of your ideal buyer that sounds like it’s talking about an individual person but is based on aggregated information about your target market",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-best-describes-a-buyer-persona/"
+    },
+    {
+      "id": 30,
+      "question": "Who at your company will buyer personas most benefit?",
+      "answer": "All customer-facing teams because a good buyer persona can provide value to marketing, sales, and services.",
+      "source_url": "https://www.gcertificationcourse.com/who-at-your-company-will-buyer-personas-most-benefit/"
+    },
+    {
+      "id": 31,
+      "question": "Who should be involved in creating your buyer personas?",
+      "answer": "Anybody who interacts with your customers, directly or indirectly, should be invited to give input.",
+      "source_url": "https://www.gcertificationcourse.com/who-should-be-involved-in-creating-your-buyer-personas/"
+    },
+    {
+      "id": 32,
+      "question": "What is the role of “back office” teams (accounting, legal, etc.) in creating buyer personas?",
+      "answer": "Back office teams often have key insights to offer during the creation process and should be invited to help create your buyer personas.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-role-of-back-office-teams-accounting-legal-etc/"
+    },
+    {
+      "id": 33,
+      "question": "True or false? There should be one person who is tasked with creating and maintaining your buyer personas.",
+      "answer": "True — you need to get input from as many people as possible, but you should have one person who is accountable for making sure personas are created and maintained.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-there-should-be-one-person-who-is-tasked/"
+    },
+    {
+      "id": 34,
+      "question": "What is the relationship between your company’s purpose and your buyer personas?",
+      "answer": "Having a deep understanding of the problem your company solves (purpose) can help you identify the people who have that problem (personas).",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-relationship-between-your-companys-purpose/"
+    },
+    {
+      "id": 35,
+      "question": "What kinds of information does your marketing team likely need included in a persona?",
+      "answer": "How the persona finds answers to problems and how they prefer to be communicated with",
+      "source_url": "https://www.gcertificationcourse.com/what-kinds-of-information-does-your-marketing-team-likely-need/"
+    },
+    {
+      "id": 36,
+      "question": "What kinds of information does your sales team likely need included in each persona?",
+      "answer": "The goals and challenges the persona typically has that your product can help with",
+      "source_url": "https://www.gcertificationcourse.com/what-kinds-of-information-does-your-sales-team-likely-need/"
+    },
+    {
+      "id": 37,
+      "question": "What kinds of information does your customer service team likely need included in each persona?",
+      "answer": "The parts of your offering that the persona likes most and least",
+      "source_url": "https://www.gcertificationcourse.com/what-kinds-of-information-does-your-customer-service-team/"
+    },
+    {
+      "id": 38,
+      "question": "When it comes to goal setting, what are objectives?",
+      "answer": "Objectives are statements that define the qualitative outcome of your goal.",
+      "source_url": "https://www.gcertificationcourse.com/when-it-comes-to-goal-setting-what-are-objectives/"
+    },
+    {
+      "id": 39,
+      "question": "True or false? Objectives typically have a designated time period, while key results can be long lived.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-objectives-typically-have-a-designated-time-period/"
+    },
+    {
+      "id": 40,
+      "question": "What is the three horizon framework?",
+      "answer": "The three horizon framework is a way to conceptualize what your business wants to accomplish in the short term, mid term, and long term.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-three-horizon-framework/"
+    },
+    {
+      "id": 41,
+      "question": "In the three horizon framework, what does horizon one symbolize?",
+      "answer": "The initiatives you take to power short-term success",
+      "source_url": "https://www.gcertificationcourse.com/in-the-three-horizon-framework-what-does-horizon-one-symbolize/"
+    },
+    {
+      "id": 42,
+      "question": "In the three horizon framework, what does horizon two symbolize?",
+      "answer": "The initiatives you take to power mid-term success",
+      "source_url": "https://www.gcertificationcourse.com/in-the-three-horizon-framework-what-does-horizon-two-symbolize/"
+    },
+    {
+      "id": 43,
+      "question": "In the three horizon framework, what does horizon three symbolize?",
+      "answer": "The initiatives you take to power long-term success",
+      "source_url": "https://www.gcertificationcourse.com/in-the-three-horizon-framework-what-does-horizon-three-symbolize/"
+    },
+    {
+      "id": 44,
+      "question": "What’s the maximum number of top priorities a company should have at any given time?",
+      "answer": "5-6",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-maximum-number-of-top-priorities-a-company-should-have/"
+    },
+    {
+      "id": 45,
+      "question": "Fill in the blank: You can attract people by using _________ to create content and experiences.",
+      "answer": "your expertise",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-you-can-attract-people-by-using/"
+    },
+    {
+      "id": 46,
+      "question": "In the engage stage what do you collect from an individual?",
+      "answer": "information",
+      "source_url": "https://www.gcertificationcourse.com/in-the-engage-stage-what-do-you-collect-from-an-individual/"
+    },
+    {
+      "id": 47,
+      "question": "What could a marketer use in the engage stage to engage with different segments of their audience?",
+      "answer": "Ad retargeting",
+      "source_url": "https://www.gcertificationcourse.com/what-could-a-marketer-use-in-the-engage-stage/"
+    },
+    {
+      "id": 48,
+      "question": "True or false? The buyer’s journey is only used by your marketing team.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-buyers-journey-is-only-used/"
+    },
+    {
+      "id": 49,
+      "question": "What might your customer service team use the buyer’s journey for?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/what-might-your-customer-service-team-use/"
+    },
+    {
+      "id": 50,
+      "question": "What is the relationship between a company’s profits and its purpose?",
+      "answer": "A company’s profits enable it to fulfill its purpose.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-relationship-between-a-companys/"
+    },
+    {
+      "id": 51,
+      "question": "How is your product’s “job to be done” tied to your customer’s personal identity?",
+      "answer": "Your customer wants your product to reflect what they believe about the world.",
+      "source_url": "https://www.gcertificationcourse.com/how-is-your-products-job-to-be-done-tied/"
+    },
+    {
+      "id": 52,
+      "question": "Your friend is starting a company and wants to identify the job their product will do for people. What advice would you give them?",
+      "answer": "Put a plan in place to interview your first few customers soon after they buy from you.",
+      "source_url": "https://www.gcertificationcourse.com/your-friend-is-starting-a-company-and-wants-to/"
+    },
+    {
+      "id": 53,
+      "question": "Why is it important to make sure the people buying your product are happy?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-important-to-make-sure-the-people-buying/"
+    },
+    {
+      "id": 54,
+      "question": "True or false? If you want to think of your company as a flywheel, you shouldn’t think of your sales process as a funnel.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-you-want-to-think-of-your-company/"
+    },
+    {
+      "id": 55,
+      "question": "How can thinking of your business as a flywheel improve the handoff between sales and services?",
+      "answer": "By giving more visibility into the steps involved to make the handoff go smoothly",
+      "source_url": "https://www.gcertificationcourse.com/how-can-thinking-of-your-business-as-a-flywheel/"
+    },
+    {
+      "id": 56,
+      "question": "Which of the following are principles of inbound? (Choose all that apply.)",
+      "answer": [
+        "Personalize for impact.",
+        "Empathize for perspective."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-are-principles-of-inbound/"
+    },
+    {
+      "id": 57,
+      "question": "Fill in the blank: During the attract stage of the inbound methodology, an inbound business focuses on __________________. (Choose all that apply.)",
+      "answer": [
+        "attracting prospects and customers through relevant and helpful content",
+        "immediately adding value to a prospect’s buyer’s journey"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-during-the-attract-stage-of-the-inbound/"
+    },
+    {
+      "id": 58,
+      "question": "True or false? Delight is only about the customer experience your service delivers.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-delight-is-only-about-the-customer/"
+    },
+    {
+      "id": 59,
+      "question": "Fill in the blank: _________ of consumers have discontinued communications with a company because of irrelevant promotions or messages.",
+      "answer": "94%",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-of-consumers-have-discontinued/"
+    },
+    {
+      "id": 60,
+      "question": "Fill in the blank: To build trust with your target audience, you need to align with the way they _________. (Choose all that apply.)",
+      "answer": [
+        "think",
+        "research",
+        "purchase"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-to-build-trust-with-your-target-audience/"
+    },
+    {
+      "id": 61,
+      "question": "If your content is focused on the different solutions to your buyer persona's problem, where would that content fit into the buyer's journey?",
+      "answer": "Consideration",
+      "source_url": "https://www.gcertificationcourse.com/if-your-content-is-focused-on-the-different-solutions-to-your-buyer/"
+    },
+    {
+      "id": 62,
+      "question": "What occurs during the attract stage of the inbound methodology?",
+      "answer": "You focus on bringing prospects and customers to your social pages or website through relevant and helpful content.",
+      "source_url": "https://www.gcertificationcourse.com/what-occurs-during-the-attract-stage-of-the-inbound-methodology/"
+    },
+    {
+      "id": 63,
+      "question": "Who is responsible for delighting prospects and customers?",
+      "answer": "Marketing, Sales, and Services",
+      "source_url": "https://www.gcertificationcourse.com/who-is-responsible-for-delighting-prospects-and-customers/"
+    },
+    {
+      "id": 64,
+      "question": "How can you apply flywheel thinking to your company’s budget?",
+      "answer": "By investing as much money into things that drive customer happiness—such as support teams and product improvements—as you do into acquiring new customers through marketing and sales.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-apply-flywheel-thinking-to-your-companys-budget/"
+    },
+    {
+      "id": 65,
+      "question": "If a sales rep is speaking with a specific person and discovers that the person doesn’t exactly match their assigned persona, what should the sales rep do?",
+      "answer": "Focus on serving the person using the information they provide even if it doesn’t match the persona. If the same discrepancy comes up repeatedly, the persona might need to be updated.",
+      "source_url": "https://www.gcertificationcourse.com/if-a-sales-rep-is-speaking-with-a-specific-person/"
+    },
+    {
+      "id": 66,
+      "question": "When it comes to goal setting, what are key results?",
+      "answer": "Key results are how you quantitatively benchmark and monitor how you get to the objective.",
+      "source_url": "https://www.gcertificationcourse.com/when-it-comes-to-goal-setting-what-are-key-results/"
+    },
+    {
+      "id": 67,
+      "question": "True or false? If one horizon begins to underperform, you should reallocate resources to those initiatives until they start performing well.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-one-horizon-begins-to-underperform-you-should/"
+    },
+    {
+      "id": 68,
+      "question": "Fill in the blank: _________ of customers will never do business with a company again after one negative experience.",
+      "answer": "51%",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-of-customers-will-never-do-business/"
+    },
+    {
+      "id": 69,
+      "question": "In a flywheel business, which of the following is the most important source of new prospects?",
+      "answer": "Word-of-mouth",
+      "source_url": "https://www.gcertificationcourse.com/in-a-flywheel-business-which-of-the-following-is-the-most-important/"
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T10:05:36.524400",
+  "course_info": {
+    "name": "Sales Enablement",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-sales-enablement-answers/",
+    "total_questions": 92,
+    "scraped_date": "2025-07-10 10:02:06"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The internet has changed the power dynamics between buyers and sellers. How does sales enablement help businesses use this change to their advantage?",
+      "answer": "By helping sales teams focus on the prospects who are most interested in buying.",
+      "source_url": "https://www.gcertificationcourse.com/the-internet-has-changed-the-power-dynamics/"
+    },
+    {
+      "id": 2,
+      "question": "Why is inbound an important part of a good sales enablement strategy?",
+      "answer": "Modern buyers do the majority of their buying research before talking with sales, so marketing and sales need to work together to make sure online information matches the information used by the sales team.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-inbound-an-important-part-of-a-good/"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a reason sales and marketing need to be aligned?",
+      "answer": "All of the above.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-reason-sales/"
+    },
+    {
+      "id": 4,
+      "question": "What is sales enablement?",
+      "answer": "The processes, content, and technology that help sales teams sell efficiently at a higher velocity.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-sales-enablement/"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is NOT part of a sales enablement strategy?",
+      "answer": "A marketing automation platform",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-part-of-a/"
+    },
+    {
+      "id": 6,
+      "question": "How do goals and a vision work together?",
+      "answer": "A vision inspires long-term action, and goals track individual steps toward achieving that vision.",
+      "source_url": "https://www.gcertificationcourse.com/how-do-goals-and-a-vision-work-together/"
+    },
+    {
+      "id": 7,
+      "question": "A vision should be all of the following EXCEPT:",
+      "answer": "Achievable within one year.",
+      "source_url": "https://www.gcertificationcourse.com/a-vision-should-be-all-of-the-following-except/"
+    },
+    {
+      "id": 8,
+      "question": "True or false? Marketing and sales should have separate revenue goals.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-marketing-and-sales-should/"
+    },
+    {
+      "id": 9,
+      "question": "It is important to translate your vision into a revenue goal for all of the following reasons EXCEPT:",
+      "answer": "Translating the vision into a revenue goal makes the vision easier to achieve.",
+      "source_url": "https://www.gcertificationcourse.com/it-is-important-to-translate-your-vision-into-a/"
+    },
+    {
+      "id": 10,
+      "question": "What is an ideal customer profile?",
+      "answer": "A checklist of the most basic attributes someone needs to have in order to be successful as your customer.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-an-ideal-customer-profile/"
+    },
+    {
+      "id": 11,
+      "question": "What is a hand raiser?",
+      "answer": "Someone who explicitly asks to talk to sales.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-hand-raiser/"
+    },
+    {
+      "id": 12,
+      "question": "What should your sales team do with marketing qualified leads?",
+      "answer": "Reach out to help and answer questions.",
+      "source_url": "https://www.gcertificationcourse.com/what-should-your-sales-team-do-with-marketing/"
+    },
+    {
+      "id": 13,
+      "question": "If you find yourself with a lot of poor-fit leads, all of the following are good ways to solve this problem EXCEPT:",
+      "answer": "Send the leads to sales for further qualification.",
+      "source_url": "https://www.gcertificationcourse.com/if-you-find-yourself-with-a-lot-of-poor-fit-leads/"
+    },
+    {
+      "id": 14,
+      "question": "What should you do with the leads in box 1?",
+      "answer": "Have sales contact them.",
+      "source_url": "https://www.gcertificationcourse.com/what-should-you-do-with-the-leads-in-box-1/"
+    },
+    {
+      "id": 15,
+      "question": "What should you do with the leads in box 2?",
+      "answer": "Have sales contact them.",
+      "source_url": "https://www.gcertificationcourse.com/what-should-you-do-with-the-leads-in-box-2/"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following BEST describes a sales and marketing service-level agreement (SLA)?",
+      "answer": "An agreement between sales and marketing that requires certain actions from each team.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-best-describes-a-sales/"
+    },
+    {
+      "id": 17,
+      "question": "What does a sales and marketing service-level agreement (SLA) require marketing to do?",
+      "answer": "Provide sales with a certain number of qualified leads.",
+      "source_url": "https://www.gcertificationcourse.com/what-does-a-sales-and-marketing-service/"
+    },
+    {
+      "id": 18,
+      "question": "What does a sales and marketing service-level agreement (SLA) require sales to do?",
+      "answer": "Contact the leads marketing generates within a certain timeframe.",
+      "source_url": "https://www.gcertificationcourse.com/what-does-a-sales-and-marketing-service-level/"
+    },
+    {
+      "id": 19,
+      "question": "Evaluate this SLA: Marketing will generate 2,000 qualified leads each month, and sales will contact each lead as soon as possible.",
+      "answer": "This SLA's requirements aren’t specific enough.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-sla-marketing-will-generate-2/"
+    },
+    {
+      "id": 20,
+      "question": "Evaluate this SLA: Marketing will generate 250 qualified leads each month, and sales will convert 50 of those leads into customers.",
+      "answer": "This SLA's requirements focus on the wrong activities.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-sla-marketing-will-generate/"
+    },
+    {
+      "id": 21,
+      "question": "Evaluate this SLA: Marketing will generate 50 leads each month.",
+      "answer": "This SLA is missing a requirement.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-sla-marketing-will-generate-50-leads/"
+    },
+    {
+      "id": 22,
+      "question": "If your service-level agreement requires your marketing team to generate 40 qualified leads each month, how should they deliver those leads?",
+      "answer": "At a steady rate, about 10 leads each week.",
+      "source_url": "https://www.gcertificationcourse.com/if-your-service-level-agreement-requires-your-marketing/"
+    },
+    {
+      "id": 23,
+      "question": "If your service-level agreement provides your sales team with more leads than they can handle, what's the FIRST thing you should do?",
+      "answer": "Evaluate each rep’s sales velocity and look for areas that can be improved.",
+      "source_url": "https://www.gcertificationcourse.com/if-your-service-level-agreement-provides-your-sales/"
+    },
+    {
+      "id": 24,
+      "question": "True or false? The judicial branch must be more than one person.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-judicial-branch-must-be/"
+    },
+    {
+      "id": 25,
+      "question": "After you explain the concept of a judicial branch to your CEO, she says, “Great! I’ll have the sales leadership team make that part of their monthly meeting.” How do you respond?",
+      "answer": "“In the interest of being unbiased, I think it would be better to have the judicial branch made up of people who are outside of the sales and marketing organization.”",
+      "source_url": "https://www.gcertificationcourse.com/after-you-explain-the-concept-of-a-judicial-branch/"
+    },
+    {
+      "id": 26,
+      "question": "True or false? Contacting new leads within five minutes is better than contacting them within 24 hours.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-contacting-new-leads-within-five-minutes/"
+    },
+    {
+      "id": 27,
+      "question": "What is the difference between work groups and teams?",
+      "answer": "Members of a work group are independent from each other, while members of a team rely on each other to get work done.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-difference-between-work-groups-and-teams/"
+    },
+    {
+      "id": 28,
+      "question": "What is the purpose of smarketing meetings?",
+      "answer": "To have marketing and sales come together to identify and solve problems.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-smarketing-meetings/"
+    },
+    {
+      "id": 29,
+      "question": "True or false? Executive leaders should attend smarketing meetings.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-executive-leaders-should-attend-smarketing/"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is the BEST way to ensure your smarketing meetings have a high level of psychological safety?",
+      "answer": "Make sure all of the attendees speak in roughly equal amounts.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-best-way-2/"
+    },
+    {
+      "id": 31,
+      "question": "Why should defining your target buyer be part of your sales enablement strategy?",
+      "answer": "It will increase your sales efficiency by helping your sales team spend more time with people who are more likely to buy.",
+      "source_url": "https://www.gcertificationcourse.com/why-should-defining-your-target-buyer/"
+    },
+    {
+      "id": 32,
+      "question": "What is a buyer persona?",
+      "answer": [
+        "A semi-fictional representation of your ideal customer based on real data and some select educated speculation",
+        "A semi-fictional representation of your ideal customer based on data.",
+        "A fictional representation of your ideal customer"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-buyer-persona/"
+    },
+    {
+      "id": 33,
+      "question": "True or false? Personas can change over time.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-personas-can-change-over-time/"
+    },
+    {
+      "id": 34,
+      "question": "When you ask your customers about their goals and challenges, what are you trying to figure out?",
+      "answer": "How you can help them overcome their challenges and achieve their goals.",
+      "source_url": "https://www.gcertificationcourse.com/when-you-ask-your-customers-about-their-goals/"
+    },
+    {
+      "id": 35,
+      "question": "How many customers do you need to interview in order to develop a high quality buyer persona?",
+      "answer": "About 15",
+      "source_url": "https://www.gcertificationcourse.com/how-many-customers-do-you-need-to-interview/"
+    },
+    {
+      "id": 36,
+      "question": "Fill in the blank: While buyer personas help you understand who your customer is, Jobs to Be Done helps you understand your customer’s _____.",
+      "answer": "motivations",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-while-buyer-personas-help-you/"
+    },
+    {
+      "id": 37,
+      "question": "Karen just got home late from work and her kids are hungry. Which of the following BEST describes her job to be done?",
+      "answer": "“I need to feed my kids a healthy meal that won’t take long to make.”",
+      "source_url": "https://www.gcertificationcourse.com/karen-just-got-home-late-from-work/"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following BEST describes the difference between persona interviews and Jobs to Be Done interviews?",
+      "answer": "Persona interviews seek to uncover facts about a person, while Jobs to Be Done interviews try to piece together a narrative.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-best-describes-the-difference/"
+    },
+    {
+      "id": 39,
+      "question": "After creating your hero statement, you identify a type of person who is interested in your product that you can’t be a hero to. What should you do for these people?",
+      "answer": "Make it clear early on that your product isn’t a good fit for them.",
+      "source_url": "https://www.gcertificationcourse.com/after-creating-your-hero-statement-you-identify/"
+    },
+    {
+      "id": 40,
+      "question": "Evaluate this hero statement: Jepsonite Security Systems is a hero to first-time homeowners who are in the market for a security system.",
+      "answer": "The job to be done isn’t specific enough.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-hero-statement-jepsonite-security/"
+    },
+    {
+      "id": 41,
+      "question": "Evaluate this hero statement: Groundskeeper, Inc. is a hero to property managers at mid-size property management firms who need to outsource their landscaping so they can focus their attention on taking care of their tenants.",
+      "answer": "No change needed.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-hero-statement-groundskeeper/"
+    },
+    {
+      "id": 42,
+      "question": "Evaluate this hero statement: Super Veggie Juice Co. is a hero to people who want to eat healthy but don’t have the time to cook and eat vegetables.",
+      "answer": "The persona isn’t specific enough.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-hero-statement-super-veggie-juice/"
+    },
+    {
+      "id": 43,
+      "question": "All of the following are benefits of involving content in your sales process EXCEPT:",
+      "answer": "Content enables your sales team to charge more for your product.",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-benefits-of-involving/"
+    },
+    {
+      "id": 44,
+      "question": "What should the content your sales team uses during the sales process do?",
+      "answer": "All of the above.",
+      "source_url": "https://www.gcertificationcourse.com/what-should-the-content-your-sales-team/"
+    },
+    {
+      "id": 45,
+      "question": "True or false? If your marketing team is producing a lot of content, a large percentage of it is naturally going to be valuable to the sales team.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-your-marketing-team-is-producing/"
+    },
+    {
+      "id": 46,
+      "question": "Fill in the blank: _____ is the glue that holds sales and marketing teams together.",
+      "answer": "Content",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-is-the-glue-that-holds-sales-and-marketing/"
+    },
+    {
+      "id": 47,
+      "question": "In most companies, which department produces the most content?",
+      "answer": "Sales",
+      "source_url": "https://www.gcertificationcourse.com/in-most-companies-which-department-produces/"
+    },
+    {
+      "id": 48,
+      "question": "What's the sales team's role in content creation?",
+      "answer": "Sales should be involved in content creation on an ongoing basis.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-sales-teams-role-in-content-creation/"
+    },
+    {
+      "id": 49,
+      "question": "All of the following are ways to involve your sales team in the content creation process EXCEPT:",
+      "answer": "Have individual sales reps take turns acting as content manager.",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-ways-to-involve/"
+    },
+    {
+      "id": 50,
+      "question": "Which departments should be involved in creating content?",
+      "answer": "All departments",
+      "source_url": "https://www.gcertificationcourse.com/which-departments-should-be-involved-in-creating-content/"
+    },
+    {
+      "id": 51,
+      "question": "You tell your executive team that your company should have a content manager, and they ask, “Can’t someone take that on as a side project?” How should you respond?",
+      "answer": "“That’s a good way to start, but we should put a plan in place for expanding the role into a full-time duty.”",
+      "source_url": "https://www.gcertificationcourse.com/you-tell-your-executive-team-that-your-company/"
+    },
+    {
+      "id": 52,
+      "question": "hich of the following places would be a good place to experiment with video?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-places-would-be-a-good/"
+    },
+    {
+      "id": 53,
+      "question": "What is an insights committee?",
+      "answer": "A group of employees who help with content creation.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-an-insights-committee/"
+    },
+    {
+      "id": 54,
+      "question": "True or false? Content should be a part of every step in your sales process.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-content-should-be-a-part/"
+    },
+    {
+      "id": 55,
+      "question": "Which of the following is the BEST explanation of what it means to help your customers “fire” their old solution?",
+      "answer": "Helping them stop using whatever their previous solution was, even if they were “making do” without a product.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-best-explanation/"
+    },
+    {
+      "id": 56,
+      "question": "A member of your marketing team wants to send a sales offer to your existing customers. How do you respond?",
+      "answer": "“That’s fine, as long as it helps them do the job they hired our product to do.”",
+      "source_url": "https://www.gcertificationcourse.com/a-member-of-your-marketing-team-wants/"
+    },
+    {
+      "id": 57,
+      "question": "Which of the following is NOT part of customer enablement?",
+      "answer": "Helping your customers see your competitors’ failings.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-part-of-customer-enablement/"
+    },
+    {
+      "id": 58,
+      "question": "True or false? If your product can be used to do more than one job, content that talks about all of those jobs will be relevant to your customers.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-your-product-can-be-used/"
+    },
+    {
+      "id": 59,
+      "question": "All of the following are reasons to implement technology as part of your sales enablement strategy EXCEPT:",
+      "answer": "To replace your processes.",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-reasons-to-implement/"
+    },
+    {
+      "id": 60,
+      "question": "Which of the following is an example of a formal job story?",
+      "answer": "Buy now",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-a-call/"
+    },
+    {
+      "id": 61,
+      "question": "True or false? Inbound means creating marketing and sales that people love by providing helpful content and resources that attract people to you.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-inbound-means-creating-marketing/"
+    },
+    {
+      "id": 62,
+      "question": "What’s the difference between a vision and a goal?",
+      "answer": "A vision is a state of affairs you want to bring into being. A goal is a metric outcome you can check off a list.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-difference-between-a-vision-and-a-goal/"
+    },
+    {
+      "id": 63,
+      "question": "True or false? You need a vision or goals but not both.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-need-a-vision/"
+    },
+    {
+      "id": 64,
+      "question": "What should you do with the leads in box 3?",
+      "answer": "Have marketing nurture them.",
+      "source_url": "https://www.gcertificationcourse.com/what-should-you-do-with-the-leads-in-box-3/"
+    },
+    {
+      "id": 65,
+      "question": "If your service-level agreement requires your marketing team to produce more leads than they normally do, what is the FIRST thing you should do?",
+      "answer": "Evaluate your marketing resources to see if they can be reallocated into higher-performing assets.",
+      "source_url": "https://www.gcertificationcourse.com/if-your-service-level-agreement-requires-your-marketing-2/"
+    },
+    {
+      "id": 66,
+      "question": "If the leads your marketing team produces are consistently low quality, which of the following is the BEST way to improve your lead quality?",
+      "answer": "Optimize your messaging to stop attracting the wrong people.",
+      "source_url": "https://www.gcertificationcourse.com/if-the-leads-your-marketing-team-produces/"
+    },
+    {
+      "id": 67,
+      "question": "What is the difference between an ideal customer profile and a buyer persona?",
+      "answer": "An ideal customer profile broadly describes your target market, and personas describe the types of people in that market.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-difference-between-an-ideal/"
+    },
+    {
+      "id": 68,
+      "question": "What does it mean to ask a customer about their “watering holes”?",
+      "answer": "Ask them where they learn new things related to their job.",
+      "source_url": "https://www.gcertificationcourse.com/what-does-it-mean-to-ask-a-customer/"
+    },
+    {
+      "id": 69,
+      "question": "What is the relationship between personas and Jobs to Be Done?",
+      "answer": "Personas identify the type of person you should sell to, and jobs describes what you can help them do.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-relationship-between-personas/"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is NOT an element of a hero statement?",
+      "answer": "A sales goal",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-element/"
+    },
+    {
+      "id": 71,
+      "question": "If your website doesn’t have much content to attract visitors, which of the following would be the best content to create first?",
+      "answer": "Articles that answer sales-related questions, such as how much your product costs.",
+      "source_url": "https://www.gcertificationcourse.com/if-your-website-doesnt-have-much-content/"
+    },
+    {
+      "id": 72,
+      "question": "True or false? You should only create video content if you have a high-quality camera and lights.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-only-create-video-content/"
+    },
+    {
+      "id": 73,
+      "question": "All of the following are reasons to extend your sales enablement efforts beyond the sale EXCEPT:",
+      "answer": "It increases your sales team's likelihood of hitting their quotas.",
+      "source_url": "https://www.gcertificationcourse.com/all-of-the-following-are-reasons-to-extend-your-sales/"
+    },
+    {
+      "id": 74,
+      "question": "Which of the following is an example of a core system?",
+      "answer": "CRM",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-a-core-system/"
+    },
+    {
+      "id": 75,
+      "question": "True or false? Marketing and sales should share a single database of customer information.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-marketing-and-sales-should-share/"
+    },
+    {
+      "id": 76,
+      "question": "Fill in the blanks: You need to figure out your _____ before you can implement a _____.",
+      "answer": "process, technology",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blanks-you-need-to-figure-out-your/"
+    },
+    {
+      "id": 77,
+      "question": "True or false? If you don’t have enough hand raisers and good-fit, sales-ready leads to keep your sales team busy, your sales reps should find helpful ways to reach out to good-fit leads that aren’t sales ready.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-you-dont-have-enough-hand/"
+    },
+    {
+      "id": 78,
+      "question": "What is a judicial branch?",
+      "answer": "A small group of leaders who review every lead sales rejects.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-judicial-branch/"
+    },
+    {
+      "id": 79,
+      "question": "Why are smarketing meetings an important part of a sales enablement strategy?",
+      "answer": "They maintain alignment between marketing and sales.",
+      "source_url": "https://www.gcertificationcourse.com/why-are-smarketing-meetings-an-important-part/"
+    },
+    {
+      "id": 80,
+      "question": "When asking a customer about their shopping preferences, you want to learn all of the following EXCEPT:",
+      "answer": "What features they look for in a product like yours.",
+      "source_url": "https://www.gcertificationcourse.com/when-asking-a-customer-about-their-shopping/"
+    },
+    {
+      "id": 81,
+      "question": "Which of the following is the BEST way to uncover the job that people hire your product to do?",
+      "answer": "By interviewing individual customers.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-best-way/"
+    },
+    {
+      "id": 82,
+      "question": "Which of the following best describes the relationship between the interview process for identifying Jobs To Be Done and the interview process for understanding personas?",
+      "answer": "Persona interviews focus on understanding the sort of person you're interviewing, while Jobs To Be Done interviews focuses on the reason they bought your product.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-best-describes-the-relationship/"
+    },
+    {
+      "id": 83,
+      "question": "True or false? You should create a separate hero statement for each of your personas.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-create-a-separate-hero/"
+    },
+    {
+      "id": 84,
+      "question": "How quickly should a member of your sales team be able to find a relevant piece of content to share with one of their leads?",
+      "answer": "Within a minute.",
+      "source_url": "https://www.gcertificationcourse.com/how-quickly-should-a-member-of-your-sales-team/"
+    },
+    {
+      "id": 85,
+      "question": "True or false? Some potential customers won’t buy because they don’t know how to fire their old solution.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-some-potential-customers-wont-buy/"
+    },
+    {
+      "id": 86,
+      "question": "Which of the following is an example of an edge system?",
+      "answer": "Email templates",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-an-edge-system/"
+    },
+    {
+      "id": 87,
+      "question": "True or false? You should invest in keeping your technological core in place long-term, but you can experiment with your edge technologies and change them easily.",
+      "answer": "True — Although your core system can be changed, changing it frequently is complicated and can lead to confusion. But the edges are a great place to experiment and try new things.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-invest-in-keeping/"
+    },
+    {
+      "id": 88,
+      "question": "Evaluate this SLA: Marketing will generate five qualified leads each month, and sales will contact each of them within 12 hours.",
+      "answer": "No change needed.",
+      "source_url": "https://www.gcertificationcourse.com/evaluate-this-sla-marketing-will-generate-3/"
+    },
+    {
+      "id": 89,
+      "question": "You explain the concept of smarketing meetings to your leadership team, and one person asks, “How often do we need to have these meetings?” How do you respond?",
+      "answer": "“We’ll have to figure out what works best for us, but every two weeks is a good place to start.”",
+      "source_url": "https://www.gcertificationcourse.com/you-explain-the-concept-of-smarketing-meetings/"
+    },
+    {
+      "id": 90,
+      "question": "Which of the following is a benefit of using Jobs to Be Done?",
+      "answer": "All of the above.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-a-benefit-of-using-jobs/"
+    },
+    {
+      "id": 91,
+      "question": "Which of the following is NOT a benefit of implementing a sales and marketing service-level agreement (SLA)?",
+      "answer": "A single leadership team over sales and marketing.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-benefit/"
+    },
+    {
+      "id": 92,
+      "question": "Which of the following is an example of a formal job story?",
+      "answer": "As a founder, when my company has grown beyond my ability to control it, I want to learn the strategies and design the playbooks that will help me guide the growth of my company, so that I can double the size of my company in the next three to five years.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-a-formal-job-story/"
+    }
+  ]
+}

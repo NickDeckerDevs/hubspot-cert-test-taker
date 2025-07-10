@@ -1,0 +1,558 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T09:56:47.064210",
+  "course_info": {
+    "name": "HubSpot Sales Hub Software",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-sales-software-certification-answers/",
+    "total_questions": 90,
+    "scraped_date": "2025-07-10 09:53:19"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Imagine you want to book a meeting with the first available salesperson instead of waiting for someone specific. What type of meeting should you select?",
+      "answer": "Round robin",
+      "source_url": "https://www.gcertificationcourse.com/imagine-you-want-to-book-a-meeting-with/"
+    },
+    {
+      "id": 2,
+      "question": "Fill in the blank: Placeholder tokens in templates appear as _____.",
+      "answer": "capital letters and are meant to be updated",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-placeholder-tokens-in/"
+    },
+    {
+      "id": 3,
+      "question": "What are snippets in HubSpot?",
+      "answer": "Short, reusable text blocks that can be used to quickly add commonly used phrases or paragraphs in things like notes and emails",
+      "source_url": "https://www.gcertificationcourse.com/what-are-snippets-in-hubspot/"
+    },
+    {
+      "id": 4,
+      "question": "True or false? The Feed tab is unique to the user account you're signed into, regardless of account privileges.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-feed-tab-is-unique-to/"
+    },
+    {
+      "id": 5,
+      "question": "On the summary page of the prospecting workspace, which of these is not a column related to your tasks?",
+      "answer": "Due yesterday",
+      "source_url": "https://www.gcertificationcourse.com/on-the-summary-page-of-the-prospecting/"
+    },
+    {
+      "id": 6,
+      "question": "True or false? Company records in HubSpot do NOT have timelines.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-company-records-in-hubspot/"
+    },
+    {
+      "id": 7,
+      "question": "True or false? Templates in HubSpot can be customized with your company's branding and logo.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-templates-in-hubspot-can-be/"
+    },
+    {
+      "id": 8,
+      "question": "Fill in the blank: When a contact replies to an email within a sequence, the remaining emails to that contact will be ______ automatically.",
+      "answer": "canceled",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-when-a-contact-replies/"
+    },
+    {
+      "id": 9,
+      "question": "In HubSpot's sequences tool, what feature allows you to distribute sends evenly across different versions of an email to capture data on performance?",
+      "answer": "A/B Testing",
+      "source_url": "https://www.gcertificationcourse.com/in-hubspots-sequences-tool-what-feature/"
+    },
+    {
+      "id": 10,
+      "question": "What types of playbooks are available for creating call outlines based on the script?",
+      "answer": "Discovery Call playbooks and Qualification Call playbooks",
+      "source_url": "https://www.gcertificationcourse.com/what-types-of-playbooks-are-available-for/"
+    },
+    {
+      "id": 11,
+      "question": "True or false? The meetings tool in HubSpot allows contacts to book time directly with you based on your Zoom or Dialpad calendars.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-meetings-tool-in-hubspot/"
+    },
+    {
+      "id": 12,
+      "question": "Fill in the blank: In HubSpot's deals tool, deals ideally progress from _____ on the board.",
+      "answer": "left to right",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-in-hubspots-deals-tool/"
+    },
+    {
+      "id": 13,
+      "question": "Fill in the blank: _____ payments in the quoting tool is available only with Enterprise seats.",
+      "answer": "E-Signature",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-payments-in-the-quoting/"
+    },
+    {
+      "id": 14,
+      "question": "What is the purpose of including countersignature space in a quote generated using HubSpot's quotes tool?",
+      "answer": "To allow an additional person to approve the quote",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-including-countersignature/"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is NOT a payment option that can be selected when setting up payment details in HubSpot's quotes tool?",
+      "answer": "PayPal",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-payment/"
+    },
+    {
+      "id": 16,
+      "question": "True or false? When creating a reporting dashboard from a template, the reports included CANNOT be removed.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-creating-a-reporting/"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is NOT a sales goal that can be set in goals?",
+      "answer": "Product quantity",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-sales-goal/"
+    },
+    {
+      "id": 18,
+      "question": "Fill in the blank: ____ in conversation intelligence tracks terms used during sales calls to provide valuable data and reporting.",
+      "answer": "Insights",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-in-conversation-intelligence-2/"
+    },
+    {
+      "id": 19,
+      "question": "You’re a sales manager and have recognized a pattern of mediocre sales call recordings and want to further educate your team. Which tool could you use to educate your team to improve performance?",
+      "answer": "Playlists",
+      "source_url": "https://www.gcertificationcourse.com/youre-a-sales-manager-and-have-recognized/"
+    },
+    {
+      "id": 20,
+      "question": "How does the share feature in conversation intelligence allow managers to provide feedback to sales reps?",
+      "answer": "By customizing the listening segment and drafting a message for specific individuals or groups",
+      "source_url": "https://www.gcertificationcourse.com/how-does-the-share-feature-in-conversation/"
+    },
+    {
+      "id": 21,
+      "question": "What type of data can be reviewed in the stats section of conversation intelligence?",
+      "answer": "How often the salesperson is speaking compared to the prospect",
+      "source_url": "https://www.gcertificationcourse.com/what-type-of-data-can-be-reviewed-in-the/"
+    },
+    {
+      "id": 22,
+      "question": "As a salesperson using HubSpot, you are about to make a call to a prospect and want to follow a prepared outline during the conversation. Which HubSpot tool can you use to insert pre-defined text blocks with question prompts for your call outlines?",
+      "answer": "Snippets",
+      "source_url": "https://www.gcertificationcourse.com/as-a-salesperson-using-hubspot-you-are/"
+    },
+    {
+      "id": 23,
+      "question": "Which example would be used to insert a snippet in rich text?",
+      "answer": "#discovery",
+      "source_url": "https://www.gcertificationcourse.com/which-example-would-be-used-to-insert/"
+    },
+    {
+      "id": 24,
+      "question": "How do you use lifecycle stages when talking about leads?",
+      "answer": "Lifecycle stages help you categorize contacts and companies based on where they are in the sales process.",
+      "source_url": "https://www.gcertificationcourse.com/how-do-you-use-lifecycle-stages-when/"
+    },
+    {
+      "id": 25,
+      "question": "True or false? All leads are manually entered into HubSpot.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-all-leads-are-manually-entered/"
+    },
+    {
+      "id": 26,
+      "question": "Fill in the blank: While working from the prospecting workspace, the lead stage automatically updates to _____ after you send an email.",
+      "answer": "attempted",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-while-working-from-the/"
+    },
+    {
+      "id": 27,
+      "question": "True or false? When viewing leads in the prospecting workspace, you can toggle between a list view and a board view.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-viewing-leads-in-the/"
+    },
+    {
+      "id": 28,
+      "question": "Fill in the blank: There are three scheduling page options for meetings: One-on-One, Group, and _____.",
+      "answer": "Round robin",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-there-are-three-scheduling/"
+    },
+    {
+      "id": 29,
+      "question": "Fill in the blank: The right sidebar on a contact or company record shows all _____.",
+      "answer": "associated Objects",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-right-sidebar-on-a/"
+    },
+    {
+      "id": 30,
+      "question": "Fill in the blank: With ______, you can create conditional redirect rules to automatically qualify and route your lead to the appropriate rep.",
+      "answer": "lead form routing",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-with-you-can-create/"
+    },
+    {
+      "id": 31,
+      "question": "Which option in the main navigation routes to Chatflows?",
+      "answer": "Automations",
+      "source_url": "https://www.gcertificationcourse.com/which-option-in-the-main-navigation-routes/"
+    },
+    {
+      "id": 32,
+      "question": "True or false? Chatbots CANNOT book meetings.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-chatbots-cannot-book/"
+    },
+    {
+      "id": 33,
+      "question": "How can you mark a task as complete in HubSpot?",
+      "answer": "Click the checkmark next to the task.",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-mark-a-task-as-complete-in/"
+    },
+    {
+      "id": 34,
+      "question": "Which two tabs are found in the contact timeline in HubSpot?",
+      "answer": "Overview and Activities",
+      "source_url": "https://www.gcertificationcourse.com/which-two-tabs-are-found-in-the-contact/"
+    },
+    {
+      "id": 35,
+      "question": "What field allows you to select who'll be responsible for completing a task in HubSpot?",
+      "answer": "Assigned to",
+      "source_url": "https://www.gcertificationcourse.com/what-field-allows-you-to-select-wholl-be/"
+    },
+    {
+      "id": 36,
+      "question": "True or false? You can create tasks in HubSpot using the mobile app.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-create-tasks-in/"
+    },
+    {
+      "id": 37,
+      "question": "True or false? Templates in HubSpot automatically populate the subject line and body of your email.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-templates-in-hubspot/"
+    },
+    {
+      "id": 38,
+      "question": "Fill in the blank: Email tracking in HubSpot allows you to know when an email is _______.",
+      "answer": "opened or clicked",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-email-tracking-in-hubspot/"
+    },
+    {
+      "id": 39,
+      "question": "Fill in the blank: In HubSpot, you can attach .docx, .pptx, .xlsx, and _____ documents to your emails.",
+      "answer": ".pdf",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-in-hubspot-you-can/"
+    },
+    {
+      "id": 40,
+      "question": "Select all that apply. When composing an email in HubSpot, clicking Meetings allows you to take what actions?",
+      "answer": [
+        "Insert a scheduling link.",
+        "Insert proposed times."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-when-composing-an/"
+    },
+    {
+      "id": 41,
+      "question": "True or false? HubSpot's email tracking allows you to see the exact location of the recipient when they open your email.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-hubspots-email-tracking/"
+    },
+    {
+      "id": 42,
+      "question": "Fill in the blank: The compact card style in the deals tool displays _____.",
+      "answer": "the same information as the default style",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-compact-card-style/"
+    },
+    {
+      "id": 43,
+      "question": "What tool in HubSpot helps users automate email sending, create follow-up tasks, and run A/B tests?",
+      "answer": "Sequences",
+      "source_url": "https://www.gcertificationcourse.com/what-tool-in-hubspot-helps-users-automate/"
+    },
+    {
+      "id": 44,
+      "question": "What are the available options for email types when using HubSpot's AI assistant?",
+      "answer": "Introduction email, Cold outreach email, Follow up email",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-available-options-for-email/"
+    },
+    {
+      "id": 45,
+      "question": "How can you save the call and complete the task after finishing a call with a prospect in HubSpot?",
+      "answer": "Hang up and save call",
+      "source_url": "https://www.gcertificationcourse.com/how-can-you-save-the-call-and-complete/"
+    },
+    {
+      "id": 46,
+      "question": "Which HubSpot tool is used to track contacts from lead to sales opportunity to becoming a customer?",
+      "answer": "Deals",
+      "source_url": "https://www.gcertificationcourse.com/which-hubspot-tool-is-used-to-track/"
+    },
+    {
+      "id": 47,
+      "question": "In the board view of HubSpot’s deals tool, what should you do to progress a deal from one stage to another?",
+      "answer": "Drag and drop the deal within the same column",
+      "source_url": "https://www.gcertificationcourse.com/in-the-board-view-of-hubspots-deals-tool/"
+    },
+    {
+      "id": 48,
+      "question": "What default lead stage automatically creates a deal in the prospecting workspace?",
+      "answer": "Qualified",
+      "source_url": "https://www.gcertificationcourse.com/what-default-lead-stage-automatically/"
+    },
+    {
+      "id": 49,
+      "question": "Why is setting the close date for a deal important in the sales process?",
+      "answer": "Marks the anticipated closing date of the deal",
+      "source_url": "https://www.gcertificationcourse.com/why-is-setting-the-close-date-for-a-deal/"
+    },
+    {
+      "id": 50,
+      "question": "How can HubSpot's products and quotes tools help salespeople in their interactions with prospects?",
+      "answer": "By organizing products and services, associating them with deals, and creating proposals",
+      "source_url": "https://www.gcertificationcourse.com/how-can-hubspots-products-and-quotes-tools/"
+    },
+    {
+      "id": 51,
+      "question": "What does the line items feature in HubSpot's deals tool allow salespeople to do?",
+      "answer": "Add products or services",
+      "source_url": "https://www.gcertificationcourse.com/what-does-the-line-items-feature-in/"
+    },
+    {
+      "id": 52,
+      "question": "True or false? The sales manager dashboard in HubSpot includes reports such as Deals Closed Totals vs. Goals and Activity Leaderboard.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-sales-manager-dashboard/"
+    },
+    {
+      "id": 53,
+      "question": "True or false? In HubSpot's reporting tool, you can use quick filters to organize by date range, owners, and teams.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-in-hubspots-reporting-tool/"
+    },
+    {
+      "id": 54,
+      "question": "Which of these is NOT a part of the report collections for Sales?",
+      "answer": "Outreach analytics",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-is-not-a-part-of-the-report/"
+    },
+    {
+      "id": 55,
+      "question": "Fill in the blank: The ____ tool in Sales Hub allows you to send email notifications for goal kick-off and goal achievement statuses.",
+      "answer": "goals",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-tool-in-sales-hub-2/"
+    },
+    {
+      "id": 56,
+      "question": "True or false? The Forecast tool can visualize any team or user goal.",
+      "answer": "False - Forecasting is revenue-based only, whereas Goals can have other outcomes besides revenue.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-forecast-tool-can/"
+    },
+    {
+      "id": 57,
+      "question": "Fill in the blank: _____ enables teams to capture, record, and analyze sales calls.",
+      "answer": "Conversation intelligence",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-enables-teams-to-capture/"
+    },
+    {
+      "id": 58,
+      "question": "After managing multiple deals in your sales pipeline, you realize that a few promising leads are not progressing as expected. Which customization feature in HubSpot's deal board can help you identify deals that need attention due to inactivity?",
+      "answer": "Inactive Cards",
+      "source_url": "https://www.gcertificationcourse.com/after-managing-multiple-deals-in-your/"
+    },
+    {
+      "id": 59,
+      "question": "As a salesperson using HubSpot, you need to email a prospect from the prospecting workspace. Which feature within the email window allows you to add frequently used marketing materials, slides, or data sheets to your prospect emails?",
+      "answer": "Documents",
+      "source_url": "https://www.gcertificationcourse.com/as-a-salesperson-using-hubspot-you-need/"
+    },
+    {
+      "id": 60,
+      "question": "You’re creating a reporting dashboard and need to select visibility options. Which of these CANNOT be set as a visibility option?",
+      "answer": "External",
+      "source_url": "https://www.gcertificationcourse.com/youre-creating-a-reporting-dashboard-and/"
+    },
+    {
+      "id": 61,
+      "question": "True or false? You can personalize email content using contact properties in HubSpot.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-personalize-email/"
+    },
+    {
+      "id": 62,
+      "question": "What tone options can a user choose from when generating emails using HubSpot's AI assistant?",
+      "answer": "Professional, Helpful, Witty, Formal, Optimistic",
+      "source_url": "https://www.gcertificationcourse.com/what-tone-options-can-a-user-choose-from/"
+    },
+    {
+      "id": 63,
+      "question": "What is the purpose of the deals tool in HubSpot?",
+      "answer": "Track sales progress",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-the-deals-tool-in/"
+    },
+    {
+      "id": 64,
+      "question": "True or false? HubSpot's products and quotes tools enable salespeople to organize products and services, associate them with deals, and create proposals.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-hubspots-products-and-quotes/"
+    },
+    {
+      "id": 65,
+      "question": "Which of the following is NOT an option for signature on a quote generated in HubSpot's quotes tool?",
+      "answer": "Require a verbal confirmation",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-option-2/"
+    },
+    {
+      "id": 66,
+      "question": "After composing an email in HubSpot and selecting Send later, what options are available?",
+      "answer": "All of the above.",
+      "source_url": "https://www.gcertificationcourse.com/after-composing-an-email-in-hubspot-and/"
+    },
+    {
+      "id": 67,
+      "question": "True or false? If you start emailing someone who doesn't have a contact record, a new record will be created for them.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-you-start-emailing-someone/"
+    },
+    {
+      "id": 68,
+      "question": "What does the round robin meeting option in HubSpot allow contacts to do?",
+      "answer": "Book time with the first available salesperson",
+      "source_url": "https://www.gcertificationcourse.com/what-does-the-round-robin-meeting-option/"
+    },
+    {
+      "id": 69,
+      "question": "Fill in the blank: _____ meeting scheduling in HubSpot shows time slots where all selected team members are available to meet.",
+      "answer": "Group",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-meeting-scheduling-in/"
+    },
+    {
+      "id": 70,
+      "question": "What is the purpose of the \"Purchase terms\" field in HubSpot's quotes tool?",
+      "answer": "Input payment terms and conditions",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-the-purchase-terms/"
+    },
+    {
+      "id": 71,
+      "question": "True or false? Lead stages CANNOT be used as triggers for other sales actions in HubSpot.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-lead-stages-cannot-be-used/"
+    },
+    {
+      "id": 72,
+      "question": "Select all that apply. What options are available when setting up a dashboard in HubSpot?",
+      "answer": [
+        "Create dashboards from scratch",
+        "Select from templated dashboards"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-options-are/"
+    },
+    {
+      "id": 73,
+      "question": "Which duration is available to select when setting a goal for your sales team in Sales Hub?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/which-duration-is-available-to-select-when/"
+    },
+    {
+      "id": 74,
+      "question": "In the forecast tool in Sales Hub, what does the weighted deal amount estimate?",
+      "answer": "Revenue your team is expected to close",
+      "source_url": "https://www.gcertificationcourse.com/in-the-forecast-tool-in-sales-hub-what/"
+    },
+    {
+      "id": 75,
+      "question": "True or false? You can only set goals for individual users in Sales Hub, not for teams.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-only-set-goals-for/"
+    },
+    {
+      "id": 76,
+      "question": "Why might you use playbooks instead of snippets to create a call outline?",
+      "answer": "Playbooks can include questions and text fields to automate your note-taking, and contain buttons to access documents and templates.",
+      "source_url": "https://www.gcertificationcourse.com/why-might-you-use-playbooks-instead-of/"
+    },
+    {
+      "id": 77,
+      "question": "Fill in the blank: The ____ tool in Sales Hub provides insights into expected revenue based on the weighted deal amount.",
+      "answer": "forecast",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-tool-in-sales-hub/"
+    },
+    {
+      "id": 78,
+      "question": "Fill in the blank: In conversation intelligence, transcript provides a full transcript of the conversation and can ____.",
+      "answer": "search for keywords or phrases within the transcript",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-in-conversation-intelligence/"
+    },
+    {
+      "id": 79,
+      "question": "What type of data can be accessed and reviewed in the insights section of conversation intelligence?",
+      "answer": "Terms used during the call",
+      "source_url": "https://www.gcertificationcourse.com/what-type-of-data-can-be-accessed-and/"
+    },
+    {
+      "id": 80,
+      "question": "You are on a call with a lead and need to quickly schedule a meeting for them with the first available sales rep on your team. Which option in HubSpot's meetings tool enables the lead to book a call with the first available salesperson?",
+      "answer": "Round robin",
+      "source_url": "https://www.gcertificationcourse.com/you-are-on-a-call-with-a-lead-and-need-to/"
+    },
+    {
+      "id": 81,
+      "question": "You are adding a new contact to your CRM in HubSpot and want to ensure data accuracy and efficiency in prospecting. Why is it essential to provide an email address for the person you are adding?",
+      "answer": "To check if the contact already exists in the system and avoid duplicate records.",
+      "source_url": "https://www.gcertificationcourse.com/you-are-adding-a-new-contact-to-your-crm/"
+    },
+    {
+      "id": 82,
+      "question": "True or false? Chatbots can qualify leads based on number of employees.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-chatbots-can-qualify-leads/"
+    },
+    {
+      "id": 83,
+      "question": "Which of the following isn't a task type in HubSpot?",
+      "answer": "SMS",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-isnt-a-task-type/"
+    },
+    {
+      "id": 84,
+      "question": "How are calls made and recorded with HubSpot's native calling feature transcribed and stored?",
+      "answer": "Calls are automatically transcribed and saved on the contact timeline.",
+      "source_url": "https://www.gcertificationcourse.com/how-are-calls-made-and-recorded-with/"
+    },
+    {
+      "id": 85,
+      "question": "Outside of the prospecting workspace, where can you find an expanded view of tasks and records?",
+      "answer": "CRM",
+      "source_url": "https://www.gcertificationcourse.com/outside-of-the-prospecting-workspace-where/"
+    },
+    {
+      "id": 86,
+      "question": "Where can you set targets for your sales reps’ performance in Sales Hub?",
+      "answer": "Goals",
+      "source_url": "https://www.gcertificationcourse.com/where-can-you-set-targets-for-your-sales/"
+    },
+    {
+      "id": 87,
+      "question": "What can be found in the Feed tab in the prospecting workspace?",
+      "answer": "The Feed tab includes a compilation of sales activity notifications spanning the past year and is unique to the user's account.",
+      "source_url": "https://www.gcertificationcourse.com/what-can-be-found-in-the-feed-tab-in-the/"
+    },
+    {
+      "id": 88,
+      "question": "Define the prospecting workspace.",
+      "answer": "The prospecting workspace is a workspace where sales reps can efficiently manage their daily workload in HubSpot from one place.",
+      "source_url": "https://www.gcertificationcourse.com/define-the-prospecting-workspace/"
+    },
+    {
+      "id": 89,
+      "question": "True or false? After emailing someone who doesn’t have a contact record, it’s recommended to manually create a contact record for them.",
+      "answer": "False – a new record will be created for them automatically.",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-after-emailing-someone-who/"
+    },
+    {
+      "id": 90,
+      "question": "Fill in the blank: The contact _____ in HubSpot shows all the actions a contact takes.",
+      "answer": "Timeline",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-contact-in-hubspot/"
+    }
+  ]
+}

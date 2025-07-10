@@ -1,0 +1,422 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T09:47:05.866434",
+  "course_info": {
+    "name": "SEO II",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-seo-ii-certification-exam-answers/",
+    "total_questions": 61,
+    "scraped_date": "2025-07-10 09:44:46"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Liam is an SEO specialist at an advertising agency. He believes that he can improve the company's search performance by creating a blog series and pillar page. However, the CEO has been hesitant to sign off because content creation takes a lot of time and she isn't sure they'll see the ROI. How can Liam convince the CEO that this is a worthwhile investment?",
+      "answer": "Gather data about the search volume for the keywords Liam wants to create content for, showing the CEO the potential search visibility, clicks, and leads they might gain by following this strategy.",
+      "source_url": "https://www.gcertificationcourse.com/liam-is-an-seo-specialist-at-an-advertising/"
+    },
+    {
+      "id": 2,
+      "question": "Select all that apply. Which of the following strategies help you communicate the value of SEO to stakeholders?",
+      "answer": [
+        "Putting the user at the center of everything you do",
+        "Making your work accessible to people outside the SEO field",
+        "Tying your actions back to business goals"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-2/"
+    },
+    {
+      "id": 3,
+      "question": "Why is it important to keep track of trends and updates in your business' niche?",
+      "answer": "So you can anticipate how trends and updates might affect your website.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-important-to-keep-track-of-trends/"
+    },
+    {
+      "id": 4,
+      "question": "What is an SEO competitive analysis?",
+      "answer": "The process of identifying the strengths and weaknesses of you and your competitors' SEO",
+      "source_url": "https://www.gcertificationcourse.com/what-is-an-seo-competitive-analysis/"
+    },
+    {
+      "id": 5,
+      "question": "Select all that apply. What are the goals you want to achieve through an SEO competitive analysis?",
+      "answer": [
+        "Discover your competitors' winning strategies",
+        "Benchmark your current SEO performance",
+        "Reveal any competitor gaps or weaknesses",
+        "Identify areas of improvement in your SEO strategy"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-the-goals-you/"
+    },
+    {
+      "id": 6,
+      "question": "True or false? Your business competitors are not always the same as your SEO competitors.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-your-business-competitors-are/"
+    },
+    {
+      "id": 7,
+      "question": "What are keyword gaps?",
+      "answer": "The phrases that your competitors are ranking for, but you aren't",
+      "source_url": "https://www.gcertificationcourse.com/what-are-keyword-gaps/"
+    },
+    {
+      "id": 8,
+      "question": "Select all that apply. Why is it important to identify the strengths and weaknesses of your website and your competitors' sites?",
+      "answer": [
+        "To capitalize on your competitors' weaknesses",
+        "To optimize the strengths of your website",
+        "To improve the weak areas of your site"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-why-is-it-important-to/"
+    },
+    {
+      "id": 9,
+      "question": "True or false? When performing an SEO competitive analysis, you do not need to analyze your site on a page-by-page basis.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-performing-an-seo-competitive/"
+    },
+    {
+      "id": 10,
+      "question": "What would you be tracking in a goal completion report in Google Analytics?",
+      "answer": "Which pages attribute to the most goal completions and their conversion rates",
+      "source_url": "https://www.gcertificationcourse.com/what-would-you-be-tracking-in-a-goal-completion/"
+    },
+    {
+      "id": 11,
+      "question": "What is the best timeframe to report on content to lead generation?",
+      "answer": "3 months",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-best-timeframe-to-report-on/"
+    },
+    {
+      "id": 12,
+      "question": "Select all that apply. Which of the following metrics should be included in a content quality report?",
+      "answer": [
+        "Bounce rate",
+        "Average time on page",
+        "Goal completions",
+        "Percent exits"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-3/"
+    },
+    {
+      "id": 13,
+      "question": "Which type of report will show you what brought people to a particular page?",
+      "answer": "Clicks to impressions to CTR in Google Search Console",
+      "source_url": "https://www.gcertificationcourse.com/which-type-of-report-will-show-you-what/"
+    },
+    {
+      "id": 14,
+      "question": "Greta is an SEO professional working for a large law firm. She is gathering her monthly reports on their website performance, and her manager has asked that she focus on demonstrating how SEO is contributing to the business' bottom line. What type of report should Greta pull in order to best show the ROI of SEO?",
+      "answer": "A content to leads report, that shows which pages are converting the most leads",
+      "source_url": "https://www.gcertificationcourse.com/greta-is-an-seo-professional-working-for/"
+    },
+    {
+      "id": 15,
+      "question": "Select all that apply. Which of the following are examples of site moves with URL changes?",
+      "answer": [
+        "Protocol changes",
+        "Domain name changes",
+        "URL path changes"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-4/"
+    },
+    {
+      "id": 16,
+      "question": "Select all that apply. What are the advantages of migrating a large site in sections?",
+      "answer": [
+        "Making fewer changes at once decreases the risks of errors.",
+        "Google recommends migrating large sites in sections if possible."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-the-advantages/"
+    },
+    {
+      "id": 17,
+      "question": "What are the proper use cases for 301 and 302 redirects?",
+      "answer": "Use 301 redirects when the old URL is moving permanently to the new URL. Use 302 redirects when the change is not permanent.",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-proper-use-cases-for-301-and/"
+    },
+    {
+      "id": 18,
+      "question": "Jenny is in charge of creating the URL mapping file for her company's website migration project. While working on it, she notices that there are many pages which have no corresponding page on the new site, because they have been either removed or consolidated. She isn't sure what to do about these pages. What would you suggest Jenny do in this scenario?",
+      "answer": "She should redirect each orphan page to its parent category page or the most relevant similar page.",
+      "source_url": "https://www.gcertificationcourse.com/jenny-is-in-charge-of-creating-the-url-mapping/"
+    },
+    {
+      "id": 19,
+      "question": "True or false? It is best practice to avoid redirect chains by redirecting straight to a page's final destination.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-it-is-best-practice-to-avoid/"
+    },
+    {
+      "id": 20,
+      "question": "When is the best time to execute a site migration?",
+      "answer": "On a day that will have the least impact on your business revenue, ideally during off-peak hours",
+      "source_url": "https://www.gcertificationcourse.com/when-is-the-best-time-to-execute-a-site/"
+    },
+    {
+      "id": 21,
+      "question": "During which stage of a migration should you benchmark site performance metrics?",
+      "answer": "Pre-migration",
+      "source_url": "https://www.gcertificationcourse.com/during-which-stage-of-a-migration-should-you/"
+    },
+    {
+      "id": 22,
+      "question": "True or false? Moving a site from HTTP to HTTPS does not count as a site migration.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-moving-a-site-from-http-to/"
+    },
+    {
+      "id": 23,
+      "question": "Select all that apply. Which of the following status codes should you focus on resolving during a technical SEO audit?",
+      "answer": [
+        "400",
+        "500"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-5/"
+    },
+    {
+      "id": 24,
+      "question": "Crawl budget is mainly a concern for which types of websites?",
+      "answer": "Websites with over 10,000 pages",
+      "source_url": "https://www.gcertificationcourse.com/crawl-budget-is-mainly-a-concern-for-which/"
+    },
+    {
+      "id": 25,
+      "question": "Select all that apply. Which of the following should you avoid to reduce a site's crawl budget?",
+      "answer": [
+        "Duplicate content",
+        "Long redirect chains",
+        "Infinite spaces"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-6/"
+    },
+    {
+      "id": 26,
+      "question": "If a website has content added via JavaScript, what additional stage do search engines need to complete?",
+      "answer": "Rendering",
+      "source_url": "https://www.gcertificationcourse.com/if-a-website-has-content-added-via-javascript/"
+    },
+    {
+      "id": 27,
+      "question": "Blake is going through a technical SEO audit for his company's website when he notices that several pages are taking 6 or more seconds to load. He knows this is too slow and he needs to speed them up, but isn't sure how to identify what's causing the slowdown or how to fix it. To get started, what should Blake look into?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/blake-is-going-through-a-technical-seo-audit/"
+    },
+    {
+      "id": 28,
+      "question": "What is the purpose of limiting HTTP requests?",
+      "answer": "To reduce the frequency at which a browser needs to download information on a page, increasing its load speed",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-limiting-http-requests/"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is NOT a strategy to limit HTTP requests?",
+      "answer": "Minifying code files",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-strategy-to/"
+    },
+    {
+      "id": 30,
+      "question": "Fill in the blank: ___ happens when the server saves the result of a single render and serves that same result when requested again.",
+      "answer": "Server-side caching",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-happens-when-the-server-2/"
+    },
+    {
+      "id": 31,
+      "question": "True or false? Most elements of a website can be cached.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-most-elements-of-a-website/"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is NOT a function of the robots.txt file?",
+      "answer": "Show search engine bots all the pages on a site",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-function/"
+    },
+    {
+      "id": 33,
+      "question": "Select all that apply. Which of the following are included in Google's Page Experience update?",
+      "answer": [
+        "Intrusive interstitial guidelines",
+        "Safe browsing",
+        "Mobile-friendliness",
+        "Core Web Vitals"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following-7/"
+    },
+    {
+      "id": 34,
+      "question": "Claire is analyzing her website's Core Web Vitals and notices that LCP is occurring at 10 seconds, which is much longer than what Google recommends. Which of the following elements could be contributing to slowing down Claire's page?",
+      "answer": "An embedded video below the page header",
+      "source_url": "https://www.gcertificationcourse.com/claire-is-analyzing-her-websites-core-web/"
+    },
+    {
+      "id": 35,
+      "question": "True or false? Page experience is the primary ranking factor for Google, even more important than a page's content.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-page-experience-is-the-primary/"
+    },
+    {
+      "id": 36,
+      "question": "What is Largest Contentful Paint (LCP)?",
+      "answer": "The length of time it takes for the element using the most amount of pixels to render on a user's screen",
+      "source_url": "https://www.gcertificationcourse.com/what-is-largest-contentful-paint-lcp/"
+    },
+    {
+      "id": 37,
+      "question": "True or false? Cumulative Layout Shift is only measured on a page's first load.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-cumulative-layout-shift-is-only/"
+    },
+    {
+      "id": 38,
+      "question": "What is lazy loading?",
+      "answer": "A technique that involves loading non-critical assets on a page only when needed",
+      "source_url": "https://www.gcertificationcourse.com/what-is-lazy-loading/"
+    },
+    {
+      "id": 39,
+      "question": "Adding inline CSS dimensions to images, videos, and gifs helps improve which Core Web Vital?",
+      "answer": "Cumulative Layout Shift",
+      "source_url": "https://www.gcertificationcourse.com/adding-inline-css-dimensions-to-images/"
+    },
+    {
+      "id": 40,
+      "question": "What is the best practice for using website pop-ups in a user-friendly way?",
+      "answer": "The pop-up should take up a reasonable amount of space on the screen and not prevent users from accessing content.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-best-practice-for-using-website/"
+    },
+    {
+      "id": 41,
+      "question": "Fill in the blanks: ___ and ___ form the foundation of technical SEO.",
+      "answer": "Website performance; crawlability",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blanks-and-form-the-foundation/"
+    },
+    {
+      "id": 42,
+      "question": "True or false? If you improve the speed at which individual pages load, you'll improve your overall site speed.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-if-you-improve-the-speed-at/"
+    },
+    {
+      "id": 43,
+      "question": "Select all that apply. What are the main categories of site moves?",
+      "answer": [
+        "Site moves with URL changes",
+        "Site moves without URL changes"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-are-the-main/"
+    },
+    {
+      "id": 44,
+      "question": "Fill in the blank: ___ occurs when a user quickly navigates back and forth between pages in search results.",
+      "answer": "Pogo-sticking",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-occurs-when-a-user-quickly/"
+    },
+    {
+      "id": 45,
+      "question": "Why is it important to keep track of Google algorithm updates?",
+      "answer": "It can help you understand how your site has been affected in the past and/or could be affected in the future.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-important-to-keep-track-of-google/"
+    },
+    {
+      "id": 46,
+      "question": "What is the purpose of an image sprite?",
+      "answer": "Both A and C",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-an-image-sprite/"
+    },
+    {
+      "id": 47,
+      "question": "True or false? You can minify code or compress it, but you cannot do both.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-minify-code-or-compress/"
+    },
+    {
+      "id": 48,
+      "question": "What is Google Page Experience?",
+      "answer": "A set of signals that measure how users perceive the experience of interacting with a web page beyond its pure information value",
+      "source_url": "https://www.gcertificationcourse.com/what-is-google-page-experience/"
+    },
+    {
+      "id": 49,
+      "question": "What is the first step in any website migration project?",
+      "answer": "Scoping the project to create a project plan",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-first-step-in-any-website-migration/"
+    },
+    {
+      "id": 50,
+      "question": "Fill in the blank: ___ happens when the server tells a web browser to keep the files it downloads, so it doesn't have to download them again in the future.",
+      "answer": "Client-side caching",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-happens-when-the-server/"
+    },
+    {
+      "id": 51,
+      "question": "What is the purpose of a URL mapping file?",
+      "answer": "To map the old site URL to the new site URL",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-a-url-mapping-file/"
+    },
+    {
+      "id": 52,
+      "question": "What is a technical SEO specification?",
+      "answer": "A document used during a website migration which captures SEO elements that need to be changed or transferred to the new site.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-technical-seo-specification/"
+    },
+    {
+      "id": 53,
+      "question": "Which of the following is the most important aspect of a mobile-friendly website?",
+      "answer": "Responsive website design",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-the-most-important/"
+    },
+    {
+      "id": 54,
+      "question": "Raquel is working on a technical SEO audit for a new client who recently decided to move their website from HTTP to HTTPS. When starting her audit, Raquel notices that some HTTP pages were never redirected to the HTTPS pages, which is now causing issues for the site in search. However, this client is very resistant to the idea of implementing more redirects, since they've heard that this can lead to a drop in their search performance. How should Raquel approach this situation with her client?",
+      "answer": "She should explain to her client how redirects work (focusing on how 301 redirects pass \"link juice\" to new pages), explain how having both HTTP and HTTPS pages creates duplicate content, and how this can negatively affect the site's performance.",
+      "source_url": "https://www.gcertificationcourse.com/raquel-is-working-on-a-technical-seo-audit/"
+    },
+    {
+      "id": 55,
+      "question": "What are the three aspects of a website's user experience, as measured by Core Web Vitals?",
+      "answer": "Loading, interactivity, and visual stability",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-three-aspects-of-a-websites-user/"
+    },
+    {
+      "id": 56,
+      "question": "Select all that apply. Which of the following can negatively impact your CLS score?",
+      "answer": [
+        "Images and iframes without inline dimensions",
+        "Dynamically injected content",
+        "Improperly loaded custom webfonts"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-following/"
+    },
+    {
+      "id": 57,
+      "question": "Dana is an SEO freelancer working with a client who is redesigning their website. The client's designer has come up with a design that uses four custom fonts, but Dana voices their concern that this could have a negative impact on the site's performance. How can Dana explain this issue to their client, and what solution can they propose?",
+      "answer": "Using more than two custom fonts can cause fonts to flicker on loading, showing a flash of unstyled text. This is a poor user experience and increases the CLS score. Instead, the designer should try to find comparable Google fonts to use.",
+      "source_url": "https://www.gcertificationcourse.com/dana-is-an-seo-freelancer-working-with/"
+    },
+    {
+      "id": 58,
+      "question": "What is minification?",
+      "answer": "The process of reducing resource size by removing unnecessary comments and spacing in the source code",
+      "source_url": "https://www.gcertificationcourse.com/what-is-minification/"
+    },
+    {
+      "id": 59,
+      "question": "Jeremiah is an in-house SEO specialist for a car rental company with locations across the U.S. He works closely with the firm's web designer, Maria, who mentions to him that she'd like to contextualize the site's homepage by displaying the nearest car rental pickup spot based on the user's location. Jeremiah thinks this is a great idea, but has concerns about how it may slow down the site. What solution could Jeremiah employ to keep the functionality while maintaining the site speed?",
+      "answer": "Put the JavaScript that generates the site location in the HTML of the page where it's needed, and keep non-essential JavaScript in the page footer.",
+      "source_url": "https://www.gcertificationcourse.com/jeremiah-is-an-in-house-seo-specialist-for/"
+    },
+    {
+      "id": 60,
+      "question": "Which of the following does Google consider a good CLS score?",
+      "answer": "0.1",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-does-google-consider/"
+    },
+    {
+      "id": 61,
+      "question": "Mariah is performing an SEO competitive analysis on her client's website. She identifies that their backlink profile is relatively weak, primarily because her client believes backlinks are a trend and isn't interested in investing in them. However, she notices that their top competitors have received backlinks from a few reputable news agencies and aggregator sites. As a result, they are outranking her client in the SERPs. How should Mariah approach this situation with her client?",
+      "answer": "Mariah should educate her client on the value provided by high-quality backlinks, then suggest a strategy of approaching the same sites which link to their competitors and ask for a similar backlink to their website.",
+      "source_url": "https://www.gcertificationcourse.com/mariah-is-performing-an-seo-competitive/"
+    }
+  ]
+}

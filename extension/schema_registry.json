@@ -64,6 +64,168 @@
       "course_name": "Inbound Marketing Optimization",
       "listing_url": null,
       "exam_url": "https://app.hubspot.com/academy/171726/tracks/9147492/exam"
+    },
+    {
+      "name": "Social Media Marketing",
+      "exam_url_pattern": "tracks/9206658/exam",
+      "schema_file": "schemas/social_media_marketing_schema.json",
+      "exam_id": "9206658",
+      "listing_url": null,
+      "course_name": "Social Media Marketing",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9206658/exam"
+    },
+    {
+      "name": "Social Media Marketing Certification II",
+      "exam_url_pattern": "tracks/9108125/exam",
+      "schema_file": "schemas/social_media_marketing_certification_ii_schema.json",
+      "exam_id": "9108125",
+      "listing_url": null,
+      "course_name": "Social Media Marketing Certification II",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9108125/exam"
+    },
+    {
+      "name": "Inbound",
+      "exam_url_pattern": "tracks/9181866/exam",
+      "schema_file": "schemas/inbound_schema.json",
+      "exam_id": "9181866",
+      "listing_url": null,
+      "course_name": "Inbound",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9181866/exam"
+    },
+    {
+      "name": "Email Marketing",
+      "exam_url_pattern": "tracks/9151241/exam",
+      "schema_file": "schemas/email_marketing_schema.json",
+      "exam_id": "9151241",
+      "listing_url": null,
+      "course_name": "Email Marketing",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9151241/exam"
+    },
+    {
+      "name": "Email Marketing Software",
+      "exam_url_pattern": "tracks/9219097/exam",
+      "schema_file": "schemas/email_marketing_software_schema.json",
+      "exam_id": "9219097",
+      "listing_url": null,
+      "course_name": "Email Marketing Software",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9219097/exam"
+    },
+    {
+      "name": "Content Marketing",
+      "exam_url_pattern": "tracks/9206665/exam",
+      "schema_file": "schemas/content_marketing_schema.json",
+      "exam_id": "9206665",
+      "listing_url": null,
+      "course_name": "Content Marketing",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9206665/exam"
+    },
+    {
+      "name": "HubSpot Marketing Hub Software",
+      "exam_url_pattern": "tracks/9219692/exam",
+      "schema_file": "schemas/hubspot_marketing_hub_software_schema.json",
+      "exam_id": "9219692",
+      "listing_url": null,
+      "course_name": "HubSpot Marketing Hub Software",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9219692/exam"
+    },
+    {
+      "name": "HubSpot Reporting",
+      "exam_url_pattern": "tracks/9181275/exam",
+      "schema_file": "schemas/hubspot_reporting_schema.json",
+      "exam_id": "9181275",
+      "listing_url": null,
+      "course_name": "HubSpot Reporting",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9181275/exam"
+    },
+    {
+      "name": "Digital Advertising",
+      "exam_url_pattern": "app.hubspot.com",
+      "schema_file": "schemas/digital_advertising_schema.json",
+      "exam_id": null,
+      "listing_url": null,
+      "course_name": "Digital Advertising",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9219107"
+    },
+    {
+      "name": "Digital Marketing",
+      "exam_url_pattern": "tracks/9219103/exam",
+      "schema_file": "schemas/digital_marketing_schema.json",
+      "exam_id": "9219103",
+      "listing_url": null,
+      "course_name": "Digital Marketing",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9219103/exam"
+    },
+    {
+      "name": "SEO",
+      "exam_url_pattern": "tracks/9157909/exam",
+      "schema_file": "schemas/seo_schema.json",
+      "exam_id": "9157909",
+      "listing_url": null,
+      "course_name": "SEO",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9157909/exam"
+    },
+    {
+      "name": "SEO II",
+      "exam_url_pattern": "tracks/9108127/exam",
+      "schema_file": "schemas/seo_ii_schema.json",
+      "exam_id": "9108127",
+      "listing_url": null,
+      "course_name": "SEO II",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9108127/exam"
+    },
+    {
+      "name": "Contextual Marketing",
+      "exam_url_pattern": "tracks/9141778/exam",
+      "schema_file": "schemas/contextual_marketing_schema.json",
+      "exam_id": "9141778",
+      "listing_url": null,
+      "course_name": "Contextual Marketing",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9141778/exam"
+    },
+    {
+      "name": "HubSpot Sales Hub Software",
+      "exam_url_pattern": "tracks/9147486/exam",
+      "schema_file": "schemas/hubspot_sales_hub_software_schema.json",
+      "exam_id": "9147486",
+      "listing_url": null,
+      "course_name": "HubSpot Sales Hub Software",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9147486/exam"
+    },
+    {
+      "name": "Frictionless Sales",
+      "exam_url_pattern": "tracks/9147503/exam",
+      "schema_file": "schemas/frictionless_sales_schema.json",
+      "exam_id": "9147503",
+      "listing_url": null,
+      "course_name": "Frictionless Sales",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9147503/exam"
+    },
+    {
+      "name": "Sales Enablement",
+      "exam_url_pattern": "tracks/9206662/exam",
+      "schema_file": "schemas/sales_enablement_schema.json",
+      "exam_id": "9206662",
+      "listing_url": null,
+      "course_name": "Sales Enablement",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9206662/exam"
+    },
+    {
+      "name": "Sales Management",
+      "exam_url_pattern": "tracks/9206655/exam",
+      "schema_file": "schemas/sales_management_schema.json",
+      "exam_id": "9206655",
+      "listing_url": null,
+      "course_name": "Sales Management",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9206655/exam"
+    },
+    {
+      "name": "Revenue Operations",
+      "exam_url_pattern": "tracks/9219099/exam",
+      "schema_file": "schemas/revenue_operations_schema.json",
+      "exam_id": "9219099",
+      "listing_url": null,
+      "course_name": "Revenue Operations",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9219099/exam"
     }
   ]
 }

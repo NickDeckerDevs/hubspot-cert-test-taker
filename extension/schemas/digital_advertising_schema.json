@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T09:37:15.873048",
+  "course_info": {
+    "name": "Digital Advertising",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-digital-advertising-certification-answers/",
+    "total_questions": 87,
+    "scraped_date": "2025-07-10 09:33:58"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a benefit of using digital advertising in conjunction with organic marketing efforts? Select all that apply.",
+      "answer": [
+        "Remarket to existing contacts and website visitors",
+        "Use analytics to better understand your audiences across platforms",
+        "Optimize your ad content to perform its best across channels"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-benefit-of-using-digital-advertising/"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a stage in the buyer’s journey?",
+      "answer": "Research",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-stage/"
+    },
+    {
+      "id": 3,
+      "question": "What should your awareness stage ads do?",
+      "answer": "Address the problem your buyer persona is experiencing",
+      "source_url": "https://www.gcertificationcourse.com/what-should-your-awareness-stage-ads-do/"
+    },
+    {
+      "id": 4,
+      "question": "What should your consideration stage ads do?",
+      "answer": "Help your buyer persona solve their problem",
+      "source_url": "https://www.gcertificationcourse.com/what-should-your-consideration-stage-ads-do/"
+    },
+    {
+      "id": 5,
+      "question": "What should your decision stage ads do?",
+      "answer": "Highlight the value of your company’s products or services",
+      "source_url": "https://www.gcertificationcourse.com/what-should-your-decision-stage-ads-do/"
+    },
+    {
+      "id": 6,
+      "question": "Scenario: You work for a company called PetSpot that sells animal supplies. Which of the following audiences would be the best to target on social media at the awareness stage of the buyer’s journey?",
+      "answer": "A lookalike audience based on your existing customers",
+      "source_url": "https://www.gcertificationcourse.com/scenario-you-work-for-a-company-called/"
+    },
+    {
+      "id": 7,
+      "question": "Scenario: You work for a company called PetSpot that sells animal supplies. Which of the following keywords would be the best to use for paid search at the consideration stage of the buyer’s journey?",
+      "answer": "“Different types of dog food”",
+      "source_url": "https://www.gcertificationcourse.com/scenario-you-work-for-a-company-called-petspot/"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is an example of a business’s “reasons to believe?”",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-an-example-of-a/"
+    },
+    {
+      "id": 9,
+      "question": "Fill in the blank: A paid media plan is the bridge between your ______ and your business goal.",
+      "answer": "historical performance",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-a-paid-media-plan-is-the-bridge/"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is NOT one of the three elements of a marketing mix?",
+      "answer": "Social media",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-one-of-the-three/"
+    },
+    {
+      "id": 11,
+      "question": "Fill in the blank: You should use a target CPA bidding strategy when you have _____.",
+      "answer": "an efficient CPA",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-you-should-use-a-target/"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is NOT an ad targeting strategy?",
+      "answer": "Audience targeting",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-ad/"
+    },
+    {
+      "id": 13,
+      "question": "With demographic targeting, you could reach people who:",
+      "answer": "are between the ages of 25-49 located in Austria who speak German",
+      "source_url": "https://www.gcertificationcourse.com/with-demographic-targeting-you-could/"
+    },
+    {
+      "id": 14,
+      "question": "With behavioral targeting, you could reach people who:?",
+      "answer": "spent at least 5 minutes reading your most recent blog post",
+      "source_url": "https://www.gcertificationcourse.com/with-behavioral-targeting-you-could/"
+    },
+    {
+      "id": 15,
+      "question": "With contextual targeting, you could reach people who:",
+      "answer": "are interested in startups and read articles on Entreprenuer.com",
+      "source_url": "https://www.gcertificationcourse.com/with-contextual-targeting-you-could/"
+    },
+    {
+      "id": 16,
+      "question": "What is the difference between pixel-based retargeting and list-based retargeting? Select all the apply.",
+      "answer": [
+        "Pixel-based retargeting is for anonymous site visitors, list-based retargeting is for existing contacts",
+        "Pixel-based retargeting relies on tracking pixels, list-based retargeting relies on forms and a CRM"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-difference-between-pixel-based/"
+    },
+    {
+      "id": 17,
+      "question": "Scenario: You want to target an audience that has previously viewed your product’s pricing page on your website. Which targeting strategy should you use?",
+      "answer": "Behavioral targeting",
+      "source_url": "https://www.gcertificationcourse.com/scenario-you-want-to-target-an-audience-that-2/"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is NOT an ad copywriting best practice?",
+      "answer": "Use acronyms",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-ad-copywriting-best-practice/"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following ad copy examples follows the best practices for simplifying language?",
+      "answer": "\"Protect you and your loved ones with a car insurance policy made for the whole family.\"",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-ad-copy-examples/"
+    },
+    {
+      "id": 20,
+      "question": "Fill in the blank: The goal of a concept ad is to increase _____.",
+      "answer": "brand awareness",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-goal-of-a-concept/"
+    },
+    {
+      "id": 21,
+      "question": "Fill in the blank: The goal of a content ad is to increase _____.",
+      "answer": "lead generation",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-goal-of-a-content/"
+    },
+    {
+      "id": 22,
+      "question": "Fill in the blank: The goal of a commerce ad is to increase _____.",
+      "answer": "sales",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-goal-of-a-commerce-ad-is/"
+    },
+    {
+      "id": 23,
+      "question": "True or false: The rule of thirds is the process of dividing an image into thirds, using two horizontal lines and two vertical lines, and positioning the most important elements inside the squares the lines create.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-rule-of-thirds-is-the-process/"
+    },
+    {
+      "id": 24,
+      "question": "Following the rule of thirds helps you:",
+      "answer": "draw attention to the most important elements of your ad creative",
+      "source_url": "https://www.gcertificationcourse.com/following-the-rule-of-thirds-helps-you/"
+    },
+    {
+      "id": 25,
+      "question": "What is conversion rate optimization (CRO)?",
+      "answer": "The process of increasing the percentage of website visitors who take a desired action",
+      "source_url": "https://www.gcertificationcourse.com/what-is-conversion-rate-optimization-cro/"
+    },
+    {
+      "id": 26,
+      "question": "What are best practices for optimizing your conversion path? Select all that apply.",
+      "answer": [
+        "Align your ad creative and copy to your landing page",
+        "Remove the navigation from your landing page"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-are-best-practices-for-optimizing-your/"
+    },
+    {
+      "id": 27,
+      "question": "A Facebook core audience is based on:",
+      "answer": "location, demographics, interests, behavior, and connections",
+      "source_url": "https://www.gcertificationcourse.com/a-facebook-core-audience-is-based-on/"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following metrics does Facebook use to rate the expected performance of your ads? Select all that apply.",
+      "answer": [
+        "Quality",
+        "Engagement",
+        "Conversion"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-metrics-does-facebook/"
+    },
+    {
+      "id": 29,
+      "question": "What is the benefit of advertising in Instagram Explore?",
+      "answer": "People in Explore are in the mindset to discover content from creators they don’t follow",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-benefit-of-advertising-in-instagram/"
+    },
+    {
+      "id": 30,
+      "question": "What is the best way to advertise on Instagram?",
+      "answer": "Create ad campaigns in the Facebook Ads Manager",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-best-way-to-advertise/"
+    },
+    {
+      "id": 31,
+      "question": "What do sponsored messages on Facebook Messenger allow you to do?",
+      "answer": "Advertise to people who have interacted with your business on Facebook Messenger",
+      "source_url": "https://www.gcertificationcourse.com/what-do-sponsored-messages-on-facebook/"
+    },
+    {
+      "id": 32,
+      "question": "What is one advantage of advertising on LinkedIn?",
+      "answer": "You can target audiences with unique demographics, like job title and industry",
+      "source_url": "https://www.gcertificationcourse.com/what-is-one-advantage-of-advertising/"
+    },
+    {
+      "id": 33,
+      "question": "What type of company would be most likely to find success advertising on Pinterest?",
+      "answer": "A fashion brand",
+      "source_url": "https://www.gcertificationcourse.com/what-type-of-company-would-be-most-likely/"
+    },
+    {
+      "id": 34,
+      "question": "What is one ad type that is unique to Snapchat?",
+      "answer": "AR lenses",
+      "source_url": "https://www.gcertificationcourse.com/what-is-one-ad-type-that-is-unique-to-snapchat/"
+    },
+    {
+      "id": 35,
+      "question": "What is the difference between a brand keyword and a non-brand keyword?",
+      "answer": "A brand keyword includes a brand’s name, a non-brand keyword does not include a brand’s name",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-difference-between-a-brand-keyword/"
+    },
+    {
+      "id": 36,
+      "question": "What is one benefit of running search ads for brand keywords?",
+      "answer": "They protect your traffic if a competitor bids on your brand keywords",
+      "source_url": "https://www.gcertificationcourse.com/what-is-one-benefit-of-running-search-ads/"
+    },
+    {
+      "id": 37,
+      "question": "Fill in the blank: A keyword set to ______ match type will display your ad when the search term contains any or some combination or variations of the words in your keyword, in any order.",
+      "answer": "broad",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-a-keyword-set-to-match-type-will-display/"
+    },
+    {
+      "id": 38,
+      "question": "If you have a keyword set to broad match, but you want to select specific keywords that must be included in the search query for your ad to be displayed, what would you use?",
+      "answer": "A broad match modifier",
+      "source_url": "https://www.gcertificationcourse.com/if-you-have-a-keyword-set-to-broad-match-2/"
+    },
+    {
+      "id": 39,
+      "question": "If you want to exclude your ad from being shown on searches containing a specific keyword, what would you use?",
+      "answer": "A negative keyword",
+      "source_url": "https://www.gcertificationcourse.com/if-you-want-to-exclude-your-ad-from-being-shown/"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following represents an exact match keyword?",
+      "answer": "[dog treats]",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-represents-an-exact/"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following represents a phrase match keyword?",
+      "answer": "\"smart tv\"",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-represents-a-phrase/"
+    },
+    {
+      "id": 42,
+      "question": "What symbol would you use to add a broad match modifier?",
+      "answer": "+ (answer)",
+      "source_url": "https://www.gcertificationcourse.com/what-symbol-would-you-use-to-add-a-broad/"
+    },
+    {
+      "id": 43,
+      "question": "What symbol would you use to add a negative keyword?",
+      "answer": "- (answer)",
+      "source_url": "https://www.gcertificationcourse.com/what-symbol-would-you-use-to-add/"
+    },
+    {
+      "id": 44,
+      "question": "What elements should be included in your search ad copy? Select all that apply.",
+      "answer": [
+        "Keywords",
+        "A call-to-action"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-elements-should-be-included-in-your-search/"
+    },
+    {
+      "id": 45,
+      "question": "Scenario: You work for H.Bloom, a flower delivery company. You are running a paid search ad for the keyword \"flower delivery\" that directs to the landing page below. The goal of this ad is to drive leads. What would you do to potentially improve the ad's performance? Select all that apply.",
+      "answer": [
+        "Add the keyword “flower delivery” to the landing page",
+        "Remove the header navigation from the landing page"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/scenario-you-work-for-h-bloom-a-flower/"
+    },
+    {
+      "id": 46,
+      "question": "What is the benefit of including ad extensions in your search ads?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-benefit-of-including-ad/"
+    },
+    {
+      "id": 47,
+      "question": "What is ad rank?",
+      "answer": "A value used to determine your ad position",
+      "source_url": "https://www.gcertificationcourse.com/what-is-ad-rank/"
+    },
+    {
+      "id": 48,
+      "question": "Fill in the blank: Automated bidding is powered by _____.",
+      "answer": "machine learning",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-automated-bidding-is/"
+    },
+    {
+      "id": 49,
+      "question": "What enables buyers of digital advertising inventory to manage multiple ad exchanges through one interface?",
+      "answer": "Demand-side platform",
+      "source_url": "https://www.gcertificationcourse.com/what-enables-buyers-of-digital-advertising/"
+    },
+    {
+      "id": 50,
+      "question": "What ad tracking method should you use to retarget people on social media who have visited your website?",
+      "answer": "Tracking pixels",
+      "source_url": "https://www.gcertificationcourse.com/what-ad-tracking-method-should-you-use-to/"
+    },
+    {
+      "id": 51,
+      "question": "A/B testing (split testing) is the process of:",
+      "answer": "running marketing experiments to see which version of an ad connects better with your audience",
+      "source_url": "https://www.gcertificationcourse.com/a-b-testing-split-testing-is-the-process-of/"
+    },
+    {
+      "id": 52,
+      "question": "If your business has a short buying cycle, which attribution model should you use?",
+      "answer": "Simple decay",
+      "source_url": "https://www.gcertificationcourse.com/if-your-business-has-a-short-buying-cycle-which/"
+    },
+    {
+      "id": 53,
+      "question": "If you want to know which marketing effort is attracting people to your brand, which attribution model should you use?",
+      "answer": "First-touch",
+      "source_url": "https://www.gcertificationcourse.com/if-you-want-to-know-which-marketing-effort/"
+    },
+    {
+      "id": 54,
+      "question": "In what order should the steps to conduct a marketing experiment be completed?",
+      "answer": "Make a hypothesis, collect research, choose measurement metrics, create and execute the experiment, analyze the results",
+      "source_url": "https://www.gcertificationcourse.com/in-what-order-should-the-steps-to-conduct/"
+    },
+    {
+      "id": 55,
+      "question": "Scenario: You want to run an A/B test for an ad campaign. Which of the following are examples of what you could experiment with?",
+      "answer": "All of the above",
+      "source_url": "https://www.gcertificationcourse.com/scenario-you-want-to-run-an-a-b-test-for-an/"
+    },
+    {
+      "id": 56,
+      "question": "Based on the data below, which is the most effective advertising campaign?",
+      "answer": [
+        "Campaign 1 because it has a greater return",
+        "Campaign 2 because it has a greater return"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/based-on-the-data-below-which-is-the-most/"
+    },
+    {
+      "id": 57,
+      "question": "Based on the data below, what is the return on ad spend (ROAS) for the campaign?",
+      "answer": [
+        "$5",
+        "$6"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/based-on-the-data-below-what-is-the-return/"
+    },
+    {
+      "id": 58,
+      "question": "Which metric best helps you convey the value of your advertising strategy?",
+      "answer": "ROAS",
+      "source_url": "https://www.gcertificationcourse.com/which-metric-best-helps-you-convey-the/"
+    },
+    {
+      "id": 59,
+      "question": "Fill in the blank: The difference between digital advertising and organic marketing on social media platforms is that digital advertising is _____ and organic marketing is _____. Select all that apply.",
+      "answer": [
+        "paid; not paid",
+        "more targeted; less targeted"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-difference-between/"
+    },
+    {
+      "id": 60,
+      "question": "How often should you evaluate your paid media budget?",
+      "answer": "Quarterly",
+      "source_url": "https://www.gcertificationcourse.com/how-often-should-you-evaluate-your-paid-media-budget/"
+    },
+    {
+      "id": 61,
+      "question": "Where should you allocate the majority of your paid media budget?",
+      "answer": "Proven efforts that drive your main KPIs",
+      "source_url": "https://www.gcertificationcourse.com/where-should-you-allocate-the-majority/"
+    },
+    {
+      "id": 62,
+      "question": "Which of the following is NOT an automated bidding strategy?",
+      "answer": "Maximize views",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-automated/"
+    },
+    {
+      "id": 63,
+      "question": "Fill in the blank: Retargeting an example of _____ targeting.",
+      "answer": "behavioral",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-retargeting-an-example/"
+    },
+    {
+      "id": 64,
+      "question": "Which ad creative best practice(s) are displayed in the example below? Select all that apply.",
+      "answer": [
+        "Contrasting colors",
+        "The rule of thirds"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/which-ad-creative-best-practices-are-displayed-in/"
+    },
+    {
+      "id": 65,
+      "question": "Which ad creative best practice(s) are displayed in the example below? Select all the apply.",
+      "answer": "Seasonal theme",
+      "source_url": "https://www.gcertificationcourse.com/which-ad-creative-best-practices-are-displayed/"
+    },
+    {
+      "id": 66,
+      "question": "Which ad types are available on social media platforms? Select all that apply.",
+      "answer": [
+        "Lead ads",
+        "Message ads",
+        "Video ads"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/which-ad-types-are-available-on-social-media-platforms/"
+    },
+    {
+      "id": 67,
+      "question": "A Facebook custom audience is based on:",
+      "answer": "people who have already expressed an interest in your business",
+      "source_url": "https://www.gcertificationcourse.com/a-facebook-custom-audience-is-based-on/"
+    },
+    {
+      "id": 68,
+      "question": "A Facebook lookalike audience is based on:",
+      "answer": "new people who share the characteristics of your existing customers",
+      "source_url": "https://www.gcertificationcourse.com/a-facebook-lookalike-audience-is-based-on/"
+    },
+    {
+      "id": 69,
+      "question": "Where do ads appear on YouTube? Select all that apply.",
+      "answer": [
+        "In the search results",
+        "Before a video",
+        "During a video"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/where-do-ads-appear-on-youtube-select/"
+    },
+    {
+      "id": 70,
+      "question": "What can you most easily accomplish by advertising on TikTok?",
+      "answer": "Brand awareness",
+      "source_url": "https://www.gcertificationcourse.com/what-can-you-most-easily-accomplish-by/"
+    },
+    {
+      "id": 71,
+      "question": "Fill in the blank: A keyword set to _____ match type will display your ad if the search term includes that keyword, or a very close variation.",
+      "answer": "exact",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-a-keyword-set-to-match-type/"
+    },
+    {
+      "id": 72,
+      "question": "Fill in the blank: A keyword set to _____ match type will display your ad if the search term contains the same order of the words, but it can also contain additional words.",
+      "answer": "phrase",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-a-keyword-set-to-match-type-will/"
+    },
+    {
+      "id": 73,
+      "question": "Which of the following represents a broad match keyword?",
+      "answer": "wall art",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-represents-a-broad/"
+    },
+    {
+      "id": 74,
+      "question": "True or false: Quality score is an algorithm that scores each of your search ads on spelling and grammar.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-quality-score-is-an-algorithm/"
+    },
+    {
+      "id": 75,
+      "question": "How many ad extensions should you include in your search ads?",
+      "answer": "As many as make sense for your business",
+      "source_url": "https://www.gcertificationcourse.com/how-many-ad-extensions-should-you-include/"
+    },
+    {
+      "id": 76,
+      "question": "What enables web publishers and digital out-of-home media owners to manage their advertising inventory?",
+      "answer": "Supply-side platform",
+      "source_url": "https://www.gcertificationcourse.com/what-enables-web-publishers-and-digital/"
+    },
+    {
+      "id": 77,
+      "question": "What’s the difference between first-party cookies and third-party cookies?",
+      "answer": "First-party cookies are generated by your own website, third-party cookies are generated by websites other than your own",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-difference-between-first-party-cookies/"
+    },
+    {
+      "id": 78,
+      "question": "What ad tracking method should you use to identify which marketing campaign referred traffic to your website?",
+      "answer": "Tracking URLs",
+      "source_url": "https://www.gcertificationcourse.com/what-ad-tracking-method-should-you-use/"
+    },
+    {
+      "id": 79,
+      "question": "What is an attribution model?",
+      "answer": [
+        "The set of rules that determines how credit for revenue and conversions are assigned to touchpoints in conversion paths",
+        "The rule, or set of rules, that determines how credit for sales and conversions is assigned to touch points along conversion paths"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/what-is-an-attribution-model/"
+    },
+    {
+      "id": 80,
+      "question": "True or false: Digital advertising is a targeted, data-driven advertising strategy for reaching consumers online at every stage of the buyer’s journey.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-digital-advertising-is-a-targeted-data-driven/"
+    },
+    {
+      "id": 81,
+      "question": "Scenario: Your business wants to advertise to a local audience. Which targeting strategy should you use?",
+      "answer": "Demographic targeting",
+      "source_url": "https://www.gcertificationcourse.com/scenario-your-business-wants-to-advertise/"
+    },
+    {
+      "id": 82,
+      "question": "True or false: An organic marketing strategy is reliant on your followers, while social media advertising allows you to target new audiences.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-an-organic-marketing-strategy/"
+    },
+    {
+      "id": 83,
+      "question": "Which of the following goals are options available for advertising on Twitter? Select all that apply.",
+      "answer": [
+        "Engagement",
+        "Website clicks",
+        "App downloads"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-goals-are-options-available/"
+    },
+    {
+      "id": 84,
+      "question": "From top to bottom, what should your search account structure hierarchy look like?",
+      "answer": "Campaigns, ad groups, keywords",
+      "source_url": "https://www.gcertificationcourse.com/from-top-to-bottom-what-should-your-search/"
+    },
+    {
+      "id": 85,
+      "question": "Select all that apply. The problem with early online advertising was that ads were:",
+      "answer": [
+        "Not targeted",
+        "Disruptive"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-the-problem-with-early/"
+    },
+    {
+      "id": 86,
+      "question": "Scenario: You work for a company called PetSpot that sells animal supplies. The best audience to target on social media at the decision stage of the buyer's journey would be people who:",
+      "answer": "have added items to their cart, but did not complete their purchase",
+      "source_url": "https://www.gcertificationcourse.com/scenario-you-work-for-a-company-called-petspot-2/"
+    },
+    {
+      "id": 87,
+      "question": "Scenario: You want to target an audience that visits popular marketing websites, such as Marketing Land and Ad Age. Which targeting strategy should you use?",
+      "answer": "Contextual targeting",
+      "source_url": "https://www.gcertificationcourse.com/scenario-you-want-to-target-an-audience-that/"
+    }
+  ]
+}

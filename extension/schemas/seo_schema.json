@@ -1,0 +1,495 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T09:44:26.225339",
+  "course_info": {
+    "name": "SEO",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-seo-certification-course-answers/",
+    "total_questions": 73,
+    "scraped_date": "2025-07-10 09:41:40"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Dr. Dave Driscoll, a very credible and well respected authority on dentistry, just linked to a blog post that you wrote about how to floss from his website. When Google assesses the authority of your post and recognizes the link from Dr. Driscoll's website, which search engine function is at play?",
+      "answer": "Ranking",
+      "source_url": "https://www.gcertificationcourse.com/dr-dave-driscoll-a-very-credible-and-well-res/"
+    },
+    {
+      "id": 2,
+      "question": "You’re trying to rank for one of your target topics using a web page that contains a long, canonical piece of written content. However, when you do your research on what’s already ranking for that topic by searching for it on Google, you notice that the majority of search results on page one are videos. Which of the following actions will give your website the best chance of ranking for this topic?",
+      "answer": "Create a video about that topic, and add it to your existing written page. Because Google is serving up mostly videos on page one for this particular topic, you’ll want to have a video in there – but that doesn’t mean having written content to supplement it won’t help.",
+      "source_url": "https://www.gcertificationcourse.com/youre-trying-to-rank-for-one-of-your-target/"
+    },
+    {
+      "id": 3,
+      "question": "True or False? Google accounts for the majority of searches worldwide.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-google-accounts-for-the-majority/"
+    },
+    {
+      "id": 4,
+      "question": "What do you need to balance when doing SEO?",
+      "answer": "Focusing on the user and making it easy for search engines to crawl your website",
+      "source_url": "https://www.gcertificationcourse.com/what-do-you-need-to-balance-when-doing-seo/"
+    },
+    {
+      "id": 5,
+      "question": "True or False? The same SEO strategy will yield the same results for all websites.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-same-seo-strategy-will-yield/"
+    },
+    {
+      "id": 6,
+      "question": "Choose all that apply. Which of these factors will affect your SEO strategy?",
+      "answer": [
+        "How established your business is online",
+        "What resources you have to dedicate to SEO",
+        "What industry you're in"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-these-factors/"
+    },
+    {
+      "id": 7,
+      "question": "Choose all that apply. Which of these are important KPIs to consider for SEO?",
+      "answer": [
+        "Organic traffic",
+        "Keyword ranking",
+        "Bounce rate",
+        "Page load time"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-these-are-important/"
+    },
+    {
+      "id": 8,
+      "question": "How do you build discovery and relevance for search engines?",
+      "answer": "By creating lots of high-quality content on the topics you want to be known for",
+      "source_url": "https://www.gcertificationcourse.com/how-do-you-build-discovery-and-relevance/"
+    },
+    {
+      "id": 9,
+      "question": "Choose all that apply. How do you determine the authority of a piece of content?",
+      "answer": [
+        "The content is talked about often.",
+        "The content is referred to often.",
+        "The content is cited in other works."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-how-do-you-determine/"
+    },
+    {
+      "id": 10,
+      "question": "What is a backlink profile?",
+      "answer": "A list of all the sites currently linking to your site",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-backlink-profile/"
+    },
+    {
+      "id": 11,
+      "question": "Choose all that apply. What does your backlink profile measure?",
+      "answer": [
+        "The number of inbound links to your website.",
+        "The number of unique domains that link to your website.",
+        "The quality of inbound links to your website."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-what-does-your-backlink/"
+    },
+    {
+      "id": 12,
+      "question": "True or False? You should optimize a single page for multiple keywords.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-optimize-a-single-page/"
+    },
+    {
+      "id": 13,
+      "question": "What is the purpose of heading tags?",
+      "answer": "To provide a hierarchical structure to a web page",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-heading-tags/"
+    },
+    {
+      "id": 14,
+      "question": "When would it be beneficial to have a different title tag than your heading tag?",
+      "answer": "When your heading is too long and will get cut off in search engine results",
+      "source_url": "https://www.gcertificationcourse.com/when-would-it-be-beneficial-to-have-a-different/"
+    },
+    {
+      "id": 15,
+      "question": "Choose all that apply. Why are internal links important for SEO?",
+      "answer": [
+        "They help users and search engine crawlers navigate your site.",
+        "They pass link authority from one page to another."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-why-are-internal-links-important-for-seo/"
+    },
+    {
+      "id": 16,
+      "question": "Which of these is NOT part of a URL?",
+      "answer": "Index",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-is-not-part-of-a-url/"
+    },
+    {
+      "id": 17,
+      "question": "True or False? You should use hyphens, underscores, or spaces between the words in your URLs.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-use-hyphens-underscores/"
+    },
+    {
+      "id": 18,
+      "question": "Why is having duplicate content an issue for SEO?",
+      "answer": "It can dilute your ranking potential.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-having-duplicate-content-an-issue-for-seo/"
+    },
+    {
+      "id": 19,
+      "question": "Choose all that apply. Why is it important to have HTTPS for your website?",
+      "answer": [
+        "It encrypts sensitive data, like passwords and credit card numbers.",
+        "It increases users' trust in your website."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-why-is-it-important-to-have/"
+    },
+    {
+      "id": 20,
+      "question": "What is the purpose of a 301 redirect?",
+      "answer": "To permanently redirect users from one URL to another",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-purpose-of-a-301-redirect/"
+    },
+    {
+      "id": 21,
+      "question": "What are the two biggest factors in the mobile user experience of your website?",
+      "answer": "Site speed and responsive design",
+      "source_url": "https://www.gcertificationcourse.com/what-are-the-two-biggest-factors-in-the-mobile/"
+    },
+    {
+      "id": 22,
+      "question": "True or False? Don't use a page's URL as your link description.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-dont-use-a-pages-url-as-your-link/"
+    },
+    {
+      "id": 23,
+      "question": "How do search engines use sitemaps?",
+      "answer": "Web crawlers use a sitemap to understand a website's structure so they can evaluate and rank it more easily.",
+      "source_url": "https://www.gcertificationcourse.com/how-do-search-engines-use-sitemaps/"
+    },
+    {
+      "id": 24,
+      "question": "Which of these teams is NOT involved in the creation of a sitemap?",
+      "answer": "Sales",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-teams-is-not-involved-in-the/"
+    },
+    {
+      "id": 25,
+      "question": "True or False? The further away a page is from the homepage, the worse it is for that page's SEO.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-further-away-a-page-is-from/"
+    },
+    {
+      "id": 26,
+      "question": "The different types of keywords are:",
+      "answer": "Head terms, body keywords, long-tail keywords",
+      "source_url": "https://www.gcertificationcourse.com/the-different-types-of-keywords-are/"
+    },
+    {
+      "id": 27,
+      "question": "What stage of the buyer's journey is someone searching for \"what is inbound marketing?\" likely in?",
+      "answer": "Awareness",
+      "source_url": "https://www.gcertificationcourse.com/what-stage-of-the-buyers-journey-is-someone/"
+    },
+    {
+      "id": 28,
+      "question": "True or False? You should emulate the top-ranking content for your target keyword, but offer unique value.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-should-emulate-the-top-ranking/"
+    },
+    {
+      "id": 29,
+      "question": "Sam is the marketing director for StyleHub, a clothing boutique. They opened their brick and mortar store last year, but Sam only published the website a month ago and it isn't receiving much traffic yet. Now, they're ready to focus on SEO and have some resources to dedicate to it. Which three tactics should Sam focus on initially?",
+      "answer": "Optimizing the website to follow on-page SEO best practices; Making the website mobile-responsive; Setting up a Google My Business profile",
+      "source_url": "https://www.gcertificationcourse.com/sam-is-the-marketing-director-for-stylehub/"
+    },
+    {
+      "id": 30,
+      "question": "What was the purpose of the Google Hummingbird algorithm update?",
+      "answer": "Parsing out phrases rather than focusing on specific search queries",
+      "source_url": "https://www.gcertificationcourse.com/what-was-the-purpose-of-the-google-hummingbird/"
+    },
+    {
+      "id": 31,
+      "question": "What is a pillar page?",
+      "answer": "A website page that covers a specific topic in depth and is linked to a cluster of related content",
+      "source_url": "https://www.gcertificationcourse.com/what-is-a-pillar-page/"
+    },
+    {
+      "id": 32,
+      "question": "Google measures how interesting other people think your content is through ___.",
+      "answer": "Backlinks",
+      "source_url": "https://www.gcertificationcourse.com/google-measures-how-interesting-other-people-think/"
+    },
+    {
+      "id": 33,
+      "question": "True or False? Google doesn't care about the quality of backlinks, only the quantity.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-google-doesnt-care-about-the-quality/"
+    },
+    {
+      "id": 34,
+      "question": "What kind of content is most likely to be organically linked to?",
+      "answer": "Informational content",
+      "source_url": "https://www.gcertificationcourse.com/what-kind-of-content-is-most-likely-to-be-org/"
+    },
+    {
+      "id": 35,
+      "question": "How many links does it take to rank high in search results?",
+      "answer": "The same number of links that the results ranking on page one have",
+      "source_url": "https://www.gcertificationcourse.com/how-many-links-does-it-take-to-rank-high/"
+    },
+    {
+      "id": 36,
+      "question": "True or False? All link-building tactics require building a relationship in order to work.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-all-link-building-tactics-require/"
+    },
+    {
+      "id": 37,
+      "question": "When building a relationship with the goal of receiving backlinks, what is the first thing you should do?",
+      "answer": "Deliver value to them",
+      "source_url": "https://www.gcertificationcourse.com/when-building-a-relationship-with-the-goal/"
+    },
+    {
+      "id": 38,
+      "question": "Choose all that apply. What are the most important things to do when replying to press request alerts?",
+      "answer": [
+        "Respond quickly",
+        "Give the journalist exactly the information they want"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-what-are-the-most-important/"
+    },
+    {
+      "id": 39,
+      "question": "True or False? Backlinks build authority.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-backlinks-build-authority/"
+    },
+    {
+      "id": 40,
+      "question": "True or False? The majority of SERPs include some type of rich results.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-majority-of-serps-include-some/"
+    },
+    {
+      "id": 41,
+      "question": "What are rich results?",
+      "answer": "Visually enhanced search results that provide supplemental information to the title, URL, and meta description of a web page",
+      "source_url": "https://www.gcertificationcourse.com/what-are-rich-results/"
+    },
+    {
+      "id": 42,
+      "question": "What kind of company would benefit from the site links rich snippet?",
+      "answer": "A company with a large website, recognizable brand, and high search traffic.",
+      "source_url": "https://www.gcertificationcourse.com/what-kind-of-company-would-benefit-from-the/"
+    },
+    {
+      "id": 43,
+      "question": "True or False? Structured data is a markup language.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-structured-data-is-a-markup/"
+    },
+    {
+      "id": 44,
+      "question": "What is Schema.org?",
+      "answer": "The organization that creates the standardized language and rules used for structured data",
+      "source_url": "https://www.gcertificationcourse.com/what-is-schema-org/"
+    },
+    {
+      "id": 45,
+      "question": "What tool can you use to test for errors in structured data markup?",
+      "answer": "Google's Structured Data Testing Tool",
+      "source_url": "https://www.gcertificationcourse.com/what-tool-can-you-use-to-test-for-errors-in/"
+    },
+    {
+      "id": 46,
+      "question": "If you track nothing else for SEO, make sure you track ___.",
+      "answer": "Organic traffic",
+      "source_url": "https://www.gcertificationcourse.com/if-you-track-nothing-else-for-seo-make-sure/"
+    },
+    {
+      "id": 47,
+      "question": "True or False? No matter what SEO tool you use, the metrics will be exactly the same.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-no-matter-what-seo-tool-you-use-the/"
+    },
+    {
+      "id": 48,
+      "question": "True or False? Domain authority is a ranking factor in Google's algorithms.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-domain-authority-is-a-ranking-factor/"
+    },
+    {
+      "id": 49,
+      "question": "Chris is a marketing manager at The Pet Box, which offers subscription boxes for pet owners. Chris wants to increase traffic to The Pet Box's main product page. Right now that page ranks on the second page of search results for their target keyword. Chris has started improving the on-page SEO of the page, optimizing it for their target keyword, and seeking backlinks from popular pet care blogs. In order to track progress towards their goal, which metrics should Chris track?",
+      "answer": "Organic traffic, position, impressions, backlinks",
+      "source_url": "https://www.gcertificationcourse.com/chris-is-a-marketing-manager-at-the-pet/"
+    },
+    {
+      "id": 50,
+      "question": "What is the recommended format for implementing schema markup?",
+      "answer": "JSON-LD",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-recommended-format-for-implementing/"
+    },
+    {
+      "id": 51,
+      "question": "What kind of heading tag should you use for subtitles on a page?",
+      "answer": "B or C",
+      "source_url": "https://www.gcertificationcourse.com/what-kind-of-heading-tag-should-you-use-for/"
+    },
+    {
+      "id": 52,
+      "question": "How long should your page's title tag be?",
+      "answer": "Under 60 characters",
+      "source_url": "https://www.gcertificationcourse.com/how-long-should-your-pages-title-tag-be/"
+    },
+    {
+      "id": 53,
+      "question": "Which of these is a strategy to determine the internal linking structure of a website?",
+      "answer": "Topic clusters",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-is-a-strategy-to-determine/"
+    },
+    {
+      "id": 54,
+      "question": "Choose all that apply. Which of these tactics will help improve your website's internal linking?",
+      "answer": [
+        "Add a related posts section to your blog.",
+        "Create a pillar page and topic cluster."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-these-tactics-will/"
+    },
+    {
+      "id": 55,
+      "question": "Which of these is an example of a top-level domain?",
+      "answer": ".org",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-is-an-example-of-a-top-level/"
+    },
+    {
+      "id": 56,
+      "question": "True or False? It is a best practice to make your URLs as long and descriptive as possible.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-it-is-a-best-practice-to-make-your/"
+    },
+    {
+      "id": 57,
+      "question": "What technical SEO issue can you solve with an SSL certificate?",
+      "answer": "Lack of site security",
+      "source_url": "https://www.gcertificationcourse.com/what-technical-seo-issue-can-you-solve-with-an/"
+    },
+    {
+      "id": 58,
+      "question": "When performing keyword research, how can you determine which keywords you should create content for?",
+      "answer": "A & B",
+      "source_url": "https://www.gcertificationcourse.com/when-performing-keyword-research-how-can-you/"
+    },
+    {
+      "id": 59,
+      "question": "True or False? When you make a change to a page, Google immediately crawls it.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-you-make-a-change-to-a/"
+    },
+    {
+      "id": 60,
+      "question": "What is the primary goal of a search engine?",
+      "answer": "To serve users the most relevant content that matches their search query",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-primary-goal-of-a-search-engine/"
+    },
+    {
+      "id": 61,
+      "question": "True or False? Authority directly impacts ranking strength.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-authority-directly-impacts-ranking/"
+    },
+    {
+      "id": 62,
+      "question": "Choose all that apply. Which of these are ways to increase your site speed?",
+      "answer": [
+        "Compress images",
+        "Upload images at the exact dimensions they'll be used"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-which-of-these-are-ways/"
+    },
+    {
+      "id": 63,
+      "question": "Choose all that apply. Why are meta descriptions important?",
+      "answer": [
+        "They increase click-through rate and visits from organic search.",
+        "They increase visits from social media.",
+        "They give people the right information at the right time."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-why-are-meta-descriptions/"
+    },
+    {
+      "id": 64,
+      "question": "Choose all that apply. When should you submit your sitemap to Google and other search engines?",
+      "answer": [
+        "When you first publish your website",
+        "When you publish a new web page",
+        "When you make a significant change to your site structure",
+        "When you redesign your website"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-when-should-you-submit-your/"
+    },
+    {
+      "id": 65,
+      "question": "Jo is a marketer at Papier, a stationery company that does most of their business online. Jo has noticed that Papier is falling behind their competitors in search results and wants to improve their ranking and clickthrough rate. How should Jo go about optimizing the Papier website for this goal?",
+      "answer": "Add structured data to the product pages to display reviews and ratings data in rich results, and optimize the pages' meta descriptions.",
+      "source_url": "https://www.gcertificationcourse.com/jo-is-a-marketer-at-papier-a-stationery-company/"
+    },
+    {
+      "id": 66,
+      "question": "When should you decide to work with a developer to implement structured data on a page?",
+      "answer": "When there are a large number of required or recommended properties in a markup",
+      "source_url": "https://www.gcertificationcourse.com/when-should-you-decide-to-work-with-a-developer/"
+    },
+    {
+      "id": 67,
+      "question": "Why is over-optimizing bad?",
+      "answer": "You can't collect any impactful data to inform your next steps",
+      "source_url": "https://www.gcertificationcourse.com/why-is-over-optimizing-bad/"
+    },
+    {
+      "id": 68,
+      "question": "Choose all that apply. What data can you gather about your website from Google Search Console?",
+      "answer": [
+        "Search impressions",
+        "Position in SERPs",
+        "Clickthrough rate"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/choose-all-that-apply-what-data-can-you-gather/"
+    },
+    {
+      "id": 69,
+      "question": "Why would you want to run competitive analyses of keywords?",
+      "answer": "To ensure the keywords you're targeting are aligned with your audience",
+      "source_url": "https://www.gcertificationcourse.com/why-would-you-want-to-run-competitive-analyses/"
+    },
+    {
+      "id": 70,
+      "question": "True or False? Adding structured data to a page guarantees that it will appear as a rich snippet in search results.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-adding-structured-data-to-a-page/"
+    },
+    {
+      "id": 71,
+      "question": "Which of these is an example of a long-tail keyword?",
+      "answer": "What does my glasses prescription mean",
+      "source_url": "https://www.gcertificationcourse.com/which-of-these-is-an-example-of-a-long-tail/"
+    },
+    {
+      "id": 72,
+      "question": "Zoe is a digital marketer at a graphic design agency, and she's been tasked this quarter with improving the firm's SEO. However, the only guidance she has received from her boss is to get the site to rank higher on Google. In order for Zoe to create a successful SEO strategy for the business, what should her first step be?",
+      "answer": "Set a SMART goal and establish KPI's to track if her SEO efforts are successful",
+      "source_url": "https://www.gcertificationcourse.com/zoe-is-a-digital-marketer-at-a-graphic-design/"
+    },
+    {
+      "id": 73,
+      "question": "When should you use a robots.txt file?",
+      "answer": "When you have pages that you don't want search engines to crawl and index",
+      "source_url": "https://www.gcertificationcourse.com/when-should-you-use-a-robots-txt-file-2/"
+    }
+  ]
+}

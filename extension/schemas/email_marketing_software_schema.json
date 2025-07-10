@@ -1,0 +1,606 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2025-07-10T09:19:26.926908",
+  "course_info": {
+    "name": "Email Marketing Software",
+    "source_url": "https://www.gcertificationcourse.com/hubspot-email-marketing-software-exam-answers/",
+    "total_questions": 90,
+    "scraped_date": "2025-07-10 09:15:52"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The collaboration sidebar cannot be used to comment on specific elements of which asset?",
+      "answer": "Lists",
+      "source_url": "https://www.gcertificationcourse.com/the-collaboration-sidebar-cannot-be-used/"
+    },
+    {
+      "id": 2,
+      "question": "In the email tool, what is the module for CTAs called?",
+      "answer": "Button",
+      "source_url": "https://www.gcertificationcourse.com/in-the-email-tool-what-is-the-module/"
+    },
+    {
+      "id": 3,
+      "question": "You want to create a marketing email engagement report for your dashboard. What is the correct sequence of selections and actions to begin this process?",
+      "answer": "Reporting > Reports > My Reports",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-create-a-marketing-email/"
+    },
+    {
+      "id": 4,
+      "question": "Select all that apply. Where can you access your email’s HTML click map?",
+      "answer": [
+        "Post-send page",
+        "HubSpot mobile app"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-where-can-you/"
+    },
+    {
+      "id": 5,
+      "question": "If you had a smart rule that was that was associated with an active list, and you wanted to change it to a rule associated with marketing qualified leads, which of the following is the correct sequence of steps?",
+      "answer": "Click the trash icon next to the associated active list. Under Show different content based on, click Contact lifecycle stage. Click Add. Select the Marketing Qualified Lead checkbox. Click Save.",
+      "source_url": "https://www.gcertificationcourse.com/if-you-had-a-smart-rule-that-was-that/"
+    },
+    {
+      "id": 6,
+      "question": "What’s the difference between a list and a subscription type in HubSpot?",
+      "answer": "A list divides contacts based on a marketer’s preferences, while a subscription type allows your contacts to tell you what type of communication they want to receive.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-difference-between-a-list/"
+    },
+    {
+      "id": 7,
+      "question": "Select all that apply. You’ve uploaded an image with a green background color. You notice that the image doesn’t run to the edge of the module. How might you correct this?",
+      "answer": [
+        "Change image background color to match the email body color",
+        "Change the email body color to match the image background color"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-youve-uploaded/"
+    },
+    {
+      "id": 8,
+      "question": "Fill in the blank. A _____ is a permanent delivery error.",
+      "answer": "hard bounce",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-a-is-a-permanent/"
+    },
+    {
+      "id": 9,
+      "question": "Which users have the ability to add personalization tokens to regular emails in HubSpot?",
+      "answer": "All users",
+      "source_url": "https://www.gcertificationcourse.com/which-users-have-the-ability-to-add/"
+    },
+    {
+      "id": 10,
+      "question": "Select all that apply. Which of the following can you add smart rules to?",
+      "answer": [
+        "A text module",
+        "Subject line",
+        "An image module"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-of-the-6/"
+    },
+    {
+      "id": 11,
+      "question": "Select all that apply. Which statements regarding contacts who have unsubscribed or marked your mail as spam are NOT true?",
+      "answer": [
+        "Continuing to email them betters your reputation as it demonstrates consistency",
+        "Emailing them with special offers to entice reengagement is a best practice"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-statements/"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is NOT a soft bounce category in HubSpot’s system?",
+      "answer": "Potential obstacles regarding sender reputation",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-soft/"
+    },
+    {
+      "id": 13,
+      "question": "Where can you view a line graph of your volume of sent email over time?",
+      "answer": "The email analyze page",
+      "source_url": "https://www.gcertificationcourse.com/where-can-you-view-a-line-graph-of-your/"
+    },
+    {
+      "id": 14,
+      "question": "Select all that apply. When your data privacy settings are turned off in HubSpot, which contact subscription statuses will receive emails from you?",
+      "answer": [
+        "Subscribed",
+        "Not Specified"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-when-your-data/"
+    },
+    {
+      "id": 15,
+      "question": "Fill in the blank. A(n) ____ is an organized, strategic, and time-bound marketing effort used to support a goal by communicating a specific message to a target group through content and multiple marketing channels.",
+      "answer": "marketing campaign",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-an-is-an-organized/"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is NOT a feature of the collaboration sidebar?",
+      "answer": "Files",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-feature-3/"
+    },
+    {
+      "id": 17,
+      "question": "When looking at the marketing calendar in the collaboration sidebar, what does a dot on the date mean?",
+      "answer": "There is an event or task on that date.",
+      "source_url": "https://www.gcertificationcourse.com/when-looking-at-the-marketing-calendar/"
+    },
+    {
+      "id": 18,
+      "question": "Select all that apply. What happens when you send an email without a CTA?",
+      "answer": [
+        "The only available metric is opens.",
+        "You are limited to an unreliable metric because of the data privacy landscape."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-happens-when/"
+    },
+    {
+      "id": 19,
+      "question": "Select all that apply. Why might it be important to schedule your emails to send based on your contacts’ time zones?",
+      "answer": [
+        "Considering your contacts’ time zones is a way to further personalize your emails for your audience.",
+        "It’s very unlikely that all of your contacts are in the same time zone as you."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-why-might-it-be/"
+    },
+    {
+      "id": 20,
+      "question": "You work for a B2B SaaS company that has a booth at several major conferences. You want to be able to email the contacts you meet at each of these conferences over the next year and group them by conference. What is the best way to capture these contacts?",
+      "answer": "Static lists",
+      "source_url": "https://www.gcertificationcourse.com/you-work-for-a-b2b-saas-company-that/"
+    },
+    {
+      "id": 21,
+      "question": "Fill in the blank. If you choose to start your workflow with an event-based trigger, _________.",
+      "answer": "you have the option to choose whether your contacts re-enroll automatically",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-if-you-choose-to-start-2/"
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is NOT a type of delay you can create through HubSpot workflows?",
+      "answer": "A randomized projection of contact activity",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-type/"
+    },
+    {
+      "id": 23,
+      "question": "True or false? You can only use delays when your workflow does not include branches.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-only-use-delays/"
+    },
+    {
+      "id": 24,
+      "question": "Select the true statement.",
+      "answer": [
+        "When you send an email to a list, the requirements for your contacts’ subscription statuses are more stringent if data privacy settings are turned on.",
+        "The email health tool requires that you have sent at least 400 emails in the last 30 days in order to populate data."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-the-true-statement/"
+    },
+    {
+      "id": 25,
+      "question": "You want the next automated email in your workflow to be delayed until the contact’s birthday. Which date delay should you select?",
+      "answer": "Date property",
+      "source_url": "https://www.gcertificationcourse.com/you-want-the-next-automated-email-in/"
+    },
+    {
+      "id": 26,
+      "question": "When creating a custom report to identify the best times to send your emails, what should you select for your primary data source?",
+      "answer": "Marketing email analytics",
+      "source_url": "https://www.gcertificationcourse.com/when-creating-a-custom-report-to-identify-2/"
+    },
+    {
+      "id": 27,
+      "question": "You perform an A/B test for an email in HubSpot. You set the parameters so 25% receive version A, 25% receive version B, and 50% receive the winning version. You have 100 recipients in the send list. What happens?",
+      "answer": "100 contacts receive version A.",
+      "source_url": "https://www.gcertificationcourse.com/you-perform-an-a-b-test-for-an-email-2/"
+    },
+    {
+      "id": 28,
+      "question": "You want to review your emails’ performance measured against your average performance. Where can you find this data?",
+      "answer": "Marketing > Email > Analyze > Scroll to the Email performance chart",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-review-your-emails-performance/"
+    },
+    {
+      "id": 29,
+      "question": "You want to view your emails by volume within a specific two month window. Where can you find this data?",
+      "answer": "Marketing > Email > Analyze > Scroll to the Email performance dashboard",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-view-your-emails-by-volume/"
+    },
+    {
+      "id": 30,
+      "question": "You want to identify the best times to send your emails through a custom report. You’d like to see each hour of the day as a separate row and the average open and unsubscribe rates listed out by hour. Which type of chart should you select?",
+      "answer": "Pivot table",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-identify-the-best-times/"
+    },
+    {
+      "id": 31,
+      "question": "You want to add a Canva design to your email. What is the correct sequence of actions to take?",
+      "answer": "With your email open, drag the Image module into the email. Click Select image. Click the More dropdown menu. Click Design with Canva.",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-add-a-canva-design-to-your/"
+    },
+    {
+      "id": 32,
+      "question": "True or false? It’s a best practice to think of your emails as one-off sends.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-its-a-best-practice-to/"
+    },
+    {
+      "id": 33,
+      "question": "Fill in the blank. A high delivery rate means ______.",
+      "answer": "low bounces",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-a-high-delivery-rate/"
+    },
+    {
+      "id": 34,
+      "question": "You’re performing an A/B test in HubSpot. You set the slider distribution at 25% for version A, 25% for version B, and 50% for the winning version. You have 1,000 recipients. How many contacts will receive version A?",
+      "answer": "250",
+      "source_url": "https://www.gcertificationcourse.com/youre-performing-an-a-b-test-in-hubspot-2/"
+    },
+    {
+      "id": 35,
+      "question": "You’re performing an A/B test in HubSpot. You set the slider distribution at 25% for version A, 25% for version B, and 50% for the winning version. You have 100 recipients. How many contacts will receive version A?",
+      "answer": "100",
+      "source_url": "https://www.gcertificationcourse.com/youre-performing-an-a-b-test-in-hubspot/"
+    },
+    {
+      "id": 36,
+      "question": "In HubSpot, you can exclude unengaged contacts. Which of the following best describes an unengaged contact?",
+      "answer": "A contact who’s previously engaged with a marketing email, but hasn’t opened your last 16 emails.",
+      "source_url": "https://www.gcertificationcourse.com/in-hubspot-you-can-exclude-unengaged-2/"
+    },
+    {
+      "id": 37,
+      "question": "True or false? When sending your email from the HubSpot mobile app, you don’t have to associate your email with a subscription type.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-sending-your-email/"
+    },
+    {
+      "id": 38,
+      "question": "True or false? You can edit your email design in the HubSpot mobile app.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-can-edit-your-email/"
+    },
+    {
+      "id": 39,
+      "question": "Fill in the blank. The email performance chart in the analyze tab ______.",
+      "answer": "measures your sends against your own performance",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-the-email-performance/"
+    },
+    {
+      "id": 40,
+      "question": "Select all that apply. Which tool(s) allow you to add tasks for team members in HubSpot?",
+      "answer": [
+        "Campaigns",
+        "Collaboration sidebar"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-which-tools-allow/"
+    },
+    {
+      "id": 41,
+      "question": "You have an email that has been interacted with by 2,000 different contacts. It’s been associated with a campaign, but the influenced contacts number says 600. What’s the most likely reason this is occurring?",
+      "answer": "The association of your email with the campaign was delayed.",
+      "source_url": "https://www.gcertificationcourse.com/you-have-an-email-that-has-been-interacted/"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT an advantage of previewing your emails as a specific contact?",
+      "answer": "Being able to use data to predict if a contact will unsubscribe",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-an-advantage/"
+    },
+    {
+      "id": 43,
+      "question": "Select all that apply. The GDPR declares that consent must be “freely given, specific, informed, and unambiguous.” What does this mean?",
+      "answer": [
+        "Contacts cannot be tricked or forced into consenting to emails and must be obtained explicitly. They must know that they can withdraw their consent",
+        "What they’re consenting to has to be clear.",
+        "Consent must be obtained explicitly.",
+        "They must know in advance that they can withdraw their consent."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-the-gdpr-declares/"
+    },
+    {
+      "id": 44,
+      "question": "Which module in the email drag-and-drop editor tool is only available for Professional and Enterprise users?",
+      "answer": "Products",
+      "source_url": "https://www.gcertificationcourse.com/which-module-in-the-email-drag-and-drop/"
+    },
+    {
+      "id": 45,
+      "question": "If you wanted Content Asisstant to help you generate copy, how would you access it?",
+      "answer": "Type a forward slash in your text module",
+      "source_url": "https://www.gcertificationcourse.com/if-you-wanted-content-asisstant-to-help/"
+    },
+    {
+      "id": 46,
+      "question": "Which tab of the email tool allows you to adjust your subject line?",
+      "answer": "Settings",
+      "source_url": "https://www.gcertificationcourse.com/which-tab-of-the-email-tool-allows-you/"
+    },
+    {
+      "id": 47,
+      "question": "You want to delete contacts who have marked any of your emails as spam. What is the correct sequence of selections and actions in order to begin this process?",
+      "answer": "Marketing > Email > Email tools > Export contacts who have unsubscribed or bounced > Deselect Unsubscribed contacts > Deselect Bounced contacts > Export",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-delete-contacts-who-have/"
+    },
+    {
+      "id": 48,
+      "question": "True or false? HubSpot only shows you contacts who have hard-bounced",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-hubspot-only-shows-you/"
+    },
+    {
+      "id": 49,
+      "question": "True or false? You cannot add automation to a regular in email in HubSpot.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-you-cannot-add-automation/"
+    },
+    {
+      "id": 50,
+      "question": "Fill in the blank. Regular emails in HubSpot _______.",
+      "answer": "can be the start of a simple workflow, but cannot be triggered in a simple workflow",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-regular-emails-in/"
+    },
+    {
+      "id": 51,
+      "question": "True or false? When data privacy settings are turned on in HubSpot, it’s no longer important email marketers to know the regional regulations because HubSpot is more stringent than most local laws.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-when-data-privacy-settings/"
+    },
+    {
+      "id": 52,
+      "question": "If you choose to send an email based on that contact’s time zone, but they do not have a time zone in their record, what happens?",
+      "answer": "HubSpot will default to your account’s time zone.",
+      "source_url": "https://www.gcertificationcourse.com/if-you-choose-to-send-an-email-based-on/"
+    },
+    {
+      "id": 53,
+      "question": "Fill in the blank. If you choose to start your workflow with a filter-based trigger, __________.",
+      "answer": "you’re generally unable to re-enroll contacts to the workflow",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-if-you-choose-to-start/"
+    },
+    {
+      "id": 54,
+      "question": "You want to create an if-then branch using HubSpot workflows, what logic does the branch need to be built on?",
+      "answer": "Based on matching filter criteria",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-create-an-if-then-branch/"
+    },
+    {
+      "id": 55,
+      "question": "When creating a custom report to identify the best times to send your emails, what should you select for your secondary data sources?",
+      "answer": "Marketing email",
+      "source_url": "https://www.gcertificationcourse.com/when-creating-a-custom-report-to-identify/"
+    },
+    {
+      "id": 56,
+      "question": "You’re a consultant. The marketer you’re working with has created a customer email that showcases their newest product, promotes an upcoming webinar, and highlights their staff. What tool and course of action should you recommend to improve email engagement?",
+      "answer": "You should recommend the marketer separate the email into multiple assets and use campaigns to plot and measure an intentional journey.",
+      "source_url": "https://www.gcertificationcourse.com/youre-a-consultant-the-marketer-youre/"
+    },
+    {
+      "id": 57,
+      "question": "You want to perform an A/B test in HubSpot. You have 900 recipients for your email. What is the best distribution for your test?",
+      "answer": "50% version A, 50% version B",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-perform-an-a-b-test-in/"
+    },
+    {
+      "id": 58,
+      "question": "When your data privacy settings are turned on in HubSpot, which contact subscription statuses will receive emails from you?",
+      "answer": "Subscribed",
+      "source_url": "https://www.gcertificationcourse.com/when-your-data-privacy-settings-are/"
+    },
+    {
+      "id": 59,
+      "question": "In HubSpot, you can exclude unengaged contacts. What best describes an unengaged contact?",
+      "answer": "A contact who’s never engaged with your emails before and hasn’t opened your last 11 emails.",
+      "source_url": "https://www.gcertificationcourse.com/in-hubspot-you-can-exclude-unengaged/"
+    },
+    {
+      "id": 60,
+      "question": "Which of the following is NOT a way to personalize your emails in HubSpot?",
+      "answer": "Adjusting your brand settings so your brand colors are included",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-way/"
+    },
+    {
+      "id": 61,
+      "question": "Select all that apply. What is necessary to add personalization tokens to automated emails?",
+      "answer": [
+        "A Marketing Hub Professional+ account",
+        "Edit access to workflows"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-necessary/"
+    },
+    {
+      "id": 62,
+      "question": "Which of the following is NOT a hard bounce category in HubSpot’s system?",
+      "answer": "Legal",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-hard/"
+    },
+    {
+      "id": 63,
+      "question": "Select all that apply. What is required to constitute an opt-in, where a contact provides consent to receive emails from your business?",
+      "answer": [
+        "The contact’s email address",
+        "Permission to be sent bulk messaging through a verifiable method"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-required/"
+    },
+    {
+      "id": 64,
+      "question": "What is unique about the Email performance dashboard on the email analyze page?",
+      "answer": "It’s the only place in HubSpot where you can view specific emails and their metrics within a designated time frame.",
+      "source_url": "https://www.gcertificationcourse.com/what-is-unique-about-the-email-performance/"
+    },
+    {
+      "id": 65,
+      "question": "Select all that apply. The collaboration sidebar is available for which of the following assets?",
+      "answer": [
+        "Lists",
+        "Campaigns",
+        "Marketing emails",
+        "Workflows"
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-the-collaboration/"
+    },
+    {
+      "id": 66,
+      "question": "True or false? Occasionally sending an email without a CTA is a best practice, as it leads with a more subtle approach rather than seeming overly assertive.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-occasionally-sending-an/"
+    },
+    {
+      "id": 67,
+      "question": "Your company has a HubSpot Marketing Hub Professional account. Your manager has required that you include a written text disclaimer at the end of every email. How might you make your email creation more efficient?",
+      "answer": "Save the section, so you can drag and drop the disclaimer into each of your emails.",
+      "source_url": "https://www.gcertificationcourse.com/your-company-has-a-hubspot-marketing/"
+    },
+    {
+      "id": 68,
+      "question": "When automating an internal email notification through workflows, which category of recipients is NOT available in HubSpot?",
+      "answer": "Managers",
+      "source_url": "https://www.gcertificationcourse.com/when-automating-an-internal-email/"
+    },
+    {
+      "id": 69,
+      "question": "True or false? The higher the sending volume of an email, the greater the impact it has on your reputation.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-the-higher-the-sending-volume/"
+    },
+    {
+      "id": 70,
+      "question": "If you email contacts who’ve unsubscribed or marked your mail as spam, which of the following is true?",
+      "answer": "Your sender reputation is damaged, which can negatively impact your deliverability.",
+      "source_url": "https://www.gcertificationcourse.com/if-you-email-contacts-whove-unsubscribed/"
+    },
+    {
+      "id": 71,
+      "question": "Which of the following is NOT a benefit of using HubSpot’s campaigns in your email marketing strategy?",
+      "answer": "It helps you make decisions with less data.",
+      "source_url": "https://www.gcertificationcourse.com/which-of-the-following-is-not-a-benefit-2/"
+    },
+    {
+      "id": 72,
+      "question": "Which email type can be sent one time to a specific segment of contacts?",
+      "answer": "Regular",
+      "source_url": "https://www.gcertificationcourse.com/which-email-type-can-be-sent-one-time/"
+    },
+    {
+      "id": 73,
+      "question": "What is the correct sequence of actions in HubSpot to manage your double opt-in settings?",
+      "answer": "Settings icon > Marketing > Email > Subscriptions > Double opt-in toggle button",
+      "source_url": "https://www.gcertificationcourse.com/what-is-the-correct-sequence-of-actions/"
+    },
+    {
+      "id": 74,
+      "question": "If you wanted to manage smart rules for a text module in your email, which of the following is the correct first step?",
+      "answer": "Hover over the text module, and click More.",
+      "source_url": "https://www.gcertificationcourse.com/if-you-wanted-to-manage-smart-rules-for/"
+    },
+    {
+      "id": 75,
+      "question": "True or false? HubSpot can’t help you alter the colors of an uploaded image.",
+      "answer": "True",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-hubspot-cant-help-you/"
+    },
+    {
+      "id": 76,
+      "question": "Select the true statement(s).",
+      "answer": [
+        "Your contact’s marketing status is relevant no matter your tier as non-marketing contacts are always suppressed from marketing email sends.",
+        "Professional and Enterprise users have workflows so they can automate marketing statuses. Starter users can’t automate marketing statuses, but must also select a limit to marketing contacts."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-the-true-statements/"
+    },
+    {
+      "id": 77,
+      "question": "You perform an A/B test for an email in HubSpot. You set the parameters so 25% receive version A, 25% receive version B, and 50% receive the winning version. You have 1000 recipients in the send list. What happens?",
+      "answer": "250 contacts receive version A, 250 contacts receive version B, and, after the test time is finished, 500 contacts receive the winning version.",
+      "source_url": "https://www.gcertificationcourse.com/you-perform-an-a-b-test-for-an-email/"
+    },
+    {
+      "id": 78,
+      "question": "If an email has been viewed for more than eight seconds in HubSpot, how will it be categorized?",
+      "answer": "Read",
+      "source_url": "https://www.gcertificationcourse.com/if-an-email-has-been-viewed-for-more-than/"
+    },
+    {
+      "id": 79,
+      "question": "Fill in the blank. A(n) _____ constitutes any traffic to website pages, blogs, landing pages, or other pages that are associated with your campaign.",
+      "answer": "Session",
+      "source_url": "https://www.gcertificationcourse.com/fill-in-the-blank-an-constitutes-any/"
+    },
+    {
+      "id": 80,
+      "question": "True or false? An email marked as “delivered” by an ESP is guaranteed interaction and visibility with the contact.",
+      "answer": "False",
+      "source_url": "https://www.gcertificationcourse.com/true-or-false-an-email-marked-as-delivered/"
+    },
+    {
+      "id": 81,
+      "question": "Why is it difficult to re-enroll contacts in a workflow with a filter-based trigger?",
+      "answer": "A contact must completely unmeet all trigger criteria and then meet them again to re-enroll.",
+      "source_url": "https://www.gcertificationcourse.com/why-is-it-difficult-to-re-enroll-contacts/"
+    },
+    {
+      "id": 82,
+      "question": "You’re investigating soft bounces in HubSpot. You see the message “Your IT team has not authorized HubSpot to send emails on your behalf.” What does this message mean?",
+      "answer": "Your IT team has created a custom DMARC policy which needs updating.",
+      "source_url": "https://www.gcertificationcourse.com/youre-investigating-soft-bounces-in-hubspot/"
+    },
+    {
+      "id": 83,
+      "question": "You recently hired a new intern. They don’t have much email marketing experience. Which tool might be helpful to ensure they follow your brand guidelines?",
+      "answer": "Collaboration sidebar approvals",
+      "source_url": "https://www.gcertificationcourse.com/you-recently-hired-a-new-intern-they-dont/"
+    },
+    {
+      "id": 84,
+      "question": "You have an automated email that’s been running for the past three years. The metrics in the post-send page are positive, but you discover that the open rates and click-through rates are quite low in the past two months. Where did you find the metrics from the past two months?",
+      "answer": "Marketing > Email > Analyze > Scroll to Email performance dashboard",
+      "source_url": "https://www.gcertificationcourse.com/you-have-an-automated-email-thats-been/"
+    },
+    {
+      "id": 85,
+      "question": "If an email has been viewed for two to eight seconds in HubSpot, how will it be categorized?",
+      "answer": "Skimmed",
+      "source_url": "https://www.gcertificationcourse.com/if-an-email-has-been-viewed-for-two-to/"
+    },
+    {
+      "id": 86,
+      "question": "How many actions can you add to a simple workflow?",
+      "answer": "10",
+      "source_url": "https://www.gcertificationcourse.com/how-many-actions-can-you-add-to-a-simple/"
+    },
+    {
+      "id": 87,
+      "question": "You want to perform an A/B test on your email. You have 800 recipients in your send list. Which is the best fit for the breakdown of your A/B test?",
+      "answer": "50% version A, 50% version B",
+      "source_url": "https://www.gcertificationcourse.com/you-want-to-perform-an-a-b-test-on-your/"
+    },
+    {
+      "id": 88,
+      "question": "What’s the difference in functionality between a simple workflow and a workflow?",
+      "answer": "Simple workflows have limited number of actions and range of action compared to workflows, but you can build straight from the email tool.",
+      "source_url": "https://www.gcertificationcourse.com/whats-the-difference-in-functionality/"
+    },
+    {
+      "id": 89,
+      "question": "Select all that apply. What is true about incorporating videos into your email?",
+      "answer": [
+        "Some email platforms don’t allow video playback at all.",
+        "It can sometimes boost engagement.",
+        "It can slow the email load speed."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-what-is-true-about/"
+    },
+    {
+      "id": 90,
+      "question": "Select all that apply. You want to automate an A/B test. Which of the following is an appropriate first step?",
+      "answer": [
+        "Create a new automated email.",
+        "Clone an automated email."
+      ],
+      "source_url": "https://www.gcertificationcourse.com/select-all-that-apply-you-want-to-automate/"
+    }
+  ]
+}
