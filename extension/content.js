@@ -285,6 +285,7 @@ Which of the following statements about theme modules is TRUE
         }
         return `<p>${answer}</p>`
     }
+
     // add link to answer to dom
     function addSourceLink(questionElement, url, answer) {
         const answerHtml = formatAnswerForDisplay(answer)
@@ -644,6 +645,8 @@ Which of the following statements about theme modules is TRUE
                 // console.log('isNextButton', isNextButton)
                 // console.log(element)
                 const isResumeButton = element.dataset && element.dataset.key === 'learningCenter.exams.resume.resumeExam'
+
+                const isStartExamButton
                 if (isNextButton || isResumeButton) {
                     
                     console.log('🔄 [Q&A] Next button clicked - clearing highlights and preparing for new question');

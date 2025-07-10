@@ -1,261 +1,232 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="utf-8">
+  <head>
+    <meta charset="utf-8" />
     <style>
-        body {
-            width: 320px;
-            min-height: 400px;
-            margin: 0;
-            padding: 16px;
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            font-size: 14px;
-            line-height: 1.4;
-        }
-        
-        .header {
-            text-align: center;
-            margin-bottom: 20px;
-            padding-bottom: 12px;
-            border-bottom: 1px solid #e0e0e0;
-        }
-        
-        .header h1 {
-            margin: 0;
-            font-size: 18px;
-            color: #333;
-        }
-        
-        .status-section {
-            margin-bottom: 20px;
-            padding: 12px;
-            background: #f5f5f5;
-            border-radius: 6px;
-        }
-        
-        .status-item {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 8px;
-        }
-        
-        .status-item:last-child {
-            margin-bottom: 0;
-        }
-        
-        .status-label {
-            font-weight: 500;
-            color: #666;
-        }
-        
-        .status-value {
-            color: #333;
-            font-weight: 600;
-        }
-        
-        .status-value.success {
-            color: #00aa00;
-        }
-        
-        .status-value.warning {
-            color: #ff6600;
-        }
-        
-        .status-value.error {
-            color: #cc0000;
-        }
-        
-        .button-section {
-            margin-bottom: 16px;
-        }
-        
-        .btn {
-            width: 100%;
-            padding: 10px 16px;
-            margin-bottom: 8px;
-            border: none;
-            border-radius: 4px;
-            font-size: 14px;
-            font-weight: 500;
-            cursor: pointer;
-            transition: background-color 0.2s;
-        }
-        
-        .btn-primary {
-            background: #007cba;
-            color: white;
-        }
-        
-        .btn-primary:hover {
-            background: #005a87;
-        }
-        
-        .btn-secondary {
-            background: #f0f0f0;
-            color: #333;
-        }
-        
-        .btn-secondary:hover {
-            background: #e0e0e0;
-        }
-        
-        .btn-danger {
-            background: #dc3545;
-            color: white;
-        }
-        
-        .btn-danger:hover {
-            background: #c82333;
-        }
-        
-        .file-input-section {
-            margin-bottom: 16px;
-        }
-        
-        .file-input-label {
-            display: block;
-            margin-bottom: 8px;
-            font-weight: 500;
-            color: #333;
-        }
-        
-        .file-input {
-            width: 100%;
-            padding: 8px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            font-size: 14px;
-        }
-        
-        .schema-list {
-            max-height: 150px;
-            overflow-y: auto;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            padding: 8px;
-        }
-        
-        .schema-item {
-            padding: 6px 8px;
-            margin-bottom: 4px;
-            background: #f9f9f9;
-            border-radius: 3px;
-            font-size: 12px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        
-        .schema-name {
-            flex: 1;
-            margin-right: 8px;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
-        }
-        
-        .schema-count {
-            color: #666;
-            font-size: 11px;
-        }
-        
-        .loading {
-            text-align: center;
-            color: #666;
-            font-style: italic;
-        }
-        
-        .error {
-            color: #cc0000;
-            background: #ffebee;
-            padding: 8px;
-            border-radius: 4px;
-            margin-bottom: 12px;
-            font-size: 12px;
-        }
-        
-        .success {
-            color: #00aa00;
-            background: #e8f5e8;
-            padding: 8px;
-            border-radius: 4px;
-            margin-bottom: 12px;
-            font-size: 12px;
-        }
-        
-        .help-section {
-            margin-top: 16px;
-            padding-top: 16px;
-            border-top: 1px solid #e0e0e0;
-            font-size: 12px;
-            color: #666;
-        }
-        
-        .help-title {
-            font-weight: 500;
-            margin-bottom: 8px;
-        }
-        
-        .help-text {
-            line-height: 1.5;
-        }
+      body {
+        width: 320px;
+        min-height: 400px;
+        margin: 0;
+        padding: 16px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          sans-serif;
+        font-size: 14px;
+        line-height: 1.4;
+      }
+
+      h1 {
+        font-size: 16px;
+        margin-bottom: 8px;
+      }
+
+      .menu {
+        list-style: none;
+        padding-left: 0;
+        max-height: 400px;
+        overflow-y: auto;
+      }
+
+      .menu li {
+        margin-bottom: 6px;
+      }
+
+      .menu a {
+        text-decoration: none;
+        color: #1a73e8;
+        font-size: 14px;
+      }
+
+      .menu a:hover {
+        text-decoration: underline;
+      }
     </style>
-</head>
-<body>
-    <div class="header">
-        <h1>Q&A Schema Highlighter</h1>
+  </head>
+  <body>
+    <h1>HubSpot Exam Taker</h1>
+    <div class="button__container">
+      <button id="retry-answer">Reload Answer</button>
+      <button id="reload-extension">Reload Extension</button>
     </div>
-    
-    <div class="status-section">
-        <div class="status-item">
-            <span class="status-label">Current Page:</span>
-            <span class="status-value" id="currentUrl">Loading...</span>
-        </div>
-        <div class="status-item">
-            <span class="status-label">Questions Found:</span>
-            <span class="status-value" id="questionsFound">-</span>
-        </div>
-        <div class="status-item">
-            <span class="status-label">Answers Highlighted:</span>
-            <span class="status-value" id="highlightedCount">-</span>
-        </div>
-        <div class="status-item">
-            <span class="status-label">Schemas Loaded:</span>
-            <span class="status-value" id="schemasLoaded">-</span>
-        </div>
-    </div>
-    
-    <div id="message" class="message" style="display: none;"></div>
-    
-    <div class="button-section">
-        <button class="btn btn-primary" id="processBtn">Process Page</button>
-        <button class="btn btn-secondary" id="clearBtn">Clear Highlights</button>
-        <button class="btn btn-secondary" id="refreshBtn">Refresh Schemas</button>
-    </div>
-    
-    <div class="file-input-section">
-        <label class="file-input-label" for="schemaFile">Upload Schema File:</label>
-        <input type="file" id="schemaFile" class="file-input" accept=".json" multiple>
-    </div>
-    
-    <div class="schema-list" id="schemaList">
-        <div class="loading">Loading schemas...</div>
-    </div>
-    
-    <div class="button-section">
-        <button class="btn btn-danger" id="clearSchemasBtn">Clear All Schemas</button>
-    </div>
-    
-    <div class="help-section">
-        <div class="help-title">How to Use:</div>
-        <div class="help-text">
-            1. Upload JSON schema files using the file input above<br>
-            2. Navigate to a certification course page<br>
-            3. Click "Process Page" to highlight correct answers<br>
-            4. Green borders indicate correct answers
-        </div>
-    </div>
-    
+    <h2>Available HubSpot Certifications</h2>
+    <p>Click an exam we have the answers for to begin taking the exam</p>
+    <ul class="menu">
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9108789/exam"
+          target="_blank"
+          >HubSpot Growth Driven Design Certification</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9171525/exam"
+          target="_blank"
+          >HubSpot CMS for Developers</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9108788/exam"
+          target="_blank"
+          >Integrating With HubSpot I: Foundations</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9146235/exam"
+          target="_blank"
+          >HubSpot CMS for Developers II: Best Practices</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9206068/exam"
+          target="_blank"
+          >HubSpot Content Hub for Marketers</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9148739/exam"
+          target="_blank"
+          >Service Hub Software</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9147492/exam"
+          target="_blank"
+          >Inbound Marketing Optimization</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9206658/exam"
+          target="_blank"
+          >Social Media Marketing</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9108125/exam"
+          target="_blank"
+          >Social Media Marketing Certification II</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9181866/exam"
+          target="_blank"
+          >Inbound</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9151241/exam"
+          target="_blank"
+          >Email Marketing</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9219097/exam"
+          target="_blank"
+          >Email Marketing Software</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9206665/exam"
+          target="_blank"
+          >Content Marketing</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9219692/exam"
+          target="_blank"
+          >HubSpot Marketing Hub Software</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9181275/exam"
+          target="_blank"
+          >HubSpot Reporting</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9219107"
+          target="_blank"
+          >Digital Advertising</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9219103/exam"
+          target="_blank"
+          >Digital Marketing</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9157909/exam"
+          target="_blank"
+          >SEO</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9108127/exam"
+          target="_blank"
+          >SEO II</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9141778/exam"
+          target="_blank"
+          >Contextual Marketing</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9147486/exam"
+          target="_blank"
+          >HubSpot Sales Hub Software</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9147503/exam"
+          target="_blank"
+          >Frictionless Sales</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9206662/exam"
+          target="_blank"
+          >Sales Enablement</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9206655/exam"
+          target="_blank"
+          >Sales Management</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://app.hubspot.com/academy/171726/tracks/9219099/exam"
+          target="_blank"
+          >Revenue Operations</a
+        >
+      </li>
+    </ul>
+
     <script src="popup.js"></script>
-</body>
+  </body>
 </html>

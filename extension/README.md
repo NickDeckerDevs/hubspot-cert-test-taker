@@ -1,3 +1,31 @@
+## HubSpot Certification Exams
+
+- [HubSpot Growth Driven Design Certification](https://app.hubspot.com/academy/171726/tracks/9108789/exam)  
+- [HubSpot CMS for Developers](https://app.hubspot.com/academy/171726/tracks/9171525/exam)  
+- [Integrating With HubSpot I: Foundations](https://app.hubspot.com/academy/171726/tracks/9108788/exam)  
+- [HubSpot CMS for Developers II: Best Practices](https://app.hubspot.com/academy/171726/tracks/9146235/exam)  
+- [HubSpot Content Hub for Marketers](https://app.hubspot.com/academy/171726/tracks/9206068/exam)  
+- [Service Hub Software](https://app.hubspot.com/academy/171726/tracks/9148739/exam)  
+- [Inbound Marketing Optimization](https://app.hubspot.com/academy/171726/tracks/9147492/exam)  
+- [Social Media Marketing](https://app.hubspot.com/academy/171726/tracks/9206658/exam)  
+- [Social Media Marketing Certification II](https://app.hubspot.com/academy/171726/tracks/9108125/exam)  
+- [Inbound](https://app.hubspot.com/academy/171726/tracks/9181866/exam)  
+- [Email Marketing](https://app.hubspot.com/academy/171726/tracks/9151241/exam)  
+- [Email Marketing Software](https://app.hubspot.com/academy/171726/tracks/9219097/exam)  
+- [Content Marketing](https://app.hubspot.com/academy/171726/tracks/9206665/exam)  
+- [HubSpot Marketing Hub Software](https://app.hubspot.com/academy/171726/tracks/9219692/exam)  
+- [HubSpot Reporting](https://app.hubspot.com/academy/171726/tracks/9181275/exam)  
+- [Digital Advertising](https://app.hubspot.com/academy/171726/tracks/9219107)  
+- [Digital Marketing](https://app.hubspot.com/academy/171726/tracks/9219103/exam)  
+- [SEO](https://app.hubspot.com/academy/171726/tracks/9157909/exam)  
+- [SEO II](https://app.hubspot.com/academy/171726/tracks/9108127/exam)  
+- [Contextual Marketing](https://app.hubspot.com/academy/171726/tracks/9141778/exam)  
+- [HubSpot Sales Hub Software](https://app.hubspot.com/academy/171726/tracks/9147486/exam)  
+- [Frictionless Sales](https://app.hubspot.com/academy/171726/tracks/9147503/exam)  
+- [Sales Enablement](https://app.hubspot.com/academy/171726/tracks/9206662/exam)  
+- [Sales Management](https://app.hubspot.com/academy/171726/tracks/9206655/exam)  
+- [Revenue Operations](https://app.hubspot.com/academy/171726/tracks/9219099/exam)  
+
 # Q&A Schema Highlighter Chrome Extension
 
 This Chrome extension highlights correct answers on certification course pages based on scraped Q&A schemas.
@@ -77,8 +105,4 @@ The extension expects JSON schema files with this structure:
 
 ## Supported Sites
 
-- HubSpot Academy (academy.hubspot.com)
-- Google Skillshop (skillshop.withgoogle.com) 
-- Facebook Blueprint (facebookblueprint.com)
 - GCertification Course (gcertificationcourse.com)
-- Any other site (with "*://*/*" permission)

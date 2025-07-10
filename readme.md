@@ -1,3 +1,8 @@
+Todo: add context menus
+https://m2kdevelopments.medium.com/11-understanding-chrome-extensions-context-menus-8643b96e4a8e
+
+Todo: Fix the current popup stuff as it is just terrible. Maybe look at some other extensions out there
+
 This is messy because I don't know how to markdown
 
 Extension:
