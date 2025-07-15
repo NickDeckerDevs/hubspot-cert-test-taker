@@ -139,12 +139,12 @@
     },
     {
       "name": "Digital Advertising",
-      "exam_url_pattern": "app.hubspot.com",
+      "exam_url_pattern": "tracks/9219107/exam",
       "schema_file": "schemas/digital_advertising_schema.json",
       "exam_id": null,
       "listing_url": null,
       "course_name": "Digital Advertising",
-      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9219107"
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9219107/exam"
     },
     {
       "name": "Digital Marketing",
@@ -226,6 +226,15 @@
       "listing_url": null,
       "course_name": "Revenue Operations",
       "exam_url": "https://app.hubspot.com/academy/171726/tracks/9219099/exam"
+    },
+    {
+      "name": "Objectives-Based Onboarding",
+      "exam_url_pattern": "tracks/9143044/exam",
+      "schema_file": "schemas/objectives_based_onboarding_schema.json",
+      "exam_id": "9143044",
+      "listing_url": null,
+      "course_name": "Objectives-Based Onboarding",
+      "exam_url": "https://app.hubspot.com/academy/171726/tracks/9143044/exam"
     }
   ]
 }

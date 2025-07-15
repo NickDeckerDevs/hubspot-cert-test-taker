@@ -1,0 +1,513 @@
+{
+    "schema_version": "1.0",
+    "created_date": "2025-07-11T13:00:00",
+    "course_info": {
+        "name": "Objectives-Based Onboarding",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa",
+        "total_questions": 74,
+        "scraped_date": "2025-07-11 13:00:00"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "What primary inputs does HubSpot transfer from Sales to enable Services to conduct Objectives-Based Onboarding?",
+        "answer": "Customer's goals, product(s) they purchased, existing technology stack, number of employees",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 2,
+        "question": "Why is it important to engage multiple stakeholders in multi-product onboarding engagements?",
+        "answer": [
+          "All of the above."
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 3,
+        "question": "During onboarding, the onboarding specialist acts as a ____ and ____ for the client.",
+        "answer": "Project manager, strategic resource",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 4,
+        "question": "What should clients use as a primary resource to access how-to articles, troubleshooting guides, and technical documentation?",
+        "answer": "HubSpot Help Center",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 5,
+        "question": "Select all that apply. When onboarding a client to multiple products at once, what are recommended options for scheduling your project management calls?",
+        "answer": [
+          "Running a standing weekly meeting that prioritizes one product, and then focuses on another product after those priorities are met",
+          "Running a standing weekly meeting that covers priorities across several products",
+          "Scheduling multiple product-specific meetings throughout a 7-10 business day cycle"
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 6,
+        "question": "Implementing a strategy for customer onboarding will increase which of the following business metrics? Select all that apply.",
+        "answer": [
+          "Lifetime value",
+          "Customer retention"
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 7,
+        "question": "True or False: When customers are in control of how their onboarding is designed, they are less likely to engage.",
+        "answer": "False",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 8,
+        "question": "Scenario: Your Solutions Partner organization is onboarding two different customers who both purchased Marketing Hub Professional. Customer A wants to focus on improving quality lead generation and prefers to meet multiple times a week to get feedback on their progress. Customer B wants to automate their entire marketing process and prefers a more autonomous approach. What onboarding strategy should your Solutions Partner organization use?",
+        "answer": "Provide customized paths to each customer's unique goals.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 9,
+        "question": "The top two reasons for customer churn are:",
+        "answer": [
+          "They don't understand your product.",
+          "They don't obtain any value from it."
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 10,
+        "question": "Which of the following did NOT lead to the creation of Objectives-Based Onboarding at HubSpot?",
+        "answer": "Software demos were few and far between",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 11,
+        "question": "The role of a customer onboarding specialist is twofold. They'll assist as a _______ and a _______for your team.",
+        "answer": "strategic advisor, project manager",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 12,
+        "question": "What were the key approaches HubSpot used when launching Objectives-Based Onboarding? Select all that apply.",
+        "answer": [
+          "Making our customers' priorities our priorities.",
+          "Discovering goals at the beginning of the sales process",
+          "Enabling our customers to accomplish their goals faster"
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 13,
+        "question": "What is the maximum number of Objectives-Based Onboarding projects that can be assigned to new customers?",
+        "answer": "Three per Hub purchased",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 14,
+        "question": "What signifies the completion of Objectives-Based Onboarding?",
+        "answer": "All goal-based project tasks have been completed.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 15,
+        "question": "True or False: Before Objectives-Based Onboarding, HubSpot used a standard onboarding process to prioritize how our product fits into your company’s process.",
+        "answer": "True",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 16,
+        "question": "When HubSpot implemented Objectives-Based Onboarding with their direct customers, which of the following customer success metrics increased as a result?",
+        "answer": [
+          "All of the above."
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 17,
+        "question": "True or False: Objectives-Based Onboarding simplifies the process of learning new software, enabling HubSpot and its customers to train smarter.",
+        "answer": "True",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 18,
+        "question": "Without Objectives-Based Onboarding implemented at your Solutions Partner organization:",
+        "answer": "Your organization reactively proves its value by responding to questions and requests from the customer as they explore their new software tool.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 19,
+        "question": "With Objectives-Based Onboarding implemented at your Solutions Partner organization:",
+        "answer": "Your organization proactively proves its value by collaboratively defining a plan focused on helping your customers accomplish their business goals.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 20,
+        "question": "True or False: The goal of Objectives-Based Onboarding is to maximize trust with new customers by prioritizing and customizing onboarding based on their most important goals, so they can accomplish their goals faster.",
+        "answer": "True",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 21,
+        "question": "True or False: Maximizing the value of your customer's onboarding experience begins with capturing valuable information in the kickoff call.",
+        "answer": "False",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 22,
+        "question": "What are the consequences if the proverbial baton is dropped during the transition between Sales and Services? Select all that apply.",
+        "answer": [
+          "Customers are forced to repeat their story of why they purchased HubSpot.",
+          "Customers are forced to repeat what their goals are to both Sales and Services.",
+          "Internal teams must repeat previously completed work."
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 23,
+        "question": "True or False: Your customer will be more likely to cross the finish line if your sales and services teams complete a successful baton handoff in the \"exchange zone.\"",
+        "answer": "True",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 24,
+        "question": "What are the primary inputs HubSpot transfers from Sales to enable Services to conduct Objectives-Based Onboarding?",
+        "answer": "Customer's goals, product(s) they purchased, existing technology stack, number of employees",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 25,
+        "question": "True or False: Before any deal can be closed at HubSpot, the sales rep must make one last call to the customer to summarize their onboarding expectations and define their preliminary goals.",
+        "answer": "True",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 26,
+        "question": "When HubSpot sales reps select the initial goals for their customer to complete during Objectives-Based Onboarding, the sales rep’s selections from a _______ deal property transform into a specific set of pre-determined tasks in HubSpot Projects.",
+        "answer": "Multi-check box",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 27,
+        "question": "True or False: At HubSpot, the services team is responsible for uploading the corresponding Objectives-Based Onboarding HubSpot Projects templates to the customer's account so they can be evaluated before the kickoff call.",
+        "answer": "False",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 28,
+        "question": "True or False: Sales processes in every organization are unique. But that shouldn't stop you from making your customer's priorities your priorities during Objectives-Based Onboarding.",
+        "answer": "True",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 29,
+        "question": "Which of the following is NOT a primary goal of the kickoff call?",
+        "answer": "Reviewing the deal notes to learn the story behind your customer's goals.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 30,
+        "question": "Scenario: You are an onboarding rep at a company that uses Objectives-Based Onboarding. You've just been assigned a new customer to onboard. As you conduct research to complete your \"Kickoff Call Prep List,\" you discover that the deal note from the sales rep lacks crucial details, preventing you from having a successful kickoff call. What is your first course of action?",
+        "answer": "Immediately contact the sales rep to fill in the blanks.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 31,
+        "question": "When executing the \"Kickoff Call Prep List\" what lenses should you use when researching your customer’s business? Select all that apply.",
+        "answer": [
+          "As a prospect in the market for your customer's offerings.",
+          "As a liaison scoping how the prospect's current practices will translate to HubSpot"
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 32,
+        "question": "When researching through the lens of a liaison, what steps should you take to carefully scope out how their current practices will translate to the HubSpot software? Select all that apply.",
+        "answer": [
+          "Take notes on what tools you find by completing a conversion path on their website.",
+          "Prepare advice about applying their current tech stack in HubSpot.",
+          "Get a better sense of their use cases for HubSpot tools.",
+          "Confirm what software was purchased and at what tier."
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 33,
+        "question": "Which HubSpot collaboration tool should be the source of truth to keep you and your customer organized and on track?",
+        "answer": "Projects",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 34,
+        "question": "Scenario: You are an onboarding rep tasked with executing Objectives-Based Onboarding with a new customer. Your sales team has selected the customer's onboarding projects. You need to upload and customize these in their account, prior to the kickoff call. After entering the \"Project Templates\" section of the Projects tool, what tag should you search for to populate the library of Objectives-Based Onboarding projects to copy to your customer's account?",
+        "answer": "OBO",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 35,
+        "question": "When conducting research for kickoff calls, which HubSpot productivity tool helps standardize your note-taking process?",
+        "answer": "Snippets",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 36,
+        "question": "The kickoff call agenda consists of which of the following points? Select all that apply.",
+        "answer": [
+          "Introductions",
+          "Onboarding overview",
+          "Business discovery",
+          "Goal-setting and prioritization",
+          "Next steps"
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 37,
+        "question": "True or False: Throughout the duration of onboarding, your customer should direct their short-term technical questions to their onboarding rep.",
+        "answer": "False",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 38,
+        "question": "What Objectives-Based Onboarding project helps ensure that your customer is prepared to use more advanced features down the line?",
+        "answer": "General Setup Tasks",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 39,
+        "question": "After the kickoff call, how frequently should the onboarding reps schedule meetings?",
+        "answer": "Bi-weekly",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 40,
+        "question": "What is a project manager?",
+        "answer": "The person responsible for planning, overseeing, and leading projects from ideation through to completion.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 41,
+        "question": "In Objectives-Based Onboarding project management meetings, your goal is to enable your customer to achieve their goals, But, it's your responsibility is to:",
+        "answer": "Hold customers accountable to complete the initial goals they set.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 42,
+        "question": "True or False: When you organize work for your customer to do, they will begin feeling more comfortable in their surroundings.",
+        "answer": "True",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 43,
+        "question": "The majority of your Objectives-Based Onboarding customer engagements can be categorized as:",
+        "answer": "Project management meetings.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 44,
+        "question": "When comparing the skills required to execute a kickoff call versus project management meetings, the kickoff call requires the onboarding team to:",
+        "answer": "Execute a repeatable process by following the instructions of an outlined playbook to generate a plan for onboarding.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 45,
+        "question": "HubSpot's expert Objectives-Based Onboarding project managers shared their tried-and-true habits and mottos when supporting customers through Objectives-Based Onboarding. Which guiding habits apply to every type of customer?",
+        "answer": [
+          "All of the above."
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 46,
+        "question": "True or False: Make it clear to your customer that you will be completing all of the Objectives-Based Onboarding projects at the same time to maximize the value of your experience.",
+        "answer": "False",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 47,
+        "question": "Tasks in HubSpot Projects can be their own self-service tool when the following criteria are met. Select all that apply.",
+        "answer": [
+          "Owners are assigned.",
+          "Due dates are set.",
+          "Attachments are included.",
+          "Assets in other HubSpot tools are linked."
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 48,
+        "question": "True or False: Allowing your customer to reshuffle the order of the tasks, potentially omitting some all together is against Objectives-Based Onboarding project management best practices.",
+        "answer": "False",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 49,
+        "question": "Scenario: Your customer has informed you that they want to change all their goals to align with a newly-discovered feature of their HubSpot software. As their onboarding rep, what action should you take? Select all that apply.",
+        "answer": [
+          "Maintain focus on the original goals.",
+          "Understand the root of their curiosity by taking time to understand why they want to make the changes.",
+          "Let them know that you'll take note of their interest and incorporate it into the Growth Plan at the conclusion of onboarding."
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 50,
+        "question": "True or False: If you and your customer are not experiencing the progress you anticipated, it may be an indicator that you need to circle back to the principle of adapting tasks based on prioritization.",
+        "answer": "True",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 51,
+        "question": "True or False: According to the expert project managers at HubSpot, succeeding in their role means they are able to absorb their customer's confusion and offer clarity in return.",
+        "answer": "True",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 52,
+        "question": "Which of the following is not a project management strategy to focus on when working with On Track Otto?",
+        "answer": "Show the value of this new environment",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 53,
+        "question": "Which of the following is not a project management strategy to focus on working with Behind Schedule Ben?",
+        "answer": "Reminders about why it is important to stick to the initial goals",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 54,
+        "question": "Which of the following is not a project management strategy to focus on working with Always Ahead Amy?",
+        "answer": "Your support connecting how HubSpot software works together",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 55,
+        "question": "True or False: Every customer who has experienced Objectives-Based Onboarding at HubSpot can be organized into our three project management personas.",
+        "answer": "False",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 56,
+        "question": "In the context of Objectives-Based Onboarding, growth planning is:",
+        "answer": "The process of reflecting upon the achievements your customer made during Objectives-Based Onboarding, in order to cultivate a long-term vision that continues to gain value from their initial purchase.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 57,
+        "question": "When should the growth plan call be scheduled?",
+        "answer": "When the customer has completed all of their goals.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 58,
+        "question": "What are the two sections of the Growth Plan Template?",
+        "answer": "Customer information and onboarding performance",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 59,
+        "question": "During the growth plan call, be prepared to connect specific recommendations you have for their long-term growth to:",
+        "answer": "Services offered by your Solutions Partner organization.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 60,
+        "question": "True or False: Your Growth Plan Template should be saved in the CRM and not shared with your customer until your meeting.",
+        "answer": "False",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 61,
+        "question": "Which of the following is not an agenda item in the growth plan call?",
+        "answer": "Business discovery",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 62,
+        "question": "True or False: HubSpot experienced a frictionless evolution of their sales process when adapting to Objectives-based Onboarding.",
+        "answer": "False",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 63,
+        "question": "True or False: Sales processes in every organization are unique, but that shouldn't stop you from organizing and documenting what matters most to make your customer's priorities your priorities during Objectives-Based Onboarding.",
+        "answer": "True",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 64,
+        "question": "When comparing the skills required to execute a kickoff call versus project management meetings, project management meetings require the onboarding team to:",
+        "answer": "Re-prioritize tasks for your customer to focus on throughout the process, demonstrating adaptability.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 65,
+        "question": "Customer onboarding is defined as:",
+        "answer": "the nurturing process that gets new users and customers acquainted and comfortable with your product or services.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 66,
+        "question": "Implementing a strategy for customer onboarding will decrease which of the following business metrics?",
+        "answer": "Churn",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 67,
+        "question": "Which \"HubSpot Customer Code\" tenet did our customer onboarding team need to revisit to create the Objectives-Based Onboarding strategy?",
+        "answer": "Solve for my success, not your systems.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 68,
+        "question": "Comparing roles in the 4x100-meter relay to Objectives-Based Onboarding, if the first runner represents your sales team and the second runner represents your services team, what does the baton represent?",
+        "answer": "The information your sales team gathered and will translate into goals for your customer during Objectives-Based Onboarding.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 69,
+        "question": "What three phases can your Solutions Partner organization utilize to obtain buy-in from your sales team to implement Objective-Based Onboarding?",
+        "answer": "Improve what already exists, Standardize Objectives-Based Onboarding deal properties, Start Objectives-Based Onboarding in sales",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 70,
+        "question": "The goal of the kickoff call is always going to be:",
+        "answer": "Maximize your first interaction in order to uncover the customer's main priorities and relate them back to the Objectives-Based Onboarding project plan.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 71,
+        "question": "Which of the following steps are required to complete \"The Kickoff Call Prep-List\"? Select all that apply.",
+        "answer": [
+          "Review the deal notes to learn the story behind your customer's goals.",
+          "Document your customer's goals, product(s) purchased, existing technology stack, and number of employees.",
+          "Research your customer's business from your own perspective.",
+          "Verify project plans have been prepared or preload them."
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 72,
+        "question": "Which key pieces of information should be included in your kickoff call note snippet? Select all that apply.",
+        "answer": [
+          "Sales notes",
+          "Red flags caught during your preliminary research",
+          "Company size",
+          "Tech stack"
+        ],
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 73,
+        "question": "True or False: When working on Objectives-Based Onboarding activities, you can assign tasks to specific users within HubSpot Projects?",
+        "answer": "True",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      },
+      {
+        "id": 74,
+        "question": "Scenario: Your customer has been assigned a task outside of their scope of expertise. They share that they have spent 10 hours trying to complete this one task. As their onboarding rep, what action should you take?",
+        "answer": "Empower your customer to delegate and involve other team members using task assignment in HubSpot Projects.",
+        "source_url": "https://notebooklm.google.com/notebook/293950a8-ba11-438d-be8b-7fe40e2f87aa"
+      }
+    ]
+  }

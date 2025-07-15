@@ -186,7 +186,9 @@ Which of the following statements about theme modules is TRUE
                 // Find matching schema based on URL pattern
                 const matchingSchema = registry.schemas.find(schema => {
                     const pattern = schema.exam_url_pattern;
+                    // console.log('pattern match:', pattern)
                     const isMatch = currentUrl.includes(pattern);
+                    // console.log('isMatch:', isMatch)
                     if(isMatch) console.log(`🔍 [Q&A] Checking pattern "${pattern}" against URL: ✅ MATCH`);
                     return isMatch;
                 });
